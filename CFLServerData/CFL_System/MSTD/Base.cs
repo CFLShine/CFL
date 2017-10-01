@@ -10,11 +10,7 @@ namespace MSTD
     public abstract class Base
     {
         public Base()
-        {
-            PropertiesTypesNames = new Dictionary<string, string>();
-
-            
-        }
+        {}
         
         [DatabaseGenerated(DatabaseGeneratedOption.None)]
         [Display(AutoGenerateField = false)]
