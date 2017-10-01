@@ -12,12 +12,12 @@ namespace CFLServer
 {
     class Program
     {
-        private static object _svc;
+        private static object _contextService;
 
         static void Main(string[] args)
         {
             // must new up an instance of the service so it can be registered to handle requests.
-            _svc = new CFLServerContext();
+            _contextService = new CFLServerContext();
 
             var rpcResultHandler = new AsyncCallback(
                 state =>

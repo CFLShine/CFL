@@ -58,7 +58,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CFL_1\CFL_1.csproj">
+    <ProjectReference Include="..\CFLServerData\CFL_1.csproj">
       <Project>{a83e50cc-d76c-485e-aeda-a5cd230fa3b8}</Project>
       <Name>CFL_1</Name>
     </ProjectReference>
