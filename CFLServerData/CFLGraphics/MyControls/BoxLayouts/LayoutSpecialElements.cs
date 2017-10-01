@@ -47,9 +47,9 @@ namespace BoxLayouts
                     throw new Exception("MaxSpace ne peut être NegativeInfinity.");
 
                 if(double.IsNaN(value))
-                    __minSpace = 0;
+                    __maxSpace = 0;
                 else
-                    __minSpace = value;
+                    __maxSpace = value;
             }
         }
 

@@ -40,11 +40,11 @@ namespace CFL_1.CFL_System
 
         public static class load
         {
-            public static bool config(ref Config _config)
+            public static bool config(ref CFLConfig _config)
             {
                 if(!File.Exists(configPath()))
                     return false;
-                _config = JSonRelation<Config>.deserialize(File.ReadAllText(Path.Combine(localPath(), "Config.txt")));
+                _config = JSonRelation<CFLConfig>.deserialize(File.ReadAllText(Path.Combine(localPath(), "Config.txt")));
                 return true;
             }
 
@@ -94,9 +94,9 @@ namespace CFL_1.CFL_System
 
         public static class save
         {
-            public static void config(Config _config)
+            public static void config(CFLConfig _config)
             {
-                File.WriteAllText(configPath(), JSonRelation<Config>.serialize(_config));
+                File.WriteAllText(configPath(), JSonRelation<CFLConfig>.serialize(_config));
             }
         }
     }

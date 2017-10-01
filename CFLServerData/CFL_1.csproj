@@ -742,7 +742,7 @@
     <Compile Include="CFL_Data\Planings\PlaningJournalier.cs" />
     <Compile Include="CFL_Data\RaisonSociale.cs" />
     <Compile Include="CFL_Data\Salon.cs" />
-    <Compile Include="CFL_Data\Config.cs" />
+    <Compile Include="CFL_System\CFLConfig.cs" />
     <Compile Include="CFL_Data\Coordonees.cs" />
     <Compile Include="CFL_Data\Etat_civil\Identite.cs" />
     <Compile Include="CFL_Data\Personne.cs" />

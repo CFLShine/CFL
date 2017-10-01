@@ -84,22 +84,12 @@ namespace BoxLayouts
 
         protected double MinHeight()
         {
-            double _value = 0;
-            if(Element.MinHeight > _value)
-                _value = Element.MinHeight;
-            if(Element.Height > _value)
-                _value = Element.Height;
-            return _value;
+            return MesureHelper.MinHeight(Element);
         }
 
         protected double MinWidth()
         {
-            double _value = 0;
-            if(Element.MinWidth > _value)
-                _value = Element.MinWidth;
-            if(Element.Width > _value)
-                _value = Element.Width;
-            return _value;
+            return MesureHelper.MinWidth(Element);
         }
 
         private FrameworkElement __element = null;
@@ -110,7 +100,7 @@ namespace BoxLayouts
         public VCellInfo(BoxLayoutModel model, FrameworkElement e)
             : base(model, e){ }
 
-        public double MinimumHorizontalSize()
+        public override double PerpendicularMinElementSize()
         {
             switch (ELEMENTTYPE)
             {
@@ -130,11 +120,6 @@ namespace BoxLayouts
                     return MinWidth();
             }
             throw new Exception("ELEMENTTYPE non pris en compte.");
-        }
-
-        public override double PerpendicularMinElementSize()
-        {
-            return MinimumHorizontalSize();
         }
 
         public override double OrientedMinimumElementSize()
@@ -179,7 +164,7 @@ namespace BoxLayouts
 
                     return Element.MaxHeight;
             }
-            return double.PositiveInfinity;
+            throw new Exception("ELEMENTTYPE non pris en compte.");
         }
 
         public override double ActualOrientedCellMinSize()
@@ -296,7 +281,7 @@ namespace BoxLayouts
 
                     return Element.MaxWidth;
             }
-            return double.PositiveInfinity;
+            throw new Exception("ELEMENTTYPE non pris en compte.");
         }
 
         public override double ActualOrientedCellMinSize()

@@ -49,6 +49,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CFLServerContext.cs" />
+    <Compile Include="ClientCommunication\DataRequests.cs" />
+    <Compile Include="ClientCommunication\MiscRequests.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SocketListener.cs" />

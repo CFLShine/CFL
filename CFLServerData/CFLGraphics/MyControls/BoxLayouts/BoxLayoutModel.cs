@@ -77,7 +77,7 @@ namespace BoxLayouts
             get
             {
                 if(Layout.Orientation == Orientation.Horizontal)
-                    return Layout.MinHeight;
+                    return MesureHelper.MinWidth(Layout);
                 return Layout.MinWidth;
             }
 
@@ -213,6 +213,8 @@ namespace BoxLayouts
             if(Updating)
                 return;
 
+            Updating = true;
+
             bool _changes = false;
 
             double _orientedMinElementSize = 0;
@@ -264,6 +266,8 @@ namespace BoxLayouts
                 // anyway
                 if(_cellInfo.SetOrientedMinCellSize(_orientedMinElementSize))
                     _changes = true;
+
+
             }
 
             if(PerpendicularLayoutMinSize < _perpendicularMinElementsSize)
@@ -279,8 +283,29 @@ namespace BoxLayouts
         #endregion Update
 
         private BoxLayout __layout = null;
-        private DefinitionBase __cells = null;
     }
 
+    public static class MesureHelper
+    {
+        public static double MinHeight(FrameworkElement e)
+        {
+            double _value = 0;
+            if(e.MinHeight > _value)
+                _value = e.MinHeight;
+            if(e.Height > _value)
+                _value = e.Height;
+            return _value;
+        }
+
+        public static double MinWidth(FrameworkElement e)
+        {
+            double _value = 0;
+            if(e.MinWidth > _value)
+                _value = e.MinWidth;
+            if(e.Width > _value)
+                _value = e.Width;
+            return _value;
+        }
+    }
     
 }

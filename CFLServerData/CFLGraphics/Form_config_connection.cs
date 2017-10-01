@@ -4,6 +4,7 @@ using CFL_1.CFL_Data;
 using System;
 using CFL_1.CFL_System.SqlServerOrm;
 using BoxLayouts;
+using CFL_1.CFL_System;
 
 namespace CFL_1.CFLGraphics
 {
@@ -27,13 +28,13 @@ namespace CFL_1.CFLGraphics
 
         public void load()
         {
-            Config _config = new Config();
+            CFLConfig _config = new CFLConfig();
             
-            Config.load(ref _config);
-            ip.Text = _config.hostname;
-            userName.Text = _config.username;
-            pass.Text = _config.password;
-            dbName.Text = _config.dbname;
+            Gate.load.config(ref _config);
+            ip.Text = _config.Hostname;
+            userName.Text = _config.Username;
+            pass.Text = _config.Password;
+            dbName.Text = _config.Dbname;
         }
 
         public override bool Save()

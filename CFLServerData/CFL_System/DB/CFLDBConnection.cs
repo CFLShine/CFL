@@ -1,5 +1,6 @@
 ﻿
 
+using CFL_1.CFL_Data;
 using SqlOrm;
 
 namespace CFL_1.CFL_System.DB
@@ -7,7 +8,22 @@ namespace CFL_1.CFL_System.DB
     public class CFLDBConnection : DBConnection
     {
         private CFLDBConnection()
-        { }
+        {}
+
+        public CFLConfig Config
+        {
+            get
+            {
+                if(__config == null)
+                    __config = new CFLConfig();
+                return __config;
+            }
+
+            set
+            {
+                __config = value;
+            }
+        }
 
         public static CFLDBConnection instance
         {
@@ -30,6 +46,8 @@ namespace CFL_1.CFL_System.DB
                 return __unicInstance;
             }
         }
+        
         private static CFLDBConnection __unicInstance = null;
+        private CFLConfig __config;
     }
 }

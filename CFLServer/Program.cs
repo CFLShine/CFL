@@ -7,17 +7,21 @@ using System.Threading.Tasks;
 using AustinHarris.JsonRpc;
 using CFL_1;
 using CFL_1.CFL_Data;
+using CFLServer.ClientCommunication;
 
 namespace CFLServer
 {
     class Program
     {
-        private static object _contextService;
+        static public MiscRequests MiscRequests;
+        static public DataRequests DataRequests;
 
         static void Main(string[] args)
         {
-            // must new up an instance of the service so it can be registered to handle requests.
-            _contextService = new CFLServerContext();
+            // instances des classes JsonRpcService
+            MiscRequests = new MiscRequests();    
+            DataRequests = new DataRequests();
+            // 
 
             var rpcResultHandler = new AsyncCallback(
                 state =>
