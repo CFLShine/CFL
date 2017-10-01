@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Hello World!</title>
+  </head>
+  <body>
+    <select id="defuntID">
+
+    </select>
+
+    <button id="btnload">Charger le défunt</button><br>
+
+    <table>
+        <tr>
+            <th>Nom</th>
+            <th>Prénom</th>
+            <th>Date du décès</th>
+        </tr>
+        <tr>
+            <td id="nom"></td>
+            <td id="prenom"></td>
+            <td id="datedeces"></td>
+        </tr>
+    </table>
+
+    <script src="client.js"></script>
+    <script>
+      require('./renderer.js')
+    </script>
+  </body>
+</html>
