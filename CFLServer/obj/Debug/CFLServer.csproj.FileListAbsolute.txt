@@ -1,0 +1,34 @@
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CFLServer\CFLServer\bin\Debug\CFLServer.exe.config
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CFLServer\CFLServer\bin\Debug\CFLServer.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CFLServer\CFLServer\bin\Debug\CFLServer.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CFLServer\CFLServer\bin\Debug\AustinHarris.JsonRpc.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CFLServer\CFLServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CFLServer\CFLServer\bin\Debug\AustinHarris.JsonRpc.pdb
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CFLServer\CFLServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CFLServer\CFLServer\obj\Debug\CFLServer.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CFLServer\CFLServer\obj\Debug\CFLServer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CFLServer\CFLServer\obj\Debug\CFLServer.exe
+C:\Users\USER\Documents\Visual Studio 2017\Projects\CFLServer\CFLServer\obj\Debug\CFLServer.pdb
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\CFLServer.exe.config
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\CFLServer.exe
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\CFLServer.pdb
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\AustinHarris.JsonRpc.dll
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\CFL_1.exe
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\System.Collections.Immutable.dll
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\CFL_1.pdb
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\CFL_1.exe.config
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\AustinHarris.JsonRpc.pdb
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\Microsoft.CodeAnalysis.Scripting.xml
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\bin\Debug\Microsoft.CodeAnalysis.CSharp.Scripting.xml
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\obj\Debug\CFLServer.csprojResolveAssemblyReference.cache
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\obj\Debug\CFLServer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\obj\Debug\CFLServer.exe
+C:\Users\USER\Source\Repos\cfl\CFL\CFLServer\obj\Debug\CFLServer.pdb
