@@ -48,7 +48,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CFLServerContext.cs" />
     <Compile Include="ClientCommunication\DataRequests.cs" />
     <Compile Include="ClientCommunication\MiscRequests.cs" />
     <Compile Include="Program.cs" />
