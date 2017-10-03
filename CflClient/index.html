@@ -3,30 +3,27 @@
   <head>
     <meta charset="UTF-8">
     <title>Hello World!</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="chosen/chosen.scss">
   </head>
   <body>
-    <select id="defuntID">
+  <div class="formLayout" id="formContainer">
 
-    </select>
+  </div>
+  <button id="showresult">Click me !</button>
 
-    <button id="btnload">Charger le défunt</button><br>
-
-    <table>
-        <tr>
-            <th>Nom</th>
-            <th>Prénom</th>
-            <th>Date du décès</th>
-        </tr>
-        <tr>
-            <td id="nom"></td>
-            <td id="prenom"></td>
-            <td id="datedeces"></td>
-        </tr>
-    </table>
-
-    <script src="client.js"></script>
     <script>
       require('./renderer.js')
     </script>
+
+  <!-- jQuery import -->
+  <script>if (typeof module === 'object') {window.module = module; module = undefined;}</script>
+  <script src="node_modules/jquery/dist/jquery.min.js"></script>
+  <script>if (window.module) module = window.module;</script>
+
+  <script src="chosen/chosen.jquery.js" type="text/javascript"></script>
+  <script src="formLayout.js" type="text/javascript"></script>
+  <script src="client.js" type="text/javascript"></script>
+
   </body>
 </html>
