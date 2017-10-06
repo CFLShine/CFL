@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
 using CFL_1.CFL_System.SqlServerOrm;
-using MSTD;
+using MSTD.ShBase;
 
 namespace CFL_1.CFL_Data.CFL_DataManaging
 {

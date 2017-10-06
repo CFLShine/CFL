@@ -132,14 +132,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CFL_1.exe" size="306600">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CFL_1.exe" size="312744">
       <assemblyIdentity name="CFL_1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+7oz8dMA3ntlatPemSmOfOFSUsUTmrX3RjvAS9WgVws=</dsig:DigestValue>
+        <dsig:DigestValue>1CKw+SsaS6Psys1GRBYTNbidWJQqCjWGaC5H3mI8+kE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

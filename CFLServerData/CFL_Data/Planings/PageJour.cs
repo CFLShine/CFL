@@ -1,8 +1,7 @@
 ﻿
 using System;
 using System.Collections.Generic;
-using CFL_1.CFL_System;
-using MSTD;
+using MSTD.ShBase;
 
 namespace CFL_1.CFL_Data.Planings
 {

@@ -6,29 +6,40 @@ using System.Windows.Controls;
 using System.Windows.Media;
 using BoxLayouts;
 using MSTD;
+using MSTD.ShBase;
 using RuntimeExec;
 
 namespace ObjectEdit
 {
-    public class ObjectEditControl : HBoxLayout
+    public class ObjectEditControl : VBoxLayout
     {
-        public ObjectEditControl(Base _object)
+        public ObjectEditControl(Base @object)
         {
-            Init();
-            Object = _object;
+            Object = @object;
         }
 
-        public ObjectEditControl(ObjectEditControlLayout _parent)
+        public BoxLayout LayoutLabels{ get => __layoutLabels; }
+        public BoxLayout LayoutControls{ get => __layoutControls; }
+
+        public ObjectEditControl(ObjectEditControlLayout parent)
         {
             Init();
-            ConfigsForPropertyClassControls = _parent.ConfigsForPropertyClassControls;
-            ControlsHeight = _parent.ControlsHeight;
-            __excludeds = _parent.Excludeds;
-            LabelsMinimumWidth = _parent.LabelsMinimumWidth;
-            ControlsMinimumWidth = _parent.ControlsMinimumWidth;
-            Object = _parent.Object;
+            ConfigsForPropertyClassControls = parent.ConfigsForPropertyClassControls;
+            ControlsHeight = parent.ControlsHeight;
+            __excludeds = parent.Excludeds;
+            LabelsMinimumWidth = parent.LabelsMinimumWidth;
+            LabelsMaximumWidth = parent.LabelsMaximumWidth;
+            ControlsMinimumWidth = parent.ControlsMinimumWidth;
+            ControlsMaximumWidth = parent.ControlsMaximumWidth;
+
+            Object = parent.Object;
         }
 
+        /// <summary>
+        /// get : 
+        /// Retourne la valeur qui a été donnée par un set,
+        /// ou par défaut le nom du type de <see cref="Object"/>.
+        /// </summary>
         public string Header
         {
             get =>(!string.IsNullOrWhiteSpace(__nameLabel))? __nameLabel : Object.GetType().Name;
@@ -36,10 +47,22 @@ namespace ObjectEdit
             private set => __nameLabel = value;
         }
 
-        public bool ShowHeader { get; set; }
+        public bool ShowHeader
+        {
+            get => __showHeader;
+            set
+            {
+                __showHeader = value;
+                if(__showHeader)
+                    ShowHeaderIfNotDone();
+                else
+                    RemoveHeader();
+            }
+        }
 
         /// <summary>
         /// objet édité.
+        /// set : provoque une exception si la valeur est null.
         /// </summary>
         public Base Object
         {
@@ -83,39 +106,17 @@ namespace ObjectEdit
             }
         }
 
-        public double LabelsMinimumWidth
-        {
-            get => __labelsMinimumWidth;
-            set
-            {
-                __labelsMinimumWidth = value;
-                if(!double.IsNaN(__labelsMinimumWidth))
-                {
-                    __layoutLabels.MinWidth = __labelsMinimumWidth;
-                }
-            }
-        }
-        public double ControlsMinimumWidth
-        {
-            get => __controlsMinimumWidth;
-            set
-            {
-                __controlsMinimumWidth = value;
-                if(!double.IsNaN(__controlsMinimumWidth))
-                {
-                    __layoutControls.MinWidth = __controlsMinimumWidth;
-                }
-            }
-        }
-
-        private double __labelsMinimumWidth = double.NaN;
-        private double __controlsMinimumWidth = double.NaN;
+        public double LabelsMinimumWidth{ get; set; } = 0;
+        public double LabelsMaximumWidth{ get; set; } = 0;
+        public double ControlsMinimumWidth{ get; set; } = 0;
+        public double ControlsMaximumWidth{ get; set; } = 0;
 
         /// <summary>
         /// Retourne une énumération des <see cref="ObjectEditControl"/> généré pour
         /// les propriété de type <see cref="Base"/> de <see cref="Object"/>.
         /// Ces <see cref="ObjectEditControl"/> sont fournis sans que leur fonction <see cref="Build"/> 
         /// n'est été appellée.
+        /// Provoque une exeption si Build n'a pas été appelé ou si Object est null.
         /// </summary>
         public IEnumerable<ObjectEditControl> InternalObjectEditControls()
         {
@@ -138,6 +139,8 @@ namespace ObjectEdit
             get => __layoutLabels.Count;
         }
 
+        public bool IsBuilt { get; private set; }
+
         /// <summary>
         /// Peuple le <see cref="EditControl"/>
         /// </summary>
@@ -159,7 +162,8 @@ namespace ObjectEdit
 
                     if(_prInfo.PropertyType.IsSubclassOf(typeof(Base)))
                     {
-                        if(ConfigsForPropertyClassControls != null && ConfigsForPropertyClassControls.TryGetValue(_prInfo.PropertyType, out _config))
+                        if(ConfigsForPropertyClassControls != null 
+                        && ConfigsForPropertyClassControls.TryGetValue(_prInfo.PropertyType, out _config))
                         {
                             _editControl = new PropertyClassControl();
                         }
@@ -173,7 +177,10 @@ namespace ObjectEdit
                                      ConfigsForPropertyClassControls = ConfigsForPropertyClassControls,
                                      ControlsHeight = ControlsHeight,
                                      LabelsMinimumWidth = LabelsMinimumWidth,
-                                     ControlsMinimumWidth = ControlsMinimumWidth
+                                     LabelsMaximumWidth = LabelsMaximumWidth,
+                                     ControlsMinimumWidth = ControlsMinimumWidth,
+                                     ControlsMaximumWidth = ControlsMaximumWidth,
+                                     ShowHeader = ShowHeader
                                 };
                                 DisplayAttribute _att = _prInfo.GetCustomAttribute<DisplayAttribute>();
                                 
@@ -199,6 +206,7 @@ namespace ObjectEdit
                     }
                 }
             }
+            IsBuilt = true;
         }
 
         /// <summary>
@@ -215,48 +223,43 @@ namespace ObjectEdit
             { 
                 Content = GetLabel(_prInfo),
                 Height = ControlsHeight,
-                Width = LabelsMinimumWidth,
+                MinWidth = LabelsMinimumWidth,
+                MaxWidth = LabelsMaximumWidth,
                 Background = Brushes.White,
                 BorderThickness = new System.Windows.Thickness(1)
             };
 
             _editControl.Height = ControlsHeight;
-            _editControl.Width = ControlsMinimumWidth;
+            _editControl.MinWidth = ControlsMinimumWidth;
+            _editControl.MaxWidth = ControlsMaximumWidth;
 
             __layoutLabels.Add(_label);
             __layoutControls.Add(_editControl);
         }
 
-        private string GetLabel(PropertyInfo _prInfo)
+        private string GetLabel(PropertyInfo prInfo)
         {
-            DisplayAttribute _att = _prInfo.GetCustomAttribute<DisplayAttribute>();
-            if(_att != null )
-            {
-                if(!string.IsNullOrWhiteSpace(_att.Name))
-                    return _att.Name;
-            }
-            
-            return _prInfo.Name;
+            return BaseHelper.GetNameToDisplay(prInfo);
         }
 
-        private bool IsElligible(PropertyInfo _prInfo)
+        private bool IsElligible(PropertyInfo prInfo)
         {
-            Type _t = _prInfo.PropertyType;
+            Type _t = prInfo.PropertyType;
 
-            DisplayAttribute _att = _prInfo.GetCustomAttribute<DisplayAttribute>();
+            DisplayAttribute _att = prInfo.GetCustomAttribute<DisplayAttribute>();
             if(_att != null && _att.GetAutoGenerateField() == false)
             {
                 return false;
             }
 
             if(_t.IsPublic == false
-            || _prInfo.CanRead == false
-            || _prInfo.CanWrite == false)
+            || prInfo.CanRead == false
+            || prInfo.CanWrite == false)
                 return false;
 
             foreach(string _name in __excludeds)
             {
-                if(_name == _prInfo.Name)
+                if(_name == prInfo.Name)
                     return false;
             }
 
@@ -265,16 +268,60 @@ namespace ObjectEdit
 
         private void Init()
         {
-            __layoutLabels = new VBoxLayout(){ };
-            __layoutControls = new VBoxLayout(){ };
-            Add(new Glue());
-            Add(__layoutLabels);
-            Add(new Glue());
-            Add(__layoutControls);
+            Clear();
+            
+            __labelHeader = null;
+            if(ShowHeader)
+                ShowHeaderIfNotDone();
+
+            Background = Brushes.IndianRed;
+            HBoxLayout _hLayout = new HBoxLayout(){ IsPerpendicularMinimized = true, Background = Brushes.Green };
+
+            __layoutLabels = new VBoxLayout(){ IsPerpendicularMinimized = true, Background = Brushes.Chartreuse };
+            __layoutControls = new VBoxLayout(){ IsPerpendicularMinimized = true, Background = Brushes.Chartreuse };
+
+            _hLayout.Add(__layoutLabels);
+            _hLayout.Add(__layoutControls);
+
+            Add(_hLayout);
         }
 
-        private VBoxLayout __layoutLabels;
-        private VBoxLayout __layoutControls;
+        private void ShowHeaderIfNotDone()
+        {
+            if(__labelHeader == null)// sinon, déja ajouté
+            {
+                __labelHeader = new Label()
+                { 
+                    Content = Header, 
+                    Height = 27,// ControlsHeight, 
+                    Background = Brushes.Salmon 
+                };
+
+                Insert(0, __labelHeader);
+            }
+            if(__internalObjectEditControls != null)
+            {
+                foreach(ObjectEditControl _objectEditCtrl in InternalObjectEditControls())
+                    _objectEditCtrl.ShowHeader = true;
+            }
+        }
+
+        private void RemoveHeader()
+        {
+            //Remove(null) est permis
+            Remove(__labelHeader);
+            __labelHeader = null;
+
+            if(__internalObjectEditControls != null)
+            {
+                foreach(ObjectEditControl _objectEditCtrl in InternalObjectEditControls())
+                    _objectEditCtrl.ShowHeader = false;
+            }
+        }
+
+        private VBoxLayout __layoutLabels = null;
+        private VBoxLayout __layoutControls = null;
+        private Label __labelHeader = null;
 
         private Base __object = null;
 
@@ -286,5 +333,6 @@ namespace ObjectEdit
         private List<ObjectEditControl> __internalObjectEditControls { get; set; }
 
         private string __nameLabel = "";
+        private bool __showHeader = false;
     }
 }

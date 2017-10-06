@@ -9,6 +9,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using BoxLayouts;
 using MSTD;
+using MSTD.ShBase;
 using RuntimeExec;
 
 namespace ObjectEdit
@@ -258,7 +259,7 @@ namespace ObjectEdit
         {
             __textBoxDay = new TextBox(){ Background = Brushes.White, Width = 25 };
             __textBoxMonth = new TextBox(){ Background = Brushes.White, Width = 25};
-            __textBoxYear = new TextBox(){ Background = Brushes.White, Width = 40};
+            __textBoxYear = new TextBox(){ Background = Brushes.White, Width = 50};
 
             AddTextBox(__textBoxDay, 2);
             AddTextBox(__textBoxMonth, 2);
@@ -266,6 +267,7 @@ namespace ObjectEdit
 
             __labelSeparator1 = new Label()
             {
+                Background = Brushes.White,
                 Content = ":",
                 Width = 13,
                 HorizontalContentAlignment = HorizontalAlignment.Center, 
@@ -411,12 +413,14 @@ namespace ObjectEdit
         {
             __textBoxHours = new TextBox() { Background = Brushes.White, Width = 30 };
             __textBoxMinutes = new TextBox() { Background = Brushes.White, Width = 30 };
+            
             __labelSeparator = new Label()
             { 
                 Background = Brushes.White, 
                 Content = ":",
                 HorizontalContentAlignment = HorizontalAlignment.Center, 
-                VerticalContentAlignment = VerticalAlignment.Center
+                VerticalContentAlignment = VerticalAlignment.Center,
+                Width = 13
             };
 
             AddTextBox(__textBoxHours, 2);
@@ -425,6 +429,8 @@ namespace ObjectEdit
             Add(__textBoxHours);
             Add(__labelSeparator);
             Add(__textBoxMinutes);
+
+            Width = __textBoxHours.Width + __labelSeparator.Width + __textBoxMinutes.Width;
 
             __textBoxHours.PreviewKeyDown += OnPreviewKeyDown;
             __textBoxMinutes.PreviewKeyDown += OnPreviewKeyDown;
@@ -584,7 +590,7 @@ namespace ObjectEdit
             }
             else
             {
-                PertinenceFinder _pertinenceFinder = new PertinenceFinder();
+                SelectByPertinence _pertinenceFinder = new SelectByPertinence();
                 _pertinenceFinder.Seach(__combobox.Text, ((PropertyClassEditControlConfig)Config).ObjectsToDisplay, __memberExpressions);
                 
                 __objectsToDisplay.AddRange(_pertinenceFinder.ListPertinence1);
@@ -633,4 +639,28 @@ namespace ObjectEdit
 
         ComboBox __combobox = new ComboBox();
     }
+
+    public class PropertyEnumClontrol : PropertyEditControl
+    {
+        public override void Update()
+        {
+            throw new NotImplementedException();
+        }
+
+        protected override void Init()
+        {
+            Add(__combobox);
+            __combobox.IsEditable = true;
+            __combobox.IsTextSearchEnabled = false;
+            __combobox.KeyUp += OnKeyUp;
+        }
+
+        protected void OnKeyUp(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        ComboBox __combobox = new ComboBox();
+    }
+
 }

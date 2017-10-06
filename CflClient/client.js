@@ -34,7 +34,8 @@ $("#configContainer").load("views/configDB.html", complete=function(){
 });
 */
 
-let schema = JSON.parse(`{
+let schema = JSON.parse(`
+{
     "Nom": {
         "type": "input/text",
         "id": "0000",
@@ -59,8 +60,19 @@ let schema = JSON.parse(`{
         "type": "input/date",
         "id": "0002",
         "label": "Date du décès"
+    },
+    "Mot de passe": {
+        "type": "input/password",
+        "id": "0008",
+        "label": "Mot de passe"
+    },
+    "Numeric":{
+        "type":"input/file",
+        "id":"4545",
+        "label": "Numeric"
     }
-}`);
+}
+`);
 
 $("#formContainer").html(createFormLayout(schema));
 

@@ -2,8 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
-using MSTD;
-using Npgsql;
+using MSTD.ShBase;
 
 namespace SqlOrm
 {
@@ -115,7 +114,7 @@ namespace SqlOrm
             MemberId = Guid.Empty;
 
             string[] _elements = _columnName.Split('_');
-            Property = ObjectHelper.Property(ClassProxy.Entity, _elements[2]);
+            Property = BaseHelper.Property(ClassProxy.Entity.GetType(), _elements[2]);
 
             DBSet = Context.GetDBSet(Property.PropertyType);
 
@@ -193,7 +192,7 @@ namespace SqlOrm
             Property = null;
 
             string[] _elements = _columnName.Split('_');
-            Property = ObjectHelper.Property(ClassProxy.Entity, _elements[2]);
+            Property = BaseHelper.Property(ClassProxy.Entity.GetType(), _elements[2]);
             InitList((string)_row.GetValue(_columnName));
         }
 
@@ -243,14 +242,15 @@ namespace SqlOrm
 
     public class ClassProxy 
     {
-        public ClassProxy(object _entity, DBContext _context)
+        public ClassProxy(Base _entity, DBContext _context)
         {
             __entity = _entity;
             EntityType = _entity.GetType();
-            PropertyId = ObjectHelper.IdProperty(EntityType);
             Context = _context;
             BuildProxy();
         }
+
+        public Guid EntityId { get; set; }
 
         public Type EntityType
         {
@@ -282,12 +282,6 @@ namespace SqlOrm
             return null;
         }
 
-        public PropertyInfo PropertyId
-        {
-            get;
-            private set;
-        }
-
         public IEnumerable<PropertyInfo> Properties
         {
             get
@@ -303,7 +297,7 @@ namespace SqlOrm
         /// </summary>
         public bool ToBeInserted { get; set; } = true;
 
-        public object Entity
+        public Base Entity
         {
             get
             {
@@ -314,14 +308,6 @@ namespace SqlOrm
             {
                 __entity = value;
                 BuildProxy();
-            }
-        }
-
-        public Guid EntityId
-        {
-            get
-            {
-                return ObjectHelper.ID(Entity);
             }
         }
 
@@ -357,9 +343,9 @@ namespace SqlOrm
 
             foreach(PropertyInfo _pr in EntityType.GetProperties())
             {
-                if(ObjectHelper.IsMappableProperty(_pr))
+                if(BaseHelper.IsMappableProperty(_pr))
                 {
-                    if(ObjectHelper.IsListOfClass(_pr))
+                    if(BaseHelper.IsListOf(_pr.PropertyType, typeof(Base)))
                     {
                         List<object> _listProxy = new List<object>();
                         IList _list = _pr.GetValue(Entity) as IList;
@@ -422,7 +408,7 @@ namespace SqlOrm
         {
             Type _t = _prInfo.PropertyType;
 
-            if(ObjectHelper.IsGenericList(_t))
+            if(BaseHelper.IsGenericList(_t))
             {
                 IEnumerable _entityEnumerable = (IEnumerable)_prInfo.GetValue(__entity);
                 IEnumerable _proxyEnumerable = (IEnumerable)__propertiesValues.GetValue(_prInfo);
@@ -446,10 +432,10 @@ namespace SqlOrm
             }
             else 
             // un objet de classe
-            if(ObjectHelper.IsMappableClassType(_t))
+            if(_t.IsSubclassOf(typeof(Base)))
             {
-                object _entityValue = _prInfo.GetValue(__entity);
-                object _proxyValue = __propertiesValues.GetValue(_prInfo);
+                Base _entityValue = _prInfo.GetValue(__entity) as Base;
+                Base _proxyValue = __propertiesValues.GetValue(_prInfo) as Base;
 
                 if(_entityValue == null && _proxyValue == null)
                     return false;
@@ -458,9 +444,7 @@ namespace SqlOrm
                 || (_entityValue != null && _proxyValue == null))
                     return true;
 
-                if(ObjectHelper.ID(_entityValue) != ObjectHelper.ID(_proxyValue))
-                    return true;
-                return false;
+                return  _entityValue.ID != _proxyValue.ID;
             }
 
             // value property
@@ -504,7 +488,7 @@ namespace SqlOrm
             return false;
         }
 
-        private object __entity = null;
+        private Base __entity = null;
 
         private Dictionary<PropertyInfo, MemberProxy> __membersProxies = new Dictionary<PropertyInfo, MemberProxy>();
     

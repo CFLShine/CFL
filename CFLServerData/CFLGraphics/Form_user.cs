@@ -150,17 +150,17 @@ namespace CFL_1.CFLGraphics
             if (__interControlsData == null)
                 __interControlsData = new InterControlsData();
 
-            __interControlsData.connect(nom,          __current.identite, () => __current.identite.nom);
-            __interControlsData.connect(prenom,       __current.identite, () =>__current.identite.prenom);
-            __interControlsData.connect(adress1,      __current.coordonnees, () =>__current.coordonnees.adress1);
-            __interControlsData.connect(adress2,      __current.coordonnees, () =>__current.coordonnees.adress2);
+            __interControlsData.connect(nom,          __current.Identite, () => __current.Identite.Nom);
+            __interControlsData.connect(prenom,       __current.Identite, () =>__current.Identite.Prenom);
+            __interControlsData.connect(adress1,      __current.Coordonnees, () =>__current.Coordonnees.adress1);
+            __interControlsData.connect(adress2,      __current.Coordonnees, () =>__current.Coordonnees.adress2);
             //__interControlsData.connect(commune,      __current.coordonnees, () =>__current.coordonnees.commune);
-            __interControlsData.connect(fax,          __current.contacts, () =>__current.contacts.fax);
-            __interControlsData.connect(mail,         __current.contacts, () =>__current.contacts.mail);
-            __interControlsData.connect(telFixPerso,  __current.contacts, () =>__current.contacts.telFixPerso);
-            __interControlsData.connect(telFixPro,    __current.contacts, () =>__current.contacts.telFixPro);
-            __interControlsData.connect(telPortPerso, __current.contacts, () =>__current.contacts.telPortPerso);
-            __interControlsData.connect(telPortPro,   __current.contacts, () =>__current.contacts.telPortPro);
+            __interControlsData.connect(fax,          __current.Contacts, () =>__current.Contacts.fax);
+            __interControlsData.connect(mail,         __current.Contacts, () =>__current.Contacts.mail);
+            __interControlsData.connect(telFixPerso,  __current.Contacts, () =>__current.Contacts.telFixPerso);
+            __interControlsData.connect(telFixPro,    __current.Contacts, () =>__current.Contacts.telFixPro);
+            __interControlsData.connect(telPortPerso, __current.Contacts, () =>__current.Contacts.telPortPerso);
+            __interControlsData.connect(telPortPro,   __current.Contacts, () =>__current.Contacts.telPortPro);
             
         }
 

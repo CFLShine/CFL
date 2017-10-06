@@ -1,6 +1,6 @@
 ﻿using System;
 using CFL_1.CFL_Data.Communes;
-using MSTD;
+using MSTD.ShBase;
 
 namespace CFL_1.CFL_Data.Etat_civil
 {
@@ -13,7 +13,7 @@ namespace CFL_1.CFL_Data.Etat_civil
         Pacse
     }
 
-    public class SituationFamillale : Base
+    public class SituationFamiliale : Base
     {
         public Situation situation { get; set; }
         public Identite identite { get; set; }

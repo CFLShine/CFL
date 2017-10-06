@@ -3,6 +3,7 @@ using System.Collections;
 using System.Globalization;
 using System.Reflection;
 using MSTD;
+using MSTD.ShBase;
 
 namespace SqlOrm
 {
@@ -54,9 +55,9 @@ namespace SqlOrm
                 return SqlType.TIME;
             if(_t.IsEnum)
                 return SqlType.ENUM;
-            if(ObjectHelper.IsGenericList(_t))
+            if(BaseHelper.IsGenericList(_t))
                 return SqlType.LIST;
-            if(ObjectHelper.IsMappableClassType(_t))
+            if(_t.IsSubclassOf(typeof(Base)))
                 return SqlType.CLASS;
 
             return SqlType.NOTMAPPED;
@@ -111,7 +112,7 @@ namespace SqlOrm
         /// </summary>
         public static string ColumnName(PropertyInfo _prInfo)
         {
-            if(!ObjectHelper.IsMappableProperty(_prInfo))
+            if(!BaseHelper.IsMappableProperty(_prInfo))
                 return "";
 
             switch (GetSqlType(_prInfo.PropertyType))
@@ -128,7 +129,7 @@ namespace SqlOrm
                     return ("enum_" + _prInfo.PropertyType.Name + "_" + _prInfo.Name).ToLower();
                 
                 case SqlType.LIST:
-                    return ("list_" + ObjectHelper.GetListItemsType(_prInfo.PropertyType).Name + "_" + _prInfo.Name).ToLower();
+                    return ("list_" + BaseHelper.ListItemsType(_prInfo.PropertyType).Name + "_" + _prInfo.Name).ToLower();
                     
                 default:
                     return _prInfo.Name.ToLower();
@@ -200,10 +201,7 @@ namespace SqlOrm
                 case SqlType.CLASS:
                 {
                     Type _valueType = _value.GetType();
-                    PropertyInfo _idPrInfo = ObjectHelper.IdProperty(_valueType);
-                    if(_idPrInfo == null)
-                        throw new Exception("Classe " + _valueType.Name + " dépourvue de la propriété Guid ID");
-                    return _format + (_valueType.Name.ToLower() + "_" + (Guid)(_idPrInfo.GetValue(_value))).ToString() + _format;
+                    return _format + _valueType.Name.ToLower() + "_" + ((Base)_value).ID.ToString() + _format;
                 }
 
                 case SqlType.ENUM:

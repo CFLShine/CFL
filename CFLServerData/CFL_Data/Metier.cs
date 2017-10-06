@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using MSTD;
+using MSTD.ShBase;
 
 namespace CFL_1.CFL_Data
 {

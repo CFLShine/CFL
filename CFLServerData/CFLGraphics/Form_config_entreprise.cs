@@ -276,8 +276,8 @@ namespace CFL_1.CFLGraphics
             _entreprise.AddToolTip(_ent, () => _ent.raisonSociale.nom);
 
             Utilisateur __utilisateur = _utilisateur.ComponentOfType<Utilisateur>();
-            _utilisateur.AddToolTip(__utilisateur, () => __utilisateur.identite.prenom); 
-            _utilisateur.AddToolTip(__utilisateur, () => __utilisateur.identite.nom);
+            _utilisateur.AddToolTip(__utilisateur, () => __utilisateur.Identite.Prenom); 
+            _utilisateur.AddToolTip(__utilisateur, () => __utilisateur.Identite.Nom);
 
             Metier _met = _metier.ComponentOfType<Metier>();
             _metier.AddToolTip(_met, () => _met.Intitule);

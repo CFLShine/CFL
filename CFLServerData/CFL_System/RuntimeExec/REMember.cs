@@ -16,7 +16,9 @@ namespace RuntimeExec
         public REMember(string _memberName) => MemberName = _memberName;
 
         /// <summary>
-        /// Le <see cref="REClassObject"/> à partir du quel s'exprime ce membre.
+        /// Le <see cref="REClassObject"/> dont fait partie ce <see cref="REMember"/>.
+        /// Cette propriété est identique à <see cref="REBase.Parent"/> 
+        /// sauf le set qui provoque une exception si value n'est pas de type <see cref="REClassObject"/>.
         /// </summary>
         public override REBase Parent 
         { 
@@ -41,8 +43,6 @@ namespace RuntimeExec
             }
         }
 
-        private REBase __parent = null;
-
         public string MemberName { get; set; }
 
         public override REBase[] Children
@@ -54,7 +54,8 @@ namespace RuntimeExec
         }
 
         /// <summary>
-        /// Donne _object à <see cref="Parent"/> si <see cref="REBase.ParentTypeName"/> != "" et _object.TypeName == <see cref="REBase.ParentTypeName"/>.
+        /// Donne _object à <see cref="Parent"/> si <see cref="REBase.ParentTypeName"/> != ""
+        /// et _object.TypeName == <see cref="REBase.ParentTypeName"/>.
         /// </summary>
         public override REExpression Update(REClassObject _object)
         {
@@ -65,5 +66,7 @@ namespace RuntimeExec
             }
             return this;
         }
+
+        private REBase __parent = null;
     }
 }

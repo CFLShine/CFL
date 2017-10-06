@@ -6,6 +6,7 @@ using System.Windows.Controls;
 using System.Windows.Media;
 using BoxLayouts;
 using MSTD;
+using MSTD.ShBase;
 using RuntimeExec;
 
 namespace ObjectEdit
@@ -50,8 +51,11 @@ namespace ObjectEdit
         public ObjectsDisposition Disposition { get; set; }
 
         public double ControlsHeight { get; set; } = 27;
-        public double LabelsMinimumWidth { get; set; } = double.NaN;
-        public double ControlsMinimumWidth { get; set; } = double.NaN;
+        
+        public double LabelsMinimumWidth{ get; set; } = 0;
+        public double LabelsMaximumWidth{ get; set; } = 0;
+        public double ControlsMinimumWidth{ get; set; } = 0;
+        public double ControlsMaximumWidth{ get; set; } = 0;
 
         public void SetConfigFor(Type _propertyType, List<Base> _objectsToDisplay, DataDisplay _dataDisplay)
         {

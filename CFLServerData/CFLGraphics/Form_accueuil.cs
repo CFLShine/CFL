@@ -2,6 +2,7 @@
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
+using BoxLayouts;
 using CFL_1.CFL_System.SqlServerOrm;
 
 namespace CFL_1.CFLGraphics
@@ -10,7 +11,7 @@ namespace CFL_1.CFLGraphics
     {
         public Form_accueuil()
         {
-            initialiseComponents();
+            Init();
         }
 
         public override void BecomeCurrent()
@@ -36,26 +37,29 @@ namespace CFL_1.CFLGraphics
 
         //private:
 
-        private void initialiseComponents()
+        private void Init()
         {
-            // top Label
-            __topLabel = new Label();
-            __topLabel.HorizontalContentAlignment = HorizontalAlignment.Center;
-            __topLabel.VerticalContentAlignment   = VerticalAlignment.Center;
+            __topLabel = new Label()
+            {
+                HorizontalContentAlignment = HorizontalAlignment.Center,
+                VerticalContentAlignment   = VerticalAlignment.Center,
+                Content = "CFL",
+                FontSize = 36,
+                FontWeight = FontWeights.Bold
+            };
             
             LinearGradientBrush _gradient = new LinearGradientBrush
             (Colors.Black, Colors.White, new Point(0, 0.5), new Point(1, 0.5));
+
             __topLabel.Background = _gradient;
-            __topLabel.Content = "CFL";
-            __topLabel.FontSize = 36;
-            __topLabel.FontWeight = FontWeights.Bold;
 
             // calendar
             __calendar = new Calendar();
 
             AddElementToRootLayout(__topLabel);
+            AddElementToRootLayout(new Spacer(0, 90));
             AddElementToRootLayout(__calendar);
-            
+            AddElementToRootLayout(new Spacer(0, 90));
         }
     }
 }

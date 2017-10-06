@@ -7,8 +7,8 @@ using CFL_1.CFLGraphics.MyControls.GraphEditor;
 using Telerik.Windows.Controls.Diagrams.Extensions;
 using CFL_1.CFLGraphics.MyControls.FormLayout;
 using Telerik.Windows.Controls;
-using MSTD;
 using BoxLayouts;
+using MSTD.ShBase;
 
 namespace CFL_1.CFLGraphics.GraphEditor
 {

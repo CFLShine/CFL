@@ -1,4 +1,5 @@
-﻿using MSTD;
+﻿using System.ComponentModel.DataAnnotations;
+using MSTD.ShBase;
 
 namespace CFL_1.CFL_Data
 {
@@ -7,10 +8,12 @@ namespace CFL_1.CFL_Data
     /// </summary>
     public class Personne : Base
     { 
-        public Identite identite { get ; set ; } = new Identite();
+        [Display(Name = "Identité")]
+        public Identite Identite { get ; set ; } = new Identite();
         
-        public Coordonnees coordonnees { get ; set ; } = new Coordonnees();
+        [Display(Name = "Coordonées")]
+        public Coordonnees Coordonnees { get ; set ; } = new Coordonnees();
 
-        public Contacts contacts { get ; set ; } = new Contacts() ;
+        public Contacts Contacts { get ; set ; } = new Contacts() ;
     }
 }

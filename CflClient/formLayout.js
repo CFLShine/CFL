@@ -29,7 +29,7 @@ Schema example
  */
 
 const createList = function (id, label, data) {
-    html = "<label for='" + id + "'>" + label + "</label>";
+    let html = "<label for='" + id + "'>" + label + "</label>";
     html += "<select class='select-chosen' id='" + id + "'>";
     for (key in data)
     {

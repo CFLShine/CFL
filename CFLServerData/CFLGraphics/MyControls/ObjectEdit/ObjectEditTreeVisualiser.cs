@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using BoxLayouts;
 
 namespace ObjectEdit
@@ -8,7 +7,17 @@ namespace ObjectEdit
     {
         public ObjectEditTreeVisualiser(ObjectEditControl _objectEditControl)
         {
-            ObjectEditControl = _objectEditControl;
+            RootObjectEditControl = _objectEditControl??throw new ArgumentNullException("_objectEditControl");
+            IsPerpendicularMinimized = true;
+        }
+
+        public bool ShowHeaders 
+        { 
+            get => RootObjectEditControl.ShowHeader; 
+            set
+            {
+                RootObjectEditControl.ShowHeader = value;
+            }
         }
 
         public double Indentation
@@ -22,36 +31,42 @@ namespace ObjectEdit
             set => __identation = value;
         }
 
-        public ObjectEditControl ObjectEditControl
+        public ObjectEditControl RootObjectEditControl
         {
             get; 
             set;
         }
 
+        public bool IsBuild { get; private set; }
+
         public void Build()
         {
-            if(ObjectEditControl == null)
+            if(RootObjectEditControl == null)
                 throw new Exception("ObjectEditControl ne peut pas être null");
 
-            ObjectEditControl.Build();
-            Add(ObjectEditControl);
+            Clear();
+            
+            if(!RootObjectEditControl.IsBuilt)
+                RootObjectEditControl.Build();
 
-            foreach(ObjectEditControl _ctrl in ObjectEditControl.InternalObjectEditControls())
+            Add(RootObjectEditControl);
+
+            foreach(ObjectEditControl _ctrl in RootObjectEditControl.InternalObjectEditControls())
             {
                 ObjectEditTreeVisualiser _tree = new ObjectEditTreeVisualiser(_ctrl);
                 _tree.Indentation = Indentation;
                 _tree.Build();
                 
-                HBoxLayout _hlayout = new HBoxLayout();
+                HBoxLayout _hlayout = new HBoxLayout(){ IsPerpendicularMinimized = true };
 
                 _hlayout.Add(new FixedSpacer(Indentation));
                 _hlayout.Add(_tree);
 
                 Add(_hlayout);
             }
-            Add(new Spacer());
         }
 
         private double __identation = 20;
+        private bool __showHeaders = false;
     }
 }

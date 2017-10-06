@@ -1,12 +1,11 @@
 ﻿
-using System;
 using System.Collections.Generic;
 using System.Reflection;
-using MSTD;
+using MSTD.ShBase;
 
 namespace SqlOrm
 {
-    public class DBSelect<T> : Query where T : class, new()
+    public class DBSelect<T> : Query where T : Base, new()
     {
         public DBSelect(DBContext _dbContext)
             : base(_dbContext)
@@ -49,7 +48,7 @@ namespace SqlOrm
             private set;
         } = "";
 
-        public X LoadMother<X> () where X : class, new()
+        public X LoadMother<X> () where X : Base, new()
         {
             DBLoader<T> _loader = new DBLoader<T>(this);
             return _loader.LoadMother<X>();
@@ -87,8 +86,10 @@ namespace SqlOrm
                 if(_sqlType == SqlType.CLASS)
                     Include(_prInfo.Name);
                 else
-                if(_sqlType == SqlType.LIST && ObjectHelper.IsMappableListOfClass(_prInfo))
-                    Include(_prInfo.Name);
+                if(_sqlType == SqlType.LIST 
+                    && BaseHelper.IsMappableProperty(_prInfo)
+                    && BaseHelper.IsListOf(_prInfo.PropertyType, typeof(Base)))
+                        Include(_prInfo.Name);
             }
         }
 

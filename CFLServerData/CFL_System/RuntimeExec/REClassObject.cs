@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Dynamic;
 using System.Reflection;
-using MSTD;
+using MSTD.ShBase;
 
 namespace RuntimeExec
 {

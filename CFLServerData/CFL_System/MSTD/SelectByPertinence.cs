@@ -1,18 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using MSTD.ShBase;
 using RuntimeExec;
 
 namespace MSTD
 {
     /// <summary>
-    /// <see cref="Pertinence.NONE"/> aucune correspondence,
-    /// <see cref="Pertinence.PERTINENCE1"/> tout correspond,
-    /// <see cref="Pertinence.PERTINENCE2"/> un ou plusieurs membres correspondent,
-    /// <see cref="Pertinence.PERTINENCE3"/> tous les membres commencent par l'un des mots,
-    /// <see cref="Pertinence.PERTINENCE4"/> un ou plusieurs membres commencent par l'un des mots,
-    /// <see cref="Pertinence.PERTINENCE5"/> un ou plusieurs membres contiennet un des mots
+    /// <see cref="NONE"/> aucune correspondence,
+    /// <see cref="PERTINENCE1"/> tout correspond,
+    /// <see cref="PERTINENCE2"/> un ou plusieurs membres correspondent,
+    /// <see cref="PERTINENCE3"/> tous les membres commencent par l'un des mots,
+    /// <see cref="PERTINENCE4"/> un ou plusieurs membres commencent par l'un des mots,
+    /// <see cref="PERTINENCE5"/> un ou plusieurs membres contiennent un des mots
     /// </summary>
-    public enum Pertinence
+    public enum PERTINENCE
     {
         /// <summary>
         /// Aucune correspondance
@@ -50,15 +51,22 @@ namespace MSTD
         PERTINENCE6
     }
 
-    public class PertinenceFinder
+    /// <summary>
+    /// <see cref="SelectByPertinence"/> effectue une recherche dans une liste d'objets 
+    /// d'après une string, argument de recherche et une liste de <see cref="REMemberExpression"/>
+    /// qui désignent les propriétés sur lesquelles baser la recherche.
+    /// Cette string peut contenir plusieurs mots.
+    /// Le résultat de la recherche est une série de listes d'objets selectionnés dans la liste initiale fournie.
+    /// Ces listes correspondent à des niveaux de pertinence décrits par l'énumeration <see cref="PERTINENCE"/>.
+    /// </summary>
+    public class SelectByPertinence
     {
-
         public bool CasseSensitive { get; set; }
 
         /// <summary>
-        /// Peuple les listes d'objets de Base correspondant chacune à un degré de pertinance d'après les critères de recherche.
+        /// Peuple les listes d'objets de <see cref="Base"/> correspondant chacune à un degré de pertinance d'après les critères de recherche.
         /// _argument : chaine de caractères contenant des mots recherchés.
-        /// _objects : objects dans lesquels effectuer une selection d'objects pertinents.
+        /// _objects : liste des objets dans laquelle effectuer la recherche.
         /// _members : propriétés ou champs publiques des objets sur lesquels baser la recherche.
         /// </summary>
         public void Seach(string _argument, List<Base> _objects, List<REMemberExpression> _members)
@@ -70,25 +78,25 @@ namespace MSTD
             {
                 switch (Pertinence(_combinations, _object, _members))
                 {
-                    case MSTD.Pertinence.NONE:
+                    case MSTD.PERTINENCE.NONE:
                         ListPertinence0.Add(_object);
                         break;
-                    case MSTD.Pertinence.PERTINENCE1:
+                    case MSTD.PERTINENCE.PERTINENCE1:
                         ListPertinence1.Add(_object);
                         break;
-                    case MSTD.Pertinence.PERTINENCE2:
+                    case MSTD.PERTINENCE.PERTINENCE2:
                         ListPertinence2.Add(_object);
                         break;
-                    case MSTD.Pertinence.PERTINENCE3:
+                    case MSTD.PERTINENCE.PERTINENCE3:
                         ListPertinence3.Add(_object);
                         break;
-                    case MSTD.Pertinence.PERTINENCE4:
+                    case MSTD.PERTINENCE.PERTINENCE4:
                         ListPertinence4.Add(_object);
                         break;
-                    case MSTD.Pertinence.PERTINENCE5:
+                    case MSTD.PERTINENCE.PERTINENCE5:
                         ListPertinence5.Add(_object);
                         break;
-                    case MSTD.Pertinence.PERTINENCE6:
+                    case MSTD.PERTINENCE.PERTINENCE6:
                         ListPertinence6.Add(_object);
                         break;
                     default:
@@ -97,12 +105,12 @@ namespace MSTD
             }
         }
 
-        public Pertinence Pertinence(List<string> _words, Base _object, List<REMemberExpression> _members)
+        public PERTINENCE Pertinence(List<string> _words, Base _object, List<REMemberExpression> _members)
         {
             if(_object == null)
                 throw new ArgumentNullException();
             if(_words == null || _words.Count == 0 || _members == null || _members.Count == 0)
-                return MSTD.Pertinence.NONE;
+                return MSTD.PERTINENCE.NONE;
             List<string> _values = new List<string>();
 
             if(CasseSensitive == false)
@@ -148,24 +156,24 @@ namespace MSTD
             }
 
             if(_membersMatch == _values.Count)
-                return MSTD.Pertinence.PERTINENCE1;
+                return MSTD.PERTINENCE.PERTINENCE1;
 
             if(_membersMatch + _membersStartsWhith == _values.Count)
-                return MSTD.Pertinence.PERTINENCE2;
+                return MSTD.PERTINENCE.PERTINENCE2;
 
             if(_membersMatch > 0)
-                return MSTD.Pertinence.PERTINENCE3;
+                return MSTD.PERTINENCE.PERTINENCE3;
 
             if(_membersStartsWhith == _values.Count)
-                return MSTD.Pertinence.PERTINENCE4;
+                return MSTD.PERTINENCE.PERTINENCE4;
 
             if(_membersStartsWhith > 0)
-                return MSTD.Pertinence.PERTINENCE5;
+                return MSTD.PERTINENCE.PERTINENCE5;
 
             if(_membersContains > 0)
-                return MSTD.Pertinence.PERTINENCE6;
+                return MSTD.PERTINENCE.PERTINENCE6;
 
-            return MSTD.Pertinence.NONE;
+            return MSTD.PERTINENCE.NONE;
         }
 
         /// <summary>

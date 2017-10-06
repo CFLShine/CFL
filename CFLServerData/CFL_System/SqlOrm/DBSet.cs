@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using MSTD;
+using MSTD.ShBase;
 
 namespace SqlOrm
 {
@@ -25,7 +26,7 @@ namespace SqlOrm
 
         public ClassProxy Factory()
         {
-            object _entity = (Activator.CreateInstance(EntitiesType));
+            Base _entity = (Activator.CreateInstance(EntitiesType)) as Base;
             return new ClassProxy(_entity, Context);
         }
 
@@ -35,9 +36,9 @@ namespace SqlOrm
         /// N'est pas responsable de la mise à jour des entités contenues dans le DBContext 
         /// ni dans ce DBSet.
         /// </summary>
-        public ClassProxy Attach(object _entity)
+        public ClassProxy Attach(Base _entity)
         {
-            Guid _id = ObjectHelper.ID(_entity);
+            Guid _id = _entity.ID;
             ClassProxy _proxy = null;
             if(__classProxies.TryGetValue(_id, out _proxy) == false)
             {
