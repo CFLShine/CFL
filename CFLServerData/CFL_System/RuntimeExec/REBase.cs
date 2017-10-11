@@ -1,11 +1,13 @@
 ﻿
 using System;
-using MSTD;
+using MSTD.ShBase;
 
 namespace RuntimeExec
 {
     public abstract class REBase : Base
     {
+        public static REValue NULL = new REValue(null);
+
         /// <summary>
         /// Pour les <see cref="REExpression"/>, <see cref="TypeName"/> est le nom du type
         /// de <see cref="REExpression.CValue"/>, la valeur CSharp.
@@ -14,6 +16,10 @@ namespace RuntimeExec
         /// </summary>
         public string TypeName { get; set; }
 
+        /// <summary>
+        /// <see cref="Parent"/> est le <see cref="REBase"/> dont celui-ci fait partie.
+        /// Permet de remonter l'arbre jusqu'à l'ancêtre racine.
+        /// </summary>
         public virtual REBase Parent 
         { 
             get => __parent; 
@@ -24,40 +30,43 @@ namespace RuntimeExec
                     ParentTypeName = __parent.TypeName;
             }
         }
-        private REBase __parent = null;
-
+        
         public virtual string ParentTypeName { get ; set; }
-
-        public abstract REBase Copy();
 
         public abstract REBase[] Children { get; }
 
-        public REBase FindAncestorOfType(Type _ofType)
+        public abstract REBase Copy();
+
+        /// <summary>
+        /// Retourne le premier ancêtre trouvé de type t
+        /// </summary>
+        public REBase FindAncestorOfType(Type t)
         {
             REBase _parent = Parent;
             while(_parent != null)
             {
-                if(_parent.GetType() == _ofType)
+                if(_parent.GetType() == t)
                     return _parent;
                 _parent = _parent.Parent;
             }
             return null;
         }
 
-        #region 
-        public static REValue NULL = new REValue(null);
-        #endregion
-
         #region Helper methods
 
         /// <summary>
-        /// Retourne true si l'objet est de type <see cref="Base"/> mais pas de type <see cref="REBase"/>.
+        /// Retourne true si l'objet est de type <see cref="ShBase"/> 
+        /// mais pas de type <see cref="REBase"/>.
         /// </summary>
-        public static bool IsCustomClass(Type _t)
+        public static bool IsCustomClass(Type t)
         {
-            return _t != null && _t.IsSubclassOf(typeof(Base)) && (!_t.IsSubclassOf(typeof(REBase)));
+            return t != null 
+                && t.IsSubclassOf(typeof(Base)) 
+                && (!t.IsSubclassOf(typeof(REBase)));
         }
 
         #endregion
+
+        private REBase __parent = null;
     }
 }

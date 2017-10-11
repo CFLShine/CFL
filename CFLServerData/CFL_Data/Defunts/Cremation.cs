@@ -21,7 +21,7 @@ namespace CFL_1.CFL_Data.Defunts
     /// et toutes les données utiles à la fiche crémation.
     /// La remise des cendres n'est pas représentée ici 
     /// mais par la classe <see cref="RemiseCendres"/> qui est une OperationFune
-    /// et se retrouve donc dans <see cref="Defunt.operationsFuneraires"/>.
+    /// et se retrouve donc dans <see cref="Defunt.OperationsFuneraires"/>.
     /// </summary>
     public class Cremation : OperationFune
     {

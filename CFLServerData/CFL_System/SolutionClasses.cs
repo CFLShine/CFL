@@ -1,29 +1,33 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Reflection;
-using MSTD;
+using MSTD.ShBase;
 
-namespace CFL_1.CFL_System
+namespace MSTD
 {
     public class SolutionClasses
     {
-        public static Type ClassType(string _typename)
+        /// <summary>
+        /// Retourne le premier Type nommé typename.
+        /// Non semsible à la casse.
+        /// </summary>
+        public static Type Type(string typename)
         {
-            return (Instance.__classes.TryGetValue(_typename, out Type _type)) ? _type : null;
+            foreach(Type _t in Instance.Types)
+            {
+                if(_t.Name.ToLower() == typename.ToLower())
+                    return _t;
+            }
+            return null;
         }
 
-        public static Base ClassInstance(string _typename)
+        public static Base Factory(string _typename)
         {
-            Type _type = ClassType(_typename);
+            Type _type = Type(_typename);
             return (_type != null) ? (Base)(Activator.CreateInstance(_type)) : null;
         }
 
-        public static Dictionary<string, Type>.ValueCollection ClassesTypes()
-        {
-            return Instance.__classes.Values;
-        }
-
-        private Dictionary<string, Type> __classes = new Dictionary<string, Type>();
+        public List<Type> Types { get; private set; } = new List<Type>();
         
         private void Init()
         {
@@ -31,7 +35,7 @@ namespace CFL_1.CFL_System
             foreach(Type _type in _types)
             {
                 if(_type.IsSubclassOf(typeof(Base)))
-                    __classes.Add(_type.Name, _type);
+                    Types.Add(_type);
             }
         }
 

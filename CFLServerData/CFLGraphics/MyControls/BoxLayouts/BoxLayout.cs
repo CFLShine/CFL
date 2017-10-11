@@ -1,4 +1,5 @@
-﻿using System.Windows;
+﻿using System;
+using System.Windows;
 using System.Windows.Controls;
 
 namespace BoxLayouts
@@ -8,7 +9,7 @@ namespace BoxLayouts
     /// <see cref="BoxLayout"/> est un layout permetant d'aranger les éléments sur une ligne ou une colone.
     /// Pour imposer un espace entre deux éléments, ajouter un <see cref="Spacer"/>, 
     /// </summary>
-    public class BoxLayout : Grid
+    public abstract class BoxLayout : Grid
     {
         public BoxLayout(Orientation _orientation)
         {
@@ -20,32 +21,16 @@ namespace BoxLayouts
 
         public BoxLayoutModel Model { get; private set; }
 
-        public new double MinWidth
-        {
-            get => base.MinWidth;
-            set
-            {
-                if(!double.IsNaN(value))
-                    base.MinWidth = value;
-                Model.UpDate();
-            }
-        }
-
-        public new double MinHeight
-        {
-            get => base.MinHeight;
-            set
-            {
-                if(!double.IsNaN(value))
-                    base.MinHeight = value;
-                Model.UpDate();
-            }
-        }
-
         public Orientation Orientation
         {
             get;
             protected set;
+        }
+
+        public bool IsPerpendicularMinimized
+        {
+            get => Model.IsPerpendicularMinimized;
+            set => Model.IsPerpendicularMinimized = value;
         }
 
         public void Add(FrameworkElement e)
@@ -53,11 +38,21 @@ namespace BoxLayouts
             Model.Add(e);
         }
 
+        /// <summary>
+        /// Insert dans le layout l'élément e à l'index index.
+        /// Provoque une exeption si l'index est en dehors des limites [0 , Count].
+        /// </summary>
         public virtual void Insert(int index, FrameworkElement e)
         {
+            if(index < 0 || index > Count)
+                throw new ArgumentOutOfRangeException("index");
             Model.Insert(index, e);
         }
 
+        /// <summary>
+        /// Suprime du layout l'élément e, s'il existe dans le layout,
+        /// sinon, ne provoque pas d'exeption (Remove(null) est permis).
+        /// </summary>
         public void Remove(FrameworkElement e)
         {
             Model.Remove(e);
@@ -89,7 +84,6 @@ namespace BoxLayouts
                     break;
             }
         }
-
     }
 
     public class VBoxLayout : BoxLayout

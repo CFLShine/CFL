@@ -1,6 +1,7 @@
 ﻿
 using System;
 using System.Windows;
+using System.Windows.Media;
 
 namespace BoxLayouts
 {
@@ -53,6 +54,8 @@ namespace BoxLayouts
             }
         }
 
+        public Brush BackGround { get; set; } = null;
+
         private double __minSpace = 0;
         private double __maxSpace = double.PositiveInfinity;
     }
@@ -77,29 +80,31 @@ namespace BoxLayouts
     /// Le <see cref="Glue"/> agit en limitant la prochaine cellule au ElementMinimalVisibility de son élément
     /// contenu.
     /// </summary>
-    public class Glue : FrameworkElement
-    {
-        public Glue(double maxSpace = 0)
-        {
-            MaxSpace = maxSpace;
-        }
+    //public class Glue : FrameworkElement
+    //{
+    //    public Glue(double maxSpace = 0)
+    //    {
+    //        MaxSpace = maxSpace;
+    //    }
 
-        public double MaxSpace
-        {
-            get => __maxSpace;
-            set
-            {
-                if(double.IsNegativeInfinity(value) || double.IsPositiveInfinity(value))
-                    throw new Exception("MaxSpace ne peut pas être infini.");
+    //    public double MaxSpace
+    //    {
+    //        get => __maxSpace;
+    //        set
+    //        {
+    //            if(double.IsNegativeInfinity(value) || double.IsPositiveInfinity(value))
+    //                throw new Exception("MaxSpace ne peut pas être infini.");
                 
-                if(double.IsNaN(value))
-                    __maxSpace = 0;
-                else
-                    __maxSpace = value;
-            }
-        } 
+    //            if(double.IsNaN(value))
+    //                __maxSpace = 0;
+    //            else
+    //                __maxSpace = value;
+    //        }
+    //    } 
 
-        private double __maxSpace = 0;
-    }
+    //    public Brush BackGround { get; set; } = null;
+
+    //    private double __maxSpace = 0;
+    //}
 
 }

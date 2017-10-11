@@ -56,7 +56,6 @@ namespace CFL_1.CFLGraphics
 
         public void AddElementToLayoutMenuTop(FrameworkElement _e)
         {
-            initLayoutMenuTop();
             _e.Visibility = Visibility.Visible;
             __layoutMenuTop.Insert(__layoutMenuTop.Count - 1 ,_e);
         }
@@ -201,31 +200,29 @@ namespace CFL_1.CFLGraphics
 
         #endregion Root Layout
 
-        private void initLayoutMenuTop()
-        {
-            if(__layoutMenuTop == null)
-            {
-                __layoutMenuTop = new HBoxLayout() { Height = 30 } ;
-                __layoutMenuTop.Add(new Spacer()) ;
-                __rootLayout.Insert(0, __layoutMenuTop) ;
-            }
-        }
-
         private void init()
         {
             Background = Brushes.Gray ;
             VerticalScrollBarVisibility = ScrollBarVisibility.Auto;
             HorizontalScrollBarVisibility = ScrollBarVisibility.Auto;
+
+            __rootLayout = new VBoxLayout();
             Content = __rootLayout ;
+
+            __layoutMenuTop = new HBoxLayout() { Height = 30, Background = Brushes.Beige };
+            __layoutMenuTop.Add(new Spacer());
+            
+            //__rootLayout.Add(new Glue(0));
+            __rootLayout.Add(__layoutMenuTop);
         }
 
-        private VBoxLayout __rootLayout = new VBoxLayout() ;
-        private HBoxLayout __layoutMenuTop ;
+        private VBoxLayout __rootLayout = null ;
+        private HBoxLayout __layoutMenuTop = null;
 
-        Button __buttonSave ;
-        Button __buttonNew ;
-        Button __buttonDelete ;
-        Button __buttonDocuments ;
+        Button __buttonSave      = null;
+        Button __buttonNew       = null;
+        Button __buttonDelete    = null;
+        Button __buttonDocuments = null;
 
     }
 }

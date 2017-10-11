@@ -44,7 +44,7 @@ namespace CFL_1.CFL_System
             {
                 if(!File.Exists(configPath()))
                     return false;
-                _config = JSonRelation<CFLConfig>.deserialize(File.ReadAllText(Path.Combine(localPath(), "Config.txt")));
+                _config = JSONRelation<CFLConfig>.deserialize(File.ReadAllText(Path.Combine(localPath(), "Config.txt")));
                 return true;
             }
 
@@ -96,7 +96,7 @@ namespace CFL_1.CFL_System
         {
             public static void config(CFLConfig _config)
             {
-                File.WriteAllText(configPath(), JSonRelation<CFLConfig>.serialize(_config));
+                File.WriteAllText(configPath(), JSONRelation<CFLConfig>.serialize(_config));
             }
         }
     }

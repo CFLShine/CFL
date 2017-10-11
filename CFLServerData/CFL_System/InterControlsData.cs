@@ -3,10 +3,9 @@ using System;
 using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
-using CFL_1.CFLGraphics;
 using System.Linq.Expressions;
-using MSTD;
 using RuntimeExec;
+using MSTD.ShBase;
 
 namespace CFL_1.CFL_System
 {

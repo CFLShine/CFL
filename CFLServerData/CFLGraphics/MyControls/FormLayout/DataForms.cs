@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.ComponentModel.DataAnnotations;
 using System.Reflection;
-using MSTD;
+using MSTD.ShBase;
 using Telerik.Windows.Controls;
 using Telerik.Windows.Controls.Data.DataForm;
 

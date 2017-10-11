@@ -55,7 +55,7 @@ namespace CFL_1.CFLGraphics.Editor
             // TODO passer un object selectionné par l'utilisateur
             Personne _user = new Personne();
             ((Compiler)__compiler).run(_user);
-            string _name = _user.identite.nom;
+            string _name = _user.Identite.Nom;
         }
 
         private void buttonShowTreeClicked(object sender, RoutedEventArgs e)

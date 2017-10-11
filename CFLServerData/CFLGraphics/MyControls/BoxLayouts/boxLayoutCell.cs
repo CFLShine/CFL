@@ -1,22 +1,17 @@
 ﻿using System;
 using System.Windows;
 using System.Windows.Controls;
+using System.Windows.Media;
 
 namespace BoxLayouts
 {
     public enum ELEMENTTYPE
     {
+        LAYOUT,
         SPACER,
         FIXEDSPACER,
         GLUE,
         ANY
-    }
-
-    public enum ALIGNMENT
-    {
-        PROXIMAL,
-        DISTAL,
-        CENTER
     }
 
     public abstract class CellInfo
@@ -31,20 +26,7 @@ namespace BoxLayouts
 
         public BoxLayoutModel Model { get; private set; }
 
-        public CellInfo Previous { get; set; }
-        public CellInfo Next { get; set; }
-
         public ELEMENTTYPE ELEMENTTYPE { get; private set; }
-
-        public bool IsPreviousElementType(ELEMENTTYPE _elementType)
-        {
-            return Previous != null && Previous.ELEMENTTYPE == _elementType;
-        }
-
-        public bool IsNextElementType(ELEMENTTYPE _elementType)
-        {
-            return Next != null && Next.ELEMENTTYPE == _elementType;
-        }
 
         public FrameworkElement Element
         {
@@ -53,45 +35,27 @@ namespace BoxLayouts
             {
                 __element = value??throw new ArgumentNullException("value");
 
+                if(__element is BoxLayout)
+                    ELEMENTTYPE = ELEMENTTYPE.LAYOUT;
+                else
                 if(__element is Spacer)
                     ELEMENTTYPE = ELEMENTTYPE.SPACER;
                 else
-                    if(__element is FixedSpacer)
+                if(__element is FixedSpacer)
                     ELEMENTTYPE = ELEMENTTYPE.FIXEDSPACER;
-                else 
-                    if(__element is Glue)
-                    ELEMENTTYPE = ELEMENTTYPE.GLUE;
                 else
                     ELEMENTTYPE = ELEMENTTYPE.ANY;
             }
         }
 
-        public abstract double PerpendicularMinElementSize();
+        public abstract double MinOrientedSize { get; set; }
+        public abstract double MaxOrientedSize { get; set; }
 
-        public abstract double OrientedMinimumElementSize();
+        public abstract double PerpendicularElementMinSize { get;}
+        public abstract double PerpendicularElementMaxSize { get;}
 
-        public abstract double OrientedMaximumElementSize();
-
-        public abstract double ActualOrientedCellMinSize();
+        public abstract void UpdateOrientedSizes();
         
-        public abstract double ActualOrientedCellMaxSize();
-
-        public abstract bool SetOrientedMinCellSize(double _size);
-
-        public abstract bool SetOrientedMaxCellSize(double _size);
-
-        public abstract void SetElementAlignment(ALIGNMENT alignment);
-
-        protected double MinHeight()
-        {
-            return MesureHelper.MinHeight(Element);
-        }
-
-        protected double MinWidth()
-        {
-            return MesureHelper.MinWidth(Element);
-        }
-
         private FrameworkElement __element = null;
     }
 
@@ -100,115 +64,48 @@ namespace BoxLayouts
         public VCellInfo(BoxLayoutModel model, FrameworkElement e)
             : base(model, e){ }
 
-        public override double PerpendicularMinElementSize()
+        public override double MinOrientedSize
         {
-            switch (ELEMENTTYPE)
+            get => ((VCell)Cell).MinHeight;
+            set => ((VCell)Cell).MinHeight = value;
+        }
+        public override double MaxOrientedSize
+        {
+            get => ((VCell)Cell).MaxHeight;
+            set => ((VCell)Cell).MaxHeight = value;
+        }
+        public override double PerpendicularElementMinSize
+        {
+            get
             {
-                case ELEMENTTYPE.SPACER:
-
+                if(Element is Spacer)
                     return 0;
-
-                case ELEMENTTYPE.FIXEDSPACER:
-
-                    return 0;
-
-                case ELEMENTTYPE.GLUE:
-                    
-                    return 0;
-
-                case ELEMENTTYPE.ANY:
-                    return MinWidth();
+                return MesureHelper.MinWidth(Element);
             }
-            throw new Exception("ELEMENTTYPE non pris en compte.");
         }
-
-        public override double OrientedMinimumElementSize()
+        public override double PerpendicularElementMaxSize
         {
-            switch (ELEMENTTYPE)
+            get
             {
-                case ELEMENTTYPE.SPACER:
-
-                    return ((Spacer)Element).MinSpace;
-
-                case ELEMENTTYPE.FIXEDSPACER:
-
-                    return ((FixedSpacer)Element).Space;
-
-                case ELEMENTTYPE.GLUE:
-                    
+                if(Element is Spacer)
                     return 0;
-
-                case ELEMENTTYPE.ANY:
-                    return MinHeight();
-            }
-            throw new Exception("ELEMENTTYPE non pris en compte.");
-        }
-
-        public override double OrientedMaximumElementSize()
-        {
-            switch (ELEMENTTYPE)
-            {
-                case ELEMENTTYPE.SPACER:
-
-                    return ((Spacer)Element).MaxSpace;
-                    
-                case ELEMENTTYPE.FIXEDSPACER:
-                    
-                    return ((FixedSpacer)Element).Space;
-
-                case ELEMENTTYPE.GLUE:
-                    
-                    return((Glue)Element).MaxSpace;
-
-                case ELEMENTTYPE.ANY:
-
-                    return Element.MaxHeight;
-            }
-            throw new Exception("ELEMENTTYPE non pris en compte.");
-        }
-
-        public override double ActualOrientedCellMinSize()
-        {
-            return ((RowDefinition)Cell).MinHeight;
-        }
-
-        public override double ActualOrientedCellMaxSize()
-        {
-            return ((RowDefinition)Cell).MaxHeight;
-        }
-
-        public override bool SetOrientedMinCellSize(double _size)
-        {
-            if(((RowDefinition)Cell).MinHeight == _size)
-                return false;
-            ((RowDefinition)Cell).MinHeight = _size;
-            return true;
-        }
-
-        public override bool SetOrientedMaxCellSize(double _size)
-        {
-            if(((RowDefinition)Cell).MaxHeight == _size)
-                return false;
-            ((RowDefinition)Cell).MaxHeight = _size;
-            return true;
-        }
-
-        public override void SetElementAlignment(ALIGNMENT alignment)
-        {
-            switch (alignment)
-            {
-                case ALIGNMENT.PROXIMAL:
-                    Element.VerticalAlignment = VerticalAlignment.Top;
-                    break;
-                case ALIGNMENT.DISTAL:
-                    Element.VerticalAlignment = VerticalAlignment.Bottom;
-                    break;
-                case ALIGNMENT.CENTER:
-                    Element.VerticalAlignment = VerticalAlignment.Center;
-                    break;
+                return MesureHelper.MaxWidth(Element);
             }
         }
 
+        public override void UpdateOrientedSizes()
+        {
+            if(Element is Spacer _spacer)
+            {
+                MinOrientedSize = _spacer.MinSpace;
+                MaxOrientedSize = _spacer.MaxSpace;
+            }
+            else
+            {
+                MinOrientedSize = MesureHelper.MinHeight(Element);
+                MaxOrientedSize = MesureHelper.MaxHeight(Element);
+            }
+        }
     }
 
     public class HCellInfo : CellInfo
@@ -216,113 +113,46 @@ namespace BoxLayouts
         public HCellInfo(BoxLayoutModel model, FrameworkElement e)
             : base(model, e){ }
 
-        public override double PerpendicularMinElementSize()
+        public override double MinOrientedSize
         {
-            switch (ELEMENTTYPE)
+            get => ((HCell)Cell).MinWidth;
+            set => ((HCell)Cell).MinWidth = value;
+        }
+        public override double MaxOrientedSize
+        {
+            get => ((HCell)Cell).MaxWidth;
+            set => ((HCell)Cell).MaxWidth = value;
+        }
+        public override double PerpendicularElementMinSize
+        {
+            get
             {
-                case ELEMENTTYPE.SPACER:
-
-                    return ((Spacer)Element).MinSpace;
-
-                case ELEMENTTYPE.FIXEDSPACER:
-
-                    return ((FixedSpacer)Element).Space;
-
-                case ELEMENTTYPE.GLUE:
-                    
+                if(Element is Spacer)
                     return 0;
-
-                case ELEMENTTYPE.ANY:
-
-                    return MinHeight();
+                return MesureHelper.MinHeight(Element);
             }
-            throw new Exception("ELEMENTTYPE non pris en compte.");
         }
-
-        public override double OrientedMinimumElementSize()
+        public override double PerpendicularElementMaxSize
         {
-            switch (ELEMENTTYPE)
+            get
             {
-                case ELEMENTTYPE.SPACER:
-
-                    return ((Spacer)Element).MinSpace;
-
-                case ELEMENTTYPE.FIXEDSPACER:
-
-                    return ((FixedSpacer)Element).Space;
-
-                case ELEMENTTYPE.GLUE:
-                    
+                if(Element is Spacer)
                     return 0;
-
-                case ELEMENTTYPE.ANY:
-                    return MinWidth();
+                return MesureHelper.MaxHeight(Element);
             }
-            throw new Exception("ELEMENTTYPE non pris en compte.");
         }
 
-        public override double OrientedMaximumElementSize()
+        public override void UpdateOrientedSizes()
         {
-            switch (ELEMENTTYPE)
+            if(Element is Spacer _spacer)
             {
-                case ELEMENTTYPE.SPACER:
-
-                    return ((Spacer)Element).MaxSpace;
-                    
-                case ELEMENTTYPE.FIXEDSPACER:
-                    
-                    return ((FixedSpacer)Element).Space;
-
-                case ELEMENTTYPE.GLUE:
-                    
-                    return((Glue)Element).MaxSpace;
-
-                case ELEMENTTYPE.ANY:
-
-                    return Element.MaxWidth;
+                MinOrientedSize = _spacer.MinSpace;
+                MaxOrientedSize = _spacer.MaxSpace;
             }
-            throw new Exception("ELEMENTTYPE non pris en compte.");
-        }
-
-        public override double ActualOrientedCellMinSize()
-        {
-            return ((ColumnDefinition)Cell).MinWidth;
-        }
-
-        public override double ActualOrientedCellMaxSize()
-        {
-            return ((ColumnDefinition)Cell).MaxWidth;
-        }
-        
-        public override bool SetOrientedMinCellSize(double size)
-        {
-            if(((ColumnDefinition)Cell).MinWidth == size)
-                return false;
-            ((ColumnDefinition)Cell).MinWidth = size;
-            return true;
-        }
-
-        public override bool SetOrientedMaxCellSize(double size)
-        {
-            if(((ColumnDefinition)Cell).MaxWidth == size)
-                return false;
-            ((ColumnDefinition)Cell).MaxWidth = size;
-            return true;
-        }
-
-        public override void SetElementAlignment(ALIGNMENT alignment)
-        {
-            switch (alignment)
+            else
             {
-                case ALIGNMENT.PROXIMAL:
-                    Element.HorizontalAlignment = HorizontalAlignment.Left;
-                    break;
-                case ALIGNMENT.DISTAL:
-                    Element.HorizontalAlignment = HorizontalAlignment.Left;
-                    break;
-                case ALIGNMENT.CENTER:
-                    Element.HorizontalAlignment = HorizontalAlignment.Center;
-                    break;
+                MinOrientedSize = MesureHelper.MinWidth(Element);
+                MaxOrientedSize = MesureHelper.MaxWidth(Element);
             }
         }
     }

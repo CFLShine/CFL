@@ -3,8 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
-using CFL_1.CFL_System; // utile pour le commentaire de la classe
-using MSTD;
+using MSTD.ShBase;
 
 namespace SqlOrm
 {
@@ -177,7 +176,7 @@ namespace SqlOrm
 
                     foreach(PropertyInfo _pr in _entityType.GetProperties())
                     {
-                        if(ObjectHelper.IsMappableProperty(_pr) && _pr.Name.Contains("_"))
+                        if(BaseHelper.IsMappableProperty(_pr) && _pr.Name.Contains("_"))
                             throw new Exception("Le symbol '_' est présent dans le nom de la propriété " + _pr.Name + " de la classe " + _entityType.Name +
                                                 " ce qui est interdit pour une propriété représentée dans la db.");
                     }
@@ -196,7 +195,7 @@ namespace SqlOrm
         /// ajoute un ClassProxy de _entity dans ce DBSet,
         /// puis ajoute toutes les entité contenues dans _entity (comme membre ou dans une liste).
         /// </summary>
-        public void Attach(object _entity)
+        public void Attach(Base _entity)
         {
             __attacheds.Clear();
             if(_entity != null)
@@ -211,7 +210,7 @@ namespace SqlOrm
             }
         }
 
-        private ClassProxy GetProxy(object _entity)
+        private ClassProxy GetProxy(Base _entity)
         {
             DBSet _dbset = GetDBSet(_entity.GetType());
             // Le type d'_entity n'a pas été représenté dans le DBContext
@@ -241,20 +240,20 @@ namespace SqlOrm
         {
             foreach(PropertyInfo _prInfo in _proxy.Properties)
             {
-                if(ObjectHelper.IsMappableClassType(_prInfo.PropertyType))
+                if(BaseHelper.IsMappableProperty(_prInfo) && _prInfo.PropertyType.IsSubclassOf(typeof(Base)))
                 {
-                    object _classMember = _prInfo.GetValue(_proxy.Entity);
+                    Base _classMember = (Base)_prInfo.GetValue(_proxy.Entity);
                     if(_classMember != null)
                         Attach(GetProxy(_classMember));
                 }
                 else
-                if(ObjectHelper.IsMappableListOfClass(_prInfo))
+                if(BaseHelper.IsMappableProperty(_prInfo) && BaseHelper.IsListOf(_prInfo.PropertyType, typeof(Base)))
                 {
                     IList _list = _prInfo.GetValue(_proxy.Entity) as IList;
                     foreach(object _entity in _list)
                     {
                         if(_entity != null)
-                            Attach(GetProxy(_entity));  
+                            Attach(GetProxy((Base)_entity));  
                     }
                 }
             }
@@ -286,7 +285,7 @@ namespace SqlOrm
                 _kvp.Value.CancelChanges();
         }
 
-        public DBSelect<T> Select<T>(params string[] _fields) where T : class, new()
+        public DBSelect<T> Select<T>(params string[] _fields) where T : Base, new()
         {
             DBSelect<T> _select = new DBSelect<T>(this);
             _select.Select(_fields);

@@ -9,7 +9,7 @@ namespace MSTD
     /// Expose les méthodes statiques <seealso cref="string serialize(T _object, Type[] _knownTypes = null)"/>
     /// et static T deserialize(string _s, Type[] _knownTypes = null)
     /// </summary>
-    public class JSonRelation <T> where T : new()
+    public class JSONRelation <T> where T : new()
     {
         /// <summary>
         /// Préciser _knownTypes si l'objet à serialiser contient des membres objets de classe
@@ -18,6 +18,7 @@ namespace MSTD
         /// </summary>
         public static string serialize(T _object, Type[] _knownTypes = null)
         {
+            
             DataContractJsonSerializer _serializer = new DataContractJsonSerializer(typeof(T));
             MemoryStream _ms = new MemoryStream();
 

@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections;
+﻿
 using System.Collections.Generic;
 using System.Windows;
 using System.Windows.Controls;
@@ -15,7 +14,15 @@ namespace BoxLayouts
 
         #region public methods
 
-        public bool Updating { get; private set; }
+        public bool IsPerpendicularMinimized
+        {
+            get => __isPerpendicularMinimized;
+            set
+            {
+                __isPerpendicularMinimized = value;
+                SetMinMaxLayoutSizes();
+            }
+        }
 
         public void Add(FrameworkElement e)
         {
@@ -33,11 +40,9 @@ namespace BoxLayouts
                     InsertVertical(index, e);
                     break;
             }
-
+            
             if(e is Spacer _spacer && double.IsPositiveInfinity(_spacer.MaxSpace))
                 ++ SpacersInfinite; 
-
-            UpDate();
         }
 
         public void Remove(FrameworkElement e)
@@ -47,14 +52,14 @@ namespace BoxLayouts
             {
                 if(e is Spacer _spacer && double.IsPositiveInfinity(_spacer.MaxSpace))
                     -- SpacersInfinite;
-                UpDate();
+                Update();
             }
         }
 
         public void Clear()
         {
             Layout.Children.Clear();
-            UpDate();
+            //UpDate();
         }
 
         public int Count
@@ -72,23 +77,10 @@ namespace BoxLayouts
 
         #endregion public methods
 
-        private double PerpendicularLayoutMinSize
-        {
-            get
-            {
-                if(Layout.Orientation == Orientation.Horizontal)
-                    return MesureHelper.MinWidth(Layout);
-                return Layout.MinWidth;
-            }
+        double TotalOrientedElementsMinSize   { get; set; } = 0;
 
-            set
-            {
-                if(Layout.Orientation == Orientation.Horizontal)
-                    Layout.MinHeight = value;
-                else
-                    Layout.MinWidth = value;
-            }
-        }
+        double GreatestPerpendicularElementMinSize { get; set; } = 0;
+        double GreatestPerpendicularElementMaxSize { get; set; } = 0;
 
         private BoxLayout Layout 
         { 
@@ -96,21 +88,17 @@ namespace BoxLayouts
             set
             {
                 __layout = value;
-                if(__layout != null)
-                {
-                    Column = __layout.RowDefinitions;
-                    Row = __layout.ColumnDefinitions;
-                }
-                else
-                {
-                    Column = null;
-                    Row = null;
-                }
             }
         }
 
-        private RowDefinitionCollection Column { get; set; } = null;
-        private ColumnDefinitionCollection Row { get; set; } = null;
+        private RowDefinitionCollection Column
+        {
+            get => Layout?.RowDefinitions;
+        }
+        private ColumnDefinitionCollection Row
+        {
+            get => Layout?.ColumnDefinitions;
+        }
         
         private IEnumerable<CellInfo> Cells()
         {
@@ -138,7 +126,7 @@ namespace BoxLayouts
             return ((VCell)Column[index]).CellInfo;
         }
 
-        private CellInfo HCellAt(int index)
+        private CellInfo HCellInfoAt(int index)
         {
             if(index < 0 || index >= Row.Count)
                 return null;
@@ -147,40 +135,39 @@ namespace BoxLayouts
 
         private VCell InsertVertical(int index, FrameworkElement e)
         {
-            VCellInfo cellInfo = new VCellInfo(this, e);
-            VCell _vcell = new VCell(cellInfo);
-            _vcell.CellInfo.Previous = VCellInfoAt(index);
-            Column.Insert(index, _vcell);
-            _vcell.CellInfo.Next = VCellInfoAt(index + 1);
+            VCellInfo _cellInfo = new VCellInfo(this, e);
+            VCell _vcell = new VCell(_cellInfo);
 
+            Layout.RowDefinitions.Insert(index, _vcell);
             Grid.SetColumn(e, 0);
             Grid.SetRow(e,index);
             Layout.Children.Insert(index, e);
+
+            Update();
 
             return _vcell;
         }
 
         private HCell InsertHorizontal(int index, FrameworkElement e)
         {
-            HCellInfo cellInfo = new HCellInfo(this, e);
-            HCell _hcell = new HCell(cellInfo);
-            _hcell.CellInfo.Previous = HCellAt(index);
-            Row.Insert(index, _hcell);
-            _hcell.CellInfo.Next = HCellAt(index + 1);
+            HCellInfo _cellInfo = new HCellInfo(this, e);
+            HCell _hcell = new HCell(_cellInfo);
 
+            Layout.ColumnDefinitions.Insert(index, _hcell);
             Grid.SetColumn(e, index);
             Grid.SetRow(e, 0);
             Layout.Children.Insert(index, e);
+
+            Update();
 
             return _hcell;
         }
 
         private bool RemoveAt(int index)
         {
-            Layout.Children.RemoveAt(index);
-           
             if(index < 0 || index >= Layout.Children.Count)
                 return false;
+            Layout.Children.RemoveAt(index);
 
             CellInfo _cellInfo = null;
 
@@ -196,116 +183,92 @@ namespace BoxLayouts
                     break;
             }
 
-            if(_cellInfo.Previous != null)
-                _cellInfo.Previous.Next = _cellInfo.Next;
-            if(_cellInfo.Next != null)
-                _cellInfo.Next.Previous = _cellInfo.Previous;
-
             return true;
         }
 
         private int SpacersInfinite { get; set; }
 
+        public bool HasSpacersInfinite
+        { 
+            get => SpacersInfinite > 0; 
+        }
+
         #region Update
 
-        public void UpDate()
+        public void Update()
         {
-            if(Updating)
-                return;
+            UpdateSizes();
+            
+            SetMinMaxLayoutSizes();
+           
+            if(Layout.Parent is BoxLayout _layout)
+                _layout.Model.Update();
+        }
 
-            Updating = true;
-
-            bool _changes = false;
-
-            double _orientedMinElementSize = 0;
-            double _orientedMaxElementSize = 0;
-            double _perpendicularMinElementsSize = 0;
+        private void UpdateSizes()
+        {
+            TotalOrientedElementsMinSize = 0;
+            GreatestPerpendicularElementMinSize = 0;
+            GreatestPerpendicularElementMaxSize = 0;
 
             foreach(CellInfo _cellInfo in Cells())
             {
-                _cellInfo.SetElementAlignment(ALIGNMENT.CENTER);
+                _cellInfo.UpdateOrientedSizes();
 
-                _orientedMinElementSize = _cellInfo.OrientedMinimumElementSize();
-                _orientedMaxElementSize = _cellInfo.OrientedMaximumElementSize();
+                TotalOrientedElementsMinSize += _cellInfo.MinOrientedSize;
+                
+                double _perpendicularElementMinSize = _cellInfo.PerpendicularElementMinSize;
+                double _perpendicularElementMaxSize = _cellInfo.PerpendicularElementMaxSize;
 
-                _perpendicularMinElementsSize += _cellInfo.PerpendicularMinElementSize();
+                if(MSTD.DoubleHelper.Smaller(GreatestPerpendicularElementMinSize, _perpendicularElementMinSize))
+                    GreatestPerpendicularElementMinSize = _perpendicularElementMinSize;
 
-                if(_cellInfo.ELEMENTTYPE == ELEMENTTYPE.ANY)
+                if(
+                     !double.IsPositiveInfinity(_perpendicularElementMaxSize)
+                  && MSTD.DoubleHelper.Smaller(GreatestPerpendicularElementMaxSize, _perpendicularElementMaxSize)
+                  )
+                    GreatestPerpendicularElementMaxSize = _perpendicularElementMaxSize;
+            }
+        }
+
+        private void SetMinMaxLayoutSizes()
+        {
+            if(Layout.Orientation == Orientation.Horizontal)
+            {
+                Layout.MinWidth = TotalOrientedElementsMinSize;
+                Layout.MinHeight = GreatestPerpendicularElementMinSize;
+
+                if(IsPerpendicularMinimized)
                 {
-                    if(SpacersInfinite > 0)
-                    {
-                        if(_cellInfo.SetOrientedMaxCellSize(_orientedMinElementSize))
-                            _changes = true;
-                    }
+                    if(GreatestPerpendicularElementMaxSize != 0)
+                        Layout.MaxHeight = GreatestPerpendicularElementMaxSize;
                     else
-                    {
-                        if(_cellInfo.IsPreviousElementType(ELEMENTTYPE.GLUE) 
-                        && _cellInfo.IsPreviousElementType(ELEMENTTYPE.GLUE))
-                        {
-                            if(_cellInfo.SetOrientedMaxCellSize(_orientedMinElementSize))
-                                _changes = true;
-                        }
-                        else
-                        {
-                            if(_cellInfo.IsPreviousElementType(ELEMENTTYPE.GLUE))
-                                _cellInfo.SetElementAlignment(ALIGNMENT.PROXIMAL);
-                            else
-                                _cellInfo.SetElementAlignment(ALIGNMENT.DISTAL);
-
-                            if(_cellInfo.SetOrientedMaxCellSize(_orientedMaxElementSize))
-                                _changes = true;
-                        }
-                    }
+                        Layout.MaxHeight = GreatestPerpendicularElementMinSize;
                 }
                 else
-                {
-                    if(_cellInfo.SetOrientedMaxCellSize(_orientedMaxElementSize))
-                        _changes = true;
-                }
-
-                // anyway
-                if(_cellInfo.SetOrientedMinCellSize(_orientedMinElementSize))
-                    _changes = true;
-
-
+                    Layout.MaxHeight = double.PositiveInfinity;
             }
-
-            if(PerpendicularLayoutMinSize < _perpendicularMinElementsSize)
+            else // Orientation.Vertical
             {
-                PerpendicularLayoutMinSize = _perpendicularMinElementsSize;
-                _changes = true;
-            }
+                Layout.MinHeight = TotalOrientedElementsMinSize;
+                Layout.MinWidth = GreatestPerpendicularElementMinSize;
 
-            if(_changes == true && Layout.Parent is BoxLayout _layoutParent)
-                _layoutParent.Model.UpDate();
+                if(IsPerpendicularMinimized)
+                {
+                    if(GreatestPerpendicularElementMaxSize != 0)
+                        Layout.MaxWidth = GreatestPerpendicularElementMaxSize;
+                    else
+                        Layout.MaxWidth = GreatestPerpendicularElementMinSize;
+                }
+                else
+                    Layout.MaxWidth = double.PositiveInfinity;
+            }
         }
 
         #endregion Update
 
         private BoxLayout __layout = null;
-    }
-
-    public static class MesureHelper
-    {
-        public static double MinHeight(FrameworkElement e)
-        {
-            double _value = 0;
-            if(e.MinHeight > _value)
-                _value = e.MinHeight;
-            if(e.Height > _value)
-                _value = e.Height;
-            return _value;
-        }
-
-        public static double MinWidth(FrameworkElement e)
-        {
-            double _value = 0;
-            if(e.MinWidth > _value)
-                _value = e.MinWidth;
-            if(e.Width > _value)
-                _value = e.Width;
-            return _value;
-        }
+        private bool __isPerpendicularMinimized = false;
     }
     
 }

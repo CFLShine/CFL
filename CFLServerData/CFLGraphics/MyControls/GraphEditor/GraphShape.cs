@@ -3,7 +3,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using CFL_1.CFLGraphics.MyControls.FormLayout;
 using CFL_1.CFLGraphics.MyControls.GraphEditor;
-using MSTD;
+using MSTD.ShBase;
 using Telerik.Windows.Controls;
 
 namespace CFL_1.CFLGraphics.GraphEditor

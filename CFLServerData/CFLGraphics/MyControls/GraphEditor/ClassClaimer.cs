@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations.Schema;
-using MSTD;
+using MSTD.ShBase;
 
 namespace CFL_1.CFLGraphics.MyControls.GraphEditor
 {

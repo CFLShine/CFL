@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Reflection;
 
-namespace MSTD
+namespace MSTD.ShBase
 {
     public static class BaseHelper
     {
@@ -14,6 +16,8 @@ namespace MSTD
         {
             return (Base)(Activator.CreateInstance(_base.GetType()));
         }
+
+        #region Components
 
         /// <summary>
         /// Retourne le premier composant trouvé de type T, qu'il soit contenu par une propriété
@@ -46,7 +50,7 @@ namespace MSTD
 
                     if(IsGenericList(_propertyType))
                     {
-                        Type _itemsType = GetListItemsType(_propertyType);
+                        Type _itemsType = ListItemsType(_propertyType);
                         if(_itemsType == typeof(Base) || _itemsType.IsSubclassOf(typeof(Base)))
                         {
                             IList _list = (IList)_pr.GetValue(_parent);
@@ -95,7 +99,7 @@ namespace MSTD
                         yield return (Base)(_pr.GetValue(_parent));
                     }
 
-                    if(IsGenericList(_propertyType) && GetListItemsType(_propertyType).IsSubclassOf(typeof(Base)))
+                    if(IsGenericList(_propertyType) && ListItemsType(_propertyType).IsSubclassOf(typeof(Base)))
                     {
                         IList _list = (IList)_pr.GetValue(_parent);
                         foreach(object _o in _list)
@@ -126,7 +130,7 @@ namespace MSTD
                             return _value;
                     }
 
-                    if(IsGenericList(_propertyType) && GetListItemsType(_propertyType).IsSubclassOf(typeof(Base)))
+                    if(IsGenericList(_propertyType) && ListItemsType(_propertyType).IsSubclassOf(typeof(Base)))
                     {
                         IList _list = (IList)_pr.GetValue(_parent);
                         foreach(object _o in _list)
@@ -140,16 +144,117 @@ namespace MSTD
             return null;
         }
 
+        #endregion Components
+
+        #region DB
+
+        /// <summary>
+        /// Vérifie que cette propriété est publique,
+        /// qu'elle n'a pas l'attribut [NotMapped] et
+        /// qu'elle pocède les methodes get et set.
+        /// </summary>
+        public static bool IsMappableProperty(PropertyInfo _prInfo)
+        {
+            Type _t = _prInfo.PropertyType;
+
+            if(_prInfo.GetCustomAttribute<NotMappedAttribute>() != null
+            || _t.IsPublic == false
+            || _prInfo.CanRead == false
+            || _prInfo.CanWrite == false)
+                return false;
+            return true;
+        }
+
+        #endregion DB
+
+        public static string GetNameToDisplay(PropertyInfo _prInfo)
+        {
+            DisplayAttribute _attribute = _prInfo.GetCustomAttribute<DisplayAttribute>();
+            return (_attribute != null && !string.IsNullOrWhiteSpace(_attribute.Name))?
+                    _attribute.Name : _prInfo.Name;
+        }
+
+        /// <summary>
+        /// Retourne la propriété membre de la classe de type _classType dont le nom est _propertyName.
+        /// N'est pas sensible à la casse.
+        /// </summary>
+        public static PropertyInfo Property(Type _classType, string _propertyName)
+        {
+            foreach(PropertyInfo _prInfo in _classType.GetProperties())
+            {
+                if(_prInfo.Name.ToLower() == _propertyName.ToLower())
+                    return _prInfo;
+            }
+            return null;
+        }
+
+        /// <summary>
+        /// Retourne la première propriété publique de type propertyType trouvée dans la class de type classType,
+        /// ou null si non trouvée.
+        /// </summary>
+        public static PropertyInfo Property(Type classType, Type propertyType)
+        {
+            foreach(PropertyInfo _prInfo in classType.GetProperties())
+            {
+                if(_prInfo.PropertyType.IsPublic && _prInfo.PropertyType == propertyType)
+                    return _prInfo;
+            }
+            return null;
+        }
+
+        /// <summary>
+        /// Retourne true si le type est primitif : 
+        /// Boolean, Byte, SByte, Int16, UInt16, Int32, UInt32, Int64, UInt64, IntPtr, UIntPtr, Char, Double, and Single,
+        /// ou Decimal, string, DateTime, TimeSpan.
+        /// </summary>
+        public static bool IsPrimitiveOrAlike(Type type)
+        {
+            return type.IsPrimitive
+                || type == typeof(Decimal)
+                || type == typeof(string)
+                || type == typeof(DateTime)
+                || type == typeof(TimeSpan);
+        }
+
         public static bool IsGenericList(Type _type)
         {
             return(_type.IsGenericType && _type.GetGenericTypeDefinition() == typeof(List<>));
         }
 
-        public static Type GetListItemsType(Type _ListType)
+        /// <summary>
+        /// Retourne true si objectType est une liste dont les items
+        /// sont de type ou sous-type de itemsType.
+        /// </summary>
+        public static bool IsListOf(Type objectType, Type itemsType)
         {
-            if(!IsGenericList(_ListType))
-                return null;
+            return IsGenericList(objectType) && 
+            (ListItemsType(objectType) == itemsType || ListItemsType(objectType).IsSubclassOf(itemsType));
+        }
+
+        /// <summary>
+        /// Retourne le type des items d'une liste.
+        /// </summary>
+        public static Type ListItemsType(Type _ListType)
+        {
             return _ListType.GetGenericArguments()[0];
         }
+
+        public static bool IsDictionary(Type type)
+        {
+            return(type.IsGenericType
+                && type.GetGenericTypeDefinition() == typeof(Dictionary<,>));
+        }
+
+        /// <summary>
+        /// Retourne un tuple du type des clés et du type des valeurs du dictionnaire si 
+        /// type est un type de dictionnaire, sinon retourne null.
+        /// </summary>
+        public static Tuple<Type, Type> DictionaryKeysValuesTypes(Type type)
+        {
+            if(!IsDictionary(type))
+                return null;
+            return new Tuple<Type, Type>(type.GetGenericArguments()[0], type.GetGenericArguments()[1]);
+        }
+
     }
 }

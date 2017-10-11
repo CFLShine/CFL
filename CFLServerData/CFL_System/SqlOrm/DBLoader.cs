@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Reflection;
 using MSTD;
+using MSTD.ShBase;
 using Npgsql;
 
 namespace SqlOrm
 {
-    public class DBLoader<T> where T : class, new()
+    public class DBLoader<T> where T : Base, new()
     {
         public DBLoader(DBSelect<T> _select)
         {
@@ -40,14 +41,14 @@ namespace SqlOrm
             return null;
         }
 
-        public X LoadMother<X>() where X : class, new()
+        public X LoadMother<X>() where X : Base, new()
         {
             T _child = First();
-            string _memberName = ObjectHelper.Property(typeof(T), typeof(X)).Name.ToLower();
+            string _memberName = BaseHelper.Property(typeof(T), typeof(X)).Name.ToLower();
             string _fieldName = 
                 "class_" + typeof(T).Name.ToLower() + "_" + _memberName;
             DBSelect<X> _select = new DBSelect<X>(DbContext);
-            return _select.Where(_fieldName + " = '" + ObjectHelper.ID(_child).ToString() + "'").First();
+            return _select.Where(_fieldName + " = '" + _child.ID.ToString() + "'").First();
         }
 
         public DBConnection Connection
@@ -215,7 +216,7 @@ namespace SqlOrm
             for (int _i = 0; _i < _row.Count; _i++)
             {
                 string _fieldName = _row.GetFieldName(_i);
-                PropertyInfo _propertyInfo = ObjectHelper.Property(_proxy.Entity, _fieldName);
+                PropertyInfo _propertyInfo = BaseHelper.Property(_proxy.Entity.GetType(), _fieldName);
                 if(_propertyInfo != null)
                 {
                     object _value = _row.GetValue(_i);
@@ -306,15 +307,15 @@ namespace SqlOrm
 
             foreach(ClassProxy _classAndProxy in _dbset.ClassProxies)
             {
-                object _entity = _classAndProxy.Entity;
-                if(ObjectHelper.ID(_entity) == _id)
+                Base _entity = _classAndProxy.Entity;
+                if(_entity.ID == _id)
                     return _classAndProxy;
             }
             
             // non trouvé.
 
             ClassProxy _newClassAndProxy = _dbset.Factory();
-            ObjectHelper.SetId(_newClassAndProxy.Entity, _id);
+            _newClassAndProxy.EntityId = _id;
             return _newClassAndProxy;
         }
 

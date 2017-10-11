@@ -60,7 +60,7 @@ namespace CFL_1.CFL_System.DB
         public DBSet<Deces>               Deces              { get; set; }
 
         public DBSet<Naissance>           Naissance          { get; set; }
-        public DBSet<SituationFamillale>  SituationFamillale { get; set; }
+        public DBSet<SituationFamiliale>  SituationFamillale { get; set; }
         public DBSet<Filiation>           Filiation          { get; set; }
         public DBSet<Pouvoir>             Pouvoir            { get; set; }
         public DBSet<Parent>              Parent             { get; set; }

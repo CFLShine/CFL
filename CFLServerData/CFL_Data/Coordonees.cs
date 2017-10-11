@@ -1,5 +1,5 @@
 ﻿using CFL_1.CFL_Data.Communes;
-using MSTD;
+using MSTD.ShBase;
 
 namespace CFL_1.CFL_Data
 {

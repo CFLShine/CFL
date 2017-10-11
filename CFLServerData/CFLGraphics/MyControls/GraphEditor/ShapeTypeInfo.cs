@@ -3,8 +3,8 @@ using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq.Expressions;
-using CFL_1.CFL_System;
 using MSTD;
+using MSTD.ShBase;
 using RuntimeExec;
 
 namespace CFL_1.CFLGraphics.MyControls.GraphEditor
@@ -229,7 +229,7 @@ namespace CFL_1.CFLGraphics.MyControls.GraphEditor
             foreach(ClassClaimer _claimer in ClaimersForEdit)
             {
                 if(_claimer.fromType == _type.TypeName)
-                    return SolutionClasses.ClassType(_claimer.claimedType);
+                    return SolutionClasses.Type(_claimer.claimedType);
             }
             return null;
         }
@@ -252,7 +252,7 @@ namespace CFL_1.CFLGraphics.MyControls.GraphEditor
             if(_t == null)
                 return null;
             
-            Base _newcomponent =  SolutionClasses.ClassInstance(_t.Name);
+            Base _newcomponent =  SolutionClasses.Factory(_t.Name);
             ClaimedComponents.Add(_newcomponent);
             ClaimedBy.Add(_by);
             return _newcomponent;

@@ -7,10 +7,12 @@ namespace RuntimeExec
 {
     /// <summary>
     /// Exemple :
-    /// Soit un object ObjectA de classe A, une propriété PrB de ObjectA retournant un objet ObjectB de class B, une propriété PrInt de objectB retournant un type int,
+    /// Soit un object ObjectA de classe A, 
+    /// une propriété PrB de ObjectA retournant un objet ObjectB de class B, 
+    /// une propriété PrInt de objectB retournant un int,
     /// l'expression est : 
     /// 
-    ///           ObjectA.PrB.PrInt.
+    ///           ObjectA.PrB.PrInt
     ///           
     /// Le <see cref="REMemberExpression"/> sera alors fait comme suit :
     /// - un <see cref="REMemberExpression"/> correspondant à PrB, <see cref="REMemberExpression.Parent"/>  <see cref="REClassObject"/>(ObjectA)

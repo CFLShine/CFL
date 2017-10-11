@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using MSTD;
+using MSTD.ShBase;
 
 namespace CFL_1.CFL_Data.Defunts
 {
