@@ -1,0 +1,101 @@
+Id=19122016
+Jourdate=19/12/2016
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9675
+Pf_ceremonie=PFM
+Nom_ceremonie=DEBUQUOY
+Prenom_ceremonie=JOSELINE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9675
+Pf_cremation=PFM
+Nom_cremation=DEBUQUOY
+Prenom_cremation=JOSELINE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1790
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=9683
+Pf_ceremonie=PFM
+Nom_ceremonie=VIRATELLE
+Prenom_ceremonie=ANNIE
+CodeDft_cremation=9683
+Pf_cremation=PFM
+Nom_cremation=VIRATELLE
+Prenom_cremation=ANNIE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=1791
+Four=2
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=9684
+Pf_ceremonie=PF PASCAL LECLERC
+Nom_ceremonie=EGUILEOR
+Prenom_ceremonie=JEAN-CLAUDE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY  HOPITAL
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+CodeDft_cremation=9684
+Pf_cremation=PF PASCAL LECLERC
+Nom_cremation=EGUILEOR
+Prenom_cremation=JEAN-CLAUDE
+EvenementArrivee_cremation=Arrivée de CHAMBERY  HOPITAL
+FicheOccupe=Libre
+NoOrdre=1792
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

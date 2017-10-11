@@ -1,0 +1,149 @@
+Id=11032015
+Jourdate=11/03/2015
+Version=NouveauFormat
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5009
+Pf=PFM
+Conseiller=MICKA
+Nom=PICHOT
+Prenom=RENEE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Centre funéraire
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=426
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5028
+Pf=PF CHAMBERIENNES
+Conseiller=Loïc TREVARAIN
+Nom=LANSARD 
+Prenom=FRANCOIS
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=430
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=5038
+Pf=PF BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=BOURLAND
+Prenom=SIMONE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=NORMALEMENT PAS DE FAMILLE
+NoOrdre=425
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5019
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=MORTIER
+Prenom=RENE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de HOPITAL  CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=424
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5026
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=VIAL
+Prenom=CHRISTIAN
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=429
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=5032
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=GENTIL
+Prenom=MICHEL
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=428
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5037
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=SOFFRAY
+Prenom=ANTOINE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=427
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

@@ -1,0 +1,6 @@
+Id=23042014
+Agent=NANTOIS
+Provenance=HOPITAL  DE CHAMBERY
+Nature= 2 FOETUS
+Four=1
+NoOrdre=508

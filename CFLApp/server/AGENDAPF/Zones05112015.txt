@@ -1,0 +1,129 @@
+Id=5112015
+JourDate=05/11/2015
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6823
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=7
+EquipeId_1=5
+EquipeId_2=58
+EquipeId_3=8
+Ordo=FAVRIN Thierry
+Equipe_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+Equipe_2=MULDER Michaël
+Equipe_3=ESPINOZA François
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6823
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=7
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=JACQUIER Michel
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=6822
+Comment_0=SIMPLE RECUEILLEMENT SALON
+Comment_1=3 PERSONNES
+HeureComment=  :
+OrdoId=14
+EquipeId_0=5
+EquipeId_1=8
+EquipeId_2=59
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=MILLON Patrick
+Equipe_1=ESPINOZA François
+Equipe_2=DOUAY Jean-Yves
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6826
+Comment_0=RECUILLEMENT AVEC UNE MUSIQUE A LA CHAMBRE MORTUAIRE
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=59
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=DOUAY Jean-Yves
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6819
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=5
+EquipeId_1=8
+EquipeId_2=59
+EquipeId_3=7
+Ordo=KAELBERER Eric
+Equipe_0=MILLON Patrick
+Equipe_1=ESPINOZA François
+Equipe_2=DOUAY Jean-Yves
+Equipe_3=JACQUIER Michel
+End With
+With ZONE
+Id=6
+CodeDft=6838
+DemiJour=0
+Pos=1
+UsedBy=
+End With

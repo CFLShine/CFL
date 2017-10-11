@@ -1,0 +1,134 @@
+Id=9032013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\505.txt
+Pf=PFG CHAMBERY
+Conseiller=Loïc TREVARAIN
+Nom=FRANZINI
+Prenom=MARCEL
+HeureArrivee=
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=316
+Four=2
+CodeDft=505
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\500.txt
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=CANTALUPI
+Prenom=DOMINIQUE
+HeureArrivee=10:45
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF récupèrent
+NoOrdre=317
+Four=1
+CodeDft=500
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\507.txt
+Pf=PF PECH
+Conseiller=Loïc TREVARAIN
+Nom=CECCHINEL
+Prenom=PIERRE
+HeureArrivee=
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=318
+Four=2
+CodeDft=507
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+NoOrdre=
+Four=
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\497.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=VIZZUTTI
+Prenom=ODETTE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=La famille récupère
+Police=True
+NoOrdre=319
+Four=2
+CodeDft=497
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\504.txt
+Pf=PFM
+Conseiller=GAYRAUD Ginette
+Nom=ULYSSE
+Prenom=CHRISTIANE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=INHUMATION CHARRIERE NEUVE
+CodeDft=504
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With

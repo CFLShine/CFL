@@ -1,0 +1,177 @@
+Id=2122015
+Jourdate=02/12/2015
+With ZONE
+Id=7
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+CodeDft_ceremonie=6989
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=PAVLISTA
+Prenom_ceremonie=BERNARD
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6989
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=PAVLISTA
+Prenom_cremation=BERNARD
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1703
+Four=2
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=7006
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=FERRAND
+Prenom_ceremonie=FRANCOIS
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM   DEPOT DU CERCUEIL LE 01 DECEMBRE AU SOIR
+CodeDft_cremation=7006
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=FERRAND
+Prenom_cremation=FRANCOIS
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=1699
+Four=1
+End With
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=7003
+Pf_ceremonie=PFM
+Nom_ceremonie=VOIRON
+Prenom_ceremonie=ERNESTINE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6993
+Pf_ceremonie=FUNE CAP PASCAL LECLERC
+Nom_ceremonie=REMICHI
+Prenom_ceremonie=GAMEL
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6993
+Pf_cremation=FUNE CAP PASCAL LECLERC
+Nom_cremation=REMICHI
+Prenom_cremation=GAMEL
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1700
+Four=1
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=7004
+Pf_ceremonie=PFM
+Nom_ceremonie=MICHALIK
+Prenom_ceremonie=STEFAN
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7004
+Pf_cremation=PFM
+Nom_cremation=MICHALIK
+Prenom_cremation=STEFAN
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1701
+Four=2
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+HeuretArrivee_ceremonie=
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=6995
+Pf_ceremonie=PFM
+Nom_ceremonie=CHARLES
+Prenom_ceremonie=MARIE-THERESE
+CodeDft_cremation=6995
+Pf_cremation=PFM
+Nom_cremation=CHARLES
+Prenom_cremation=MARIE-THERESE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=1702
+Four=1
+End With

@@ -1,0 +1,9 @@
+Id=-1
+With ADMISSION
+Id=4592
+Nom=ARCHIPRETRE
+Prenom=GERMAINE
+CodeDft=4592
+AdmissionDate=18/12/0015
+NoOrdre=42
+End With

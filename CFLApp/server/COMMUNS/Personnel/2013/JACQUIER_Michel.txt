@@ -1,0 +1,1204 @@
+Version=1
+DroitCongesFC=243:00
+CongesAnPrecFC=00:00
+EpargneFC=00:00
+Absence_2_JACQUIER:Michel_Color [White]_
+Absence_2_RECUP_Color [DarkSalmon]_0_01/02/2013
+Absence_2__Color [DarkSalmon]_1_01/02/2013
+Absence_2__Color [DarkSalmon]_0_02/02/2013
+Absence_2__Color [DarkSalmon]_1_02/02/2013
+Absence_2__Color [DarkSalmon]_0_03/02/2013
+Absence_2__Color [DarkSalmon]_1_03/02/2013
+Absence_2_RECUP_Color [DarkSalmon]_0_04/02/2013
+Absence_2_RECUP_Color [DarkSalmon]_1_04/02/2013
+Absence_2__Color [White]_0_05/02/2013
+Absence_2__Color [White]_1_05/02/2013
+Absence_2__Color [White]_0_06/02/2013
+Absence_2__Color [White]_1_06/02/2013
+Absence_2__Color [White]_0_07/02/2013
+Absence_2__Color [White]_1_07/02/2013
+Absence_2__Color [DarkSalmon]_0_08/02/2013
+Absence_2__Color [White]_1_08/02/2013
+Absence_2__Color [White]_0_09/02/2013
+Absence_2__Color [White]_1_09/02/2013
+Absence_2__Color [White]_0_10/02/2013
+Absence_2__Color [White]_1_10/02/2013
+Absence_2__Color [White]_0_11/02/2013
+Absence_2__Color [White]_1_11/02/2013
+Absence_2__Color [White]_0_12/02/2013
+Absence_2__Color [White]_1_12/02/2013
+Absence_2__Color [White]_0_13/02/2013
+Absence_2__Color [White]_1_13/02/2013
+Absence_2__Color [White]_0_14/02/2013
+Absence_2__Color [White]_1_14/02/2013
+Absence_2__Color [White]_0_15/02/2013
+Absence_2__Color [White]_1_15/02/2013
+Absence_2__Color [White]_0_16/02/2013
+Absence_2__Color [White]_1_16/02/2013
+Absence_2__Color [White]_0_17/02/2013
+Absence_2__Color [White]_1_17/02/2013
+Absence_2__Color [White]_0_18/02/2013
+Absence_2__Color [White]_1_18/02/2013
+Absence_2__Color [White]_0_19/02/2013
+Absence_2__Color [White]_1_19/02/2013
+Absence_2__Color [White]_0_20/02/2013
+Absence_2__Color [White]_1_20/02/2013
+Absence_2__Color [White]_0_21/02/2013
+Absence_2__Color [White]_1_21/02/2013
+Absence_2__Color [White]_0_22/02/2013
+Absence_2__Color [White]_1_22/02/2013
+Absence_2__Color [White]_0_23/02/2013
+Absence_2__Color [White]_1_23/02/2013
+Absence_2__Color [White]_0_24/02/2013
+Absence_2__Color [White]_1_24/02/2013
+Absence_2__Color [White]_0_25/02/2013
+Absence_2__Color [White]_1_25/02/2013
+Absence_2__Color [White]_0_26/02/2013
+Absence_2__Color [White]_1_26/02/2013
+Absence_2__Color [White]_0_27/02/2013
+Absence_2__Color [White]_1_27/02/2013
+Absence_2__Color [White]_0_28/02/2013
+Absence_2__Color [White]_1_28/02/2013
+Absence_1_JACQUIER:Michel_Color [White]_
+Absence_1__Color [White]_0_01/01/2013
+Absence_1__Color [White]_1_01/01/2013
+Absence_1__Color [White]_0_02/01/2013
+Absence_1__Color [White]_1_02/01/2013
+Absence_1__Color [White]_0_03/01/2013
+Absence_1__Color [White]_1_03/01/2013
+Absence_1__Color [White]_0_04/01/2013
+Absence_1__Color [White]_1_04/01/2013
+Absence_1__Color [White]_0_05/01/2013
+Absence_1__Color [White]_1_05/01/2013
+Absence_1__Color [White]_0_06/01/2013
+Absence_1__Color [White]_1_06/01/2013
+Absence_1__Color [White]_0_07/01/2013
+Absence_1__Color [White]_1_07/01/2013
+Absence_1__Color [White]_0_08/01/2013
+Absence_1__Color [White]_1_08/01/2013
+Absence_1__Color [White]_0_09/01/2013
+Absence_1__Color [White]_1_09/01/2013
+Absence_1__Color [White]_0_10/01/2013
+Absence_1__Color [White]_1_10/01/2013
+Absence_1__Color [White]_0_11/01/2013
+Absence_1__Color [White]_1_11/01/2013
+Absence_1__Color [White]_0_12/01/2013
+Absence_1__Color [White]_1_12/01/2013
+Absence_1__Color [White]_0_13/01/2013
+Absence_1__Color [White]_1_13/01/2013
+Absence_1__Color [White]_0_14/01/2013
+Absence_1__Color [White]_1_14/01/2013
+Absence_1__Color [White]_0_15/01/2013
+Absence_1__Color [White]_1_15/01/2013
+Absence_1__Color [White]_0_16/01/2013
+Absence_1__Color [White]_1_16/01/2013
+Absence_1__Color [White]_0_17/01/2013
+Absence_1__Color [White]_1_17/01/2013
+Absence_1__Color [White]_0_18/01/2013
+Absence_1__Color [White]_1_18/01/2013
+Absence_1__Color [White]_0_19/01/2013
+Absence_1__Color [White]_1_19/01/2013
+Absence_1__Color [White]_0_20/01/2013
+Absence_1__Color [White]_1_20/01/2013
+Absence_1__Color [White]_0_21/01/2013
+Absence_1_RECUP_Color [DarkSalmon]_1_21/01/2013
+Absence_1__Color [White]_0_22/01/2013
+Absence_1__Color [White]_1_22/01/2013
+Absence_1__Color [White]_0_23/01/2013
+Absence_1__Color [White]_1_23/01/2013
+Absence_1__Color [White]_0_24/01/2013
+Absence_1__Color [White]_1_24/01/2013
+Absence_1_RECUP_Color [DarkSalmon]_0_25/01/2013
+Absence_1__Color [White]_1_25/01/2013
+Absence_1__Color [White]_0_26/01/2013
+Absence_1__Color [White]_1_26/01/2013
+Absence_1__Color [White]_0_27/01/2013
+Absence_1__Color [White]_1_27/01/2013
+Absence_1__Color [Orange]_0_28/01/2013
+Absence_1__Color [Orange]_1_28/01/2013
+Absence_1__Color [Orange]_0_29/01/2013
+Absence_1__Color [Orange]_1_29/01/2013
+Absence_1__Color [Orange]_0_30/01/2013
+Absence_1__Color [Orange]_1_30/01/2013
+Absence_1_REC_Color [DarkSalmon]_0_31/01/2013
+Absence_1_REC_Color [DarkSalmon]_1_31/01/2013
+Absence_3_JACQUIER:Michel_Color [White]_
+Absence_3__Color [DarkSalmon]_0_01/03/2013
+Absence_3__Color [White]_1_01/03/2013
+Absence_3__Color [White]_0_02/03/2013
+Absence_3__Color [White]_1_02/03/2013
+Absence_3__Color [White]_0_03/03/2013
+Absence_3__Color [White]_1_03/03/2013
+Absence_3__Color [White]_0_04/03/2013
+Absence_3__Color [White]_1_04/03/2013
+Absence_3__Color [White]_0_05/03/2013
+Absence_3__Color [White]_1_05/03/2013
+Absence_3__Color [DarkSalmon]_0_06/03/2013
+Absence_3__Color [White]_1_06/03/2013
+Absence_3__Color [White]_0_07/03/2013
+Absence_3__Color [White]_1_07/03/2013
+Absence_3__Color [DarkSalmon]_0_08/03/2013
+Absence_3__Color [White]_1_08/03/2013
+Absence_3__Color [White]_0_09/03/2013
+Absence_3__Color [White]_1_09/03/2013
+Absence_3__Color [White]_0_10/03/2013
+Absence_3__Color [White]_1_10/03/2013
+Absence_3__Color [White]_0_11/03/2013
+Absence_3__Color [White]_1_11/03/2013
+Absence_3__Color [White]_0_12/03/2013
+Absence_3__Color [White]_1_12/03/2013
+Absence_3__Color [White]_0_13/03/2013
+Absence_3__Color [White]_1_13/03/2013
+Absence_3__Color [White]_0_14/03/2013
+Absence_3__Color [White]_1_14/03/2013
+Absence_3__Color [White]_0_15/03/2013
+Absence_3__Color [White]_1_15/03/2013
+Absence_3__Color [White]_0_16/03/2013
+Absence_3__Color [White]_1_16/03/2013
+Absence_3__Color [White]_0_17/03/2013
+Absence_3__Color [White]_1_17/03/2013
+Absence_3__Color [White]_0_18/03/2013
+Absence_3__Color [White]_1_18/03/2013
+Absence_3__Color [White]_0_19/03/2013
+Absence_3__Color [White]_1_19/03/2013
+Absence_3__Color [White]_0_20/03/2013
+Absence_3__Color [White]_1_20/03/2013
+Absence_3__Color [White]_0_21/03/2013
+Absence_3__Color [White]_1_21/03/2013
+Absence_3__Color [White]_0_22/03/2013
+Absence_3__Color [White]_1_22/03/2013
+Absence_3__Color [White]_0_23/03/2013
+Absence_3__Color [White]_1_23/03/2013
+Absence_3__Color [White]_0_24/03/2013
+Absence_3__Color [White]_1_24/03/2013
+Absence_3__Color [White]_0_25/03/2013
+Absence_3__Color [White]_1_25/03/2013
+Absence_3__Color [White]_0_26/03/2013
+Absence_3__Color [White]_1_26/03/2013
+Absence_3__Color [White]_0_27/03/2013
+Absence_3__Color [White]_1_27/03/2013
+Absence_3__Color [White]_0_28/03/2013
+Absence_3__Color [White]_1_28/03/2013
+Absence_3_4h00 REC_Color [DarkSalmon]_0_29/03/2013
+Absence_3__Color [White]_1_29/03/2013
+Absence_3__Color [White]_0_30/03/2013
+Absence_3__Color [White]_1_30/03/2013
+Absence_3__Color [White]_0_31/03/2013
+Absence_3__Color [White]_1_31/03/2013
+Absence_4_JACQUIER:Michel_Color [White]_
+Absence_4__Color [White]_0_01/04/2013
+Absence_4__Color [White]_1_01/04/2013
+Absence_4_CA_Color [DarkSalmon]_0_02/04/2013
+Absence_4_CA_Color [DarkSalmon]_1_02/04/2013
+Absence_4_CA_Color [DarkSalmon]_0_03/04/2013
+Absence_4_CA_Color [DarkSalmon]_1_03/04/2013
+Absence_4_CA_Color [DarkSalmon]_0_04/04/2013
+Absence_4_CA_Color [DarkSalmon]_1_04/04/2013
+Absence_4_CA_Color [DarkSalmon]_0_05/04/2013
+Absence_4__Color [White]_1_05/04/2013
+Absence_4__Color [White]_0_06/04/2013
+Absence_4__Color [White]_1_06/04/2013
+Absence_4__Color [White]_0_07/04/2013
+Absence_4__Color [White]_1_07/04/2013
+Absence_4__Color [White]_0_08/04/2013
+Absence_4__Color [White]_1_08/04/2013
+Absence_4__Color [White]_0_09/04/2013
+Absence_4__Color [White]_1_09/04/2013
+Absence_4__Color [White]_0_10/04/2013
+Absence_4__Color [White]_1_10/04/2013
+Absence_4__Color [White]_0_11/04/2013
+Absence_4__Color [White]_1_11/04/2013
+Absence_4_RECUP_Color [DarkSalmon]_0_12/04/2013
+Absence_4__Color [White]_1_12/04/2013
+Absence_4__Color [White]_0_13/04/2013
+Absence_4__Color [White]_1_13/04/2013
+Absence_4__Color [White]_0_14/04/2013
+Absence_4__Color [White]_1_14/04/2013
+Absence_4__Color [White]_0_15/04/2013
+Absence_4__Color [White]_1_15/04/2013
+Absence_4__Color [White]_0_16/04/2013
+Absence_4__Color [White]_1_16/04/2013
+Absence_4__Color [White]_0_17/04/2013
+Absence_4__Color [White]_1_17/04/2013
+Absence_4__Color [White]_0_18/04/2013
+Absence_4__Color [White]_1_18/04/2013
+Absence_4__Color [DarkSalmon]_0_19/04/2013
+Absence_4__Color [White]_1_19/04/2013
+Absence_4__Color [White]_0_20/04/2013
+Absence_4__Color [White]_1_20/04/2013
+Absence_4__Color [White]_0_21/04/2013
+Absence_4__Color [White]_1_21/04/2013
+Absence_4__Color [White]_0_22/04/2013
+Absence_4__Color [White]_1_22/04/2013
+Absence_4__Color [White]_0_23/04/2013
+Absence_4__Color [White]_1_23/04/2013
+Absence_4__Color [White]_0_24/04/2013
+Absence_4__Color [White]_1_24/04/2013
+Absence_4__Color [White]_0_25/04/2013
+Absence_4__Color [White]_1_25/04/2013
+Absence_4__Color [White]_0_26/04/2013
+Absence_4__Color [White]_1_26/04/2013
+Absence_4__Color [White]_0_27/04/2013
+Absence_4__Color [White]_1_27/04/2013
+Absence_4__Color [White]_0_28/04/2013
+Absence_4__Color [White]_1_28/04/2013
+Absence_4__Color [White]_0_29/04/2013
+Absence_4__Color [White]_1_29/04/2013
+Absence_4__Color [White]_0_30/04/2013
+Absence_4__Color [White]_1_30/04/2013
+Absence_5_JACQUIER:Michel_Color [White]_
+Absence_5__Color [White]_0_01/05/2013
+Absence_5__Color [White]_1_01/05/2013
+Absence_5__Color [White]_0_02/05/2013
+Absence_5__Color [White]_1_02/05/2013
+Absence_5__Color [White]_0_03/05/2013
+Absence_5__Color [White]_1_03/05/2013
+Absence_5__Color [White]_0_04/05/2013
+Absence_5__Color [White]_1_04/05/2013
+Absence_5__Color [White]_0_05/05/2013
+Absence_5__Color [White]_1_05/05/2013
+Absence_5__Color [White]_0_06/05/2013
+Absence_5__Color [White]_1_06/05/2013
+Absence_5__Color [White]_0_07/05/2013
+Absence_5__Color [White]_1_07/05/2013
+Absence_5__Color [White]_0_08/05/2013
+Absence_5__Color [White]_1_08/05/2013
+Absence_5__Color [White]_0_09/05/2013
+Absence_5__Color [White]_1_09/05/2013
+Absence_5__Color [White]_0_10/05/2013
+Absence_5__Color [White]_1_10/05/2013
+Absence_5__Color [White]_0_11/05/2013
+Absence_5__Color [White]_1_11/05/2013
+Absence_5__Color [White]_0_12/05/2013
+Absence_5__Color [White]_1_12/05/2013
+Absence_5__Color [White]_0_13/05/2013
+Absence_5__Color [White]_1_13/05/2013
+Absence_5__Color [White]_0_14/05/2013
+Absence_5__Color [White]_1_14/05/2013
+Absence_5__Color [White]_0_15/05/2013
+Absence_5__Color [White]_1_15/05/2013
+Absence_5_RECUP_Color [DarkSalmon]_0_16/05/2013
+Absence_5_RECUP_Color [DarkSalmon]_1_16/05/2013
+Absence_5__Color [White]_0_17/05/2013
+Absence_5__Color [White]_1_17/05/2013
+Absence_5__Color [White]_0_18/05/2013
+Absence_5__Color [White]_1_18/05/2013
+Absence_5__Color [White]_0_19/05/2013
+Absence_5__Color [White]_1_19/05/2013
+Absence_5__Color [White]_0_20/05/2013
+Absence_5__Color [White]_1_20/05/2013
+Absence_5__Color [White]_0_21/05/2013
+Absence_5__Color [White]_1_21/05/2013
+Absence_5__Color [White]_0_22/05/2013
+Absence_5__Color [White]_1_22/05/2013
+Absence_5__Color [White]_0_23/05/2013
+Absence_5__Color [White]_1_23/05/2013
+Absence_5__Color [White]_0_24/05/2013
+Absence_5__Color [White]_1_24/05/2013
+Absence_5__Color [White]_0_25/05/2013
+Absence_5__Color [White]_1_25/05/2013
+Absence_5__Color [White]_0_26/05/2013
+Absence_5__Color [White]_1_26/05/2013
+Absence_5__Color [White]_0_27/05/2013
+Absence_5__Color [White]_1_27/05/2013
+Absence_5__Color [White]_0_28/05/2013
+Absence_5_1h00 RECUP_Color [DarkSalmon]_1_28/05/2013
+Absence_5__Color [White]_0_29/05/2013
+Absence_5__Color [White]_1_29/05/2013
+Absence_5_RECUP_Color [DarkSalmon]_0_30/05/2013
+Absence_5_RECUP_Color [DarkSalmon]_1_30/05/2013
+Absence_5_RECUP_Color [DarkSalmon]_0_31/05/2013
+Absence_5__Color [White]_1_31/05/2013
+Absence_6_JACQUIER:Michel_Color [White]_
+Absence_6__Color [White]_0_01/06/2013
+Absence_6__Color [White]_1_01/06/2013
+Absence_6__Color [White]_0_02/06/2013
+Absence_6__Color [White]_1_02/06/2013
+Absence_6__Color [White]_0_03/06/2013
+Absence_6__Color [White]_1_03/06/2013
+Absence_6__Color [White]_0_04/06/2013
+Absence_6__Color [White]_1_04/06/2013
+Absence_6__Color [White]_0_05/06/2013
+Absence_6__Color [White]_1_05/06/2013
+Absence_6_Recup_Color [DarkSalmon]_0_06/06/2013
+Absence_6_Recup_Color [DarkSalmon]_1_06/06/2013
+Absence_6_Recup_Color [DarkSalmon]_0_07/06/2013
+Absence_6__Color [White]_1_07/06/2013
+Absence_6__Color [White]_0_08/06/2013
+Absence_6__Color [White]_1_08/06/2013
+Absence_6__Color [White]_0_09/06/2013
+Absence_6__Color [White]_1_09/06/2013
+Absence_6__Color [White]_0_10/06/2013
+Absence_6__Color [White]_1_10/06/2013
+Absence_6__Color [White]_0_11/06/2013
+Absence_6__Color [White]_1_11/06/2013
+Absence_6__Color [White]_0_12/06/2013
+Absence_6__Color [White]_1_12/06/2013
+Absence_6__Color [White]_0_13/06/2013
+Absence_6__Color [White]_1_13/06/2013
+Absence_6__Color [White]_0_14/06/2013
+Absence_6__Color [White]_1_14/06/2013
+Absence_6__Color [White]_0_15/06/2013
+Absence_6__Color [White]_1_15/06/2013
+Absence_6__Color [White]_0_16/06/2013
+Absence_6__Color [White]_1_16/06/2013
+Absence_6__Color [White]_0_17/06/2013
+Absence_6__Color [White]_1_17/06/2013
+Absence_6__Color [White]_0_18/06/2013
+Absence_6__Color [White]_1_18/06/2013
+Absence_6__Color [White]_0_19/06/2013
+Absence_6__Color [White]_1_19/06/2013
+Absence_6__Color [White]_0_20/06/2013
+Absence_6__Color [White]_1_20/06/2013
+Absence_6__Color [White]_0_21/06/2013
+Absence_6__Color [White]_1_21/06/2013
+Absence_6__Color [White]_0_22/06/2013
+Absence_6__Color [White]_1_22/06/2013
+Absence_6__Color [White]_0_23/06/2013
+Absence_6__Color [White]_1_23/06/2013
+Absence_6__Color [White]_0_24/06/2013
+Absence_6_CA_Color [DarkSalmon]_1_24/06/2013
+Absence_6__Color [White]_0_25/06/2013
+Absence_6__Color [White]_1_25/06/2013
+Absence_6__Color [White]_0_26/06/2013
+Absence_6__Color [White]_1_26/06/2013
+Absence_6__Color [White]_0_27/06/2013
+Absence_6__Color [White]_1_27/06/2013
+Absence_6__Color [White]_0_28/06/2013
+Absence_6__Color [White]_1_28/06/2013
+Absence_6__Color [White]_0_29/06/2013
+Absence_6__Color [White]_1_29/06/2013
+Absence_6__Color [White]_0_30/06/2013
+Absence_6__Color [White]_1_30/06/2013
+Absence_8_JACQUIER:Michel_Color [White]_
+Absence_8__Color [White]_0_01/08/2013
+Absence_8__Color [White]_1_01/08/2013
+Absence_8__Color [White]_0_02/08/2013
+Absence_8__Color [White]_1_02/08/2013
+Absence_8__Color [White]_0_03/08/2013
+Absence_8__Color [White]_1_03/08/2013
+Absence_8__Color [White]_0_04/08/2013
+Absence_8__Color [White]_1_04/08/2013
+Absence_8__Color [White]_0_05/08/2013
+Absence_8__Color [White]_1_05/08/2013
+Absence_8__Color [White]_0_06/08/2013
+Absence_8__Color [White]_1_06/08/2013
+Absence_8__Color [White]_0_07/08/2013
+Absence_8__Color [White]_1_07/08/2013
+Absence_8__Color [White]_0_08/08/2013
+Absence_8__Color [White]_1_08/08/2013
+Absence_8__Color [White]_0_09/08/2013
+Absence_8__Color [White]_1_09/08/2013
+Absence_8__Color [White]_0_10/08/2013
+Absence_8__Color [White]_1_10/08/2013
+Absence_8__Color [White]_0_11/08/2013
+Absence_8__Color [White]_1_11/08/2013
+Absence_8__Color [White]_0_12/08/2013
+Absence_8__Color [White]_1_12/08/2013
+Absence_8__Color [White]_0_13/08/2013
+Absence_8__Color [White]_1_13/08/2013
+Absence_8__Color [White]_0_14/08/2013
+Absence_8__Color [White]_1_14/08/2013
+Absence_8__Color [White]_0_15/08/2013
+Absence_8__Color [White]_1_15/08/2013
+Absence_8_RECUP_Color [DarkSalmon]_0_16/08/2013
+Absence_8__Color [White]_1_16/08/2013
+Absence_8__Color [White]_0_17/08/2013
+Absence_8__Color [White]_1_17/08/2013
+Absence_8__Color [White]_0_18/08/2013
+Absence_8__Color [White]_1_18/08/2013
+Absence_8__Color [White]_0_19/08/2013
+Absence_8__Color [White]_1_19/08/2013
+Absence_8__Color [White]_0_20/08/2013
+Absence_8__Color [White]_1_20/08/2013
+Absence_8_CA_Color [DarkSalmon]_0_21/08/2013
+Absence_8_CA_Color [DarkSalmon]_1_21/08/2013
+Absence_8_CA_Color [DarkSalmon]_0_22/08/2013
+Absence_8_CA_Color [DarkSalmon]_1_22/08/2013
+Absence_8__Color [White]_0_23/08/2013
+Absence_8__Color [White]_1_23/08/2013
+Absence_8__Color [White]_0_24/08/2013
+Absence_8__Color [White]_1_24/08/2013
+Absence_8__Color [White]_0_25/08/2013
+Absence_8__Color [White]_1_25/08/2013
+Absence_8__Color [White]_0_26/08/2013
+Absence_8_CA_Color [DarkSalmon]_1_26/08/2013
+Absence_8__Color [White]_0_27/08/2013
+Absence_8__Color [White]_1_27/08/2013
+Absence_8__Color [White]_0_28/08/2013
+Absence_8__Color [White]_1_28/08/2013
+Absence_8__Color [White]_0_29/08/2013
+Absence_8__Color [White]_1_29/08/2013
+Absence_8__Color [White]_0_30/08/2013
+Absence_8__Color [White]_1_30/08/2013
+Absence_8__Color [White]_0_31/08/2013
+Absence_8__Color [White]_1_31/08/2013
+Absence_7_JACQUIER:Michel_Color [White]_
+Absence_7__Color [White]_0_01/07/2013
+Absence_7__Color [White]_1_01/07/2013
+Absence_7__Color [White]_0_02/07/2013
+Absence_7__Color [White]_1_02/07/2013
+Absence_7__Color [White]_0_03/07/2013
+Absence_7__Color [White]_1_03/07/2013
+Absence_7__Color [White]_0_04/07/2013
+Absence_7__Color [White]_1_04/07/2013
+Absence_7__Color [White]_0_05/07/2013
+Absence_7__Color [White]_1_05/07/2013
+Absence_7__Color [White]_0_06/07/2013
+Absence_7__Color [White]_1_06/07/2013
+Absence_7__Color [White]_0_07/07/2013
+Absence_7__Color [White]_1_07/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_08/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_08/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_09/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_09/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_10/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_10/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_11/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_11/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_12/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_12/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_13/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_13/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_14/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_14/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_15/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_15/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_16/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_16/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_17/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_17/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_18/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_18/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_19/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_19/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_20/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_20/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_21/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_21/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_22/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_22/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_23/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_23/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_24/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_24/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_25/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_25/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_26/07/2013
+Absence_7__Color [White]_1_26/07/2013
+Absence_7__Color [White]_0_27/07/2013
+Absence_7__Color [White]_1_27/07/2013
+Absence_7__Color [White]_0_28/07/2013
+Absence_7__Color [White]_1_28/07/2013
+Absence_7__Color [White]_0_29/07/2013
+Absence_7__Color [White]_1_29/07/2013
+Absence_7__Color [White]_0_30/07/2013
+Absence_7__Color [White]_1_30/07/2013
+Absence_7_CA_Color [DarkSalmon]_0_31/07/2013
+Absence_7_CA_Color [DarkSalmon]_1_31/07/2013
+Absence_9_JACQUIER:Michel_Color [White]_
+Absence_9__Color [White]_0_01/09/2013
+Absence_9__Color [White]_1_01/09/2013
+Absence_9__Color [White]_0_02/09/2013
+Absence_9__Color [White]_1_02/09/2013
+Absence_9__Color [White]_0_03/09/2013
+Absence_9__Color [White]_1_03/09/2013
+Absence_9__Color [White]_0_04/09/2013
+Absence_9__Color [White]_1_04/09/2013
+Absence_9__Color [White]_0_05/09/2013
+Absence_9__Color [White]_1_05/09/2013
+Absence_9__Color [White]_0_06/09/2013
+Absence_9__Color [White]_1_06/09/2013
+Absence_9__Color [White]_0_07/09/2013
+Absence_9__Color [White]_1_07/09/2013
+Absence_9__Color [White]_0_08/09/2013
+Absence_9__Color [White]_1_08/09/2013
+Absence_9__Color [White]_0_09/09/2013
+Absence_9__Color [White]_1_09/09/2013
+Absence_9__Color [White]_0_10/09/2013
+Absence_9__Color [White]_1_10/09/2013
+Absence_9__Color [White]_0_11/09/2013
+Absence_9__Color [White]_1_11/09/2013
+Absence_9__Color [White]_0_12/09/2013
+Absence_9__Color [White]_1_12/09/2013
+Absence_9__Color [White]_0_13/09/2013
+Absence_9__Color [White]_1_13/09/2013
+Absence_9__Color [White]_0_14/09/2013
+Absence_9__Color [White]_1_14/09/2013
+Absence_9__Color [White]_0_15/09/2013
+Absence_9__Color [White]_1_15/09/2013
+Absence_9__Color [White]_0_16/09/2013
+Absence_9__Color [White]_1_16/09/2013
+Absence_9__Color [White]_0_17/09/2013
+Absence_9_RECUP_Color [DarkSalmon]_1_17/09/2013
+Absence_9__Color [White]_0_18/09/2013
+Absence_9__Color [White]_1_18/09/2013
+Absence_9__Color [White]_0_19/09/2013
+Absence_9__Color [White]_1_19/09/2013
+Absence_9__Color [White]_0_20/09/2013
+Absence_9__Color [White]_1_20/09/2013
+Absence_9__Color [White]_0_21/09/2013
+Absence_9__Color [White]_1_21/09/2013
+Absence_9__Color [White]_0_22/09/2013
+Absence_9__Color [White]_1_22/09/2013
+Absence_9_CA_Color [DarkSalmon]_0_23/09/2013
+Absence_9_CA_Color [DarkSalmon]_1_23/09/2013
+Absence_9_CA_Color [DarkSalmon]_0_24/09/2013
+Absence_9_CA_Color [DarkSalmon]_1_24/09/2013
+Absence_9_CA_Color [DarkSalmon]_0_25/09/2013
+Absence_9_CA_Color [DarkSalmon]_1_25/09/2013
+Absence_9_CA_Color [DarkSalmon]_0_26/09/2013
+Absence_9_CA_Color [DarkSalmon]_1_26/09/2013
+Absence_9_CA_Color [DarkSalmon]_0_27/09/2013
+Absence_9__Color [White]_1_27/09/2013
+Absence_9__Color [White]_0_28/09/2013
+Absence_9__Color [White]_1_28/09/2013
+Absence_9__Color [White]_0_29/09/2013
+Absence_9__Color [White]_1_29/09/2013
+Absence_9__Color [White]_0_30/09/2013
+Absence_9__Color [White]_1_30/09/2013
+Absence_10_JACQUIER:Michel_Color [White]_
+Absence_10_RECUP_Color [DarkSalmon]_0_01/10/2013
+Absence_10_RECUP_Color [DarkSalmon]_1_01/10/2013
+Absence_10__Color [White]_0_02/10/2013
+Absence_10__Color [White]_1_02/10/2013
+Absence_10__Color [White]_0_03/10/2013
+Absence_10__Color [White]_1_03/10/2013
+Absence_10__Color [White]_0_04/10/2013
+Absence_10__Color [White]_1_04/10/2013
+Absence_10__Color [White]_0_05/10/2013
+Absence_10__Color [White]_1_05/10/2013
+Absence_10__Color [White]_0_06/10/2013
+Absence_10__Color [White]_1_06/10/2013
+Absence_10__Color [White]_0_07/10/2013
+Absence_10__Color [White]_1_07/10/2013
+Absence_10__Color [White]_0_08/10/2013
+Absence_10__Color [White]_1_08/10/2013
+Absence_10__Color [White]_0_09/10/2013
+Absence_10__Color [White]_1_09/10/2013
+Absence_10__Color [White]_0_10/10/2013
+Absence_10__Color [White]_1_10/10/2013
+Absence_10__Color [White]_0_11/10/2013
+Absence_10__Color [White]_1_11/10/2013
+Absence_10__Color [White]_0_12/10/2013
+Absence_10__Color [White]_1_12/10/2013
+Absence_10__Color [White]_0_13/10/2013
+Absence_10__Color [White]_1_13/10/2013
+Absence_10__Color [White]_0_14/10/2013
+Absence_10__Color [White]_1_14/10/2013
+Absence_10__Color [White]_0_15/10/2013
+Absence_10_RECUP_Color [DarkSalmon]_1_15/10/2013
+Absence_10__Color [White]_0_16/10/2013
+Absence_10__Color [White]_1_16/10/2013
+Absence_10__Color [White]_0_17/10/2013
+Absence_10__Color [White]_1_17/10/2013
+Absence_10__Color [White]_0_18/10/2013
+Absence_10__Color [White]_1_18/10/2013
+Absence_10__Color [White]_0_19/10/2013
+Absence_10__Color [White]_1_19/10/2013
+Absence_10__Color [White]_0_20/10/2013
+Absence_10__Color [White]_1_20/10/2013
+Absence_10_CA_Color [DarkSalmon]_0_21/10/2013
+Absence_10_CA_Color [DarkSalmon]_1_21/10/2013
+Absence_10__Color [White]_0_22/10/2013
+Absence_10__Color [White]_1_22/10/2013
+Absence_10__Color [White]_0_23/10/2013
+Absence_10__Color [White]_1_23/10/2013
+Absence_10__Color [White]_0_24/10/2013
+Absence_10__Color [White]_1_24/10/2013
+Absence_10__Color [White]_0_25/10/2013
+Absence_10__Color [White]_1_25/10/2013
+Absence_10__Color [White]_0_26/10/2013
+Absence_10__Color [White]_1_26/10/2013
+Absence_10__Color [White]_0_27/10/2013
+Absence_10__Color [White]_1_27/10/2013
+Absence_10__Color [White]_0_28/10/2013
+Absence_10__Color [White]_1_28/10/2013
+Absence_10__Color [White]_0_29/10/2013
+Absence_10__Color [White]_1_29/10/2013
+Absence_10__Color [White]_0_30/10/2013
+Absence_10__Color [White]_1_30/10/2013
+Absence_10__Color [White]_0_31/10/2013
+Absence_10__Color [White]_1_31/10/2013
+Absence_11_JACQUIER:Michel_Color [White]_
+Absence_11__Color [White]_0_01/11/2013
+Absence_11__Color [White]_1_01/11/2013
+Absence_11__Color [White]_0_02/11/2013
+Absence_11__Color [White]_1_02/11/2013
+Absence_11__Color [White]_0_03/11/2013
+Absence_11__Color [White]_1_03/11/2013
+Absence_11__Color [White]_0_04/11/2013
+Absence_11__Color [White]_1_04/11/2013
+Absence_11__Color [DarkSalmon]_0_05/11/2013
+Absence_11__Color [DarkSalmon]_1_05/11/2013
+Absence_11__Color [White]_0_06/11/2013
+Absence_11__Color [White]_1_06/11/2013
+Absence_11__Color [White]_0_07/11/2013
+Absence_11__Color [White]_1_07/11/2013
+Absence_11__Color [White]_0_08/11/2013
+Absence_11__Color [White]_1_08/11/2013
+Absence_11__Color [White]_0_09/11/2013
+Absence_11__Color [White]_1_09/11/2013
+Absence_11__Color [White]_0_10/11/2013
+Absence_11__Color [White]_1_10/11/2013
+Absence_11__Color [White]_0_11/11/2013
+Absence_11__Color [White]_1_11/11/2013
+Absence_11__Color [DarkSalmon]_0_12/11/2013
+Absence_11__Color [DarkSalmon]_1_12/11/2013
+Absence_11__Color [White]_0_13/11/2013
+Absence_11__Color [White]_1_13/11/2013
+Absence_11__Color [White]_0_14/11/2013
+Absence_11__Color [White]_1_14/11/2013
+Absence_11__Color [White]_0_15/11/2013
+Absence_11__Color [White]_1_15/11/2013
+Absence_11__Color [White]_0_16/11/2013
+Absence_11__Color [White]_1_16/11/2013
+Absence_11__Color [White]_0_17/11/2013
+Absence_11__Color [White]_1_17/11/2013
+Absence_11__Color [White]_0_18/11/2013
+Absence_11__Color [White]_1_18/11/2013
+Absence_11__Color [White]_0_19/11/2013
+Absence_11__Color [White]_1_19/11/2013
+Absence_11__Color [White]_0_20/11/2013
+Absence_11__Color [White]_1_20/11/2013
+Absence_11__Color [White]_0_21/11/2013
+Absence_11__Color [White]_1_21/11/2013
+Absence_11__Color [White]_0_22/11/2013
+Absence_11__Color [White]_1_22/11/2013
+Absence_11__Color [White]_0_23/11/2013
+Absence_11__Color [White]_1_23/11/2013
+Absence_11__Color [White]_0_24/11/2013
+Absence_11__Color [White]_1_24/11/2013
+Absence_11__Color [White]_0_25/11/2013
+Absence_11__Color [White]_1_25/11/2013
+Absence_11__Color [White]_0_26/11/2013
+Absence_11__Color [White]_1_26/11/2013
+Absence_11__Color [White]_0_27/11/2013
+Absence_11__Color [White]_1_27/11/2013
+Absence_11__Color [White]_0_28/11/2013
+Absence_11__Color [White]_1_28/11/2013
+Absence_11__Color [White]_0_29/11/2013
+Absence_11__Color [White]_1_29/11/2013
+Absence_11__Color [White]_0_30/11/2013
+Absence_11__Color [White]_1_30/11/2013
+With LigneConges
+varPrisDu=21/01/13
+varPrisAu=21/01/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=21/01/13
+varVisaChef=
+varVisaDirecteur=21/01/13
+varRetourDate= 
+End With LigneConges
+With LigneConges
+varPrisDu=25/01/13
+varPrisAu=25/01/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=24/01/13
+varVisaChef= 
+varVisaDirecteur=24/01/13
+varRetourDate= 
+End With LigneConges
+With LigneConges
+varPrisDu=31/01/13
+varPrisAu=31/01/13
+varAnnuel=
+varRecup=8:00
+varEpargne=
+varDemandeDate=05/02/13
+varVisaChef=
+varVisaDirecteur=5/02/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=01/02/13
+varPrisAu=04/02/13
+varAnnuel=
+varRecup=12:00
+varEpargne=
+varDemandeDate=05/02/13
+varVisaChef=
+varVisaDirecteur=5/02/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=08/02/13
+varPrisAu=08/02/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=07/02/13
+varVisaChef=
+varVisaDirecteur=7/02/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=01/03/13
+varPrisAu=01/03/13
+varAnnuel=
+varRecup=4:30
+varEpargne=
+varDemandeDate=28/02/13
+varVisaChef=
+varVisaDirecteur=28/02/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=08/03/13
+varPrisAu=08/03/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=07/03/13
+varVisaChef=
+varVisaDirecteur=7/03/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=06/03/13
+varPrisAu=06/03/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=07/03/13
+varVisaChef=
+varVisaDirecteur=7/03/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=02/04/13
+varPrisAu=05/04/13
+varAnnuel=28:00
+varRecup=
+varEpargne=
+varDemandeDate=26/03/13
+varVisaChef=26/03/13
+varVisaDirecteur=26/03/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=29/03/13
+varPrisAu=29/03/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=26/03/13
+varVisaChef=26/03/13
+varVisaDirecteur=26/03/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=12/04/13
+varPrisAu=12/04/13
+varAnnuel=
+varRecup=5:45
+varEpargne=
+varDemandeDate=11/04/13
+varVisaChef=11/04/13
+varVisaDirecteur=11/04/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=19/04/13
+varPrisAu=19/04/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=18/04/13
+varVisaChef=18/04/13
+varVisaDirecteur=18/04/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=16/05/13
+varPrisAu=16/05/13
+varAnnuel=
+varRecup=8:00
+varEpargne=
+varDemandeDate=16/05/13
+varVisaChef=
+varVisaDirecteur=16/05/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=28/05/13
+varPrisAu=28/05/13
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varDemandeDate=28/05/13
+varVisaChef=
+varVisaDirecteur=28/05/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=30/05/13
+varPrisAu=31/05/13
+varAnnuel=
+varRecup=12:00
+varEpargne=
+varDemandeDate=30/05/13
+varVisaChef=
+varVisaDirecteur=30/05/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=06/06/13
+varPrisAu=07/06/13
+varAnnuel=
+varRecup=12:00
+varEpargne=
+varDemandeDate=06/06/13
+varVisaChef=
+varVisaDirecteur=6/06/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=24/06/13
+varPrisAu=24/06/13
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varDemandeDate=24/06/13
+varVisaChef=24/06/13
+varVisaDirecteur=24/06/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=08/07/13
+varPrisAu=26/07/13
+varAnnuel=108:00
+varRecup=
+varEpargne=
+varDemandeDate=04/07/13
+varVisaChef=04/07/13
+varVisaDirecteur=4/07/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=16/08/13
+varPrisAu=16/08/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=19/08/13
+varVisaChef=
+varVisaDirecteur=19/08/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=21/08/13
+varPrisAu=22/08/13
+varAnnuel=16:00
+varRecup=
+varEpargne=
+varDemandeDate=20/08/13
+varVisaChef=20/08/13
+varVisaDirecteur=20/08/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=26/08/13
+varPrisAu=26/08/13
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varDemandeDate=26/08/13
+varVisaChef=26/08/13
+varVisaDirecteur=26/08/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=31/07/13
+varPrisAu=31/07/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varDemandeDate=26/08/13
+varVisaChef=26/08/13
+varVisaDirecteur=26/08/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=17/09/13
+varPrisAu=17/09/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=17/09/13
+varVisaChef=17/09/13
+varVisaDirecteur=17/09/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=23/09/13
+varPrisAu=27/09/13
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varDemandeDate=20/09/13
+varVisaChef=20/09/13
+varVisaDirecteur=20/09/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=01/10/13
+varPrisAu=01/10/13
+varAnnuel=
+varRecup=8:00
+varEpargne=
+varDemandeDate=01/10/13
+varVisaChef=01/10/13
+varVisaDirecteur=7/10/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=15/10/13
+varPrisAu=15/10/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=15/10/13
+varVisaChef=
+varVisaDirecteur=29/10/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=21/10/13
+varPrisAu=21/10/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varDemandeDate=18/10/13
+varVisaChef=18/10/13
+varVisaDirecteur=29/10/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=
+varPrisAu=
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=05/11/13
+varPrisAu=05/11/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varDemandeDate=07/11/13
+varVisaChef=07/11/13
+varVisaDirecteur=7/11/13
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=
+varPrisAu=
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With LigneConges
+With LigneConges
+varPrisDu=12/11/13
+varPrisAu=12/11/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varDemandeDate=09/11/13
+varVisaChef=09/11/13
+varVisaDirecteur=9/11/13
+varRetourDate=
+End With LigneConges
+With LigneHeuresSup
+varDateHeuresSup=31/12/12
+varNbHeuresSup=54:24
+varMotifHeuresSup= heures sup restantes Soit 68h00 Majorées
+varPayeesHeuresSup= 
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=16/01/13
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup= 
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=23/01/13
+varNbHeuresSup=0:45
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=11/03/13
+varNbHeuresSup=0:45
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=13/03/13
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=26/03/13
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=27/03/32
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=23/04/13
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=24/04/13
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=25/04/13
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=29/04/13
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=02/05/13
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=03/05/13
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=17/05/13
+varNbHeuresSup=2:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=23/05/13
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=12/06/13
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=26/06/13
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=04/07/13
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=08/08/13
+varNbHeuresSup=5:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=06/08/13
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=09/08/13
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=12/08/13
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=14/12/13
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=09/09/13
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=19/09/13
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=02/10/13
+varNbHeuresSup=0:45
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=10/10/13
+varNbHeuresSup=1:45
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=07/11/13
+varNbHeuresSup=0:45
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=13/11/13
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup
+With LigneHeuresSup
+varDateHeuresSup=
+varNbHeuresSup=
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup

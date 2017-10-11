@@ -1,0 +1,193 @@
+Id=30072016
+Jourdate=30/07/2016
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=8749
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=TORTI
+Prenom_ceremonie=MAURICETTE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 14H15  A DEMANDER REGLEMENT
+CodeDft_cremation=8749
+Pf_cremation=PF BOUDRIER
+Nom_cremation=TORTI
+Prenom_cremation=MAURICETTE
+EvenementArrivee_cremation=Arrivée de MORESTEL
+FicheOccupe=Libre
+NoOrdre=1131
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=CERCUEIL EN CHENE 
+SaisieOccupe=Libre
+CodeDft_ceremonie=8756
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=BIARDEAU
+Prenom_ceremonie=CORINE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAIN
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8756
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=BIARDEAU
+Prenom_cremation=CORINE
+EvenementArrivee_cremation=Arrivée de AIX LES BAIN
+FicheOccupe=Libre
+NoOrdre=1129
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8757
+Pf_ceremonie=PFM
+Nom_ceremonie=FAVIER
+Prenom_ceremonie=MARGUERITE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8757
+Pf_cremation=PFM
+Nom_cremation=FAVIER
+Prenom_cremation=MARGUERITE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1130
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8755
+Pf_ceremonie=PFM
+Nom_ceremonie=VUILLARD
+Prenom_ceremonie=GISELE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=10:00
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8755
+Pf_cremation=PFM
+Nom_cremation=VUILLARD
+Prenom_cremation=GISELE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1132
+Four=2
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=8752
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=EMPRIN
+Prenom_ceremonie=ALAIN
+HeureArrivee_ceremonie=15:00
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=15:00
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8752
+Pf_cremation=PF DE SAVOY
+Nom_cremation=EMPRIN
+Prenom_cremation=ALAIN
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=1133
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=SCELLER L'URNE PAR NOS SOINS LUNDI 1 AOUT A 11H PRESENCE DELA FAMILLE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8751
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=PAVIS
+Prenom_ceremonie=DANIEL
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8751
+Pf_cremation=PF MOUCHE
+Nom_cremation=PAVIS
+Prenom_cremation=DANIEL
+EvenementArrivee_cremation=Arrivée de CHAMOUX
+FicheOccupe=Libre
+NoOrdre=1134
+Four=1
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=8750
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=PONT
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de BOURG ST MAURICE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8750
+Pf_cremation=PF DE SAVOY
+Nom_cremation=PONT
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de BOURG ST MAURICE
+FicheOccupe=Libre
+NoOrdre=1135
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

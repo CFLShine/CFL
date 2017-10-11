@@ -1,0 +1,8 @@
+Id=1951
+With DEFUNT
+Id=11738
+Nom=SIMON
+Prenom=GERARD
+DecesDate=29/09/1951
+CodeDft=11738
+End With

@@ -1,0 +1,144 @@
+Id=21012015
+Jourdate=21/01/2015
+Version=NouveauFormat
+With ZONE
+Id=0
+EvenementCommentaire=RESERVER PFM MARION (EXHUMATIONS)
+SaisieOccupe=Libre
+CodeDft=4561
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=LECLERC
+Prenom=JACQUES et DANIEL
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=119
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4579
+Pf=PFG CHAMBERY
+Conseiller=M P PINET
+Nom=DARNE
+Prenom=BAPTISTE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN PIN
+FicheOccupe=Libre
+NoOrdre=123
+Four=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4584
+Pf=PF DE SAVOY
+Conseiller=Loïc TREVARAIN
+Nom=TALENTI
+Prenom=HELENE
+HeureArrivee=
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=120
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4587
+Pf=PF PECH
+Conseiller=Nicolas PACHOUD
+Nom=MOLLIER-LOISON
+Prenom=ALFRED
+HeureArrivee=
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=124
+Four=2
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4591
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=CHABERTY
+Prenom=JOANNES
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY CF
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=INHUMATION LA MOTTE
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4594
+Pf=PF PECH
+Conseiller=Loïc TREVARAIN
+Nom=BASTIANON
+Prenom=LAURENCE
+HeureArrivee=
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION    PF RECUPERENT  NE PAS SCELLER
+NoOrdre=121
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4595
+Pf=PF MAURIENNAISES
+Conseiller=Loïc TREVARAIN
+Nom=FOUCHE
+Prenom=CECILE
+HeureArrivee=
+EvenementArrivee=Arrivée de SAINT JEAN DE MAURIENNE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire= CERCUEIL CREMATION 
+NoOrdre=122
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+End With

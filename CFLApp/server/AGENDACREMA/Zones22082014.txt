@@ -1,0 +1,141 @@
+Id=22082014
+Jourdate=22/08/2014
+Version=NouveauFormat
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3665
+Pf=PF DE SAVOIE
+Conseiller=Loïc TREVARAIN
+Nom=JOCALAZ
+Prenom=ELIGIO
+HeureArrivee=
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION       LOIC .......
+NoOrdre=1019
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3668
+Pf=PF TONIN COIFFET
+Conseiller=Loïc TREVARAIN
+Nom=COLLOT
+Prenom=GABRIEL
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1023
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3664
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=COROENNE
+Prenom=ALAIN
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1021
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3672
+Pf=PF MAURIENNAISES
+Conseiller=Loïc TREVARAIN
+Nom=CAMPAGNOLO
+Prenom=COLETTE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de SAINT JEAN DE MAURIENNE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie  Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1020
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION - INHUMATION CHARRIERE NEUVE
+SaisieOccupe=Libre
+CodeDft=3673
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=PARAGE
+Prenom=JEAN PAUL
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3675
+Pf=PF BALDINI
+Conseiller=Loïc TREVARAIN
+Nom=MARDUEL
+Prenom=JEAN-PIERRE
+HeureArrivee=
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT LE LENDEMAIN
+NoOrdre=1024
+Four=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3677
+Pf=PF DE SAVOIE
+Conseiller=Loïc TREVARAIN
+Nom=ARRIGONI
+Prenom=MAURICE
+HeureArrivee=
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  PF  PEUT ETRE EN RETARD?  VOIR LOIC  MERCI
+NoOrdre=1022
+Four=2
+FicheOccupe=Libre
+End With

@@ -1,0 +1,14 @@
+Id=5669
+DefuntNom=GIRARD
+DefuntPrenom=PASCAL
+DefuntDecesDate=29/05/2015
+ArriveeCommune=ALBERTVILLE
+ArriveeDate=02/06/2015
+ArriveeHeure=13:15
+PfArrivee=PF FLORET
+CeremonieCrematoriumDate=02/06/2015
+CeremonieCrematoriumHeure=13:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Geste d'adieu
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5669

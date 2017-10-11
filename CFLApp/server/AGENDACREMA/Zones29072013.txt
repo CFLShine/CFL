@@ -1,0 +1,133 @@
+Id=29072013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1357.txt
+Pf=PF DE LA VANOISE
+Conseiller=Loïc TREVARAIN
+Nom=MATTU
+Prenom=MARIA
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de MODANE 
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDONNATEUR 
+NoOrdre=911
+Four=1
+CodeDft=1357
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1371.txt
+Pf=PF AINAN FUNERAIRE
+Conseiller=Marie-Pierre PINET
+Nom=DEPALOL
+Prenom=GENEVIEVE
+HeureArrivee=
+EvenementArrivee=Arrivée de Saint-Geoire-en-Valdaine
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION PAR CF A CHARRIERE NEUVE
+NoOrdre=912
+Four=2
+CodeDft=1371
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1355.txt
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=ABEILLE
+Prenom=PATRICE
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=INFOS + TARD
+NoOrdre=913
+Four=2
+CodeDft=1355
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1326.txt
+Pf=PF MOUCHE
+Conseiller=Maxime EHNY
+Nom=HUBERT
+Prenom=FLORENCE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE LES CENDRES
+NoOrdre=914
+Four=1
+CodeDft=1326
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1361.txt
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+Nom=GUY
+Prenom=BERNARD
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY 
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE LES CENDRES
+NoOrdre=915
+Four=2
+CodeDft=1361
+End With

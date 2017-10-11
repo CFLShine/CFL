@@ -1,0 +1,9 @@
+Id=22112013
+With ZONE
+Id=0
+PoliceChecked=False
+End With
+With ZONE
+Id=2
+PoliceChecked=True
+End With

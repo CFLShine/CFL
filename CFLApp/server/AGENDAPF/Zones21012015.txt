@@ -1,0 +1,209 @@
+Id=21012015
+JourDate=21/01/2015
+With ZONE
+Id=0
+Saisie=Cremation
+Pos=0
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4561
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=LECLERC
+DefuntPrenom=JACQUES
+Heure_0=09:00
+Ev_0=Crémation 
+Comment_0=CREMATION BOITE OSSEMENT
+Comment_1=
+UsedBy=Libre
+End With
+With ZONE
+Id=1
+Pos=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4579
+Comment_0=15H15 CEREMONIE RELIGIEUSE 16H CREMATION
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=2
+Pos=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4576
+Comment_0=PEUT ETRE DES AMIS AU CIMETIERE
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+Pos=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=4588
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=5
+EquipeId_1=51
+EquipeId_2=52
+EquipeId_3=16
+Ordo=KAELBERER Eric
+Equipe_0=MILLON Patrick
+Equipe_1=POIRAUD Guy
+Equipe_2=SANCHEZ Dominique
+Equipe_3=MILESI Robert
+End With
+With ZONE
+Id=4
+Pos=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=4591
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=18
+EquipeId_1=7
+EquipeId_2=26
+EquipeId_3=17
+Ordo=FAVRIN Thierry
+Equipe_0=E.SPRINGOLO Eric
+Equipe_1=JACQUIER Michel
+Equipe_2=WALLYN Benoît
+Equipe_3=MEGHEZZI Marc
+End With
+With ZONE
+Id=5
+Pos=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4603
+Comment_0=Arrivée de Lyon par PF ext.
+Comment_1=Prévoir creusement carré confessionnel enfants
+HeureComment=10:45
+End With
+With ZONE
+Id=6
+CodeDft=4602
+DemiJour=0
+Pos=3
+UsedBy=
+End With
+With ZONE
+Id=7
+CodeDft=4610
+DemiJour=0
+Pos=4
+UsedBy=
+End With
+With ZONE
+Id=8
+CodeDft=4610
+DemiJour=0
+Pos=5
+UsedBy=
+End With
+With ZONE
+Id=9
+CodeDft=4612
+DemiJour=0
+Pos=6
+UsedBy=
+End With
+With ZONE
+Id=10
+CodeDft=4611
+DemiJour=0
+Pos=7
+UsedBy=
+End With
+With ZONE
+Id=11
+CodeDft=4613
+DemiJour=0
+Pos=8
+UsedBy=Libre
+End With
+With ZONE
+Id=12
+CodeDft=4610
+DemiJour=1
+Pos=3
+UsedBy=
+End With
+With ZONE
+Id=13
+CodeDft=4601
+DemiJour=1
+Pos=4
+UsedBy=Libre
+End With
+With ZONE
+Id=14
+CodeDft=4612
+DemiJour=1
+Pos=5
+UsedBy=
+End With
+With ZONE
+Id=16
+CodeDft=4617
+DemiJour=1
+Pos=7
+UsedBy=
+End With
+With ZONE
+Id=17
+CodeDft=4618
+DemiJour=1
+Pos=8
+UsedBy=
+End With
+With ZONE
+Id=15
+UsedBy=Libre
+End With

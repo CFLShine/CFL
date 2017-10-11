@@ -1,0 +1,157 @@
+Id=21032015
+Jourdate=21/03/2015
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=5091
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=BAUER
+Prenom=MONIQUE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=10:30
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE SAINT JOSEPH
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=487
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=5102
+Pf=SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=MARTIN
+Prenom=LUC
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=486
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PAS DE CREMATION INHUMATION  
+SaisieOccupe=Libre
+CodeDft=5104
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=VIALLARD
+Prenom=ROSE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Centre funéraire
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=7
+EvenementCommentaire=NE PAS COLLER L'URNE LES PF RECUPERENT L'URNE  
+SaisieOccupe=Libre
+CodeDft=5115
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=REY
+Prenom=PIERRE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de FLUMET
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=488
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5106
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=DI PIETRO
+Prenom=ATTILIO
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie PROTESTANTE Centre funéraire
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=485
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=5107
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BOUDELIER
+Prenom=ALAIN
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=484
+Four=1
+End With

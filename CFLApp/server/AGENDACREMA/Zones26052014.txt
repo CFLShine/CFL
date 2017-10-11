@@ -1,0 +1,110 @@
+Id=26052014
+Jourdate=26/05/2014
+Version=NouveauFormat
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3171
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=TATTI
+Prenom=JEANINE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=650
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=BEBE (FERMAUD/FIEGEL)
+SaisieOccupe=Libre
+CodeDft=3179
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=FERMAUD
+Prenom=ALESSIA
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile CF Salon
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=649
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3181
+Pf=PF AJEPI SAVOIE
+Conseiller=Marie-Pierre PINET
+Nom=THERME
+Prenom=PAULINE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPTAL
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION   INHUMATION CHARRIERE NEUVE  PF AJEPI SAVOIE
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3185
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=COMBEY
+Prenom=ANDRE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=647
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PREVOIR ORDONNATEUR - INTIMITE FAMILIALE, FAMILLE RECUPERE
+SaisieOccupe=Libre
+CodeDft=3190
+Pf=PF MOUCHE
+Conseiller=Loïc TREVARAIN
+Nom=NOVEL
+Prenom=ANDRE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=648
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With

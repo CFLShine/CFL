@@ -1,0 +1,157 @@
+Id=5012015
+JourDate=05/01/2015
+With ZONE
+Id=0
+Saisie=MEB
+Pos=0
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4445
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+DefuntNom=CAMPAGNE
+DefuntPrenom=MARC
+Heure_0=14:00
+Ev_0=Mise en bière Centre funéraire
+Comment_0=DEPART ST BALDOPHE
+Comment_1=
+End With
+With ZONE
+Id=1
+Saisie=Convoi
+Pos=1
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+Heure_0=14:45
+Heure_1=15:15
+Heure_2=16:00
+Heure_3=
+Ev_0=Mise en bière Centre funéraire Case
+Ev_1=Cérémonie Civile Cf salle omnicultes
+Ev_2=Crémation  au crématorium de Chambéry
+Ev_3=
+DefuntNom=LOUPPE
+DefuntPrenom=JEAN FRANCOIS
+Conseiller=Marion TREBOUTE
+Pf=PFM
+Comment_0=
+CodeDft=4456
+Ordo=KAELBERER Eric
+OrdoId=14
+Equipe_0=JACQUIER Michel
+EquipeId_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+EquipeId_1=MILLON Patrick
+Equipe_2=ESPINOZA François
+EquipeId_2=ESPINOZA François
+End With
+With ZONE
+Id=2
+Saisie=Ceremonie
+Pos=2
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4460
+Pf=PFM
+Conseiller=Marie-Pierre PINET
+DefuntNom=JULLIARD
+DefuntPrenom=MARIE THERESE
+Heure_0=12:15
+Ev_0=Cérémonie Civile Cf salle omnicultes
+Comment_0=ORDONNATEUR PFM POUR PF MAURIENNAISES
+Comment_1=
+Ordo=KAELBERER Eric
+OrdoId=14
+End With
+With ZONE
+Id=3
+Saisie=TAMB
+Pos=3
+DemiJour=0
+CodeDft=4481
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=GAY-LANCERMIN
+DefuntPrenom=LEON
+Heure_0=09:44
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=PINTOUT Bruno
+End With
+With ZONE
+Id=4
+Saisie=TAMB
+Pos=4
+DemiJour=1
+CodeDft=4483
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=FERRERO
+DefuntPrenom=HUGUETTE
+Heure_0=14:46
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=PINTOUT Bruno
+Equipe_1=ESPINOZA François
+End With
+With ZONE
+Id=5
+Saisie=TAMB
+Pos=5
+DemiJour=1
+CodeDft=4486
+Pf=PFM
+Conseiller=
+DefuntNom=POIRAUD
+DefuntPrenom=GINETTE
+Heure_0=15:29
+Ev_0=TAMB depuis DOMICILE DRUMETAZ CLARAFOND vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=JACQUIER Michel
+End With
+With ZONE
+Id=6
+Saisie=TAMB
+Pos=5
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4488
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+DefuntNom=OLIVA
+DefuntPrenom=GEORGETTE
+Heure_0=18:50
+Ev_0=TAMB depuis MEDIPOLE vers Centre funéraire
+Comment_0=
+Comment_1=
+End With

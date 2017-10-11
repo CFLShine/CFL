@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Chamb\'e9ry,\f1\par<Ret>\f0 Juliano, Daniel, Walter et leurs \'e9pouse, ses enfants,\f1\par<Ret>\f0 Emilyne, Doriane, Steven, Ana\'ees, Samantha et leurs conjoints, ses petits enfants,\f1\par<Ret>\f0 Yliess et Lilou, ses arri\'e8res petits enfants,\f1\par<Ret>\f0 parents et proches,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Madame Fernanda MENICI\f1\par<Ret>\pard\b0\f0 la c\'e9r\'e9monie sera c\'e9l\'e9br\'e9e en l'Eglise de St Jean Bosco au Biollay le Samedi 20 D\'e9cembre 2014 \'e0 quinze heures, suivie de l'inhumation au cimetiere de Charriere Neuve,\f1\par<Ret>\f0 cet avis tient lieu de faire part et de remerciements.\f1\par<Ret>\pard\f0\par<Ret>}<Ret>
+CodeDft=4340
+Tarif=208
+NbLignes=21
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=18/12/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

@@ -1,0 +1,196 @@
+Id=20112015
+Jourdate=20/11/2015
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=6911
+Pf_ceremonie=PF CHAMBERIENNES
+Nom_ceremonie=BUTTIN
+Prenom_ceremonie=FELIX PIERRE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6911
+Pf_cremation=PF CHAMBERIENNES
+Nom_cremation=BUTTIN
+Prenom_cremation=FELIX PIERRE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1653
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6928
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=CHAMBOULERON
+Prenom_ceremonie=ROBERT
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6928
+Pf_cremation=PF SEDRAN
+Nom_cremation=CHAMBOULERON
+Prenom_cremation=ROBERT
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1647
+Four=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=6905
+Pf_ceremonie=PFM
+Nom_ceremonie=CAILLON
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6905
+Pf_cremation=PFM
+Nom_cremation=CAILLON
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeuretArrivee_ceremonie=
+Police=True
+FicheOccupe=Libre
+NoOrdre=1648
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6920
+Pf_ceremonie=PFM
+Nom_ceremonie=BLANC
+Prenom_ceremonie=ROGER
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6920
+Pf_cremation=PFM
+Nom_cremation=BLANC
+Prenom_cremation=ROGER
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1649
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft_ceremonie=6931
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=SACRE
+Prenom_ceremonie=BERNARD
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6931
+Pf_cremation=PF MOUCHE
+Nom_cremation=SACRE
+Prenom_cremation=BERNARD
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+FicheOccupe=Libre
+NoOrdre=1650
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6915
+Pf_ceremonie=PFM
+Nom_ceremonie=WION
+Prenom_ceremonie=FERNAND
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6915
+Pf_cremation=PFM
+Nom_cremation=WION
+Prenom_cremation=FERNAND
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1651
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=FAMILLE RECUPERE
+SaisieOccupe=Libre
+CodeDft_ceremonie=6924
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=GAULON
+Prenom_ceremonie=SOLANGE
+CodeDft_cremation=6924
+Pf_cremation=PF BALDINI
+Nom_cremation=GALON
+Prenom_cremation=SOLANGE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de PONT-DE-BEAUVOISIN
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de PONT-DE-BEAUVOISIN
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1652
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

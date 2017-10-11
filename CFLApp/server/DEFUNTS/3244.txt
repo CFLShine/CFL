@@ -1,0 +1,232 @@
+Id=3244
+CodeDefunt=3244
+DefuntNom=GOUVERNON
+DefuntPrenom=ROGER
+DefuntDecesDate=01/06/2014
+DefuntNationalite=
+DefuntTitre=
+DefuntAdresse2=
+DefuntProfession=
+DefuntAdresseCommune=
+DefuntAdresseCodPost=
+DefuntAdresse=
+DefuntNaissancePays=
+DefuntNaissanceDepartement=
+DefuntNaissanceCommune=
+DefuntPrenoms=LOUIS ROGER
+DefuntNomJF=
+DefuntNaissanceDate=  /  /
+DefuntDecesHeure=  :
+DefuntDecesAdresse=EHPAD HOPITAL JACOB BELLECOMBETTE
+DefuntDecesMedecin=
+DefuntDecesPays=
+DefuntDecesCommune=JACOB BELLECOMBETTE
+DefuntMereDecede=False
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=
+DefuntMereNom=
+DefuntPereDecede=False
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=
+DefuntPereNom=
+DefuntMariageDate=  /  /
+DefuntDivorseDate=  /  /
+DefuntSituationDecesDate=  /  /
+DefuntSituationNaissanceDate=  /  /
+DefuntNbEnfantsVivants=
+DefuntNbEnfants=
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=
+DefuntSituationNom=
+DefuntSituation=Celibataire
+PouvQualiteAutre=
+PouvQualite=Conjoint
+PouvNom=
+PouvPrenom=
+PouvNomJF=
+PouvAdresse=
+PouvAdresse2=
+PouvCodePost=
+PouvCommune=
+PouvTel1=
+PouvTel2=
+PouvMail=
+ReceptionDate=02/06/2014
+Conseiller=Pascal MARIE
+CeremonieDate=04/06/2014
+CeremonieHeure=14:30
+CeremonieLieu=CHAPELLE HOTEL DIEU
+CeremonieType=Religieuse
+PfCeremonie=PFM
+CeremonieRegistre=False
+Presse=False
+BourseADons=False
+PfMEB=PFM
+MEBCommune=CHAMBERY
+ArriveeCommune=
+MEBDate=04/06/2014
+ArriveeDate=
+MEBHeure=14:00
+ArriveeHeure=
+MEBLieu=HOPITAL DE CHAMBERY
+ArriveeLieu=
+Salon=False
+SalonCase_Name=
+DispersionDate=  /  /
+DispersionHeure=  :
+DispersionLieu=
+DispersionCommune=
+PfDispersion=
+PfInhumation=PFM
+InhumationDate=04/06/2014
+InhumationHeure=  :
+InhumationSepulture=1
+CodeConvoit=04/06/2014_1_5
+SepultureCimetiere=
+SepultureCommune=CHIGNIN
+SepultureType=Caveau ouverture devant
+Concessionaire=False
+AyantDroit=False
+SepultureProvisoire=False
+ConcessionDPINom=GOUVERNON
+ConcessionDPINomJF=FLORET
+ConcessionDPIPrenom=ODETTE
+ConcessionDPIAnnee=2004
+ConcessionAquiseParNom=
+ConcessionAquiseParPrenom=
+ConcessionAquiseDate=  /  /
+ConcessionDuree=
+ConcessionDesignation=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+SepultureDivision=
+SepultureSection=
+SepultureCarre=
+SepultureLigne=
+SepultureTombe=
+CremationArriveeDe=CHAMBERY
+CremationDate=
+CremationCommune=
+PfArrivee=PFM
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationHeure=
+CeremonieDistanceCf=
+MEBDistanceCf=
+PfTransport=
+TransportDate=  /  /
+TransportDepartLieu=
+TransportArriveeLieu=
+TransportDepartHeure=  :
+TransportArriveeHeure=  :
+TransportVehicule=
+TransportDistanceCf=
+With A FAIRE
+Id=0
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=02/06/2014 10:26:36
+DateFait=02/06/2014 13:46:31
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul3]
+Fait=True
+Perso=False
+DateAFaire=02/06/2014 10:26:36
+DateFait=03/06/2014 17:14:38
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=2
+Intitule=[Intitul16]
+Fait=True
+Perso=False
+DateAFaire=02/06/2014 10:26:36
+DateFait=03/06/2014 17:14:45
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=3
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=02/06/2014 10:26:36
+DateFait=02/06/2014 13:55:18
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=4
+Intitule=[Intitul1]
+Fait=True
+Perso=False
+DateAFaire=02/06/2014 10:39:43
+DateFait=02/06/2014 11:22:43
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=5
+Intitule=[Intitul4]
+Fait=True
+Perso=False
+DateAFaire=02/06/2014 10:39:43
+DateFait=02/06/2014 12:45:18
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=6
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=02/06/2014 10:39:43
+DateFait=02/06/2014 14:09:23
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=7
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=02/06/2014 10:39:43
+DateFait=03/06/2014 15:03:12
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=8
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=02/06/2014 10:39:43
+DateFait=02/06/2014 14:09:36
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=9
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=02/06/2014 10:39:43
+DateFait=03/06/2014 15:02:40
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=10
+Intitule=MISE EN BIERE HOP CHY
+Fait=True
+Perso=True
+DateAFaire=02/06/2014 10:47:55
+DateFait=02/06/2014 10:47:55
+FaitPar=Pascal MARIE
+End With

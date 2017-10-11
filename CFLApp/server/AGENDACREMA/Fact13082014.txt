@@ -1,0 +1,8 @@
+Id=13082014
+Jourdate=13/08/2014
+FactureZone6=True
+FactureZone5=True
+FactureZone2=True
+FactureZone1=True
+FactureZone7=True
+FactureZone8=False

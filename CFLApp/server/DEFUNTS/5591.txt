@@ -1,0 +1,15 @@
+Id=5591
+DefuntNom=BAUDET
+DefuntPrenom=BIANCA
+DefuntDecesDate=16/05/2015
+ArriveeCommune=
+ArriveeDate=
+ArriveeHeure=
+PfArrivee=PF TONIN COIFFET
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=5591
+ArriveeLieu=

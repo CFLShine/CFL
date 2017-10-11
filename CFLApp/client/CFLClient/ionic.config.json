@@ -1,0 +1,13 @@
+{
+  "name": "CFL App",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  },
+  "proxies": [{
+    "path": "/api",
+    "proxyUrl": "http://176.129.40.225:5003"
+  }]
+
+}

@@ -1,0 +1,101 @@
+Id=4122013
+JourDate=04/12/2013
+With ZONE
+Id=0
+Saisie=Convoi
+Pos=0
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=White
+EquipeOk_2=Red
+EquipeOk_3=White
+Heure_0=08:00
+Heure_1=08:15
+Heure_2=09:00
+Heure_3=
+Ev_0=Mise en bière Centre funéraire Case
+Ev_1=Cérémonie Civile Cf salle omnicultes
+Ev_2=Crémation 
+Ev_3=
+DefuntNom=NIQUET
+DefuntPrenom=MARC
+Conseiller=Ginette GAYRAUD
+Pf=PFM
+Comment_0=LA FAMILLE RECUPERE L'URNE
+AdressDft=\DONNEES\DONNEES2013\2124.txt
+Ordo=FAVRIN Thierry
+Equipe_0=MILLON Patrick
+Equipe_1=
+Equipe_2=JACQUIER Michel
+CodeDft=2124
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=1
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2013\2132.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=MARECHAL
+DefuntPrenom=ELISE
+Heure_0=08:30
+Ev_0=Réquisition depuis HOPITAL DE CHAMBERY vers IML GRENOBLE
+Comment_0=TAMB DU DEPOT MORTUAIRE HP DE CHY VERS IML DE GRENOBLE
+Comment_1=RETOUR AU CENTRE FUNERAIRE DE CHAMBERY
+Ordo=PINTOUT Bruno
+CodeDft=2132
+End With
+With ZONE
+Id=2
+Saisie=TAMB
+Pos=0
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2013\2141.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=MATHIEU
+DefuntPrenom=Ginette
+Ev_0=TAMB depuis St Vincent de Mercuze vers Centre funéraire
+Comment_0=
+Comment_1=
+Heure_0=15:45
+Equipe_0=MILLON Patrick
+Equipe_1=PACHOUD Nicolas
+CodeDft=2141
+End With
+With ZONE
+Id=3
+Saisie=TAMB
+Pos=2
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=
+End With
+With ZONE
+Id=4
+Saisie=Dispersion
+Pos=3
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=
+End With

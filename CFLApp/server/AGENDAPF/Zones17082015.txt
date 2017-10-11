@@ -1,0 +1,174 @@
+Id=17082015
+JourDate=17/08/2015
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Green
+EquipeOk_0=Green
+EquipeOk_1=Green
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6216
+Comment_0=LA FAMILLE RECUPERE LES CENDRES
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=53
+EquipeId_1=56
+EquipeId_2=8
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=ROLLE Jean-Louis
+Equipe_1=KAHI Michel
+Equipe_2=ESPINOZA François
+Equipe_3=
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Green
+EquipeOk_1=Red
+EquipeOk_2=Green
+EquipeOk_3=Red
+CodeDft=6219
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=16
+EquipeId_1=6
+EquipeId_2=26
+EquipeId_3=57
+Ordo=TREVARAIN Loïc
+Equipe_0=MILESI Robert
+Equipe_1=PINTOUT Bruno
+Equipe_2=WALLYN Benoît
+Equipe_3=DAUNOIS Philippe
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Green
+EquipeOk_2=Green
+EquipeOk_3=Green
+CodeDft=6225
+Comment_0=INHUMATION DE L URNE LE MARDI 18 AOUT A 10H CIMETIERE LA MOTTE SERVOLEX CAVEAU  
+Comment_1=OUVERTURE PAR DEVANT    
+HeureComment=  :
+OrdoId=12
+EquipeId_0=7
+EquipeId_1=17
+EquipeId_2=56
+EquipeId_3=26
+Ordo=TREVARAIN Loïc
+Equipe_0=JACQUIER Michel
+Equipe_1=MEGHEZZI Marc
+Equipe_2=KAHI Michel
+Equipe_3=WALLYN Benoît
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Green
+EquipeOk_0=Green
+EquipeOk_1=Green
+EquipeOk_2=Red
+EquipeOk_3=Green
+CodeDft=6229
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=15
+EquipeId_1=54
+EquipeId_2=6
+EquipeId_3=16
+Ordo=KAELBERER Eric
+Equipe_0=BORG Roger
+Equipe_1=BRUN Tony
+Equipe_2=PINTOUT Bruno
+Equipe_3=MILESI Robert
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Green
+EquipeOk_1=Green
+EquipeOk_2=Green
+EquipeOk_3=Green
+CodeDft=6230
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=7
+EquipeId_0=15
+EquipeId_1=54
+EquipeId_2=17
+EquipeId_3=49
+Ordo=JACQUIER Michel
+Equipe_0=BORG Roger
+Equipe_1=BRUN Tony
+Equipe_2=MEGHEZZI Marc
+Equipe_3=THEVENIN Eric
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6232
+Comment_0=9H15 CEREMONIE 10H CREMATION
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6240
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=7
+CodeDft=6251
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=8
+CodeDft=6262
+DemiJour=1
+Pos=1
+UsedBy=
+End With

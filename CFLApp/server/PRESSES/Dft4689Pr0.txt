@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=600
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, Bellentre.\f1\par<Ret>\b0\f0 Sandrine, Ga\'ebl et Jean Laperri\'e8re, ses enfants et leur papa;\f1\par<Ret>\f0 Pascale Demazy, Ginette Provost, Jean-Paul et Daniel Marchand-Maillet, ses fr\'e8res et soeurs;\f1\par<Ret>\f0 ainsi que ses petits-enfants et ses neveux et ni\'e8ces \f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Mireille LAPERRI\'c8RE\f1\par<Ret>\f0 survenu le 30 Janvier 2015 \f1\par<Ret>\f0\'e0 l'\'e2ge de 68 ans\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie religieuse aura lieu \'e0 l'\'e9glise de Bellentre (en Tarentaise) le mercredi 4 F\'e9vrier 2015 \'e0 14h30.\f1\par<Ret>\f0 Condol\'e9ances sur registre.\f1\par<Ret>\f0 Pas de fleurs.\f1\par<Ret>\f0 Une collecte sera propos\'e9e en faveur de la recherche contre le cancer.\f1\par<Ret>\f0 Cet avis tient lieu de faire part.\par<Ret>}<Ret>
+CodeDft=4689
+Tarif=250
+NbLignes=26
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=31/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

@@ -1,0 +1,193 @@
+Id=19092017
+Jourdate=19/09/2017
+With ZONE
+Id=9
+SaisieOccupe=Libre
+CodeDft_ceremonie=11599
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=GOUAUX
+Prenom_ceremonie=SIMONE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE 
+CodeDft_cremation=11599
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=GOUAUX
+Prenom_cremation=SIMONE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1291
+Four=FT3
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=11613
+Pf_ceremonie=PF PENA
+Nom_ceremonie=BONNIN
+Prenom_ceremonie=JOSIANE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDO PFCCA  LES PF RECUPERENT L'URNE A 14H
+CodeDft_cremation=11613
+Pf_cremation=PF PENA
+Nom_cremation=BONNIN
+Prenom_cremation=JOSIANE
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=1285
+Four=FT3
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=11614
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=MENICHETTI
+Prenom_ceremonie=DINO
+HeureArrivee_ceremonie=11:45
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=11:45
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+CodeDft_cremation=11614
+Pf_cremation=PF MOUCHE
+Nom_cremation=MENICHETTI
+Prenom_cremation=DINO
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+FicheOccupe=Libre
+NoOrdre=1286
+Four=FT3
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=11602
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=PASQUIER
+Prenom_ceremonie=CLOTILDE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY  HOPITAL
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+CodeDft_cremation=11602
+Pf_cremation=PFG MACHE
+Nom_cremation=PASQUIER
+Prenom_cremation=CLOTILDE
+EvenementArrivee_cremation=Arrivée de CHAMBERY  HOPITAL
+NoOrdre=1287
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=NE PAS SCELLER, CONSERVATION D'URNE AU CREMATORIUM
+SaisieOccupe=Libre
+CodeDft_ceremonie=11616
+Pf_ceremonie=PFCCA
+Nom_ceremonie=SNIADY
+Prenom_ceremonie=FELIX
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de CENTRE FUNERAIRE
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11616
+Pf_cremation=PFCCA
+Nom_cremation=SNIADY
+Prenom_cremation=FELIX
+EvenementArrivee_cremation=Arrivée de CENTRE FUNERAIRE
+NoOrdre=1288
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=ORDONNATEUR PFCCA
+SaisieOccupe=Libre
+CodeDft_ceremonie=11615
+Pf_ceremonie=PF MAURIENNAISE
+Nom_ceremonie=BARD
+Prenom_ceremonie=HELENE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11615
+Pf_cremation=PF MAURIENNAISE
+Nom_cremation=BARD
+Prenom_cremation=HELENE
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1289
+Four=FT3
+End With
+With ZONE
+Id=8
+SaisieOccupe=Libre
+CodeDft_ceremonie=11605
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=LIZZI
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE   LA FAMILLE RECUPERE L'URNE
+CodeDft_cremation=11605
+Pf_cremation=PF SEDRAN
+Nom_cremation=LIZZI
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1290
+Four=FT3
+End With

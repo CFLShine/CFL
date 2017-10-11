@@ -1,0 +1,174 @@
+Id=20022013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\370.txt
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=ROUSSIN
+Prenom=ROBERT
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=231
+Four=2
+CodeDft=370
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\352.txt
+Pf=PF BAUDRION
+Conseiller=Loïc TREVARAIN
+Nom=MERENDET
+Prenom=ANGELE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=232
+Four=1
+CodeDft=352
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\357.txt
+Pf=PF CHAMBERIENNES
+Conseiller=
+Nom=HUTTEAU
+Prenom=PAULE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+CodeDft=357
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\361.txt
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=CARPENTIER 
+Prenom=CHARLES
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION    INHUMATION CHARRIERE NEUVE 14h00
+CodeDft=361
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\362.txt
+Pf=PF DE SAVOIE
+Conseiller=Loïc TREVARAIN
+Nom=DUNAND
+Prenom=ALPHONSE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=12:15
+EvenementCeremonie=
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS DE FAMILLE  PF RECUPERENT
+NoOrdre=233
+Four=2
+Police=False
+CodeDft=362
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\351.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Loïc TREVARAIN
+Nom=FALCO
+Prenom=MARCELLE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de AIX LRES BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE POUR DISPERSION
+NoOrdre=234
+Four=2
+CodeDft=351
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\354.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=VALLIER
+Prenom=ROSE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+Police=True
+CodeDft=354
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\366.txt
+Pf=PF SEDRAN
+Conseiller=Pascal MARIE
+Nom=MESA
+Prenom=EMILIA
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=16:15
+EvenementCeremonie=
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=235
+Four=2
+CodeDft=366
+End With

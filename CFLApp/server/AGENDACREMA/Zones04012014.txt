@@ -1,0 +1,145 @@
+Id=4012014
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2333.txt
+Pf=PF MAURIENNAISES
+Conseiller=Loïc TREVARAIN
+Nom=PERROUX
+Prenom=ROGER
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=13
+Four=1
+CodeDft=2333
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2323.txt
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=BESSE
+Prenom=HELENE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de SAINT JEAN DE MAURIENNE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=14
+Four=1
+CodeDft=2323
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2313.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=BARRET
+Prenom=FREDERIC
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=15
+Four=1
+CodeDft=2313
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2315.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=GODIN
+Prenom=JACQUES
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=16
+Four=1
+CodeDft=2315
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2322.txt
+Pf=PFM
+Conseiller=Maxime EHNY
+Nom=HYVERT
+Prenom=SUZANNE
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft=2322
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With

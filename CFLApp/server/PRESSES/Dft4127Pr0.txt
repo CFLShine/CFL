@@ -1,0 +1,23 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 CHAMBERY\f1\par<Ret>\f0 Monsieur Yves GOUSSET son \'e9poux; Nathalie et Yannick VALLET sa fille et son gendre; toute sa famille et ses proches,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Madame Paulette GOUSSET\f1\par<Ret>\f0 N\'e9e TARICO\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 74 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e jeudi 13 novembre 2014 \'e0 onze heures quinze au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 La famille remercie la direction et le personnel de la maison St Benoit pour son d\'e9vouement.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4127
+Tarif=208
+NbLignes=19
+Cadre=False
+Symbole=False
+Photo=False
+SiteSent=True
+SiteDate1=09/11/2014
+SiteDate2=13/11/2014
+SiteTitre=Paulette GOUSSET
+SiteClientMail=
+With PARUTION
+Id=1
+Date=10/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

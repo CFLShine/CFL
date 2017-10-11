@@ -1,0 +1,14 @@
+DefuntNom=BURLET
+DefuntPrenom=SOLANGE
+DefuntDecesDate=02/06/2015
+ArriveeCommune=MOUTIERS
+ArriveeDate=05/06/2015
+ArriveeHeure=14:15
+PfArrivee=PFG MOUTIERS
+CeremonieCrematoriumDate=05/06/2015
+CeremonieCrematoriumHeure=14:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Religieuse
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5698
+Id=5698

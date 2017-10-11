@@ -1,0 +1,125 @@
+Id=11032014
+Version=NouveauFormat
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2721.txt
+Pf=POMMAT
+Conseiller=Loïc TREVARAIN
+Nom=DERUAZ
+Prenom=IRENE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE + PF RECUPERENT
+NoOrdre=319
+Four=2
+FicheOccupe=Libre
+CodeDft=2721
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2723.txt
+Pf=PFG MACHE
+Conseiller=Loïc TREVARAIN
+Nom=BOUCHET
+Prenom=GILBERT
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de MOTTE SERVOLEX
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=315
+Four=2
+FicheOccupe=Libre
+CodeDft=2723
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2725.txt
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=COUTURE
+Prenom=MARCELLE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=318
+Four=1
+FicheOccupe=Libre
+CodeDft=2725
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2724.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=RUPI
+Prenom=GIANNINO
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+CodeDft=2724
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2730.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Loïc TREVARAIN
+Nom=BIAL
+Prenom=JEAN-JACQUES
+HeureArrivee=11:30
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF récupèrent les cendres
+NoOrdre=316
+Four=1
+FicheOccupe=Libre
+CodeDft=2730
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2732.txt
+Pf=PF BALDINI
+Conseiller=Loïc TREVARAIN
+Nom=MARIAT
+Prenom=LUCIEN
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=317
+Four=2
+FicheOccupe=Libre
+CodeDft=2732
+End With

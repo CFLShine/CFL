@@ -1,0 +1,18 @@
+Id=-1
+Type=Remerciements
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Notre Dame des Milli\'e8res,\b0\f1\par<Ret>\f0 Dans l'incapacit\'e9 de r\'e9pondre aux nombreuses marques de sympathie t\'e9moign\'e9es lors du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Jean-Fran\'e7ois LOUPPE\f1\par<Ret>\pard\b0\f0 les familles Louppe, Tessier, Aubert, vous prient de trouver i\'e7i leurs plus sinc\'e8res remerciements.\par<Ret>}<Ret>
+CodeDft=4456
+Tarif=84
+NbLignes=10
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=13/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

@@ -1,0 +1,216 @@
+Id=21072016
+Jourdate=21/07/2016
+With ZONE
+Id=5
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX / GELON
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDO PFM CEREMONIE CIVILE       FAMILLE RECUPERE
+CodeDft_ceremonie=8664
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=NOYARET
+Prenom_ceremonie=MARC
+CodeDft_cremation=8664
+Pf_cremation=PF MOUCHE
+Nom_cremation=NOYARET
+Prenom_cremation=MARC
+EvenementArrivee_cremation=Arrivée de CHAMOUX / GELON
+FicheOccupe=Libre
+NoOrdre=1082
+Four=2
+End With
+With ZONE
+Id=0
+EvenementCommentaire=LA FAMILLE RECUPERE 
+SaisieOccupe=Libre
+CodeDft_ceremonie=8693
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=GUILLAUD
+Prenom_ceremonie=JEAN-CLAUDE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8693
+Pf_cremation=PF BALDINI
+Nom_cremation=GUILLAUD
+Prenom_cremation=JEAN-CLAUDE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=1077
+Four=1
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8687
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=PASSET
+Prenom_ceremonie=JULES
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8687
+Pf_cremation=PF SEDRAN
+Nom_cremation=PASSET
+Prenom_cremation=JULES
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1078
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8682
+Pf_ceremonie=PF CARTIER LANGE
+Nom_ceremonie=LE ROUX
+Prenom_ceremonie=THOMAS
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY  HOPITAL
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8682
+Pf_cremation=PF CARTIER LANGE
+Nom_cremation=LE ROUX
+Prenom_cremation=THOMAS
+EvenementArrivee_cremation=Arrivée de CHAMBERY  HOPITAL
+NoOrdre=1079
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION
+CodeDft_ceremonie=8678
+Pf_ceremonie=PFM
+Nom_ceremonie=BETEMPS
+Prenom_ceremonie=HENRI
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+FicheOccupe=Libre
+Police=False
+End With
+With ZONE
+Id=4
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8689
+Pf_ceremonie=PF BOUVIER
+Nom_ceremonie=MARTINET
+Prenom_ceremonie=MAURICE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de AIX
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8689
+Pf_cremation=PF BOUVIER
+Nom_cremation=MARTINET
+Prenom_cremation=MAURICE
+EvenementArrivee_cremation=Arrivée de AIX
+FicheOccupe=Libre
+NoOrdre=1080
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8686
+Pf_ceremonie=PFM
+Nom_ceremonie=GONNET
+Prenom_ceremonie=ALPHONSE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8686
+Pf_cremation=PFM
+Nom_cremation=GONNET
+Prenom_cremation=ALPHONSE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1083
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LA FAMILLE RECUPERE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8685
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=RULLET
+Prenom_ceremonie=HELENE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8685
+Pf_cremation=PF BALDINI
+Nom_cremation=RULLET
+Prenom_cremation=HELENE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=1084
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

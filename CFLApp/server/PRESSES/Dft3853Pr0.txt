@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 CHAMBERY\f1\par<Ret>\pard\f0 Alexia, Jonathan et Jessica ses enfants, leurs conjoints; ses petits-enfants; Sabine sa conjointe;\par<Ret>\pard Toute sa famille et ses proches,\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Monsieur Marceau SOULIER\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 50 ans.\f1\par<Ret>\f0 Le recueillement aura lieu lundi 22 septembre 2014 \'e0 quatorze heures\b  \b0 quinze au Centre Fun\'e9raire de Chamb\'e9ry o\'f9 il repose.\f1\par<Ret>\f0 Pas de plaques.\par<Ret>}<Ret>
+CodeDft=3853
+Tarif=165
+NbLignes=16
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=21/09/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

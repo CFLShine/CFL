@@ -1,0 +1,8 @@
+Id=31102015
+Jourdate=31/10/2015
+FactureZone5=true
+FactureZone6=true
+FactureZone7=true
+FactureZone2=true
+FactureZone8=True
+FactureZone3=true

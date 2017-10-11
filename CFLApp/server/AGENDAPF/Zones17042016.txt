@@ -1,0 +1,16 @@
+Id=17042016
+JourDate=17/04/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8066
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With

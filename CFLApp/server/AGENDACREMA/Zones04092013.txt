@@ -1,0 +1,131 @@
+Id=4092013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1566.txt
+Pf=PF DE SAVOIE
+Conseiller=Jean-Luc PEYREDIEU
+Nom=DUCOGNON
+Prenom=Claude
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de Moutiers
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1060
+Four=2
+CodeDft=1566
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1571.txt
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=GUILLOUX
+Prenom=MYRIAM
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1061
+Four=2
+CodeDft=1571
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=PF récupèrent. Né 06/02/1961. Cercueil chêne
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1567.txt
+Pf=PF POMMAT
+Conseiller=Jean-Luc PEYREDIEU
+Nom=CHOVIN
+Prenom=Michel
+HeureArrivee=12:15
+EvenementArrivee=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1062
+Four=1
+CodeDft=1567
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1564.txt
+Pf=POMMAT
+Conseiller=Loïc TREVARAIN
+Nom=GOUD
+Prenom=CHARLOTTE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBRERTVILLE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL PIN   FAMILLE RECUPERE
+NoOrdre=1063
+Four=2
+CodeDft=1564
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With

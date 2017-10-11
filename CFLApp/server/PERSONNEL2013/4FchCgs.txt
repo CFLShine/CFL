@@ -1,0 +1,138 @@
+00:00=
+DroitCongesFC=243:00
+CongesAnPrecFC=20:00
+EpargneFC=00:00
+With LigneConges
+Id=0
+varPrisDu=28/01/13
+varPrisAu=31/01/13
+varAnnuel=20:00
+varRecup=
+varEpargne=
+varDemandeDate=25/01/13
+varVisaChef=
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=19/02/13
+varPrisAu=23/02/13
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varDemandeDate=09/02/13
+varVisaChef=
+varVisaDirecteur=9/02/13
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=16/04/13
+varPrisAu=20/04/13
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varDemandeDate=12/04/13
+varVisaChef=12/04/13
+varVisaDirecteur=13/04/13
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=01/06/13
+varPrisAu=01/06/13
+varAnnuel=02:00
+varRecup=
+varEpargne=
+varDemandeDate=01/06/13
+varVisaChef=01/06/13
+varVisaDirecteur=1/06/13
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=18/06/13
+varPrisAu=22/06/13
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varDemandeDate=18/06/13
+varVisaChef=18/06/13
+varVisaDirecteur=18/06/13
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=25/06/13
+varPrisAu=29/06/13
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varDemandeDate=18/06/13
+varVisaChef=18/06/13
+varVisaDirecteur=18/06/13
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=27/08/13
+varPrisAu=31/08/13
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varDemandeDate=27/08/13
+varVisaChef=23/08/13
+varVisaDirecteur=23/08/13
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=
+varPrisAu=
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=05/11/13
+varPrisAu=09/11/13
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varDemandeDate=02/11/13
+varVisaChef=02/11/13
+varVisaDirecteur=2/11/13
+varRetourDate=
+End With
+With LigneConges
+Id=9
+varPrisDu=17/12/13
+varPrisAu=17/12/13
+varDemandeDate=28/12/13
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=18/12/13
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=28/10/13
+varNbHeuresSup=01:15
+varMotifHeuresSup=VISITE MEDICAL
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=16/12/13
+varNbHeuresSup=08:00
+varMotifHeuresSup=FORMATION PARIS UN JOUR DE REPOS
+varPayeesHeuresSup=
+End With

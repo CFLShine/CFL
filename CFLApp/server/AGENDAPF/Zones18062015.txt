@@ -1,0 +1,113 @@
+Id=18062015
+JourDate=18/06/2015
+With ZONE
+Id=0
+Pos=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=5795
+Comment_0=CIMETIERE : OUV/FERM PAR SALOMON
+Comment_1=
+HeureComment=  :
+OrdoId=7
+EquipeId_0=5
+EquipeId_1=18
+EquipeId_2=16
+EquipeId_3=26
+Ordo=JACQUIER Michel
+Equipe_0=MILLON Patrick
+Equipe_1=E.SPRINGOLO Eric
+Equipe_2=MILESI Robert
+Equipe_3=WALLYN Benoît
+End With
+With ZONE
+Id=1
+Pos=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=5798
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=5
+EquipeId_1=6
+EquipeId_2=7
+EquipeId_3=26
+Ordo=FAVRIN Thierry
+Equipe_0=MILLON Patrick
+Equipe_1=PINTOUT Bruno
+Equipe_2=JACQUIER Michel
+Equipe_3=WALLYN Benoît
+End With
+With ZONE
+Id=2
+Pos=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5803
+Comment_0=RDV A 16H00
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+Pos=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5813
+Comment_0=DEPART PONTCHARRA
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=4
+CodeDft=5824
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=5
+CodeDft=5829
+DemiJour=0
+Pos=2
+UsedBy=
+End With
+With ZONE
+Id=6
+CodeDft=5830
+DemiJour=1
+Pos=3
+UsedBy=
+End With

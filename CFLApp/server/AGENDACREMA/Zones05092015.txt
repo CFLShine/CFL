@@ -1,0 +1,136 @@
+Id=5092015
+Jourdate=05/09/2015
+With ZONE
+Id=2
+EvenementCommentaire=L'URNE SERA RECUPEREE  PAR LA FAMILLE. CERCUEIL PIN
+SaisieOccupe=Libre
+CodeDft_ceremonie=6377
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=HONORE 
+Prenom_ceremonie=MICHELLE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6377
+Pf_cremation=PF SEDRAN
+Nom_cremation=HONORE 
+Prenom_cremation=MICHELLE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1307
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=6382
+Pf_ceremonie=PFM
+Nom_ceremonie=BORDENAVE
+Prenom_ceremonie=YVON
+HeureArrivee_ceremonie=08:45
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=08:45
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=  
+CodeDft_cremation=6382
+Pf_cremation=PFM
+Nom_cremation=BORDENAVE
+Prenom_cremation=YVON
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1306
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=CERCUEIL ?   SON FILS RECUPERE  L'URNE  VERS 14h00
+SaisieOccupe=Libre
+CodeDft_ceremonie=6380
+Pf_ceremonie=POMMAT
+Nom_ceremonie=REY
+Prenom_ceremonie=CLEMENCE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6380
+Pf_cremation=POMMAT
+Nom_cremation=REY
+Prenom_cremation=CLEMENCE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+NoOrdre=1308
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+EvenementCommentaire=SALLE DE CEREMONIE  PAS DE CREMATION   INHUMATION ST JEAN DARVEY  
+SaisieOccupe=Libre
+CodeDft_ceremonie=6388
+Pf_ceremonie=PFM
+Nom_ceremonie=BELLY
+Prenom_ceremonie=MARTINE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de MEDIPOLE SAVOIE
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=6379
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=MORENO
+Prenom_ceremonie=NICOLE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de AIX-LES-BAINS
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT - CERCUEIL PIN
+CodeDft_cremation=6379
+Pf_cremation=PF SEDRAN
+Nom_cremation=MORENO
+Prenom_cremation=NICOLE
+EvenementArrivee_cremation=Arrivée de AIX-LES-BAINS
+NoOrdre=1309
+Four=2
+FicheOccupe=Libre
+End With

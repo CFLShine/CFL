@@ -1,0 +1,157 @@
+Id=11012014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2344.txt
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=FERRAND
+Prenom=PATRICE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT A 13H 
+NoOrdre=46
+Four=2
+FicheOccupe=Libre
+CodeDft=2344
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2350.txt
+Pf=PF SEDRAN
+Conseiller=Jean-Luc PEYREDIEU
+Nom=JACOB
+Prenom=Marcel
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de Aix-Les-Bains
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=47
+Four=1
+FicheOccupe=Libre
+CodeDft=2350
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2359.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=BON
+Prenom=FRANCOIS
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=49
+Four=2
+FicheOccupe=Libre
+CodeDft=2359
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2363.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=ROMIEUX
+Prenom=Gabriel
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=50
+Four=1
+FicheOccupe=Libre
+CodeDft=2363
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2364.txt
+Pf=PFG YENNE
+Conseiller=Marie-Pierre PINET
+Nom=VINET
+Prenom=RENE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=51
+Four=2
+FicheOccupe=Libre
+CodeDft=2364
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2367.txt
+Pf=PF ALPES SAVOIE
+Conseiller=Marie-Pierre PINET
+Nom=VIAL
+Prenom=MARCEL
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=48
+Four=2
+FicheOccupe=Libre
+CodeDft=2367
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2368.txt
+Pf=PF MERCIER
+Conseiller=Marie-Pierre PINET
+Nom=LABORDE
+Prenom=REMY
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de DES AVENIERES 
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=45
+Four=1
+CodeDft=2368
+End With
+With ZONE
+Id=0
+NoOrdre=
+Four=
+CodeDft=
+End With

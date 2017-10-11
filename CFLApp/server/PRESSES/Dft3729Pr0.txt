@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Saint Alban Leysse, Bassens,\f1\par<Ret>\par<Ret>\f0 Les familles Fassetta, Bellemin, parents et proches;\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de:\f1\par<Ret>\par<Ret>\pard\qc\f0 Monsieur Christophe FASSETTA\f1\par<Ret>\f0\par<Ret>\pard La c\'e9r\'e9monie aura lieu au centre fun\'e9raire de Chamb\'e9ry le Mardi 2 Septembre 2014 \'e0 10h15, suivie de l'inhumation au cimeti\'e8re de St Alban Leysse, pas de plaques, cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=3729
+Tarif=165
+NbLignes=16
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=31/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

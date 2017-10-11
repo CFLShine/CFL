@@ -1,0 +1,212 @@
+Id=2052015
+JourDate=02/05/2015
+With ZONE
+Id=0
+Pos=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5360
+Comment_0=PAS DE PERSONNEL PFM
+Comment_1=UNIQUEMENT PERSONNEL CIMETIERE POUR L'INHUMATION D'UNE URNE
+HeureComment=  :
+End With
+With ZONE
+Id=1
+Pos=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=5387
+Comment_0=PAS de portage épaule !
+Comment_1=Interv. nos fossoyeurs
+HeureComment=  :
+OrdoId=11
+EquipeId_0=48
+EquipeId_1=47
+EquipeId_2=29
+EquipeId_3=15
+Ordo=FAVRIN Thierry
+Equipe_0=CITRINO Sèbastien
+Equipe_1=RIVIERE Thomas
+Equipe_2=P.SPRINGOLO Pascal
+Equipe_3=BORG Roger
+End With
+With ZONE
+Id=2
+Pos=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=5390
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=26
+EquipeId_1=17
+EquipeId_2=18
+EquipeId_3=16
+Ordo=KAELBERER Eric
+Equipe_0=WALLYN Benoît
+Equipe_1=MEGHEZZI Marc
+Equipe_2=E.SPRINGOLO Eric
+Equipe_3=MILESI Robert
+End With
+With ZONE
+Id=3
+Pos=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=5393
+Comment_0=Nouveau cimetière de Montferrat
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=15
+EquipeId_2=47
+EquipeId_3=53
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=BORG Roger
+Equipe_2=RIVIERE Thomas
+Equipe_3=ROLLE Jean-Louis
+End With
+With ZONE
+Id=4
+Pos=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5395
+Comment_0=DEPARD MYANS
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=5
+Pos=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=5383
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=26
+EquipeId_1=17
+EquipeId_2=16
+EquipeId_3=18
+Ordo=KAELBERER Eric
+Equipe_0=WALLYN Benoît
+Equipe_1=MEGHEZZI Marc
+Equipe_2=MILESI Robert
+Equipe_3=E.SPRINGOLO Eric
+End With
+With ZONE
+Id=6
+Pos=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=5403
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=26
+EquipeId_1=17
+EquipeId_2=18
+EquipeId_3=16
+Ordo=KAELBERER Eric
+Equipe_0=WALLYN Benoît
+Equipe_1=MEGHEZZI Marc
+Equipe_2=E.SPRINGOLO Eric
+Equipe_3=MILESI Robert
+End With
+With ZONE
+Id=7
+Pos=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=5405
+Comment_0=Equipe du cimetière qui lève la dalle et creuse
+Comment_1=
+HeureComment=  :
+OrdoId=46
+EquipeId_0=52
+EquipeId_1=21
+EquipeId_2=29
+EquipeId_3=48
+Ordo=MORALES Georgie
+Equipe_0=SANCHEZ Dominique
+Equipe_1=VINCENT Judicael
+Equipe_2=P.SPRINGOLO Pascal
+Equipe_3=CITRINO Sèbastien
+End With
+With ZONE
+Id=8
+Pos=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5413
+Comment_0=SALON  EDELWEISS
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=9
+Pos=5
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5390
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With

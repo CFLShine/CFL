@@ -1,0 +1,154 @@
+Id=3102014
+JourDate=03/10/2014
+With ZONE
+Id=0
+Saisie=Ceremonie
+Pos=2
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3911
+Pf=PFM
+Conseiller=Marie-Pierre PINET
+DefuntNom=TOUCHANT
+DefuntPrenom=RENE
+Heure_0=16:15
+Ev_0=Cérémonie GESTE D'ADIEU Cf salle omnicultes
+Comment_0=ORDONNATEUR PFM POUR PF TONIN COIFFET
+Comment_1=POUR RECEVOIR LA FAMILLE 
+Ordo=FAVRIN Thierry
+OrdoId=11
+End With
+With ZONE
+Id=1
+Saisie=RDVOrdo
+Pos=0
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3928
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=PECOUL
+DefuntPrenom=CAROLE
+Heure_0=14:00
+Ev_0=Rendez-vous avec l'ordonnateur
+Comment_0=
+Comment_1=
+Ordo=FAVRIN Thierry
+OrdoId=11
+End With
+With ZONE
+Id=2
+Saisie=RDVOrdo
+Pos=1
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3915
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=MARTIN
+DefuntPrenom=CHRISTIANE
+Heure_0=15:00
+Ev_0=Rendez-vous avec l'ordonnateur
+Comment_0=
+Comment_1=
+Ordo=KAELBERER Eric
+OrdoId=14
+End With
+With ZONE
+Id=3
+Saisie=TAMB
+Pos=3
+DemiJour=0
+CodeDft=3932
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=PERRET
+DefuntPrenom=CLAUDINE
+Heure_0=09:41
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=ESPINOZA François
+Equipe_1=FAVRIN Thierry
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=4
+Saisie=TAMB
+Pos=4
+DemiJour=1
+CodeDft=3934
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=CRISTINA
+DefuntPrenom=DENISE
+Heure_0=14:40
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=KAELBERER
+Equipe_1=
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=5
+Saisie=TAMB
+Pos=5
+DemiJour=1
+CodeDft=3933
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=CARRON
+DefuntPrenom=ANDRE
+Heure_0=16:27
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=WALLYN Benoît
+Equipe_1=MILESI Robert
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=6
+Saisie=TAMB
+Pos=6
+DemiJour=1
+CodeDft=3935
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=MARTIN GARIN
+DefuntPrenom=GUY
+Heure_0=16:39
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MAXIME EHNY
+Equipe_1=
+End With

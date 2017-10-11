@@ -1,0 +1,139 @@
+Id=28
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=00:00
+EpargneesFC=00:00
+varHeuresSupAnDernier=00:00
+With LigneConges
+Id=0
+varPrisDu=07/01/17
+varPrisAu=07/01/17
+varDemandeDate=07/01/17
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=07/01/17
+varVisaDirecteur=07/01/17
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=10/01/17
+varPrisAu=10/01/17
+varDemandeDate=10/01/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=10/07/17
+varVisaDirecteur=10/07/17
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=25/01/17
+varPrisAu=25/01/17
+varDemandeDate=25/01/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=25/01/17
+varVisaDirecteur=25/01/17
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=31/01/17
+varPrisAu=31/01/17
+varDemandeDate=31/01/17
+varAnnuel=
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=31/07/17
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=11/02/17
+varPrisAu=11/02/17
+varDemandeDate=11/02/17
+varAnnuel=2:00
+varRecup=
+varEpargne=
+varVisaChef=11/02/17
+varVisaDirecteur=11/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=18/02/17
+varPrisAu=18/02/17
+varDemandeDate=18/02/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=18/02/17
+varVisaDirecteur=18/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=18/02/17
+varPrisAu=18/02/17
+varDemandeDate=18/02/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=18/02/17
+varVisaDirecteur=18/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=27/02/17
+varPrisAu=27/02/17
+varDemandeDate=27/02/17
+varAnnuel=2:00
+varRecup=
+varEpargne=
+varVisaChef=27/02/17
+varVisaDirecteur=27/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=01/07/17
+varPrisAu=01/07/17
+varDemandeDate=20/06/17
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=20/06/17
+varVisaDirecteur=20/06/17
+varRetourDate=
+End With
+With LigneConges
+Id=9
+varPrisDu=18/06/17
+varPrisAu=30/06/17
+varDemandeDate=20/06/17
+varAnnuel=28:00
+varRecup=
+varEpargne=
+varVisaChef=07/07/17
+varVisaDirecteur=20/06/17
+varRetourDate=
+End With
+With LigneConges
+Id=10
+varPrisDu=03/07/17
+varPrisAu=05/07/17
+varDemandeDate=04/07/17
+varAnnuel=18:00
+varRecup=
+varEpargne=
+varVisaChef=07/07/17
+varVisaDirecteur=04/07/17
+varRetourDate=
+End With

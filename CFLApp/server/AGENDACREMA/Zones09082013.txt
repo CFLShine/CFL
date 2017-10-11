@@ -1,0 +1,133 @@
+Id=9082013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1421.txt
+Pf=PF MERCIER
+Conseiller=Marie-Pierre PINET
+Nom=LESTEVEN
+Prenom=JEAN-YVES
+HeureArrivee=
+EvenementArrivee=Arrivée de DES AVENIERES
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+NoOrdre=960
+Four=1
+CodeDft=1421
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1432.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=MARGRIT
+Prenom=JACQUES
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=961
+Four=2
+CodeDft=1432
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1427.txt
+Pf=PF BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=DARBOUSSET
+Prenom=FRANCIS
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=962
+Four=2
+CodeDft=1427
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1436.txt
+Pf=DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=DESANDRE
+Prenom=EMILE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=963
+Four=1
+CodeDft=1436
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1429.txt
+Pf=PF BALDINI
+Conseiller=Marion TREBOUTE
+Nom=PARIS
+Prenom=BERNARD
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE
+NoOrdre=964
+Four=2
+CodeDft=1429
+End With

@@ -1,0 +1,156 @@
+Id=2062015
+Jourdate=02/06/2015
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION REVISION FOUR
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PAS DE CREMATION REVISION FOUR
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=14:45
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_crema=14:45
+EvenementArrivee_crema=Arrivée de SAINT JEAN DE MAURIENNE
+HeureCeremonie=14:45
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:30
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_ceremonie=5666
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=BOIS
+Prenom_ceremonie=VICTOR HACHILLE
+CodeDft_cremation=5666
+Pf_cremation=PF MAURIENNAISES
+Nom_crema=BOIS
+Prenom_crema=VICTOR HACHILLE
+NoOrdre=844
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=08:45
+EvenementCeremonie=Cérémonie 
+HeureCremation=09:30
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=5675
+Pf_ceremonie=PFM
+Nom_ceremonie=CHARVET
+Prenom_ceremonie=CLAUDETTE
+CodeDft_cremation=5675
+Pf_cremation=PFM
+Nom_crema=CHARVET
+Prenom_crema=CLAUDETTE
+Police=True
+NoOrdre=841
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=12:30
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CEREMONIE LA MOTTE SERVOLEX LE MATIN
+CodeDft_ceremonie=5663
+Pf_ceremonie=PFM
+Nom_ceremonie=BAILON
+Prenom_ceremonie=ANGE
+CodeDft_cremation=5663
+Pf_cremation=PFM
+Nom_crema=BAILON
+Prenom_crema=ANGE
+Police=True
+NoOrdre=842
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_crema=13:15
+EvenementArrivee_crema=Arrivée de ALBERTVILLE
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=5669
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=GIRARD
+Prenom_ceremonie=PASCAL
+CodeDft_cremation=5670
+Pf_cremation=PF FLORET
+Nom_crema=GIRARD
+Prenom_crema=PASCAL
+HeuretArrivee_ceremonie=
+Nom_cremation=
+Prenom=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+FicheOccupe=Libre
+NoOrdre=843
+Four=1
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_crema=16:15
+EvenementArrivee_crema=Arrivée de MOUTIERS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=5658
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=POULET
+Prenom_ceremonie=JEANNINE
+CodeDft_cremation=5658
+Pf_cremation=PF DE SAVOY
+Nom_crema=POULET
+Prenom_crema=JEANNINE
+NoOrdre=845
+Four=1
+FicheOccupe=Libre
+End With

@@ -1,0 +1,22 @@
+Id=-1
+Type=Remerciements
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Les filles de\f1\par<Ret>\pard\qc\b\f0 Monsieur Ren\'e9 FONTAINE\f1\par<Ret>\pard\b0\f0 vous remercient de votre pr\'e9sence, de vos quelques mots r\'e9confortants pour t\'e9moigner votre sympathie lors de ses obs\'e8ques.\par<Ret>}<Ret>
+CodeDft=4129
+Tarif=93
+NbLignes=7
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=19/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=7
+Name=HAUTE SAVOIE
+End With

@@ -1,0 +1,139 @@
+Id=4102017
+Jourdate=04/10/2017
+With ZONE
+Id=7
+EvenementCommentaire=DISPERSION PAR PFCCA   ORDONNATEUR PFCCA
+SaisieOccupe=Libre
+CodeDft_ceremonie=11707
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=PAPILLARD
+Prenom_ceremonie=JACINTHE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11707
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=PAPILLARD
+Prenom_cremation=JACINTHE
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=1366
+Four=FT3
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=INHUMATION DE L'URNE A 15H
+SaisieOccupe=Libre
+CodeDft_ceremonie=11713
+Pf_ceremonie=PFCCA
+Nom_ceremonie=GONNET
+Prenom_ceremonie=CLOTILDE
+HeureArrivee_ceremonie=09:45
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:45
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11713
+Pf_cremation=PFCCA
+Nom_cremation=GONNET
+Prenom_cremation=CLOTILDE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1365
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=11715
+Pf_ceremonie=PFCCA
+Nom_ceremonie=DA COSTA CASTANHEIRA
+Prenom_ceremonie=FRANCISCO
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=8
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11714
+Pf_ceremonie=PFCCA
+Nom_ceremonie=GARRET
+Prenom_ceremonie=GEORGES
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11714
+Pf_cremation=PFCCA
+Nom_cremation=GARRET
+Prenom_cremation=GEORGES
+NoOrdre=1367
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=9
+EvenementCommentaire=LA FAMILLE RECUPERE LES CENDRES 
+SaisieOccupe=Libre
+CodeDft_ceremonie=11719
+Pf_ceremonie=PF BOUVIER
+Nom_ceremonie=SUZET
+Prenom_ceremonie=GUY
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11719
+Pf_cremation=PF BOUVIER
+Nom_cremation=SUZET
+Prenom_cremation=GUY
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=1368
+Four=FT3
+End With

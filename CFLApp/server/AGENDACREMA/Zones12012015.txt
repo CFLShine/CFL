@@ -1,0 +1,165 @@
+Id=12012015
+Jourdate=12/01/2015
+Version=NouveauFormat
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4506
+Pf=DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=BERTHET
+Prenom=ROGER
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=58
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4504
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+Nom=MERLIN
+Prenom=LAURENT
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=63
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4507
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BONINO
+Prenom=MARCELLE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=59
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4508
+Pf=PF  FLORET
+Conseiller=Marie-Pierre PINET
+Nom=MILLIOZ
+Prenom=LOUIS
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=57
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4509
+Pf=PF BERGER
+Conseiller=Marie-Pierre PINET
+Nom=ROLLET
+Prenom=ISABELLE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ST GENIX
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=60
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4510
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=VILLEMIN
+Prenom=DENIS
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=61
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=CERCUEIL EN CHENE  NE PAS SCELLER L'URNE
+SaisieOccupe=Libre
+CodeDft=4511
+Pf=PFG YENNE
+Conseiller=Marie-Pierre PINET
+Nom=BERTHIER
+Prenom=ODETTE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=62
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4515
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=POUSSET
+Prenom=MARIE THERESE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=56
+Four=1
+FicheOccupe=Libre
+End With

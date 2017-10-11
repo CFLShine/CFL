@@ -1,0 +1,121 @@
+Id=25082015
+Jourdate=25/08/2015
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=6283
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=LACOURLI
+Prenom_ceremonie=RENEE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6283
+Pf_cremation=PF SEDRAN
+Nom_cremation=LACOURLI
+Prenom_cremation=RENEE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1254
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6298
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=GILI-TOS
+Prenom_ceremonie=OLIVIER
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de GRENOBLE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6298
+Pf_cremation=PF BAUDRION
+Nom_cremation=GILI-TOS
+Prenom_cremation=OLIVIER
+EvenementArrivee_cremation=Arrivée de GRENOBLE
+NoOrdre=1252
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+End With
+With ZONE
+Id=4
+EvenementCommentaire=LES PF RECUPERENT L'URNE EN FIN DE CREMATION 
+SaisieOccupe=Libre
+CodeDft_ceremonie=6299
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=MOREL
+Prenom_ceremonie=ANNIE
+HeureArrivee_ceremonie=13:00
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_cremation=13:00
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6299
+Pf_cremation=PF BOUDRIER
+Nom_cremation=MOREL
+Prenom_cremation=ANNIE
+EvenementArrivee_cremation=Arrivée de MORESTEL
+FicheOccupe=Libre
+NoOrdre=1253
+Four=1
+End With
+With ZONE
+Id=5
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=6295
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=PEUGEOT
+Prenom_ceremonie=CLAUDE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6295
+Pf_cremation=PF FLORET
+Nom_cremation=PEUGEOT
+Prenom_cremation=CLAUDE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1255
+Four=2
+End With

@@ -1,0 +1,27 @@
+Id=22092013
+With ZONE
+Id=18
+CodeZone=18
+Pos=0
+DemiJour=1
+AdressDft=\DONNEES\DONNEES2013\1695.txt
+Ordo=
+OrdoOk=white
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Ginette GAYRAUD
+Pf=PFM
+DefuntNom=TURPIN
+DefuntPrenom=MARIE THERESE
+Saisie=TAMB1
+Heure_0=21:11
+Ev_0=TAMB depuis AGELIA vers Cf
+Comment_0=
+CodeDft=1695
+End With

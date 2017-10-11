@@ -1,0 +1,68 @@
+Id=29032017
+JourDate=29/03/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=10499
+Comment_0=INTIMITE, RECUEILLEMENT EN SALON
+Comment_1=LA FAMILLE RECUPERE
+HeureComment=  :
+OrdoId=73
+EquipeId_0=5
+EquipeId_1=6
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FRANZINI Karine
+Equipe_0=MILLON Patrick
+Equipe_1=PINTOUT Bruno
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+CodeDft=10513
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=2
+CodeDft=10508
+DemiJour=0
+Pos=2
+UsedBy=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10509
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10520
+Comment_0=TOILETTE UNIQUEMENT A 16H30
+Comment_1=
+HeureComment=  :
+End With

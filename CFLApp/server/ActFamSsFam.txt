@@ -1,0 +1,26 @@
+Id=-1
+With SOUSFAMILLE
+Id=0
+Nom=CERCUEILS
+Famille=0
+End With
+With SOUSFAMILLE
+Id=1
+Nom=CAPITONS
+Famille=0
+End With
+With FAMILLE
+Id=0
+Nom=CERCUEIL
+Activite=0
+End With
+With ACTIVITE
+Id=0
+Nom=PF
+Pos=0
+End With
+With ACTIVITE
+Id=1
+Nom=CREMA
+Pos=1
+End With

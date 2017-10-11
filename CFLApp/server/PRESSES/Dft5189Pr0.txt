@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 St Jeoire Prieur\'e9,\f1\par<Ret>\b0\f0 Albert Carle, Mathilde Mori et Henri, ses enfants; Olivier, Christophe, Marianne, ses petits-enfants et leurs conjoints; ses arri\'e8re-petits-enfants; et toute sa famille, vous font part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Anna CARLE\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 92 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie sera c\'e9l\'e9br\'e9e le samedi 4 avril 2015 \'e0 dix heures trente en l'\'e9glise de St Jeoire Prieur\'e9, suivie de la cr\'e9mation.\f1\par<Ret>\f0 La famille remercie le Personnel des Bl\'e9s d'Or \'e0 St Baldoph pour sa gentillesse et son d\'e9vouement.\f1\par<Ret>\f0 Cet avis tient lieu de faire part.\par<Ret>}<Ret>
+CodeDft=5189
+Tarif=208
+NbLignes=19
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=02/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

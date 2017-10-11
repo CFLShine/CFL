@@ -1,0 +1,128 @@
+Id=19072014
+Jourdate=19/07/2014
+Version=NouveauFormat
+With ZONE
+Id=2
+EvenementCommentaire=LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft=3498
+Pf=PF SEDRAN
+Conseiller=Jean-Luc PEYREDIEU
+Nom=LAURENT
+Prenom=MARIE JEANNE
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=884
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3500
+Pf=PF POMMAT
+Conseiller=Marion TREBOUTE
+Nom=MICHARD
+Prenom=SUZANNE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=885
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3501
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=BRIANT
+Prenom=SERGE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DEPOT DU CERCUEIL A 11H30   ORDO PFM
+NoOrdre=887
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3503
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+Nom=DALLA-COSTA
+Prenom=JACQUELINE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION      CEREMONIE SANS CERCUEIL   PF SAVOYARDES
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3506
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=GANIVENC
+Prenom=JEAN PAUL
+HeureArrivee=15:15
+HeureCeremonie=15:15
+HeureCremation=16:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de CHAMBERY
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+EvenementCremation=Crémation
+Police=True
+NoOrdre=888
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3507
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=CHARBONNEAU
+Prenom=HUGUETTE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 15H
+NoOrdre=886
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+End With
+With ZONE
+Id=7
+End With

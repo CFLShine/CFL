@@ -1,0 +1,176 @@
+Id=28042015
+Jourdate=28/04/2015
+With ZONE
+Id=0
+SaisieOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=5361
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=PAYET
+Prenom_ceremonie=ALINE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de DE  MORESTEL
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de DE  MORESTEL
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+CodeDft_cremation=5361
+Pf_cremation=PF BOUDRIER
+Nom_crema=PAYET
+Prenom_crema=ALINE
+HeuretArrivee_ceremonie=
+Nom_cremation=
+Prenom=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+NoOrdre=672
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=5370
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=DE GIORGIO
+Prenom_ceremonie=ANTONIO
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de PONTCHARRA
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de PONTCHARRA
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEILEN PIN      PFG RECUPERENT L'URNE
+HeuretArrivee_ceremonie=
+CodeDft_cremation=5370
+Pf_cremation=PFG MACHE
+Nom_cremation=
+Prenom=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+Nom_crema=DE GIORGIO
+Prenom_crema=ANTONIO
+NoOrdre=671
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=5364
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=FLEURY
+Prenom_ceremonie=GERARD
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+CodeDft_cremation=5364
+Pf_cremation=PF POMMAT
+Nom_crema=FLEURY
+Prenom_crema=GERARD
+NoOrdre=674
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=5365
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=GEORGES
+Prenom_ceremonie=FRANCIS
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNES
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de SAINT JEAN DE MAURIENNES
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION    RESTITUTION DES CENDRES ?
+CodeDft_cremation=5365
+Pf_cremation=PF MAURIENNAISES
+Nom_crema=GEORGES
+Prenom_crema=FRANCIS
+FicheOccupe=Libre
+NoOrdre=670
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=5378
+Pf_ceremonie=PFM
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Occupé
+CodeDft_cremation=
+Pf_cremation=
+Nom_crema=DE GIORGIO
+Prenom_crema=ANTONIO
+HeuretArrivee_ceremonie=
+Nom_cremation=
+Prenom=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5352
+Pf_ceremonie=PFM
+Nom_ceremonie=PAGIN
+Prenom_ceremonie=NICOLAS
+CodeDft_cremation=5352
+Pf_cremation=PFM
+Nom_crema=PAGIN
+Prenom_crema=NICOLAS
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=673
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+NoOrdre=
+Four=
+SaisieOccupe=Libre
+End With

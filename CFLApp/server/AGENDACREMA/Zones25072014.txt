@@ -1,0 +1,141 @@
+Id=25072014
+Jourdate=25/07/2014
+Version=NouveauFormat
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3520
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=TISSOT
+Prenom=LOUIS
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=912
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION      PFG  CHAMBERY  MACHE   
+SaisieOccupe=Libre
+CodeDft=3526
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=CAILLE
+Prenom=LEONE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3530
+Pf=PF SEDRAN
+Conseiller=Ginette GAYRAUD
+Nom=RIVIERE
+Prenom=LUCIEN
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=909
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3531
+Pf=PF ALPES SAVOIE
+Conseiller=Loïc TREVARAIN
+Nom=GAUDIN
+Prenom=XAVIER
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION   FAMILLE RECUPERE
+NoOrdre=908
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=INHUMATION   PAS DE CREMATION  PFM
+SaisieOccupe=Libre
+CodeDft=3533
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=MARECHAL
+Prenom=CHARLES
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=3534
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=OUVRIER- BUFFET
+Prenom=CHANTAL
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=911
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3535
+Pf=PFG MONTMELIAN
+Conseiller=Marie-Pierre PINET
+Nom=CHARRIERE
+Prenom=GIANNA
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=910
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

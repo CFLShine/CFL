@@ -1,0 +1,124 @@
+Id=14072014
+JourDate=14/07/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+CodeDft=3485
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=MASSON
+DefuntPrenom=MAURICE
+Heure_0=00:18
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=TREVARAIN Loïc
+Equipe_1=MEGHEZZI Marc
+Comment_0=
+Comment_1=
+UsedBy=
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=1
+DemiJour=1
+CodeDft=3486
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=VERNAZ
+DefuntPrenom=MICHEL
+Heure_0=16:00
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=TREVARAIN Loïc
+Equipe_1=MEGHEZZI Marc
+Comment_0=
+Comment_1=
+UsedBy=Libre
+End With
+With ZONE
+Id=2
+Saisie=Soins
+Pos=2
+DemiJour=0
+CodeDft=3483
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=INAUDI
+DefuntPrenom=TERSILLO
+Heure_0=08:00
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+UsedBy=
+End With
+With ZONE
+Id=3
+Saisie=Soins
+Pos=3
+DemiJour=0
+CodeDft=3483
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=INAUDI
+DefuntPrenom=TERSILLO
+Heure_0=08:00
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+UsedBy=
+End With
+With ZONE
+Id=4
+Saisie=Soins
+Pos=4
+DemiJour=0
+CodeDft=3483
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=INAUDI
+DefuntPrenom=TERSILLO
+Heure_0=08:00
+Ev_0=Soins de thanatopraxie parTREBOUTE Marion
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+UsedBy=
+End With
+With ZONE
+Id=5
+Saisie=Soins
+Pos=5
+DemiJour=0
+CodeDft=3482
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=LORENZELLI
+DefuntPrenom=EUGENIE
+Heure_0=11:45
+Ev_0=Soins de thanatopraxie parTREBOUTE Marion
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+UsedBy=
+End With

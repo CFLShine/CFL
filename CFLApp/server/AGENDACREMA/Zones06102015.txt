@@ -1,0 +1,144 @@
+Id=6102015
+Jourdate=06/10/2015
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6589
+Pf_ceremonie=PFM 
+Nom_ceremonie=BERTHOLET 
+Prenom_ceremonie=JEAN PAUL 
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6589
+Pf_cremation=PFM
+Nom_cremation=BERTHOLET 
+Prenom_cremation=JEAN PAUL 
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1433
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=6601
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=PERROUSE
+Prenom_ceremonie=NICOLE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de PONT-DE-BEAUVOISIN
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+CodeDft_cremation=6601
+Pf_cremation=PF BALDINI
+Nom_cremation=PERROUSE
+Prenom_cremation=NICOLE
+EvenementArrivee_cremation=Arrivée de PONT-DE-BEAUVOISIN
+NoOrdre=1434
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6594
+Pf_ceremonie=PFM
+Nom_ceremonie=GUIRAO
+Prenom_ceremonie=JEAN PIERRE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6594
+Pf_cremation=PFM
+Nom_cremation=GUIRAO
+Prenom_cremation=JEAN PIERRE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1435
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=6610
+Pf_ceremonie=PFM
+Nom_ceremonie=HANSSEN
+Prenom_ceremonie=GEORG
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6610
+Pf_cremation=PFM
+Nom_cremation=HANSSEN
+Prenom_cremation=GEORG
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1436
+Four=1
+Police=True
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6602
+Pf_ceremonie=PFM
+Nom_ceremonie=HEID
+Prenom_ceremonie=RAYMOND
+CodeDft_cremation=6602
+Pf_cremation=PFM
+Nom_cremation=HEID
+Prenom_cremation=RAYMOND
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=16:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1437
+Four=2
+FicheOccupe=Libre
+End With

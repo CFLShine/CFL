@@ -1,0 +1,15 @@
+Id=5736
+DefuntNom=BONNEL
+DefuntPrenom=GEORGES
+DefuntDecesDate=06/06/2015
+ArriveeCommune=AIX LES BAINS
+ArriveeDate=11/06/2015
+ArriveeHeure=  :
+PfArrivee=PF SEDRAN
+CeremonieCrematoriumDate=11/06/2015
+CeremonieCrematoriumHeure=10:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Geste d'adieu
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5736
+PfCeremonie=PF SEDRAN

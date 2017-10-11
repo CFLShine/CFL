@@ -1,0 +1,25 @@
+Id=-1
+With ZONE
+Id=0
+CodeDft=11701
+DemiJour=0
+Pos=1
+End With
+With ZONE
+Id=1
+CodeDft=11702
+DemiJour=0
+Pos=2
+End With
+With ZONE
+Id=2
+CodeDft=11700
+DemiJour=0
+Pos=3
+End With
+With ZONE
+Id=3
+CodeDft=11705
+DemiJour=1
+Pos=1
+End With

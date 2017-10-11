@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Apremont, Voglans,\f1\par<Ret>\f0 St Baldoph, Chamb\'e9ry, Montagnole,\f1\par<Ret>\b0\f0 Daniel, Andr\'e9e, Alain, Mich\'e8le, ses enfants ; leurs conjoints ; Eddy, son petit-fils ; Marcel, son fr\'e8re ; ses ni\'e8ces et neveux ; les familles Burdin, Tardy, Maritano, Suchet, parents, amis et alli\'e9s, ont la tristesse de vous faire part du d\'e9c\'e8s, dans sa 91\'e8me ann\'e9e, de\f1\par<Ret>\pard\qc\b\f0 Mme Jos\'e9phine TARDY\f1\par<Ret>\f0 n\'e9e BURDIN\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie religieuse aura lieu en l'\'e9glise d'Apremont le jeudi 11 septembre 2014 \'e0 quinze heures, suivie de l'inhumation.\f1\par<Ret>\f0 La famille remercie sinc\'e8rement le Foyer Notre-Dame des Marches et les divers services m\'e9dicaux pour leur d\'e9vouement et leur gentillesse.\par<Ret>}<Ret>
+CodeDft=3779
+Tarif=208
+NbLignes=22
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=09/09/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

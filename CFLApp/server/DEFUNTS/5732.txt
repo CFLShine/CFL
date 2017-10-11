@@ -1,0 +1,15 @@
+Id=5732
+DefuntNom=LEFEVRE
+DefuntPrenom=ALAIN
+DefuntDecesDate=06/06/2015
+ArriveeCommune=CHAMBERY
+ArriveeDate=
+ArriveeHeure=
+PfArrivee=PFM
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5732
+ArriveeLieu=

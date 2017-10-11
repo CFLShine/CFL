@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=600
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Chamb\'e9ry, Albertville, Aigueblanche.\f1\par<Ret>\f0 M et Mme Albert Duboin,\f1\par<Ret>\f0 M.Jacky Duboin, ses enfants;\f1\par<Ret>\f0 ses petits-enfants et son arri\'e8re\f1\par<Ret>\f0 petit-fils;\f1\par<Ret>\f0 M.et Mme Jean-Louis Petracin, son fr\'e8re;\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de \b\f1\par<Ret>\pard\qc\f0 Madame\f1\par<Ret>\f0  Fernande BOURGES\par<Ret>N\'e9e RICHAUD\f1\par<Ret>\pard\b0\f0 survenu le 5 ao\'fbt 2014 \'e0 l'\'e2ge de 92 ans.\f1\par<Ret>\f0 la c\'e9r\'e9monie religieuse aura lieu  le vendredi 8 ao\'fbt  \'e0 seize heures trente en pr\'e9sence de l'urne \'e0  l'\'e9glise de Plombi\'e8re St Marcel, suivie de l'inhumation au cimeti\'e8re.\f1\par<Ret>\f0 la famille remercie le personnel de la R\'e9sidence Ag\'e9lia.\f1\par<Ret>\f0 ses fils rappellent \'e0 votre souvenir leur p\'e8re \f1\par<Ret>\b\f0 Ren\'e9 DUBOIN\b0\f1\par<Ret>\f0 cet avis tient lieu de faire-part et de remerciements.  \par<Ret>}<Ret>
+CodeDft=3606
+Tarif=290
+NbLignes=28
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=06/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

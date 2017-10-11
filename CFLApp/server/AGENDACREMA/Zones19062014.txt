@@ -1,0 +1,111 @@
+Id=19062014
+Jourdate=19/06/2014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3322
+Pf=PF PENA
+Conseiller=Loïc TREVARAIN
+Nom=PICARD
+Prenom=CLAUDETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION PAR NOS SOINS PREVOIR  ORDO PFM    
+NoOrdre=756
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3323
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=BONIS
+Prenom=FRANCOISE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=757
+Four=2
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=3329
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=DRAPERI
+Prenom=HENRI
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=758
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3326
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=LATREICHE
+Prenom=RAYMONDE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=755
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3328
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=OMBRA
+Prenom=MARCEL
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=759
+Four=2
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+End With

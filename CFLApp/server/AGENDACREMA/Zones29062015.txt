@@ -1,0 +1,184 @@
+Id=29062015
+Jourdate=29/06/2015
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+HeuretArrivee_ceremonie=
+FicheOccupe=Libre
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=5890
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=PELLET
+Prenom_ceremonie=MARTHE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5890
+Pf_cremation=PF BOUDRIER
+Nom_cremation=PELLET
+Prenom_cremation=MARTHE
+EvenementArrivee_cremation=Arrivée de MORESTEL
+NoOrdre=980
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=5886
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=RAUDET
+Prenom_ceremonie=GINETTE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5886
+Pf_cremation=PF MOUCHE
+Nom_cremation=RAUDET
+Prenom_cremation=GINETTE
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+NoOrdre=981
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=5883
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=CHARTIER
+Prenom_ceremonie=SERGE
+CodeDft_cremation=5883
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=CHARTIER
+Prenom_cremation=SERGE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=14:15
+EvenementArrivee_cremation=Arrivée de BELLEY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 17H  ORDONNATEUR PFM DEPOT CERCUEIL LE 26
+NoOrdre=982
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With
+With ZONE
+Id=10
+End With
+With ZONE
+Id=11
+End With
+With ZONE
+Id=12
+End With
+With ZONE
+Id=13
+End With
+With ZONE
+Id=14
+End With
+With ZONE
+Id=15
+End With
+With ZONE
+Id=16
+End With
+With ZONE
+Id=17
+End With
+With ZONE
+Id=18
+End With
+With ZONE
+Id=19
+End With
+With ZONE
+Id=20
+End With
+With ZONE
+Id=21
+End With
+With ZONE
+Id=22
+End With
+With ZONE
+Id=23
+End With
+With ZONE
+Id=24
+End With
+With ZONE
+Id=25
+End With
+With ZONE
+Id=26
+End With
+With ZONE
+Id=27
+End With
+With ZONE
+Id=28
+End With
+With ZONE
+Id=29
+End With
+With ZONE
+Id=0
+End With

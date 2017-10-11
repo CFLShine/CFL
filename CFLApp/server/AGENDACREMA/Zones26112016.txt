@@ -1,0 +1,162 @@
+Id=26112016
+Jourdate=26/11/2016
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION  
+SaisieOccupe=Libre
+CodeDft_ceremonie=9517
+Pf_ceremonie=PFM
+Nom_ceremonie=LACROIX
+Prenom_ceremonie=ANNE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+End With
+With ZONE
+Id=2
+EvenementCommentaire=3 COEURS A LA CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=9522
+Pf_ceremonie=PFM
+Nom_ceremonie=BERARD
+Prenom_ceremonie=YVONNE JEANNE
+CodeDft_cremation=9522
+Pf_cremation=PFM
+Nom_cremation=BERARD
+Prenom_cremation=YVONNE JEANNE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=1674
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9526
+Pf_ceremonie=PFM
+Nom_ceremonie=MERLE
+Prenom_ceremonie=MAURICE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9526
+Pf_cremation=PFM
+Nom_cremation=MERLE
+Prenom_cremation=MAURICE
+NoOrdre=1675
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=ORDONNATEUR PFM  LA FAMILLE RECUPERE L'URNE A 15H
+SaisieOccupe=Libre
+CodeDft_ceremonie=9527
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=VACHER
+Prenom_ceremonie=ROLAND
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9527
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=VACHER
+Prenom_cremation=ROLAND
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1676
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9520
+Pf_ceremonie=PF PECH
+Nom_ceremonie=GACHET
+Prenom_ceremonie=GEORGES
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9520
+Pf_cremation=PF PECH
+Nom_cremation=GACHET
+Prenom_cremation=GEORGES
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=1677
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9525
+Pf_ceremonie=PF CHAMBERIENNES
+Nom_ceremonie=MORAND
+Prenom_ceremonie=JACQUES
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY HOPITAL
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9525
+Pf_cremation=PF CHAMBERIENNES
+Nom_cremation=MORAND
+Prenom_cremation=JACQUES
+EvenementArrivee_cremation=Arrivée de CHAMBERY HOPITAL
+FicheOccupe=Libre
+NoOrdre=1678
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

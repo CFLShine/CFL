@@ -1,0 +1,140 @@
+Id=20042016
+JourDate=20/04/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=8053
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=5
+EquipeId_1=7
+EquipeId_2=17
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=MILLON Patrick
+Equipe_1=JACQUIER Michel
+Equipe_2=MEGHEZZI Marc
+Equipe_3=
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8053
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Green
+CodeDft=8054
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=58
+EquipeId_1=60
+EquipeId_2=16
+EquipeId_3=65
+Ordo=FAVRIN Thierry
+Equipe_0=MULDER Michaël
+Equipe_1=DUMAZ Rémy
+Equipe_2=MILESI Robert
+Equipe_3=PATUREL Christian
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8061
+Comment_0=ENFANT NEE SANS VIE 
+Comment_1=LA FAMILLE ASSISTE A LA CREMATION 
+HeureComment=  :
+OrdoId=26
+EquipeId_0=5
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=MILLON Patrick
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8066
+Comment_0=CASE
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8084
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8086
+Comment_0=CASE
+Comment_1=
+HeureComment=  :
+End With

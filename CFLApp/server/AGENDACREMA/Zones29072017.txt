@@ -1,0 +1,125 @@
+Id=29072017
+Jourdate=29/07/2017
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11270
+Pf_ceremonie=PFM
+Nom_ceremonie=BANLIER
+Prenom_ceremonie=CLAUDINE
+CodeDft_cremation=11270
+Pf_cremation=PFM
+Nom_cremation=BANLIER
+Prenom_cremation=CLAUDINE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1049
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft_ceremonie=11276
+Pf_ceremonie=PFM
+Nom_ceremonie=REMOLIF
+Prenom_ceremonie=MICHEL
+CodeDft_cremation=11276
+Pf_cremation=PFM
+Nom_cremation=REMOLIF
+Prenom_cremation=MICHEL
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1048
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=BEBE, LA FAMILLE RECUPERE LES CENDRES
+SaisieOccupe=Libre
+CodeDft_ceremonie=11279
+Pf_ceremonie=PASCAL LECLERC
+Nom_ceremonie=DUVILLARD
+Prenom_ceremonie=NILS
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11279
+Pf_cremation=PASCAL LECLERC
+Nom_cremation=DUVILLARD
+Prenom_cremation=NILS
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1050
+Four=FTX
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11284
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=COSTA
+Prenom_ceremonie=SUZANNE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11284
+Pf_cremation=PF POMMAT
+Nom_cremation=COSTA
+Prenom_cremation=SUZANNE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+NoOrdre=1051
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

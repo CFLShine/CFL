@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Nances (73)\f1\par<Ret>\f0 Le professeur Robert Jarret, son \'e9poux;\f1\par<Ret>\f0 Catherine et Brigitte, ses filles;\f1\par<Ret>\f0 Pierre Savagner, son gendre;\f1\par<Ret>\f0 Ses enfants, petits-enfants et arri\'e8re-petits-enfants\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Madame Paule, Andr\'e9e JARRET \f1\par<Ret>\f0 n\'e9e PREMAT\f1\par<Ret>\f0 survenu le 31 Octobre 2014\f1\par<Ret>\pard\b0\f0 Les obs\'e8ques religieuses auront lieu en l'Eglise de Nances le Samedi 8 Novembre 2014 \'e0 quatorze heures trente, suivies de l'inhumation dans le caveau familial.\par<Ret>}<Ret>
+CodeDft=4105
+Tarif=208
+NbLignes=19
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=06/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

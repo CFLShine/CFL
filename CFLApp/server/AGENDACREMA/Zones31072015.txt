@@ -1,0 +1,167 @@
+Id=31072015
+Jourdate=31/07/2015
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=  :
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=BEBE PAS DE FAMILLE   DISPERSION PAR NOS SOINS 
+CodeDft_cremation=6116
+Pf_cremation=PFM VOIRON
+Nom_cremation=FERNANDES
+Prenom_cremation=X
+EvenementArrivee_cremation=Arrivée de VOIRON
+HeuretArrivee_ceremonie=
+FicheOccupe=Libre
+NoOrdre=1128
+Four=1
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6118
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=FLOCTEIL
+Prenom_ceremonie=YVES
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6118
+Pf_cremation=PF BOUDRIER
+Nom_cremation=FLOCTEIL
+Prenom_cremation=YVES
+EvenementArrivee_cremation=Arrivée de MORESTEL
+FicheOccupe=Libre
+NoOrdre=1129
+Four=2
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=6119
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=PASQUIER
+Prenom_ceremonie=JEAN-MARC
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 13H
+CodeDft_cremation=6119
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=PASQUIER
+Prenom_cremation=JEAN-MARC
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1130
+Four=1
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=6089
+Pf_ceremonie=PFM
+Nom_ceremonie=CHARREAU
+Prenom_ceremonie=GEOFFREY
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6089
+Pf_cremation=PFM
+Nom_cremation=CHARREAU
+Prenom_cremation=GEOFFREY
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+Police=True
+NoOrdre=1131
+Four=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=6120
+Pf_ceremonie=PF PENA
+Nom_ceremonie=RIVIERE
+Prenom_ceremonie=ANDRE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de SAINT LAURENT DU PONT
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'urne
+CodeDft_cremation=6120
+Pf_cremation=PF PENA
+Nom_cremation=RIVIERE
+Prenom_cremation=ANDRE
+EvenementArrivee_cremation=Arrivée de SAINT LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=1132
+Four=1
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=6123
+Pf_ceremonie=AJEPI
+Nom_ceremonie=BETEMPS
+Prenom_ceremonie=DANIEL
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6123
+Pf_cremation=AJEPI
+Nom_cremation=BETEMPS
+Prenom_cremation=DANIEL
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1133
+Four=2
+End With
+With ZONE
+Id=7
+End With

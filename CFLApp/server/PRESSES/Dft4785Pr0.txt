@@ -1,0 +1,27 @@
+Id=-1
+Type=Avis
+Height=540
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Grenoble, La Motte-Servolex, la Praz, Nice, Le Mont Cenis\f1\par<Ret>\b0\f0 Eric, Herv\'e9 et Marie-Jo, Franck et Martine, ses neveux et ni\'e8ces; ses petits-neveux; ses cousins, cousines; ses amies,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de Madame\f1\par<Ret>\pard\qc\b\f0 Gabrielle MORAT\f1\par<Ret>\f0 N\'e9e SERAIN\f1\par<Ret>\f0 dit "Gaby"\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 92 ans.\f1\par<Ret>\f0 Elle repose au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\pard\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e samedi 14 f\'e9vrier 2015 \'e0 dix heures trente en l'Eglise de la Motte Servolex.\f1\par<Ret>\f0 La famille rapelle \'e0 votre souvenir son \'e9poux\f1\par<Ret>\pard\qc\b\f0 Victor MORAT\f1\par<Ret>\pard\b0\f0 Cet avis tient lieu de faire-part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4785
+Tarif=478
+NbLignes=25
+Cadre=False
+Symbole=False
+Photo=False
+SiteSent=True
+SiteDate1=10/02/2015
+SiteDate2=13/02/2015
+SiteTitre=Grabrielle MORAT
+SiteClientMail=fmmorat@orange.fr
+With PARUTION
+Id=4
+Date=11/02/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=5
+Name=ISERE
+End With

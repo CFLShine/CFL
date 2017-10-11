@@ -1,0 +1,112 @@
+Id=15022017
+JourDate=15/02/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10204
+Comment_0=La famille récupère les cendres.
+Comment_1=
+HeureComment=  :
+OrdoId=73
+EquipeId_0=26
+EquipeId_1=7
+EquipeId_2=5
+EquipeId_3=6
+Ordo=FRANZINI Karine
+Equipe_0=WALLYN Benoît
+Equipe_1=JACQUIER Michel
+Equipe_2=MILLON Patrick
+Equipe_3=PINTOUT Bruno
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10211
+Comment_0=CAVEAU NEUF
+Comment_1=BLOQUER LES CONDOLEANCES
+HeureComment=  :
+OrdoId=11
+EquipeId_0=65
+EquipeId_1=60
+EquipeId_2=64
+EquipeId_3=16
+Ordo=FAVRIN Thierry
+Equipe_0=PATUREL Christian
+Equipe_1=DUMAZ Rémy
+Equipe_2=DEMOUSSY Alain
+Equipe_3=MILESI Robert
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10217
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=73
+EquipeId_0=7
+EquipeId_1=5
+EquipeId_2=6
+EquipeId_3=58
+Ordo=FRANZINI Karine
+Equipe_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+Equipe_2=PINTOUT Bruno
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10208
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10216
+Comment_0=ORDONNATEUR PFM
+Comment_1=RDV FAMILLE A 14H45 POUR PREPARATION
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With

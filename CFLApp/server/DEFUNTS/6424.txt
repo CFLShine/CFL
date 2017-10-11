@@ -1,0 +1,15 @@
+Id=6424
+DefuntNom=BURNET
+DefuntPrenom=EMILE
+DefuntDecesDate=08/09/2015
+ArriveeCommune=CHAMBERY
+ArriveeDate=12/09/2015
+ArriveeHeure=14:15
+PfArrivee=PFM
+PfCeremonie=PFM
+CeremonieCrematoriumDate=12/09/2015
+CeremonieCrematoriumHeure=14:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Religieuse
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=6424

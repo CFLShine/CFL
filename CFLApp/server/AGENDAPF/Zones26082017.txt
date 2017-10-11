@@ -1,0 +1,118 @@
+Id=26082017
+JourDate=26/08/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11439
+Comment_0=CONCESSION PAYSAGERE NEUVE
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=65
+EquipeId_1=76
+EquipeId_2=17
+EquipeId_3=60
+Ordo=KAELBERER Eric
+Equipe_0=PATUREL Christian
+Equipe_1=PIERRE Hugo
+Equipe_2=MEGHEZZI Marc
+Equipe_3=DUMAZ Rémy
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Green
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11447
+Comment_0=DEPOT EN L'EGLISE A 10H00
+Comment_1=OUVERTURE CASE COLUMBARIUM PAR NOS SERVICES 
+HeureComment=  :
+OrdoId=26
+EquipeId_0=50
+EquipeId_1=76
+EquipeId_2=29
+EquipeId_3=64
+Ordo=WALLYN Benoît
+Equipe_0=MARIE Tristan
+Equipe_1=PIERRE Hugo
+Equipe_2=P.SPRINGOLO Pascal
+Equipe_3=DEMOUSSY Alain
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11447
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Green
+CodeDft=11450
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=16
+EquipeId_1=17
+EquipeId_2=60
+EquipeId_3=65
+Ordo=KAELBERER Eric
+Equipe_0=MILESI Robert
+Equipe_1=MEGHEZZI Marc
+Equipe_2=DUMAZ Rémy
+Equipe_3=PATUREL Christian
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11455
+Comment_0=9H PREPARATION DE CEREMONIE RELIGIEUSE POUR MME LAZ DANS LE BUREAU
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=5
+CodeDft=11467
+DemiJour=1
+Pos=1
+End With

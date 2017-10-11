@@ -1,0 +1,8 @@
+Id=2007
+With DEFUNT
+Id=3671
+Nom=FINCATO
+Prenom=MARIE
+DecesDate=30/06/2007
+CodeDft=3671
+End With

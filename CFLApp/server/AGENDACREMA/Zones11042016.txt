@@ -1,0 +1,164 @@
+Id=11042016
+Jourdate=11/04/2016
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=7988
+Pf_ceremonie=PFG  CHAMBERY
+Nom_ceremonie=ANDRIVET
+Prenom_ceremonie=YVES
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de LA MOTTE SERVOLEX
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+CodeDft_cremation=7988
+Pf_cremation=PFG  CHAMBERY
+Nom_cremation=ANDRIVET
+Prenom_cremation=YVES
+EvenementArrivee_cremation=Arrivée de LA MOTTE SERVOLEX
+FicheOccupe=Libre
+NoOrdre=562
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY  HOPITAL
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=7995
+Pf_ceremonie=PF PASCAL LECLERC
+Nom_ceremonie=THIEVENAZ
+Prenom_ceremonie=GERMAINE
+CodeDft_cremation=7995
+Pf_cremation=PF PASCAL LECLERC
+Nom_cremation=THIEVENAZ
+Prenom_cremation=GERMAINE
+EvenementArrivee_cremation=Arrivée de CHAMBERY  HOPITAL
+FicheOccupe=Libre
+NoOrdre=561
+Four=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=7998
+Pf_ceremonie=PFM
+Nom_ceremonie=CHOISEL
+Prenom_ceremonie=RAYMOND
+CodeDft_cremation=7998
+Pf_cremation=PFM
+Nom_cremation=CHOISEL
+Prenom_cremation=RAYMOND
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CEREMONIE FAITE PAR UN MEMBRE DE LA FAMILLE QUI EST CURE
+Police=True
+NoOrdre=563
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+HeuretArrivee_ceremonie=
+EvenementArrivee_crema=
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LA FAMILLE RECUPERE LES CENDRES
+SaisieOccupe=Libre
+CodeDft_ceremonie=7999
+Pf_ceremonie=PFM
+Nom_ceremonie=VEDEL
+Prenom_ceremonie=JACQUES
+CodeDft_cremation=7999
+Pf_cremation=PFM
+Nom_cremation=VEDEL
+Prenom_cremation=JACQUES
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+HeuretArrivee_ceremonie=
+EvenementArrivee_crema=
+FicheOccupe=Libre
+Police=True
+NoOrdre=564
+Four=1
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=7992
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=POULET
+Prenom_ceremonie=ROBERT
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE LE LENDEMAIN
+CodeDft_cremation=7992
+Pf_cremation=PF BALDINI
+Nom_cremation=POULET
+Prenom_cremation=ROBERT
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=565
+Four=2
+End With

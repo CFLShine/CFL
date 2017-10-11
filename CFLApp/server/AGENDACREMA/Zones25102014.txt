@@ -1,0 +1,103 @@
+Id=25102014
+Jourdate=25/10/2014
+Version=NouveauFormat
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4031
+Pf=PF ALBANAIS
+Conseiller=Marie-Pierre PINET
+Nom=GUILLERMIN
+Prenom=FLORIAN
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de RUMILLY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1300
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4032
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=CHARRETON
+Prenom=SAVITRI
+HeureArrivee=14:00
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1299
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4034
+Pf=PFG MACHE
+Conseiller=Loïc TREVARAIN
+Nom=COMMUNAL
+Prenom=GILBERT
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de LA MOTTE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=DEPART ETABLE 73    PAS DE CREMATION
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4038
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=AUDIGIER
+Prenom=AURIA
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1298
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4041
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=KEO
+Prenom=YEAP
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1301
+Four=1
+FicheOccupe=Libre
+End With

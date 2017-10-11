@@ -1,0 +1,125 @@
+Id=7082014
+Jourdate=07/08/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3583
+Pf=PF TONIN COIFFET
+Conseiller=Loïc TREVARAIN
+Nom=MARESQUET
+Prenom=ANDRE
+HeureArrivee=
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDONNATEUR - FAMILLE RECUPERE VERS 14 H 30
+NoOrdre=967
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3591
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=PELLET
+Prenom=ODETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+FicheOccupe=Libre
+NoOrdre=966
+Four=2
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3592
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=GIRODO
+Prenom=FERNAND
+HeureArrivee=15:45
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION LE CHAUFFEUR PART VENDREDI MATIN POUR INHUMATION GRASSE
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3598
+Pf=AJEPI
+Conseiller=Loïc TREVARAIN
+Nom=TRIPIER-COCHET
+Prenom=MARCELLE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION - INHUMATION AUX DESERTS          AJEPI
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3599
+Pf=PF BOUDRIER
+Conseiller=Loïc TREVARAIN
+Nom=BEL
+Prenom=CEDRIC
+HeureArrivee=
+EvenementArrivee=Arrivée de TOUR DU PIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  RECUPERATION ?
+NoOrdre=968
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3603
+Pf=PF PLATEAU
+Conseiller=Loïc TREVARAIN
+Nom=ROCHERON
+Prenom=DIDIER
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de HAUTEVILLE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LE CERCUEIL EN PEUPLIER LA FAMILLE RECUPERE LES CENDRES
+FicheOccupe=Libre
+NoOrdre=969
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With

@@ -1,0 +1,164 @@
+Id=15042016
+Jourdate=15/04/2016
+With ZONE
+Id=5
+EvenementCommentaire=
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=8025
+Pf_ceremonie=PF DU PLATEAU
+Nom_ceremonie=CARIAS
+Prenom_ceremonie=JACQUELINE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de HAUTEVILLE
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION - PF RECUPERE URNE - PAS DE CEREMONIE
+CodeDft_cremation=8025
+Pf_cremation=PF DU PLATEAU
+Nom_cremation=CARIAS
+Prenom_cremation=JACQUELINE
+EvenementArrivee_cremation=Arrivée de HAUTEVILLE
+NoOrdre=585
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire= REMISE URNE FAMILLE  ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft_ceremonie=8031
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=LAMOTTE
+Prenom_ceremonie=CYRIL
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8031
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=LAMOTTE
+Prenom_cremation=CYRIL
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=586
+Four=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 14H30
+SaisieOccupe=Libre
+CodeDft_ceremonie=8036
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=GALLIFET
+Prenom_ceremonie=JEANNE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8036
+Pf_cremation=PF FLORET
+Nom_cremation=GALLIFET
+Prenom_cremation=JEANNE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=587
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=8022
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=BOCQUERAZ
+Prenom_ceremonie=GINETTE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8022
+Pf_cremation=PF SEDRAN
+Nom_cremation=BOCQUERAZ
+Prenom_cremation=GINETTE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=588
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=NORMALEMENT PAS DE FAMILLE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8018
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=PEDRASSI
+Prenom_ceremonie=ANNETTE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+CodeDft_cremation=8018
+Pf_cremation=PF FLORET
+Nom_cremation=PEDRASSI
+Prenom_cremation=ANNETTE
+FicheOccupe=Libre
+NoOrdre=589
+Four=2
+End With

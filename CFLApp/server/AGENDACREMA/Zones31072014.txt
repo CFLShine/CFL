@@ -1,0 +1,130 @@
+Id=31072014
+Jourdate=31/07/2014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=3557
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=COMMUNAL
+Prenom=YVONNE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=933
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3558
+Pf=PFG MACHE
+Conseiller=Marion TREBOUTE
+Nom=CHATEL
+Prenom=JOSEPH
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT LES CENDRES
+FicheOccupe=Libre
+NoOrdre=934
+Four=2
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3560
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=DEQUIER
+Prenom=MARIE -THERESE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de STJEAN DE MAURIENNE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 17H  
+FicheOccupe=Libre
+NoOrdre=936
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3565
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=GOLLIET
+Prenom=GILBERT
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=937
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3566
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=PANINI
+Prenom=SERGE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+NoOrdre=935
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3567
+Pf=PF MAURIENNAISES
+Conseiller=Ginette GAYRAUD
+Nom=SENDRA MARTINEZ
+Prenom=DOLORES
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=938
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With

@@ -1,0 +1,205 @@
+Id=10062016
+Jourdate=10/06/2016
+With ZONE
+Id=3
+EvenementCommentaire=ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft_ceremonie=8403
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=SAGE
+Prenom_ceremonie=BERNARD
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8403
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=SAGE
+Prenom_cremation=BERNARD
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=876
+Four=2
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=8415
+Pf_ceremonie=CARTIER LANGE
+Nom_ceremonie=VERNEY
+Prenom_ceremonie=ROSALIE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de ST ETIENNE DE CUINES
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  CEREMONIE RELIGIEUSE  PF RECUPERENT
+CodeDft_cremation=8415
+Pf_cremation=CARTIER LANGE
+Nom_cremation=VERNEY
+Prenom_cremation=ROSALIE
+EvenementArrivee_cremation=Arrivée de ST ETIENNE DE CUINES
+FicheOccupe=Libre
+NoOrdre=873
+Four=1
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=8404
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=VADOT
+Prenom_ceremonie=JACQUES
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+CodeDft_cremation=8404
+Pf_cremation=PF BOUDRIER
+Nom_cremation=VADOT
+Prenom_cremation=JACQUES
+EvenementArrivee_cremation=Arrivée de MORESTEL
+FicheOccupe=Libre
+NoOrdre=874
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8402
+Pf_ceremonie=PFM
+Nom_ceremonie=GAUMET
+Prenom_ceremonie=MIARKO
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de chambery
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8402
+Pf_cremation=PFM
+Nom_cremation=GAUMET
+Prenom_cremation=MIARKO
+EvenementArrivee_cremation=Arrivée de chambery
+FicheOccupe=Libre
+Police=True
+NoOrdre=875
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8412
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=ARTALLE
+Prenom_ceremonie=VALERIE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8412
+Pf_cremation=PF POMMAT
+Nom_cremation=ARTALLE
+Prenom_cremation=VALERIE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=877
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8411
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=PATEY
+Prenom_ceremonie=JOSETTE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de LA MOTTE SERVOLEX
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8411
+Pf_cremation=PFG CHAMBERY
+Nom_cremation=PATEY
+Prenom_cremation=JOSETTE
+EvenementArrivee_cremation=Arrivée de LA MOTTE SERVOLEX
+FicheOccupe=Libre
+NoOrdre=878
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE SAMEDI 11 JUIN 
+SaisieOccupe=Libre
+CodeDft_ceremonie=8400
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=GRANIER
+Prenom_ceremonie=RAYMONDE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8400
+Pf_cremation=PF MOUCHE
+Nom_cremation=GRANIER
+Prenom_cremation=RAYMONDE
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+FicheOccupe=Libre
+NoOrdre=879
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

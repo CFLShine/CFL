@@ -1,0 +1,152 @@
+Id=22052017
+Jourdate=22/05/2017
+With ZONE
+Id=0
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10851
+Pf_ceremonie=PFM
+Nom_ceremonie=FEGER
+Prenom_ceremonie=GABRIELLE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10851
+Pf_cremation=PFM
+Nom_cremation=FEGER
+Prenom_cremation=GABRIELLE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=724
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10852
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=REYMOND
+Prenom_ceremonie=ADELPHINE
+HeureArrivee_ceremonie=17:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=17:15
+EvenementArrivee_crema=
+HeureCeremonie=17:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=18:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10852
+Pf_cremation=PF DE SAVOY
+Nom_cremation=REYMOND
+Prenom_cremation=ADELPHINE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=726
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10850
+Pf_ceremonie=PFM
+Nom_ceremonie=PINOL
+Prenom_ceremonie=MARIE THERESE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10850
+Pf_cremation=PFM
+Nom_cremation=PINOL
+Prenom_cremation=MARIE THERESE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=722
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+CodeDft_ceremonie=10849
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=CORNUT
+Prenom_ceremonie=JOSETTE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10849
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=CORNUT
+Prenom_cremation=JOSETTE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=723
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=10835
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=MASSONNAT
+Prenom_ceremonie=GILBERT
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+CodeDft_cremation=10835
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=MASSONNAT
+Prenom_cremation=GILBERT
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=725
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

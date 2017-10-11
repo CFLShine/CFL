@@ -1,0 +1,144 @@
+Id=17102016
+Jourdate=17/10/2016
+With ZONE
+Id=6
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9228
+Pf_ceremonie=PF  BOUVIER
+Nom_ceremonie=GIRARD
+Prenom_ceremonie=MAURICE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX  LES BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9228
+Pf_cremation=PF  BOUVIER
+Nom_cremation=GIRARD
+Prenom_cremation=MAURICE
+EvenementArrivee_cremation=Arrivée de AIX  LES BAINS
+FicheOccupe=Libre
+NoOrdre=1460
+Four=2
+End With
+With ZONE
+Id=0
+EvenementCommentaire=ENFANT NE SANS VIE
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL CHAMBERY
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_ceremonie=9229
+Pf_ceremonie=PFG YENNE
+Nom_ceremonie=NGUYEN
+Prenom_ceremonie=ALEXIS
+CodeDft_cremation=9229
+Pf_cremation=PFG YENNE
+Nom_cremation=NGUYEN
+Prenom_cremation=ALEXIS
+EvenementArrivee_cremation=Arrivée de HOPITAL CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1456
+Four=1
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9225
+Pf_ceremonie=PFM
+Nom_ceremonie=RICHARD
+Prenom_ceremonie=BERNARD
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9225
+Pf_cremation=PFM
+Nom_cremation=RICHARD
+Prenom_cremation=BERNARD
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1457
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9216
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=BRUNIER
+Prenom_ceremonie=BERNARD
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9216
+Pf_cremation=PF BAUDRION
+Nom_cremation=BRUNIER
+Prenom_cremation=BERNARD
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1458
+Four=1
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=9217
+Pf_ceremonie=DE SAVOY
+Nom_ceremonie=CHEVAL
+Prenom_ceremonie=RENEE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de BOURG SAINT MAURICE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+CodeDft_cremation=9217
+Pf_cremation=DE SAVOY
+Nom_cremation=CHEVAL
+Prenom_cremation=RENEE
+EvenementArrivee_cremation=Arrivée de BOURG SAINT MAURICE
+NoOrdre=1459
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+NoOrdre=
+Four=
+End With

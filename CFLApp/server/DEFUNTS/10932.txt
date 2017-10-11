@@ -1,0 +1,15 @@
+Id=10932
+DefuntNom=RICHARD
+DefuntPrenom=LIONEL
+DefuntDecesDate=01/06/2017
+ArriveeCommune=
+ArriveeDate=03/06/2017
+ArriveeHeure=  :
+PfArrivee=PF BOUVIER
+PfCeremonie=PF BOUVIER
+CeremonieCrematoriumDate=03/06/2017
+CeremonieCrematoriumHeure=10:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Civile
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=10932

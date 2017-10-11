@@ -1,0 +1,126 @@
+Id=5022015
+Jourdate=05/02/2015
+Version=NouveauFormat
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4693
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=CROIZET
+Prenom=PIERRETTE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=205
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PAS DE CREMATION  INHUMATION CHARRIERE NEUVE
+SaisieOccupe=Libre
+CodeDft=4695
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=WHISTON
+Prenom=MARIE LOUISE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=7
+EvenementCommentaire=NE PAS SCELLER L'URNE  
+SaisieOccupe=Libre
+CodeDft=4712
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=ARRAGAIN
+Prenom=DENISE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=209
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4709
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+Nom=FAVRE 
+Prenom=JEAN-PIERRE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ON GARDE L'URNE QUELQUES MOIS AU CREMATORIUM
+NoOrdre=207
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4715
+Pf=AJEPI
+Conseiller=Marie-Pierre PINET
+Nom=MICHELAND
+Prenom=GERARD
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=208
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4723
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=MEINARD
+Prenom=MARIE -HELENE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=206
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With

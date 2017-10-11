@@ -1,0 +1,143 @@
+Id=21062016
+Jourdate=21/06/2016
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8465
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=BRUNETTI
+Prenom_ceremonie=JEANNE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8465
+Pf_cremation=PF SEDRAN
+Nom_cremation=BRUNETTI
+Prenom_cremation=JEANNE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+HeuretArrivee_ceremonie=
+FicheOccupe=Libre
+NoOrdre=921
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=8470
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=VIOUD
+Prenom_ceremonie=PATRICK
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY  HOPTAL
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8470
+Pf_cremation=PF BAUDRION
+Nom_cremation=VIOUD
+Prenom_cremation=PATRICK
+EvenementArrivee_cremation=Arrivée de CHAMBERY  HOPTAL
+FicheOccupe=Libre
+NoOrdre=920
+Four=1
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=8471
+Pf_ceremonie=PF PENA
+Nom_ceremonie=DAVID
+Prenom_ceremonie=LAURENCE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8471
+Pf_cremation=PF PENA
+Nom_cremation=DAVID
+Prenom_cremation=LAURENCE
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=922
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=- PFG RECUPERE URNE - NE PAS SCELLER
+SaisieOccupe=Libre
+CodeDft_ceremonie=8474
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=BAYET
+Prenom_ceremonie=FRANCOISE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8474
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=BAYET
+Prenom_cremation=FRANCOISE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=923
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=8469
+Pf_ceremonie=PFG MOUTIERS
+Nom_ceremonie=MERMIN
+Prenom_ceremonie=MARIE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8469
+Pf_cremation=PFG MOUTIERS
+Nom_cremation=MERMIN
+Prenom_cremation=MARIE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=924
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+End With

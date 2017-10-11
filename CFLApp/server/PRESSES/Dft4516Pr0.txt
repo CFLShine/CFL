@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 St Jeoire Prieur\'e9.\f1\par<Ret>\b0\f0 J\'f6elle, son \'e9pouse;\f1\par<Ret>\f0 Maxime et H\'e9l\'e8ne, sa compagne, Adrien, Am\'e9lie, ses enfants; \f1\par<Ret>\f0 Lou-Anne et Auxanna, ses petites-filles;\f1\par<Ret>\f0 les familles Muzet, Giroud, Poma, Frappa\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Monsieur Pascal CATTANEO\f1\par<Ret>\f0 survenu \'e0 l'\'e2ge de 56 ans\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e le mardi 13 Janvier 2015 \'e0 neuf heures trente en l'Eglise de St Jeoire Prieur\'e9, suivie de la cr\'e9mation.\f1\par<Ret>\f0 Ni fleurs, ni plaques.\par<Ret>}<Ret>
+CodeDft=4516
+Tarif=208
+NbLignes=19
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=11/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

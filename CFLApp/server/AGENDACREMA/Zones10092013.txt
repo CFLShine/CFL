@@ -1,0 +1,135 @@
+Id=10092013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1605.txt
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=GIMENEZ
+Prenom=FELICIE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=1084
+Four=2
+CodeDft=1605
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1602.txt
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+Nom=GENTILE
+Prenom=SIGISMONDO
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DEPOT DU CERCUEIL LUNDI 9  AU SOIR
+NoOrdre=1085
+Four=1
+CodeDft=1602
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1597.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=PILON
+Prenom=ANNE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=1086
+Four=2
+CodeDft=1597
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=PAS DE CREMATIOIN 
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1579.txt
+Pf=PFM
+Conseiller=Maxime EHNY
+Nom=FRACHON
+Prenom=HENRI
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+NoOrdre=
+Four=
+CodeDft=1579
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1592.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Pascal MARIE
+Nom=SALVETTI
+Prenom=BAPTISTE
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN PIN
+NoOrdre=1087
+Four=2
+CodeDft=1592
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+NoOrdre=
+Four=
+CodeDft=
+End With

@@ -1,0 +1,22 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 CHAPAREILLAN,\f1\par<Ret>\f0 Pierre, Marianne, Jean-Marc, ses enfants et leurs conjoints, Pascal et Aurore;\f1\par<Ret>\f0 Cl\'e9ment et L\'e9o, ses petits-fils;\f1\par<Ret>\f0 Gaston, Marcelle, Gilberte, Lucienne, Georges,Ren\'e9, ses fr\'e8res et soeurs; \f1\par<Ret>\f0 Les familles : Cendre, Corbalan,Tangre, Ferr\'e9ro, Passoud, Mar\'e9chal et toute sa nombreuse famille;\f1\par<Ret>\f0 Ont la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\b\f0 Madame Adrienne CENDRE\b0\f1\par<Ret>\pard\qc\b\f0 n\'e9e FERRERO\b0\f1\par<Ret>\pard\f0 la  c\'e9r\'e9monie religieuse aura lieu le mercredi 20 ao\'fbt 2014 \'e0 dix heures en l'\'e9glise de Chapareillan\f1\par<Ret>\f0 Condol\'e9ances sur registre.\f1\par<Ret>\f0  Cet avis tient lieu de faire-part.\par<Ret>}<Ret>
+CodeDft=3662
+Tarif=396,8
+NbLignes=21
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=19/08/2014
+End With
+With DEPARTEMENT
+Id=5
+Name=ISERE
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

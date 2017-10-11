@@ -1,0 +1,33 @@
+Id=27112012
+With ZONE
+Id=0
+CodeZone=0
+Pos=0
+DemiJour=0
+AdressDft=\DONNEES\DONNEES2012\23.txt
+Ordo=
+OrdoOk=white
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Pascal MARIE
+Pf=PFM
+DefuntNom=PETRINI
+DefuntPrenom=CHRISTIANE
+Saisie=Convoi
+Heure_0=09:00
+Heure_1=
+Heure_2=
+Heure_3=
+Ev_0=Mise en bière Centre funéraire
+Ev_1=
+Ev_2=
+Ev_4=
+Comment_0=
+CodeDft=23
+End With

@@ -1,0 +1,8 @@
+Id=17082017
+Jourdate=17/08/2017
+FactureZone4=true
+FactureZone2=true
+FactureZone7=true
+FactureZone8=False
+FactureZone3=true
+FactureZone5=true

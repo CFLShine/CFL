@@ -1,0 +1,38 @@
+Id=22082017
+JourDate=22/08/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11389
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=76
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=PIERRE Hugo
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+CodeDft=11436
+DemiJour=0
+Pos=1
+End With
+With ZONE
+Id=2
+CodeDft=11439
+DemiJour=1
+Pos=1
+End With

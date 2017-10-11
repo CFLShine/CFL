@@ -1,0 +1,141 @@
+Id=2102015
+Jourdate=02/10/2015
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=6565
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=GURRET
+Prenom_ceremonie=BERNARD
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de LA MOTTE SERVOLEX
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6565
+Pf_cremation=PFG CHAMBERY
+Nom_cremation=GURRET
+Prenom_cremation=BERNARD
+EvenementArrivee_cremation=Arrivée de LA MOTTE SERVOLEX
+FicheOccupe=Libre
+NoOrdre=1421
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6583
+Pf_ceremonie=PFM
+Nom_ceremonie=DEFRAIZE
+Prenom_ceremonie=GILBERTE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6583
+Pf_cremation=PFM
+Nom_cremation=DEFRAIZE
+Prenom_cremation=GILBERTE
+FicheOccupe=Libre
+Police=True
+NoOrdre=1417
+Four=1
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=6576
+Pf_ceremonie=PF PENA
+Nom_ceremonie=VERARD
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=13:00
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=13:00
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6576
+Pf_cremation=PF PENA
+Nom_cremation=VERARD
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=1418
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6574
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=LUTINIER
+Prenom_ceremonie=PATRICE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6574
+Pf_cremation=PF DE SAVOY
+Nom_cremation=LUTINIER
+Prenom_cremation=PATRICE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=1419
+Four=1
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6575
+Pf_ceremonie=PF SAVOYARDES
+Nom_ceremonie=DESBLED
+Prenom_ceremonie=ISABELLE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6575
+Pf_cremation=PF SAVOYARDES
+Nom_cremation=DESBLED
+Prenom_cremation=ISABELLE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1420
+Four=2
+End With

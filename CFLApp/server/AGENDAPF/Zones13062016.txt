@@ -1,0 +1,161 @@
+Id=13062016
+JourDate=13/06/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8406
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=8421
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=60
+EquipeId_1=7
+EquipeId_2=5
+EquipeId_3=58
+Ordo=KAELBERER Eric
+Equipe_0=DUMAZ Rémy
+Equipe_1=JACQUIER Michel
+Equipe_2=MILLON Patrick
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=8421
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=8
+EquipeId_1=7
+EquipeId_2=5
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=ESPINOZA François
+Equipe_1=JACQUIER Michel
+Equipe_2=MILLON Patrick
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8438
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8435
+Comment_0=DOC SUR LE BUREAU DE PASCAL autopsie 11h00
+Comment_1=
+HeureComment=  :
+OrdoId=6
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=PINTOUT Bruno
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=5
+CodeDft=8434
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=6
+CodeDft=8436
+DemiJour=0
+Pos=2
+UsedBy=Libre
+End With
+With ZONE
+Id=8
+CodeDft=8444
+DemiJour=1
+Pos=2
+UsedBy=
+End With
+With ZONE
+Id=9
+CodeDft=8439
+DemiJour=1
+Pos=3
+UsedBy=
+End With
+With ZONE
+Id=10
+CodeDft=8441
+DemiJour=1
+Pos=4
+UsedBy=
+End With
+With ZONE
+Id=11
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8447
+Comment_0=CASE
+Comment_1=
+HeureComment=  :
+End With

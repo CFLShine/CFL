@@ -1,0 +1,316 @@
+Id=2012
+With DEFUNT
+Id=1856
+Nom=ALAIN
+Prenom=HENRI
+DecesDate=29/12/2012
+CodeDft=1856
+End With
+With DEFUNT
+Id=32
+Nom=AMEVET
+Prenom=REGIS
+DecesDate=31/12/2012
+CodeDft=32
+End With
+With DEFUNT
+Id=7
+Nom=BENEDETTI
+Prenom=MARIE THERESE
+DecesDate=22/12/2012
+CodeDft=7
+End With
+With DEFUNT
+Id=61
+Nom=BENOIT-REGNER
+Prenom=Roxanne
+DecesDate=31/12/2012
+CodeDft=61
+End With
+With DEFUNT
+Id=33
+Nom=BERLIOZ 
+Prenom=JEAN CLAUDE
+DecesDate=31/12/2012
+CodeDft=33
+End With
+With DEFUNT
+Id=6
+Nom=BOTTIERO- CONCA
+Prenom=MARIE ALBERTE
+DecesDate=22/12/2012
+CodeDft=6
+End With
+With DEFUNT
+Id=12
+Nom=BOUMARD 
+Prenom=ODETTE
+DecesDate=01/12/2012
+CodeDft=12
+End With
+With DEFUNT
+Id=13
+Nom=CHENE 
+Prenom=ODETTE
+DecesDate=01/12/2012
+CodeDft=13
+End With
+With DEFUNT
+Id=10
+Nom=CHEVROT 
+Prenom=SUZANNE
+DecesDate=01/12/2012
+CodeDft=10
+End With
+With DEFUNT
+Id=39
+Nom=CHIODIN
+Prenom=LEONELLA-ODILLE
+DecesDate=31/12/2012
+CodeDft=39
+End With
+With DEFUNT
+Id=41
+Nom=CHIODIN
+Prenom=Leonella
+DecesDate=31/12/2012
+CodeDft=41
+End With
+With DEFUNT
+Id=20
+Nom=CLEAU 
+Prenom=JEAN PAUL
+DecesDate=24/12/2012
+CodeDft=20
+End With
+With DEFUNT
+Id=1857
+Nom=COLLOMB
+Prenom=CHRISTAINE
+DecesDate=29/12/2012
+CodeDft=1857
+End With
+With DEFUNT
+Id=17
+Nom=COLOMBET 
+Prenom=MARCEL
+DecesDate=01/12/2012
+CodeDft=17
+End With
+With DEFUNT
+Id=75
+Nom=CORTES
+Prenom=LINA
+DecesDate=04/01/2012
+CodeDft=75
+End With
+With DEFUNT
+Id=38
+Nom=COUEGNAS
+Prenom=NATHALIE
+DecesDate=31/12/2012
+CodeDft=38
+End With
+With DEFUNT
+Id=8
+Nom=DA LUZ DE MATOS
+Prenom=JOSÉ
+DecesDate=22/12/2012
+CodeDft=8
+End With
+With DEFUNT
+Id=34
+Nom=DEPIERRE CORPORON
+Prenom=PIERRETTE
+DecesDate=31/12/2012
+CodeDft=34
+End With
+With DEFUNT
+Id=1103
+Nom=DIDIER
+Prenom=JEAN
+DecesDate=09/06/2012
+CodeDft=1103
+End With
+With DEFUNT
+Id=3
+Nom=DIJOUD
+Prenom=PAUL
+DecesDate=19/12/2012
+CodeDft=3
+End With
+With DEFUNT
+Id=16
+Nom=DUPRAZ 
+Prenom=GERARD
+DecesDate=01/12/2012
+CodeDft=16
+End With
+With DEFUNT
+Id=1858
+Nom=GOFFO
+Prenom=JOSEPHINE
+DecesDate=30/12/2012
+CodeDft=1858
+End With
+With DEFUNT
+Id=2107
+Nom=GUISEPPIN
+Prenom=ALBERT
+DecesDate=28/11/2012
+CodeDft=2107
+End With
+With DEFUNT
+Id=25
+Nom=HILLAIRE
+Prenom=INES
+DecesDate=24/12/2012
+CodeDft=25
+End With
+With DEFUNT
+Id=1548
+Nom=HUBNER
+Prenom=ALFREDA
+DecesDate=29/08/2012
+CodeDft=1548
+End With
+With DEFUNT
+Id=37
+Nom=LANTAZ
+Prenom=Rene
+DecesDate=31/12/2012
+CodeDft=37
+End With
+With DEFUNT
+Id=35
+Nom=LAURIER
+Prenom=MIREILLE
+DecesDate=26/12/2012
+CodeDft=35
+End With
+With DEFUNT
+Id=24
+Nom=MACHIN
+Prenom=TRUC
+DecesDate=31/12/2011
+CodeDft=24
+End With
+With DEFUNT
+Id=26
+Nom=MAGNIN
+Prenom=SIMONE
+DecesDate=27/12/2012
+CodeDft=26
+End With
+With DEFUNT
+Id=28
+Nom=MARTINS ALCARIA
+Prenom=AMANDIO JOSE
+DecesDate=27/12/2012
+CodeDft=28
+End With
+With DEFUNT
+Id=15
+Nom=MERNIER 
+Prenom=SIMONE
+DecesDate=01/12/2012
+CodeDft=15
+End With
+With DEFUNT
+Id=9
+Nom=MICHAUT 
+Prenom=LOUISE
+DecesDate=22/12/2012
+CodeDft=9
+End With
+With DEFUNT
+Id=19
+Nom=PATTIER
+Prenom=GEORGES
+DecesDate=01/12/2012
+CodeDft=19
+End With
+With DEFUNT
+Id=23
+Nom=PETRINI
+Prenom=CHRISTIANE
+DecesDate=24/11/2012
+CodeDft=23
+End With
+With DEFUNT
+Id=18
+Nom=PILLET
+Prenom=YVETTE
+DecesDate=01/12/2012
+CodeDft=18
+End With
+With DEFUNT
+Id=2182
+Nom=PONCET
+Prenom=Rene
+DecesDate=08/02/2012
+CodeDft=2182
+End With
+With DEFUNT
+Id=21
+Nom=POZZOBON
+Prenom=ARLETTE
+DecesDate=24/12/2012
+CodeDft=21
+End With
+With DEFUNT
+Id=22
+Nom=PRADIER
+Prenom=LUCIENE
+DecesDate=13/12/2012
+CodeDft=22
+End With
+With DEFUNT
+Id=11
+Nom=RIVOLIER
+Prenom=CLAUDIA
+DecesDate=23/12/2012
+CodeDft=11
+End With
+With DEFUNT
+Id=45
+Nom=RIVOLLIER
+Prenom=Claudia
+DecesDate=23/12/2012
+CodeDft=45
+End With
+With DEFUNT
+Id=5
+Nom=ROSSETTO 
+Prenom=JOSEPH
+DecesDate=22/12/2012
+CodeDft=5
+End With
+With DEFUNT
+Id=36
+Nom=RUBAUD
+Prenom=MARIE-THERESE
+DecesDate=29/12/2012
+CodeDft=36
+End With
+With DEFUNT
+Id=4
+Nom=VANDINI 
+Prenom=HENRIETTE
+DecesDate=22/12/2012
+CodeDft=4
+End With
+With DEFUNT
+Id=1441
+Nom=VELAY
+Prenom=JEAN
+DecesDate=24/08/2012
+CodeDft=1441
+End With
+With DEFUNT
+Id=14
+Nom=VEYRON 
+Prenom=GILBERT
+DecesDate=01/12/2012
+CodeDft=14
+End With

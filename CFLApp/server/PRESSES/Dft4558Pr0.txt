@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=540
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Cognin, Chamb\'e9ry, St Baldoph,\f1\par<Ret>\f0 Suzanne Ottini, sa soeur,\f1\par<Ret>\f0 Francoise et Denis Perrier,\f1\par<Ret>\f0 Catherine et Franck Agnoletto, ses nieces et neveux,\f1\par<Ret>\f0 Gr\'e9gory, Kelly, Kathleen, Brice, Enza et leurs conjoints,\f1\par<Ret>\f0 ses petits neveux et ni\'e8ces,\f1\par<Ret>\f0 proches et amis,\f1\par<Ret>\f0 vous font part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Monsieur \f1\par<Ret>\f0 Henri FRANCILLARD\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 87 ans\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e le Vendredi 16 Janvier 2015 \'e0 quinze heures en l'Eglise de Cognin, suivie de l'inhumation au cimeti\'e8re de Yenne.\f1\par<Ret>\f0 La famille remercie le personnel du service neurologie et de r\'e9animation de l'hopital de Chamb\'e9ry pour sa gentillesse et son d\'e9vouement.\f1\par<Ret>\f0 cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4558
+Tarif=250
+NbLignes=25
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=14/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

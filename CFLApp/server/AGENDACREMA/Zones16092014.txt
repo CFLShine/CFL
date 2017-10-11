@@ -1,0 +1,145 @@
+Id=16092014
+Jourdate=16/09/2014
+Version=NouveauFormat
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+Police=True
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3811
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=VOIRON
+Prenom=JACQUES
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1117
+Four=1
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3812
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=DESPICK MIGNONE
+Prenom=ELISABETH
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMOUX 
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1118
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3809
+Pf=PF SAVOYARDES
+Conseiller=MP PINET
+Nom=TONEGUZZI
+Prenom=ODILE
+HeureArrivee=08:15
+HeureCeremonie=
+HeureCremation=09:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de CHAMBERY
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=
+NoOrdre=1116
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3814
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=MARCHAND
+Prenom=MARIE-LOUISE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1121
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3815
+Pf=PF DU PLATEAU
+Conseiller=Loïc TREVARAIN
+Nom=LAVAUX
+Prenom=JULIE
+HeureArrivee=
+EvenementArrivee=Arrivée de HAUTEVILLE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=1119
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft=3819
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=GONCALVES
+Prenom=JAIME
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1120
+Four=2
+FicheOccupe=Libre
+End With

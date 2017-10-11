@@ -1,0 +1,113 @@
+Id=24072014
+Jourdate=24/07/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3516
+Pf=PF SEDRAN
+Conseiller=Jean-Luc PEYREDIEU
+Nom=CHENE
+Prenom=PHILIPPE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=904
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3527
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=DESMONS
+Prenom=RENE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM   DEPOT DU CERCEUIL EN FIN DE MATINEE
+NoOrdre=905
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3528
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=BOUILLOT
+Prenom=ROBERT
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=903
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3532
+Pf=PF MOUCHE
+Conseiller=Loïc TREVARAIN
+Nom=KRAWCZYK
+Prenom=JANUSZ
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMOUX
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION   PREVOIR ORDO PFM    
+NoOrdre=906
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3536
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=LACLEF
+Prenom=ANDRE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=907
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=4
+End With

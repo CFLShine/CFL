@@ -1,0 +1,141 @@
+Id=28122015
+Jourdate=28/12/2015
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7150
+Pf_ceremonie=PFG BOURG ST MAURICE
+Nom_ceremonie=ANSEL
+Prenom_ceremonie=HENRIETTE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de BOURG ST MAURICE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7150
+Pf_cremation=PFG BOURG ST MAURICE
+Nom_cremation=ANSEL
+Prenom_cremation=HENRIETTE
+EvenementArrivee_cremation=Arrivée de BOURG ST MAURICE
+FicheOccupe=Libre
+NoOrdre=1825
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7173
+Pf_ceremonie=PFM
+Nom_ceremonie=VOIRON
+Prenom_ceremonie=JACKY
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7173
+Pf_cremation=PFM
+Nom_cremation=VOIRON
+Prenom_cremation=JACKY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1823
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=7183
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=GINOT
+Prenom_ceremonie=GABRIELLE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7183
+Pf_cremation=PF SEDRAN
+Nom_cremation=GINOT
+Prenom_cremation=GABRIELLE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+NoOrdre=1824
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7175
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=PIASION
+Prenom_ceremonie=ROSE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7175
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=PIASION
+Prenom_cremation=ROSE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1826
+Four=1
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=7177
+Pf_ceremonie=PF  FLORET
+Nom_ceremonie=ADAMSKI
+Prenom_ceremonie=JOSIANE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7177
+Pf_cremation=PF  FLORET
+Nom_cremation=ADAMSKI
+Prenom_cremation=JOSIANE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1827
+Four=2
+End With

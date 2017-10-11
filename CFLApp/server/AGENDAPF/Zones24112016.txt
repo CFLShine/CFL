@@ -1,0 +1,253 @@
+Id=24112016
+JourDate=24/11/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=9487
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=7
+EquipeId_1=58
+EquipeId_2=17
+EquipeId_3=8
+Ordo=TREVARAIN Loïc
+Equipe_0=JACQUIER Michel
+Equipe_1=MULDER Michaël
+Equipe_2=MEGHEZZI Marc
+Equipe_3=ESPINOZA François
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=9494
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=5
+EquipeId_1=7
+EquipeId_2=58
+EquipeId_3=17
+Ordo=WALLYN Benoît
+Equipe_0=MILLON Patrick
+Equipe_1=JACQUIER Michel
+Equipe_2=MULDER Michaël
+Equipe_3=MEGHEZZI Marc
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=9497
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=16
+EquipeId_1=6
+EquipeId_2=65
+EquipeId_3=60
+Ordo=FAVRIN Thierry
+Equipe_0=MILESI Robert
+Equipe_1=PINTOUT Bruno
+Equipe_2=PATUREL Christian
+Equipe_3=DUMAZ Rémy
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=9496
+Comment_0=DEPOT DU CERCUEIL A 14H
+Comment_1=LEVAGE DE DALLE PAR NOS SERVICES
+HeureComment=  :
+OrdoId=1
+EquipeId_0=6
+EquipeId_1=16
+EquipeId_2=65
+EquipeId_3=60
+Ordo=EHNY Maxime
+Equipe_0=PINTOUT Bruno
+Equipe_1=MILESI Robert
+Equipe_2=PATUREL Christian
+Equipe_3=DUMAZ Rémy
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=9496
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=1
+EquipeId_0=5
+EquipeId_1=7
+EquipeId_2=17
+EquipeId_3=58
+Ordo=EHNY Maxime
+Equipe_0=MILLON Patrick
+Equipe_1=JACQUIER Michel
+Equipe_2=MEGHEZZI Marc
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9500
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9503
+Comment_0=ORDONNATEUR PFM POUR PF TONIN COIFFET
+Comment_1=ACCUEIL  FAMILLE
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=8
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9508
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=9
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9518
+Comment_0=ORDO PFM TEXTES ET MUSIQUES
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=10
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9505
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=11
+CodeDft=9524
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=12
+CodeDft=9530
+DemiJour=1
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=13
+CodeDft=9531
+DemiJour=1
+Pos=2
+UsedBy=
+End With

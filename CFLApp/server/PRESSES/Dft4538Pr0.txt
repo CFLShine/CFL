@@ -1,0 +1,22 @@
+Id=-1
+Type=Avis
+Height=600
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Jacob\b0 -\b Bellecombette,\par<Ret>Rumilly, St F\'e9lix,\b0\par<Ret>Le Seigneur a accueilli en sa demeure\f1\par<Ret>\pard\qc\b\f0 Francia LONGERET\f1\par<Ret>\f0 en religion Soeur Clotilde\f1\par<Ret>\pard\b0\f0 d\'e9c\'e9d\'e9e \'e0 Jacob-Bellecombette le 11 janvier 2015 \'e0 93 ans.\f1\par<Ret>\f0 La Congr\'e9gation des Soeurs de Saint Joseph de Chamb\'e9ry, sa famille, soeurs, belle-soeur, neveux et ni\'e8ces, vous partagent leur peine et, surtout, leur esp\'e9rance.\f1\par<Ret>\f0 Vous \'eates invit\'e9s \'e0 participer \'e0 leur pri\'e8re.\f1\par<Ret>\f0 La c\'e9l\'e9bration des fun\'e9railles aura lieu au Clos St Joseph, \'e0 Jacob-Bellecombette le mercredi 14 janvier 2015 \'e0 quatorze heures trente.\f1\par<Ret>\f0 L'inhumation suivra au cimeti\'e8re de la m\'eame commune.\f1\par<Ret>\f0 "Tout ce que vous aurez fait au plus petit d'entre les miens, c'est \'e0 moi que vous l'aurez fait." (Mt.25,40)\b\f1\par<Ret>\b0\f0\par<Ret>}<Ret>
+CodeDft=4538
+Tarif=498
+NbLignes=28
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=13/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=7
+Name=HAUTE SAVOIE
+End With

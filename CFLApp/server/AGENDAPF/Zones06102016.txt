@@ -1,0 +1,70 @@
+Id=6102016
+JourDate=06/10/2016
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9169
+Comment_0=DISPERSION PAR NOS SOINS POUR PFM VOIRON
+Comment_1=BEBE   PAS DE FAMILLE
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9175
+Comment_0=EXHUMATIONS DES TOMBES A-8-8 ET A-8-9, 
+Comment_1=RE-INHUMATION DANS A-8-9 (TOMBE 9 PLACES)
+HeureComment=  :
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=9180
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=7
+EquipeId_1=6
+EquipeId_2=26
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+Equipe_2=WALLYN Benoît
+Equipe_3=
+End With
+With ZONE
+Id=4
+CodeDft=9186
+DemiJour=1
+Pos=1
+End With

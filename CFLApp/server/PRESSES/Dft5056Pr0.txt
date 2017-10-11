@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=520
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Bourdeau, \f1\par<Ret>\f0 La Motte Servolex.\f1\par<Ret>\b0\f0 Le 11 Mars 2015 \f1\par<Ret>\pard\qc\b\f0 Marie MILAN\f1\par<Ret>\f0 N\'e9e COMBET\f1\par<Ret>\f0 nous a quitt\'e9e dans sa 100i\'e8me ann\'e9e\f1\par<Ret>\pard\b0\f0 Les familles \f1\par<Ret>\f0 Pierre et Marie-Christine Marin, Catherine et Jean-Michel Bouvier, \f1\par<Ret>\f0 ses petits-enfants; \f1\par<Ret>\f0 Jean-Charles, El\'e9onore, Cl\'e9ment, Valentin, Emma, ses arri\'e8re petits-enfants\b .\f1\par<Ret>\b0\f0 La c\'e9r\'e9monie religieuse aura lieu le lundi 16 Mars 2015 \'e0 dix heures en l'Eglise de Bourdeau.\f1\par<Ret>\f0 La famille remercie toutes les personnes qui l'ont entour\'e9e durant toutes ces ann\'e9es.\b\f1\par<Ret>\b0\f0\par<Ret>}<Ret>
+CodeDft=5056
+Tarif=208
+NbLignes=22
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=4
+Date=13/03/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

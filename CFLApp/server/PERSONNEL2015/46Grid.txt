@@ -1,0 +1,375 @@
+<METASF>
+Id=7
+With CELL
+Id=1
+Txt=
+Type=Agence2
+Date=01/07/2015
+End With
+With CELL
+Id=2
+Txt=
+Type=Agence2
+Date=01/07/2015
+End With
+With CELL
+Id=3
+Txt=09H00/
+Type=Normal
+Date=02/07/2015
+End With
+With CELL
+Id=4
+Txt=16H00
+Type=Normal
+Date=02/07/2015
+End With
+With CELL
+Id=5
+Txt=09H00/
+Type=Normal
+Date=03/07/2015
+End With
+With CELL
+Id=6
+Txt=17H00
+Type=Normal
+Date=03/07/2015
+End With
+With CELL
+Id=7
+Txt=
+Type=Normal
+Date=04/07/2015
+End With
+With CELL
+Id=8
+Txt=
+Type=Normal
+Date=04/07/2015
+End With
+With CELL
+Id=9
+Txt=
+Type=Normal
+Date=05/07/2015
+End With
+With CELL
+Id=10
+Txt=
+Type=Normal
+Date=05/07/2015
+End With
+With CELL
+Id=11
+Txt=
+Type=Normal
+Date=06/07/2015
+End With
+With CELL
+Id=12
+Txt=
+Type=Normal
+Date=06/07/2015
+End With
+With CELL
+Id=13
+Txt=09H00/
+Type=Normal
+Date=07/07/2015
+End With
+With CELL
+Id=14
+Txt=17H00
+Type=Normal
+Date=07/07/2015
+End With
+With CELL
+Id=15
+Txt=09H00/
+Type=Normal
+Date=08/07/2015
+End With
+With CELL
+Id=16
+Txt=16H00
+Type=Normal
+Date=08/07/2015
+End With
+With CELL
+Id=17
+Txt=09H00
+Type=Normal
+Date=09/07/2015
+End With
+With CELL
+Id=18
+Txt=16H00
+Type=Normal
+Date=09/07/2015
+End With
+With CELL
+Id=19
+Txt=09H00
+Type=Normal
+Date=10/07/2015
+End With
+With CELL
+Id=20
+Txt=17H00
+Type=Normal
+Date=10/07/2015
+End With
+With CELL
+Id=21
+Txt=
+Type=Normal
+Date=11/07/2015
+End With
+With CELL
+Id=22
+Txt=
+Type=Normal
+Date=11/07/2015
+End With
+With CELL
+Id=23
+Txt=
+Type=Normal
+Date=12/07/2015
+End With
+With CELL
+Id=24
+Txt=
+Type=Normal
+Date=12/07/2015
+End With
+With CELL
+Id=25
+Txt=09H00/
+Type=Normal
+Date=13/07/2015
+End With
+With CELL
+Id=26
+Txt=16H00
+Type=Normal
+Date=13/07/2015
+End With
+With CELL
+Id=27
+Txt=
+Type=Normal
+Date=14/07/2015
+End With
+With CELL
+Id=28
+Txt=
+Type=Normal
+Date=14/07/2015
+End With
+With CELL
+Id=29
+Txt=09H00/
+Type=Normal
+Date=15/07/2015
+End With
+With CELL
+Id=30
+Txt=16H00
+Type=Normal
+Date=15/07/2015
+End With
+With CELL
+Id=31
+Txt=09H00/
+Type=Normal
+Date=16/07/2015
+End With
+With CELL
+Id=32
+Txt=17H00
+Type=Normal
+Date=16/07/2015
+End With
+With CELL
+Id=33
+Txt=
+Type=Agence2
+Date=17/07/2015
+End With
+With CELL
+Id=34
+Txt=
+Type=Agence2
+Date=17/07/2015
+End With
+With CELL
+Id=35
+Txt=08H00/
+Type=Normal
+Date=18/07/2015
+End With
+With CELL
+Id=36
+Txt=17H30
+Type=Normal
+Date=18/07/2015
+End With
+With CELL
+Id=37
+Txt=
+Type=Normal
+Date=19/07/2015
+End With
+With CELL
+Id=38
+Txt=
+Type=Normal
+Date=19/07/2015
+End With
+With CELL
+Id=39
+Txt=09H00/
+Type=Normal
+Date=20/07/2015
+End With
+With CELL
+Id=40
+Txt=16H00
+Type=Normal
+Date=20/07/2015
+End With
+With CELL
+Id=41
+Txt=09H00/
+Type=Normal
+Date=21/07/2015
+End With
+With CELL
+Id=42
+Txt=16H00
+Type=Normal
+Date=21/07/2015
+End With
+With CELL
+Id=43
+Txt=09H00
+Type=Normal
+Date=22/07/2015
+End With
+With CELL
+Id=44
+Txt=17H00
+Type=Normal
+Date=22/07/2015
+End With
+With CELL
+Id=45
+Txt=09H00/
+Type=Normal
+Date=23/07/2015
+End With
+With CELL
+Id=46
+Txt=17H00
+Type=Normal
+Date=23/07/2015
+End With
+With CELL
+Id=47
+Txt=09H00/
+Type=Normal
+Date=24/07/2015
+End With
+With CELL
+Id=48
+Txt=17H00
+Type=Normal
+Date=24/07/2015
+End With
+With CELL
+Id=49
+Txt=08H00/
+Type=Normal
+Date=25/07/2015
+End With
+With CELL
+Id=50
+Txt=17H30
+Type=Normal
+Date=25/07/2015
+End With
+With CELL
+Id=51
+Txt=
+Type=Normal
+Date=26/07/2015
+End With
+With CELL
+Id=52
+Txt=
+Type=Normal
+Date=26/07/2015
+End With
+With CELL
+Id=53
+Txt=
+Type=Agence2
+Date=27/07/2015
+End With
+With CELL
+Id=54
+Txt=
+Type=Agence2
+Date=27/07/2015
+End With
+With CELL
+Id=55
+Txt=
+Type=Agence2
+Date=28/07/2015
+End With
+With CELL
+Id=56
+Txt=
+Type=Agence2
+Date=28/07/2015
+End With
+With CELL
+Id=57
+Txt=
+Type=Agence2
+Date=29/07/2015
+End With
+With CELL
+Id=58
+Txt=
+Type=Agence2
+Date=29/07/2015
+End With
+With CELL
+Id=59
+Txt=
+Type=Agence2
+Date=30/07/2015
+End With
+With CELL
+Id=60
+Txt=
+Type=Agence2
+Date=30/07/2015
+End With
+With CELL
+Id=61
+Txt=
+Type=Agence2
+Date=31/07/2015
+End With
+With CELL
+Id=62
+Txt=
+Type=Agence2
+Date=31/07/2015
+End With
+<\METASF>

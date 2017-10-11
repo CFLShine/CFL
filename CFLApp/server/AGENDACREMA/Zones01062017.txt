@@ -1,0 +1,173 @@
+Id=1062017
+Jourdate=01/06/2017
+With ZONE
+Id=0
+EvenementCommentaire=2 COEURS POUR LA FILLE, URNE RECUPEREE PAR PF PENA UNIQUEMENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=10905
+Pf_ceremonie=PFM
+Nom_ceremonie=LANFREY-LAPERRIERE
+Prenom_ceremonie=MARCELLE
+CodeDft_cremation=10905
+Pf_cremation=PFM
+Nom_cremation=LANFREY-LAPERRIERE
+Prenom_cremation=MARCELLE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=08:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=763
+Four=2
+End With
+With ZONE
+Id=1
+EvenementCommentaire=3 coeurs a la cremation
+SaisieOccupe=Libre
+CodeDft_ceremonie=10910
+Pf_ceremonie=PFM
+Nom_ceremonie=FABRE-COCHARD
+Prenom_ceremonie=SYLVIE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10910
+Pf_cremation=PFM
+Nom_cremation=FABRE-COCHARD
+Prenom_cremation=SYLVIE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+Police=True
+NoOrdre=764
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION 
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10909
+Pf_ceremonie=PFM
+Nom_ceremonie=DELEANI
+Prenom_ceremonie=NICOLE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10909
+Pf_cremation=PFM
+Nom_cremation=DELEANI
+Prenom_cremation=NICOLE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=765
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10913
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=DOUHET
+Prenom_ceremonie=MARIE GISELE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10913
+Pf_cremation=PF FLORET
+Nom_cremation=DOUHET
+Prenom_cremation=MARIE GISELE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+NoOrdre=766
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION 
+End With
+With ZONE
+Id=6
+EvenementCommentaire=ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft_ceremonie=10908
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=CORTINOVIS
+Prenom_ceremonie=LOUIS
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10908
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=CORTINOVIS
+Prenom_cremation=LOUIS
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=767
+Four=2
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LE PF RECUPERENT, CERCUEIL CHENE
+SaisieOccupe=Libre
+CodeDft_ceremonie=10918
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=MONTET
+Prenom_ceremonie=ADRIEN
+HeureArrivee_ceremonie=17:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=17:15
+EvenementArrivee_crema=
+HeureCeremonie=17:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=18:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10918
+Pf_cremation=PF POMMAT
+Nom_cremation=MONTET
+Prenom_cremation=ADRIEN
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=768
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

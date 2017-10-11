@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Montmelian,\f1\par<Ret>\f0 Andr\'e9, son papa,\f1\par<Ret>\f0 Am\'e9lie et David, Marie et Kevin, Sarah, ses enfants,\f1\par<Ret>\f0 Agathe et Ambre, ses petites filles,\f1\par<Ret>\f0 Guy Eynard-Machet, son beau papa et Marie-jo,\f1\par<Ret>\f0 Jacqueline et Christian Serra,\f1\par<Ret>\f0 Kathy et Fernand Rodrigues, ses soeurs et beaux fr\'e8res,\f1\par<Ret>\f0 ses neuveux et ni\'e8ces,\f1\par<Ret>\f0 parents et proches,\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Monsieur Christian PERRET\b0\f1\par<Ret>\pard\f0 La c\'e9r\'e9monie sera c\'e9l\'e9br\'e9e au centre fun\'e9raire de Chamb\'e9ry le Mardi 25 Novembre 2014 \'e0 onze heures quinze, suivie de l'inhumation,\f1\par<Ret>\f0 cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4194
+Tarif=250
+NbLignes=23
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=23/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

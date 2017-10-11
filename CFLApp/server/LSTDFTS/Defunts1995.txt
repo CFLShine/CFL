@@ -1,0 +1,15 @@
+Id=1995
+With DEFUNT
+Id=5764
+Nom=ARVIEUX
+Prenom=LOUIS
+DecesDate=01/01/1995
+CodeDft=5764
+End With
+With DEFUNT
+Id=1994
+Nom=BAL
+Prenom=LOUIS
+DecesDate=15/06/1995
+CodeDft=1994
+End With

@@ -1,0 +1,87 @@
+Id=17032014
+Version=NouveauFormat
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2765.txt
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=BETTANIN
+Prenom=NICOLE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=349
+Four=2
+FicheOccupe=Libre
+CodeDft=2765
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2770.txt
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=VIVET
+Prenom=GERARD
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE CHALLE LES EAUX
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=351
+Four=1
+FicheOccupe=Libre
+CodeDft=2770
+End With
+With ZONE
+Id=5
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2768.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=ONA
+Prenom=FRANCOIS
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=350
+Four=2
+FicheOccupe=Libre
+CodeDft=2768
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2776.txt
+Pf=PF DE SAVOY
+Conseiller=Loïc TREVARAIN
+Nom=ANDRE
+Prenom=IRMA
+HeureArrivee=
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+NoOrdre=352
+Four=2
+FicheOccupe=Libre
+CodeDft=2776
+End With

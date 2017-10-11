@@ -1,0 +1,119 @@
+Id=27102016
+JourDate=27/10/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=9287
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=58
+EquipeId_1=6
+EquipeId_2=8
+EquipeId_3=14
+Ordo=FAVRIN Thierry
+Equipe_0=MULDER Michaël
+Equipe_1=PINTOUT Bruno
+Equipe_2=ESPINOZA François
+Equipe_3=KAELBERER Eric
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9296
+Comment_0=ORDONNATEUR PFM POUR PF TONIN COIFFET
+Comment_1=ACCUEIL FAMILLE
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=9305
+Comment_0=LE CHAUFFEUR PAR SEUL 
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=7
+EquipeId_1=6
+EquipeId_2=8
+EquipeId_3=14
+Ordo=FAVRIN Thierry
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+Equipe_2=ESPINOZA François
+Equipe_3=KAELBERER Eric
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9306
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=6
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=PINTOUT Bruno
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9319
+Comment_0=SALON CAMPANULE
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=5
+CodeDft=9316
+DemiJour=0
+Pos=1
+UsedBy=Libre
+End With

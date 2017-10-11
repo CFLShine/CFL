@@ -1,0 +1,64 @@
+Id=21032014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2799.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=PLIEZ
+Prenom=AUGUSTIN
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=365
+Four=2
+CodeDft=2799
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2798.txt
+Pf=DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=DESCHAMPS
+Prenom=SUZANNE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 18H
+NoOrdre=366
+Four=1
+FicheOccupe=Libre
+CodeDft=2798
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2783.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=GONCALVES
+Prenom=MARGAUX
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION si visites se rapprocher de la famille préférence du père
+FicheOccupe=Libre
+CodeDft=2783
+End With

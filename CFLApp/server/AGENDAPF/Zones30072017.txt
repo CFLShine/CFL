@@ -1,0 +1,16 @@
+Id=30072017
+JourDate=30/07/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11301
+Comment_0=TOILETTE ET RETOUR EN CASE
+Comment_1=
+HeureComment=  :
+End With

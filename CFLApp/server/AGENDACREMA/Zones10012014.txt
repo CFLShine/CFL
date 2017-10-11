@@ -1,0 +1,170 @@
+Id=10012014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2349.txt
+Pf=PFG YENNE
+Conseiller=Marie-Pierre PINET
+Nom=BOLLIET
+Prenom=HENRIETTE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de YENNE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=NE PAS SCELLER L'URNE  CERCUEIL EN CHENE
+NoOrdre=40
+Four=1
+FicheOccupe=Libre
+CodeDft=2349
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2357.txt
+Pf=PF BALDINI
+Conseiller=Loïc TREVARAIN
+Nom=GARCIN
+Prenom=ERMELINA
+HeureArrivee=
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  URNE CONSREVEE CF DISPERSION PLUS TARD
+NoOrdre=41
+Four=2
+FicheOccupe=Libre
+CodeDft=2357
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2352.txt
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=NOZET
+Prenom=JEAN CLAUDE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=37
+Four=2
+FicheOccupe=Libre
+CodeDft=2352
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2353.txt
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=GICHON
+Prenom=GILLES
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM POUR PF TONIN COIFFET  DEPOT CERCUEIL 12H
+NoOrdre=42
+Four=2
+FicheOccupe=Libre
+CodeDft=2353
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2354.txt
+Pf=PF FLORET
+Conseiller=Ginette GAYRAUD
+Nom=BEPOIX
+Prenom=JEAN CLAUDE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=15:15
+EvenementCeremonie=
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=   PAS DE FAMILLE               LES PF RECUPERENT 
+NoOrdre=43
+Four=1
+FicheOccupe=Libre
+CodeDft=2354
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2356.txt
+Pf=PF TONIN COIFFET
+Conseiller=Loïc TREVARAIN
+Nom=SERRA
+Prenom=GRAZIANO
+HeureArrivee=
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDO CERCUEIL CREMATION FAMILLE RECUPERE 
+NoOrdre=44
+Four=2
+FicheOccupe=Libre
+CodeDft=2356
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2358.txt
+Pf=PF MOUCHE
+Conseiller=Loïc TREVARAIN
+Nom=BEYLIER
+Prenom=JULIETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMOUX
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION   INHUMATION VIVIERS DU LAC PAR PFM
+FicheOccupe=Libre
+NoOrdre=39
+Four=2
+CodeDft=2358
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2366.txt
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=PUGIN
+Prenom=JEAN-CLAUDE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION JDS PAR NOS SOINS  SANS FAMILLE
+NoOrdre=38
+Four=1
+FicheOccupe=Libre
+CodeDft=2366
+End With

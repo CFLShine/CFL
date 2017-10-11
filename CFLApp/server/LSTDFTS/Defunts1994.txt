@@ -1,0 +1,15 @@
+Id=1994
+With DEFUNT
+Id=5990
+Nom=BAUDIN
+Prenom=DENISE
+DecesDate=22/05/1994
+CodeDft=5990
+End With
+With DEFUNT
+Id=2989
+Nom=MOREL
+Prenom=CECILE
+DecesDate=01/01/1994
+CodeDft=2989
+End With

@@ -1,0 +1,125 @@
+Id=25062014
+Jourdate=25/06/2014
+Version=NouveauFormat
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3354
+Pf=PF MAURIENNAISES
+Conseiller=Loïc TREVARAIN
+Nom=BETEMPS
+Prenom=LUCIE
+HeureArrivee=
+EvenementArrivee=Arrivée de SAINT JEAN DE MAURIENNE
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=778
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+EvenementCommentaire=RESERVER PFM CEREMONIE LE 24 JUIN
+SaisieOccupe=Libre
+CodeDft=3355
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=LEFEBVRE
+Prenom=GINETTE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=777
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3357
+Pf=SEDRAN
+Conseiller=Ginette GAYRAUD
+Nom=ROBINET
+Prenom=DENISE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT
+FicheOccupe=Libre
+NoOrdre=780
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION    PFM
+SaisieOccupe=Libre
+CodeDft=3361
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=CHAPUIS
+Prenom=LOUISETTE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3359
+Pf=PFG MOUTIERS
+Conseiller=Marie-Pierre PINET
+Nom=STELZIG
+Prenom=KARL
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+FicheOccupe=Libre
+NoOrdre=779
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3367
+Pf=PF MERCIER
+Conseiller=Marie-Pierre PINET
+Nom=BERLIOZ
+Prenom=RENEE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de DES AVENIERES
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=781
+Four=2
+End With

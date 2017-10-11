@@ -1,0 +1,33 @@
+Id=30052013
+With ZONE
+Id=13
+CodeZone=13
+Pos=0
+DemiJour=1
+AdressDft=\DONNEES\DONNEES2013\1027.txt
+Ordo=KAELBERER Eric
+OrdoOk=red
+Equipe_0=MILLON Patrick
+Equipe_1=PINTOUT Bruno
+Equipe_2=MILESI Robert
+Equipe_3=PACHOUD Nicolas
+EquipeOk_0=red
+EquipeOk_1=red
+EquipeOk_2=red
+EquipeOk_3=red
+Conseiller=Ginette GAYRAUD
+Pf=PFM
+DefuntNom=PADEY
+DefuntPrenom=GERARD
+Saisie=Convoi
+Heure_0=13:45
+Heure_1=15:00
+Heure_2=
+Heure_3=16:00
+Ev_0=Mise en bière Centre funéraire
+Ev_1=Cérémonie Religieuse EGLISE DE VOGLANS
+Ev_2=
+Ev_4=Inhumation CIMETIERE DE VOGLANS Pleine terre
+Comment_0=PORTAGE EPAULE EGLISE ET CIMETIERE
+CodeDft=1027
+End With

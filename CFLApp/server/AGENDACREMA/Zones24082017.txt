@@ -1,0 +1,209 @@
+Id=24082017
+Jourdate=24/08/2017
+With ZONE
+Id=9
+EvenementCommentaire=FAMILLE RECUPERE LE JOUR MEME 19h00  VU LOIC
+SaisieOccupe=Libre
+CodeDft_ceremonie=11418
+Pf_ceremonie=PFCCA
+Nom_ceremonie=BAETZ
+Prenom_ceremonie=FRANCOIS
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11418
+Pf_cremation=PFCCA
+Nom_cremation=BAETZ
+Prenom_cremation=FRANCOIS
+EvenementArrivee_cremation=Arrivée de MYANS
+FicheOccupe=Libre
+Police=True
+NoOrdre=1160
+Four=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=11441
+Pf_ceremonie=MAURIENNAISES
+Nom_ceremonie=FACCHINELLO
+Prenom_ceremonie=DENISE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ATTENDRE RETOUR FAX SI ORDO
+CodeDft_cremation=11441
+Pf_cremation=MAURIENNAISES
+Nom_cremation=FACCHINELLO
+Prenom_cremation=DENISE
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+NoOrdre=1154
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=11435
+Pf_ceremonie=TONIN COIFFET
+Nom_ceremonie=BRET-VITTOZ / REYNARD
+Prenom_ceremonie=LATIKA
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ACCUEIL FAMILLE SALON ANCOLIE 2/3 PERS   ORDO OFFERT
+CodeDft_cremation=11435
+Pf_cremation=TONIN COIFFET
+Nom_cremation=BRET-VITTOZ / REYNARD
+Prenom_cremation=LATIKA
+EvenementArrivee_cremation=Arrivée de BELLEY
+NoOrdre=1155
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=11423
+Pf_ceremonie=PASCAL LECLERC
+Nom_ceremonie=GIPPA
+Prenom_ceremonie=JEANINE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=11423
+Pf_cremation=PASCAL LECLERC
+Nom_cremation=GIPPA
+Prenom_cremation=JEANINE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1156
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=ARRIVEE VERS 11h30
+SaisieOccupe=Libre
+CodeDft_ceremonie=11432
+Pf_ceremonie=PENA
+Nom_ceremonie=UTTNER
+Prenom_ceremonie=CHARLES
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de SAINT LAURENT DU PONT
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11432
+Pf_cremation=PENA
+Nom_cremation=UTTNER
+Prenom_cremation=CHARLES
+EvenementArrivee_cremation=Arrivée de SAINT LAURENT DU PONT
+NoOrdre=1157
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=CERCUEIL GRANDE TAILLE: largeur 73/ hauteur 45 / longueur 2.08
+SaisieOccupe=Libre
+CodeDft_ceremonie=11422
+Pf_ceremonie=MERCIER
+Nom_ceremonie=BERMANT
+Prenom_ceremonie=JACQUES
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de LES AVENIERES
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11422
+Pf_cremation=MERCIER
+Nom_cremation=BERMANT
+Prenom_cremation=JACQUES
+EvenementArrivee_cremation=Arrivée de LES AVENIERES
+NoOrdre=1158
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=11428
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=HENRY
+Prenom_ceremonie=RENE
+HeureArrivee_ceremonie=14:30
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=14:30
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL PIN LA FAMILLE RECUPERE
+CodeDft_cremation=11428
+Pf_cremation=PF POMMAT
+Nom_cremation=HENRY
+Prenom_cremation=RENE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1159
+Four=FTX
+End With
+With ZONE
+Id=8
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHA%MBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire= PAS DE CREMATION INHUMATION BASSENS
+CodeDft_ceremonie=11443
+Pf_ceremonie=PFCCA
+Nom_ceremonie=JEANTON
+Prenom_ceremonie=LUCIENNE
+End With

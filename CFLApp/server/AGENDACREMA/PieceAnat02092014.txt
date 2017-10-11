@@ -1,0 +1,6 @@
+Id=2092014
+Agent=BOULET
+Provenance=HOPITAL DE CHAMBERY
+Nature=FOETUS
+Four=1
+NoOrdre=1060

@@ -1,0 +1,14 @@
+Id=4667
+CremationArriveeDe=CHAMBERY
+CeremonieCrematoriumDate=02/02/2015
+CeremonieCrematoriumHeure=11:15
+CeremonieCrematoriumLieu=Cf
+CeremonieCrematoriumType=Religieuse
+CremationDate=
+CremationCommune=
+DefuntNom=ROTA
+DefuntPrenom=CHARLES
+DefuntDecesDate=27/01/2015
+ReservCrema=Loïc TREVARAIN
+PfArrivee=A J E P I
+CodeDefunt=4667

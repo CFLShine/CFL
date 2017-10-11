@@ -1,0 +1,124 @@
+Id=11102014
+Jourdate=11/10/2014
+Version=NouveauFormat
+With ZONE
+Id=0
+EvenementCommentaire=EXHUMATIONS  GRAND CERCUEIL
+SaisieOccupe=Libre
+CodeDft=3946
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=MARIN-BERTIN-DUNAND
+Prenom=JEAN LOUISE JOSEPH
+HeureArrivee=
+EvenementArrivee=Arrivée de CIMETIERE AIX LES BAINS
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1238
+Four=1
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3961
+Pf=PF BAUDRION
+Conseiller=Marie-Pierre PINET
+Nom=MARCONNET
+Prenom=JEAN
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de PONCHARRA
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=1239
+Four=1
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3963
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=GATTI
+Prenom=RAYMOND
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION     PFM
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3965
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=MARIET
+Prenom=JOSEPH
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS  DE  CREMATION   PFM
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3969
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=SERAIN
+Prenom=ANDRE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 15H
+NoOrdre=1240
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3970
+Pf=PF BOUDRIER
+Conseiller=Marie-Pierre PINET
+Nom=SARACO
+Prenom=GERMAINE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de MORESTEL
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1241
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With

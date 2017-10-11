@@ -1,0 +1,22 @@
+Id=2112014
+JourDate=02/11/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=1
+CodeDft=4089
+Pf=PFM
+Conseiller=
+DefuntNom=FUERTE
+DefuntPrenom=PAULETTE
+Heure_0=16:02
+Ev_0=TAMB depuis ST LAURENT DU PONT vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=TREVARAIN Loïc
+Equipe_1=KA3ELBERER
+End With

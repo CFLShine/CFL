@@ -1,0 +1,15 @@
+Id=2010
+With DEFUNT
+Id=1350
+Nom=DEVAUX
+Prenom=VALENTINE
+DecesDate=24/07/2010
+CodeDft=1350
+End With
+With DEFUNT
+Id=4705
+Nom=ROCHE
+Prenom=X
+DecesDate=10/10/2010
+CodeDft=4705
+End With

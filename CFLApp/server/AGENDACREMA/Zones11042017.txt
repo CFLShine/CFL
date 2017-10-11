@@ -1,0 +1,145 @@
+Id=11042017
+Jourdate=11/04/2017
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=10574
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=MARZIN
+Prenom_ceremonie=GEORGES
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10574
+Pf_cremation=PFG CHAMBERY
+Nom_cremation=MARZIN
+Prenom_cremation=GEORGES
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=552
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=10592
+Pf_ceremonie= POMMAT
+Nom_ceremonie=REYNARD
+Prenom_ceremonie=MARYLINE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE
+CodeDft_cremation=10592
+Pf_cremation= POMMAT
+Nom_cremation=REYNARD
+Prenom_cremation=MARYLINE
+FicheOccupe=Libre
+NoOrdre=553
+Four=
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=10591
+Pf_ceremonie=MOUCHE
+Nom_ceremonie=TRONCHY
+Prenom_ceremonie=GERMAINE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de  CHAMOUX
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10591
+Pf_cremation=MOUCHE
+Nom_cremation=TRONCHY
+Prenom_cremation=GERMAINE
+EvenementArrivee_cremation=Arrivée de  CHAMOUX
+FicheOccupe=Libre
+NoOrdre=554
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=10588
+Pf_ceremonie=PFM
+Nom_ceremonie=GALLET
+Prenom_ceremonie=SUZANNE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL DE CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILMLE RECUPERE 
+CodeDft_cremation=10588
+Pf_cremation=PFM
+Nom_cremation=GALLET
+Prenom_cremation=SUZANNE
+EvenementArrivee_cremation=Arrivée de HOPITAL DE CHAMBERY
+FicheOccupe=Libre
+NoOrdre=555
+Four=1
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=10596
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=FUENTES
+Prenom_ceremonie=ODETTE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDO PFM
+CodeDft_cremation=10596
+Pf_cremation=PF MOUCHE
+Nom_cremation=FUENTES
+Prenom_cremation=ODETTE
+FicheOccupe=Libre
+NoOrdre=556
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

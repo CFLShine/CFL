@@ -1,0 +1,15 @@
+Id=3927
+CodeDefunt=3927
+DefuntNom=REVERSE
+DefuntPrenom=PF FLORET
+DefuntDecesDate=02/10/2014
+CremationArriveeDe=
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationCommune=
+ReservCrema=Loïc TREVARAIN
+PfArrivee=
+CremationHeure=

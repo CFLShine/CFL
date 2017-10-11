@@ -1,0 +1,139 @@
+Id=15062017
+Jourdate=15/06/2017
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=10974
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=BUISSON
+Prenom_ceremonie=SUZANNE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE  LA FAMILLE RECUPERE L'URNE
+CodeDft_cremation=10974
+Pf_cremation=PF POMMAT
+Nom_cremation=BUISSON
+Prenom_cremation=SUZANNE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=836
+Four=FT3
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=10986
+Pf_ceremonie=DE SAVOY
+Nom_ceremonie=THIZZY
+Prenom_ceremonie=JACQUES
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DEPOT LA VEILLE  2 A 3 PERSONNES A LA CREMATION...VU MICHAEL..URNE REMISE A LA FAMILLE
+CodeDft_cremation=10986
+Pf_cremation=DE SAVOY
+Nom_cremation=THIZZY
+Prenom_cremation=JACQUES
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=834
+Four=2
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=10994
+Pf_ceremonie=PFG YENNE
+Nom_ceremonie=BRUN
+Prenom_ceremonie=HENRY
+CodeDft_cremation=10994
+Pf_cremation=PFG YENNE
+Nom_cremation=BRUN
+Prenom_cremation=HENRY
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de LA MOTTE SERVOLEX
+HeureArrivee_cremation=09:15
+EvenementArrivee_cremation=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=835
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=10980
+Pf_ceremonie=PFM
+Nom_ceremonie=CARLE
+Prenom_ceremonie=SYLVIE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION INHUMATION LES MARCHES
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=11002
+Pf_ceremonie=SEDRAN
+Nom_ceremonie=LABROUSSE
+Prenom_ceremonie=ARLETTE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11002
+Pf_cremation=SEDRAN
+Nom_cremation=LABROUSSE
+Prenom_cremation=ARLETTE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+NoOrdre=837
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

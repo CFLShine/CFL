@@ -1,0 +1,197 @@
+Id=-1
+Version=1
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=15:00
+varHeuresSupAnDernier=9:19
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=02/01/14
+varNbHeuresSup=7:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=2
+varDateHeuresSup=03/01/14
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=3
+varDateHeuresSup=10/01/14
+varNbHeuresSup=7:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=4
+varDateHeuresSup=11/01/14
+varNbHeuresSup=7:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=5
+varDateHeuresSup=30/01/14
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=6
+varDateHeuresSup=11/02/14
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=7
+varDateHeuresSup=15/02/14
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=8
+varDateHeuresSup=19/02/14
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=9
+varDateHeuresSup=21/02/14
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=10
+varDateHeuresSup=13/03/14
+varNbHeuresSup=7:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneConges
+Id=0
+varPrisDu=14/01/14
+varPrisAu=14/01/14
+varDemandeDate=14/01/14
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=14/01/14
+varVisaDirecteur=14/01/13
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=15/01/14
+varPrisAu=17/01/14
+varDemandeDate=21/01/14
+varAnnuel=15:00
+varRecup=1:00
+varEpargne=
+varVisaChef=14/01/14
+varVisaDirecteur=14/01/14
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=22/01/14
+varPrisAu=22/01/14
+varDemandeDate=21/01/14
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=14/01/14
+varVisaDirecteur=14/01/14
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=27/01/14
+varPrisAu=27/01/14
+varDemandeDate=27/01/14
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=27/01/14
+varVisaDirecteur=27/01/14
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=03/02/14
+varPrisAu=03/02/14
+varDemandeDate=03/02/14
+varAnnuel=
+varRecup=0:41
+varEpargne=
+varVisaChef=03/02/14
+varVisaDirecteur=03/02/14
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=07/02/14
+varPrisAu=07/02/14
+varDemandeDate=07/02/14
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=07/02/14
+varVisaDirecteur=07/02/14
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=10/02/14
+varPrisAu=10/02/14
+varDemandeDate=10/02/14
+varAnnuel=
+varRecup=8:00
+varEpargne=
+varVisaChef=10/02/14
+varVisaDirecteur=10/02/14
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=14/02/14
+varPrisAu=14/02/14
+varDemandeDate=13/02/14
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=13/02/14
+varVisaDirecteur=13/02/14
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=23/02/14
+varPrisAu=28/02/14
+varDemandeDate=20/02/14
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=20/02/14
+varVisaDirecteur=20/02/14
+varRetourDate=
+End With
+With LigneConges
+Id=9
+varPrisDu=12/03/14
+varPrisAu=12/03/14
+varDemandeDate=11/03/14
+varAnnuel=
+varRecup=8:00
+varEpargne=
+varVisaChef=11/12/14
+varVisaDirecteur=11/03/14
+varRetourDate=
+End With

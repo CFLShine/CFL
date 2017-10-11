@@ -1,0 +1,74 @@
+Id=21022016
+Jourdate=21/02/2016
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=7623
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=MICHALLAT
+Prenom_ceremonie=LUCIEN
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+CodeDft_cremation=7623
+Pf_cremation=PF BALDINI
+Nom_cremation=MICHALLAT
+Prenom_cremation=LUCIEN
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+NoOrdre=289
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=7624
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=FETU
+Prenom_ceremonie=JEANNINE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+CodeDft_cremation=7624
+Pf_cremation=PF BALDINI
+Nom_cremation=FETU
+Prenom_cremation=JEANNINE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+NoOrdre=282
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With

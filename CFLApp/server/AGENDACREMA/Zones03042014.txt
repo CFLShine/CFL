@@ -1,0 +1,165 @@
+Id=3042014
+Jourdate=03/04/2014
+Version=NouveauFormat
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=2867
+Pf=PF ALPES SAVOIE
+Conseiller=Loïc TREVARAIN
+Nom=DUVERNAY
+Prenom=MARIE-JEANNE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION - PF RECUPERENT
+NoOrdre=424
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=2864
+Pf=PFM
+Conseiller=
+Nom=BODIMBOURG
+Prenom=SIMONE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=425
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=2873
+Pf=PF BALDINI
+Conseiller=Jean-Luc PEYREDIEU
+Nom=HESTIN
+Prenom=LUCE
+HeureArrivee=11:30
+EvenementArrivee=Arrivée de PONT
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE ATTEND ET RECUPERE A 14H30
+NoOrdre=423
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION  POUR LES PFG MONTMELIAN
+SaisieOccupe=Libre
+CodeDft=2874
+Pf=
+Conseiller=Pascal MARIE
+Nom=PERREARD
+Prenom=CHRISTIAN
+HeureArrivee=10:15
+HeureCeremonie=
+HeureCremation=
+HeureCommentaire=
+EvenementArrivee=Arrivée de CHAMBERY
+EvenementCeremonie=
+EvenementCremation=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=CEREMONIE FAITE LE MERCREDI
+SaisieOccupe=Libre
+CodeDft=2875
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BACHASSON
+Prenom=GERMAINE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:00
+EvenementCeremonie=Cérémonie Religieuse St Joseph - CHY
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=422
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+EvenementCommentaire=PAS DE FAMILLE
+SaisieOccupe=Libre
+CodeDft=2877
+Pf=PF SEDRAN
+Conseiller=Pascal MARIE
+Nom=ZENTNER
+Prenom=GENEVIEVE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=421
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=2878
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=TABLET
+Prenom=JEAN-LOUIS
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=426
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=2880
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=RANSON
+Prenom=ELIOT THEO
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=427
+Four=2
+FicheOccupe=Libre
+End With

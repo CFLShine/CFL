@@ -1,0 +1,350 @@
+Id=-1
+With PERSONNEL
+Id=0
+Nom=PACHOUD
+Prenom=Bernard
+Pass=PB
+Presence=True
+DonneesPersonnel=True
+SaisieAstreintes=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AFaires=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=1
+Nom=TREVARAIN
+Prenom=Loïc
+Pass=LT
+Presence=True
+DonneesPersonnel=True
+SaisieAstreintes=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=2
+Nom=MARIE
+Prenom=Pascal
+Pass=ad
+Presence=True
+DonneesPersonnel=True
+SaisieAstreintes=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AFaires=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+Admin=True
+End With
+With PERSONNEL
+Id=3
+Nom=EHNY
+Prenom=Maxime
+Pass=ME
+Presence=True
+DonneesPersonnel=True
+SaisieAstreintes=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AFaires=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+Admin=True
+End With
+With PERSONNEL
+Id=4
+Nom=TREBOUTE
+Prenom=Marion
+Pass=LUCITA
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AFaires=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=5
+Nom=PINET
+Prenom=Marie-Pierre
+Pass=LEA
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=6
+Nom=BORDEILER
+Prenom=Jeanine
+Pass=BJ
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=7
+Nom=ESPINOZA
+Prenom=François
+Pass=fe
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AgendaCrematorium=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=8
+Nom=Pf
+Prenom=PORTEURS
+Pass=PORTEURS
+AffichageAgendaPf=True
+End With
+With PERSONNEL
+Id=9
+Nom=ADMISSIONS
+Prenom=AGENTS
+Pass=ADMISSIONS
+AffichageAgendaPf=True
+Admissions=True
+ChambreFuneraire=True
+End With
+With PERSONNEL
+Id=10
+Nom=KRAUT
+Prenom=Stanislas
+Pass=stan
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=11
+Nom=VERONESE
+Prenom=Christian
+Pass=chris
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+End With
+With PERSONNEL
+Id=12
+Nom=BORDEILLER
+Prenom=Jeanine
+Pass=JB
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=13
+Nom=GONDIN
+Prenom=Jean-Claude
+Pass=JC
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=14
+Nom=PACHOUD
+Prenom=Nicolas
+Pass=NP
+Presence=True
+DonneesPersonnel=True
+SaisieAstreintes=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AFaires=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+Admin=True
+End With
+With PERSONNEL
+Id=15
+Nom=BRUN
+Prenom=Michaël
+Pass=MB
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AFaires=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=16
+Nom=CITRINO
+Prenom=Sébastien
+Pass=CS
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AFaires=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+End With
+With PERSONNEL
+Id=17
+Nom=KOBRAL
+Prenom=Laurie
+Pass=KL
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AFaires=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=18
+Nom=MULDER
+Prenom=Michael
+Pass=MM
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+End With
+With PERSONNEL
+Id=19
+Nom=FRANZINI
+Prenom=Karine
+Pass=FK
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AFaires=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+End With
+With PERSONNEL
+Id=20
+Nom=CLANET
+Prenom=Sébastien
+Pass=SC
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AFaires=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=21
+Nom=AVERONE
+Prenom=David
+Pass=FOUR
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+FichesDefunts=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+End With

@@ -1,0 +1,53 @@
+Id=30102014
+JourDate=30/10/2014
+With ZONE
+Id=0
+Saisie=Convoi
+Pos=0
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=White
+EquipeOk_2=Red
+EquipeOk_3=White
+Heure_0=09:45
+Heure_1=
+Heure_2=10:00
+Heure_3=
+Ev_0=Mise en bière Centre funéraire
+Ev_1=
+Ev_2=Crémation 
+Ev_3=
+DefuntNom=MONCHARMONT
+DefuntPrenom=NICOLE
+Conseiller=Nicolas PACHOUD
+Pf=PFM
+Comment_0=PAS DE PRESENCE FAMILLE NI DE CEREMONIE, MISE EN BIERE ET CREMATION
+CodeDft=4064
+Ordo=FAVRIN Thierry
+OrdoId=11
+Equipe_0=JACQUIER Michel
+EquipeId_0=JACQUIER Michel
+Equipe_1=
+EquipeId_1=-1
+Equipe_2=ESPINOZA François
+EquipeId_2=ESPINOZA François
+End With
+With ZONE
+Id=1
+Saisie=Soins
+Pos=1
+DemiJour=0
+CodeDft=4072
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=ARDITO
+DefuntPrenom=JOSEPH
+Heure_0=09:30
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+End With

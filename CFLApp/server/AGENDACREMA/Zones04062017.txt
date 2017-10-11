@@ -1,0 +1,102 @@
+Id=4062017
+Jourdate=04/06/2017
+With ZONE
+Id=0
+EvenementCommentaire=
+End With
+With ZONE
+Id=4
+EvenementCommentaire=PAS DE FAMILLE A LA CREMATION      PF  RECUPERENT LE LENDEMAIN
+SaisieOccupe=Libre
+CodeDft_ceremonie=10920
+Pf_ceremonie=FLORET
+Nom_ceremonie=CHRISTIN
+Prenom_ceremonie=SIMONE
+HeureArrivee_ceremonie=18:00
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=18:00
+EvenementArrivee_crema=
+HeureCeremonie=18:00
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=20:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10920
+Pf_cremation=FLORET
+Nom_cremation=CHRISTIN
+Prenom_cremation=SIMONE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=775
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10927
+Pf_ceremonie=PFM
+Nom_ceremonie=KUBIK
+Prenom_ceremonie=ANDRZEJ
+HeureArrivee_ceremonie=05:30
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=05:30
+EvenementArrivee_crema=
+HeureCeremonie=05:30
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=06:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10927
+Pf_cremation=PFM
+Nom_cremation=KUBIK
+Prenom_cremation=ANDRZEJ
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=776
+Four=2
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=10930
+Pf_ceremonie=PF PECH
+Nom_ceremonie=MUGNIER
+Prenom_ceremonie=GISELE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=APPEL DE PF PECH DU JEUDI 01 PAS DE FAMILLE AU RECUEILLEMENT
+CodeDft_cremation=10930
+Pf_cremation=PF PECH
+Nom_cremation=MUGNIER
+Prenom_cremation=GISELE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=783
+Four=2
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

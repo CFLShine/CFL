@@ -1,0 +1,33 @@
+Id=28122012
+With ZONE
+Id=0
+CodeZone=0
+Pos=0
+DemiJour=0
+AdressDft=\DONNEES\DONNEES2012\11.txt
+Ordo=
+OrdoOk=white
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=GAYRAUD Ginette
+Pf=PFM
+DefuntNom=RIVOLIER
+DefuntPrenom=CLAUDIA
+Saisie=Convoi
+Heure_0=09:00
+Heure_1=10:15
+Heure_2=11:00
+Heure_3=
+Ev_0=Mise en bière HOPITAL DE AIX LES BAINS
+Ev_1=Ceremonie  Cf salle omnicultes
+Ev_2=Cremation  au crématorium de Chambéry
+Ev_4=
+Comment_0=
+CodeDft=11
+End With

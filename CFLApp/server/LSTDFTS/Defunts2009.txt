@@ -1,0 +1,15 @@
+Id=2009
+With DEFUNT
+Id=6635
+Nom=BENETTINI
+Prenom=ANGELO
+DecesDate=22/09/2009
+CodeDft=6635
+End With
+With DEFUNT
+Id=2780
+Nom=SCHLUMBERGER
+Prenom=MADELEINE JEAN
+DecesDate=20/03/2009
+CodeDft=2780
+End With

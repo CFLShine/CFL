@@ -1,0 +1,24 @@
+Id=31082014
+JourDate=31/08/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+CodeDft=3733
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=BIEULAC
+DefuntPrenom=CHRISTIANE
+Heure_0=10:01
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=AVERONE David
+Equipe_1=WALLYN Benoît
+Comment_0=
+Comment_1=
+End With

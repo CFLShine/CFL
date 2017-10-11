@@ -1,0 +1,281 @@
+Id=1022017
+JourDate=01/02/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Green
+EquipeOk_3=Red
+CodeDft=10094
+Comment_0=ROC ECLERC PREND LE RELAIS
+Comment_1=
+HeureComment=  :
+OrdoId=73
+EquipeId_0=47
+EquipeId_1=5
+EquipeId_2=53
+EquipeId_3=58
+Ordo=FRANZINI Karine
+Equipe_0=RIVIERE Thomas
+Equipe_1=MILLON Patrick
+Equipe_2=ROLLE Jean-Louis
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10102
+Comment_0=POSE DE CAVEAU ET OUVERTURE PAR SALOMON
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=7
+EquipeId_1=26
+EquipeId_2=5
+EquipeId_3=60
+Ordo=FAVRIN Thierry
+Equipe_0=JACQUIER Michel
+Equipe_1=WALLYN Benoît
+Equipe_2=MILLON Patrick
+Equipe_3=DUMAZ Rémy
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10102
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=58
+EquipeId_1=16
+EquipeId_2=64
+EquipeId_3=60
+Ordo=FAVRIN Thierry
+Equipe_0=MULDER Michaël
+Equipe_1=MILESI Robert
+Equipe_2=DEMOUSSY Alain
+Equipe_3=DUMAZ Rémy
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10109
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=73
+EquipeId_0=7
+EquipeId_1=6
+EquipeId_2=5
+EquipeId_3=60
+Ordo=FRANZINI Karine
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+Equipe_2=MILLON Patrick
+Equipe_3=DUMAZ Rémy
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10103
+Comment_0=DEPART
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10112
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=7
+EquipeId_1=6
+EquipeId_2=5
+EquipeId_3=60
+Ordo=WALLYN Benoît
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+Equipe_2=MILLON Patrick
+Equipe_3=DUMAZ Rémy
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10112
+Comment_0=scellement de l urne sur la tombe
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Green
+EquipeOk_3=Red
+CodeDft=10120
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=1
+EquipeId_0=6
+EquipeId_1=17
+EquipeId_2=21
+EquipeId_3=7
+Ordo=EHNY Maxime
+Equipe_0=PINTOUT Bruno
+Equipe_1=MEGHEZZI Marc
+Equipe_2=VINCENT Judicael
+Equipe_3=JACQUIER Michel
+End With
+With ZONE
+Id=8
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10128
+Comment_0=ORDONNATEUR PFM POUR CEREMONIE RELIGIEUR POUR PF MOUCHE, REGISTRE A CONDOL
+Comment_1=EANCE, LA FAMILLE RECUPERE L'URNE DANS L APRES MIDI
+HeureComment=  :
+OrdoId=58
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=MULDER Michaël
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=9
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10135
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=10
+CodeDft=10137
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=11
+CodeDft=10139
+DemiJour=1
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=12
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10141
+Comment_0=SALON DAUPHINELLE
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=13
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10146
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=14
+CodeDft=10098
+DemiJour=1
+Pos=2
+UsedBy=
+End With

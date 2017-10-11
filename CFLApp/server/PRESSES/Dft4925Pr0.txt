@@ -1,0 +1,22 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, Tresserve, Lyon.\f1\par<Ret>\b0\f0 M. et Mme P-B Blumet, \f1\par<Ret>\f0 M. et Mme Andr\'e9 Blumet, \f1\par<Ret>\f0 Mme Marie-France Lezier, \f1\par<Ret>\f0 ses enfants et leurs conjoints;\f1\par<Ret>\f0 Natacha Blumet, fille de son fils Michel (+);\f1\par<Ret>\f0 ses petits-enfants et arri\'e8re petits-enfants;\f1\par<Ret>\f0 Famille Pellarin; parents et amis\par<Ret>ont la tristesse de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Anne-Marguerite BLUMET\f1\par<Ret>\f0 N\'e9e PELLARIN\f1\par<Ret>\f0 Survenu dans sa 98 i\'e8me ann\'e9e \f1\par<Ret>\f0 le 25 F\'e9vrier 2015\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e le Lundi 2 Mars 2015 en l'Eglise St Pierre de Mach\'e9 \'e0 quinze heures.\b\par<Ret>}<Ret>
+CodeDft=4925
+Tarif=356,8
+NbLignes=21
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=5
+Date=27/02/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=7
+Name=HAUTE SAVOIE
+End With

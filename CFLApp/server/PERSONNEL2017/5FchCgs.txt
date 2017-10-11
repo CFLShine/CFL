@@ -1,0 +1,155 @@
+Id=5
+DroitCongesFC=194:30
+CongesRestantsFC=00:00
+EpargneFC=135:00
+CongesAnPrecFC=115:45
+EpargneesFC=00:00
+varHeuresSupAnDernier=5:15
+With LigneConges
+Id=0
+varPrisDu=02/01/17
+varPrisAu=28/01/17
+varDemandeDate=26/12/16
+varAnnuel=115:45
+varRecup=0:15
+varEpargne=
+varVisaChef=26/12/16
+varVisaDirecteur=26/12/16
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=28/02/17
+varPrisAu=28/02/17
+varDemandeDate=28/02/17
+varAnnuel=
+varRecup=1:30
+varEpargne=
+varVisaChef=28/02/17
+varVisaDirecteur=28/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=27/03/17
+varPrisAu=27/03/17
+varDemandeDate=24/03/17
+varAnnuel=0:00
+varRecup=0:00
+varEpargne=
+varVisaChef=24/03/17
+varVisaDirecteur=24/03/17
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=03/04/17
+varPrisAu=03/04/17
+varDemandeDate=03/04/17
+varAnnuel=
+varRecup=1:30
+varEpargne=
+varVisaChef=03/04/17
+varVisaDirecteur=03/04/17
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=10/04/17
+varPrisAu=10/04/17
+varDemandeDate=07/04/17
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=07/04/17
+varVisaDirecteur=07/04/17
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=26/04/17
+varPrisAu=27/04/17
+varDemandeDate=25/04/17
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=25/04/17
+varVisaDirecteur=25/04/17
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=01/05/17
+varPrisAu=04/05/17
+varDemandeDate=25/04/17
+varAnnuel=21:00
+varRecup=
+varEpargne=
+varVisaChef=25/04/17
+varVisaDirecteur=25/04/17
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=15/05/17
+varPrisAu=15/05/17
+varDemandeDate=15/05/17
+varAnnuel=
+varRecup=0:30
+varEpargne=
+varVisaChef=15/05/17
+varVisaDirecteur=15/05/17
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=06/06/17
+varPrisAu=29/06/17
+varDemandeDate=29/05/17
+varAnnuel=
+varRecup=
+varEpargne=100:00
+varVisaChef=
+varVisaDirecteur=29/05/17
+varRetourDate=
+End With
+With LigneConges
+Id=9
+varPrisDu=01/06/17
+varPrisAu=01/06/17
+varDemandeDate=01/06/17
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=01/06/17
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=14/02/14
+varNbHeuresSup=5:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=22/03/17
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=2
+varDateHeuresSup=10/05/17
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=3
+varDateHeuresSup=15/05/17
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With

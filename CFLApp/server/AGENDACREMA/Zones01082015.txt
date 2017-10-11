@@ -1,0 +1,124 @@
+Id=1082015
+Jourdate=01/08/2015
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6117
+Pf_ceremonie=PF CHAMBERIENNES
+Nom_ceremonie=PEGEOT
+Prenom_ceremonie=JEAN-CHARLES
+CodeDft_cremation=6117
+Pf_cremation=PF CHAMBERIENNES
+Nom_cremation=PEGEOT
+Prenom_cremation=JEAN-CHARLES
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1137
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6124
+Pf_ceremonie=PFM
+Nom_ceremonie=LONG-TOUSSAINT
+Prenom_ceremonie=MAX
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6124
+Pf_cremation=PFM
+Nom_cremation=LONG-TOUSSAINT
+Prenom_cremation=MAX
+FicheOccupe=Libre
+NoOrdre=1135
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6115
+Pf_ceremonie=PFM
+Nom_ceremonie=BEAUGRAND
+Prenom_ceremonie=SAMUEL
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6115
+Pf_cremation=PFM
+Nom_cremation=BEAUGRAND
+Prenom_cremation=SAMUEL
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+Police=True
+FicheOccupe=Libre
+NoOrdre=1136
+Four=1
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6122
+Pf_ceremonie=PFM
+Nom_ceremonie=POISSON
+Prenom_ceremonie=PAUL
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6122
+Pf_cremation=PFM
+Nom_cremation=POISSON
+Prenom_cremation=PAUL
+Police=True
+FicheOccupe=Libre
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1138
+Four=2
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

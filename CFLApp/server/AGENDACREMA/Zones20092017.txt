@@ -1,0 +1,215 @@
+Id=20092017
+Jourdate=20/09/2017
+With ZONE
+Id=9
+SaisieOccupe=Libre
+CodeDft_ceremonie=11596
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=PAIN
+Prenom_ceremonie=FELIX
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de LA MOTTE SERVOLEX
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=11596
+Pf_cremation=PFG CHAMBERY
+Nom_cremation=PAIN
+Prenom_cremation=FELIX
+EvenementArrivee_cremation=Arrivée de LA MOTTE SERVOLEX
+FicheOccupe=Libre
+NoOrdre=1299
+Four=FTX
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=CERCUEIL EN CHENE      LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11619
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=MIGNON
+Prenom_ceremonie=EVELYNE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11619
+Pf_cremation=PF POMMAT
+Nom_cremation=MIGNON
+Prenom_cremation=EVELYNE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1292
+Four=FT3
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=11618
+Pf_ceremonie=PFCCA
+Nom_ceremonie=BAC DAVID
+Prenom_ceremonie=MICHELE
+CodeDft_cremation=11618
+Pf_cremation=PFCCA
+Nom_cremation=BAC DAVID
+Prenom_cremation=MICHELE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1293
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=11607
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=ROYER
+Prenom_ceremonie=ROBERT
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE 
+CodeDft_cremation=11607
+Pf_cremation=PF POMMAT
+Nom_cremation=ROYER
+Prenom_cremation=ROBERT
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1294
+Four=FT3
+End With
+With ZONE
+Id=5
+EvenementCommentaire=CERCUEIL EN CHENE   LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11623
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=ALVAREZ
+Prenom_ceremonie=CARMEN
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL CHAMBERY
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11623
+Pf_cremation=PFG MACHE
+Nom_cremation=ALVAREZ
+Prenom_cremation=CARMEN
+EvenementArrivee_cremation=Arrivée de HOPITAL CHAMBERY
+NoOrdre=1295
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=11626
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=OLLINET
+Prenom_ceremonie=JOSEPH-
+CodeDft_cremation=11626
+Pf_cremation=PF DE SAVOY
+Nom_cremation=OLLINET
+Prenom_cremation=JOSEPH-
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=1296
+Four=FT3
+End With
+With ZONE
+Id=7
+EvenementCommentaire=ORDONNATEUR PFCCA     LA FAMILLE RECUPERE L'URNE 
+SaisieOccupe=Libre
+CodeDft_ceremonie=11621
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=BELTRAMI
+Prenom_ceremonie=ROSE-MARIE 
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11621
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=BELTRAMI
+Prenom_cremation=ROSE-MARIE 
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=1297
+Four=FTX
+End With
+With ZONE
+Id=8
+EvenementCommentaire=CERCUEIL PIN , LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=11612
+Pf_ceremonie=PF PENA
+Nom_ceremonie=CERESERO
+Prenom_ceremonie=GERARD
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de SAINT LAURENT DU PONT
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11612
+Pf_cremation=PF PENA
+Nom_cremation=CERESERO
+Prenom_cremation=GERARD
+EvenementArrivee_cremation=Arrivée de SAINT LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=1298
+Four=FT3
+End With

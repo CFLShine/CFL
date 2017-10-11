@@ -1,0 +1,5 @@
+Agent=BOULET
+Provenance=MEDIPOLE
+Nature=PIECES ANATOMIQUES
+Four=2
+NoOrdre=784

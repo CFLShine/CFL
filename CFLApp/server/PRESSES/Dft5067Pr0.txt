@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 St Jean d'Arvey,\f1\par<Ret>\b0\f0 Yves, son \'e9poux; Nathalie et Pierre-Yves, ses enfants; toute sa famille et ses proches, vous font part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Francette CHEVILLARD\f1\par<Ret>\pard\b0\f0 Selon sa volont\'e9 ses obs\'e8ques ont eu lieu dans l'intimit\'e9.\b\par<Ret>}<Ret>
+CodeDft=5067
+Tarif=118
+NbLignes=8
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=18/03/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

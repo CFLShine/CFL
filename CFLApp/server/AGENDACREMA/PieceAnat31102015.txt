@@ -1,0 +1,6 @@
+Id=31102015
+Agent=LOIC
+Provenance=HOPITAL CHAMBERY
+Nature=FOETUS
+Four=1
+NoOrdre=1568

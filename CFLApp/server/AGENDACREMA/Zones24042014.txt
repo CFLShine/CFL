@@ -1,0 +1,142 @@
+Id=24042014
+Jourdate=24/04/2014
+Version=NouveauFormat
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=2996
+Pf=POMMAT
+Conseiller=Loïc TREVARAIN
+Nom=TISON
+Prenom=GUY
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE     FAMPILLE RECUPERE
+FicheOccupe=Libre
+NoOrdre=511
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=2999
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=PELLETIER
+Prenom=ANTONIA
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=INHUMATION DE COGNIN  PAS DE CREMATION
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3006
+Pf=PF FLORET
+Conseiller=Nicolas PACHOUD
+Nom=RIONDY
+Prenom=EMILE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=513
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3005
+Pf=VIAL CONDEMINE
+Conseiller=Nicolas PACHOUD
+Nom=AUGERT
+Prenom=LUCIENNE
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CENDRES REMISES A LA FAMILLE
+NoOrdre=512
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3012
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=MILLION-BRODAZ
+Prenom=JEAN-LOUIS
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=510
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3011
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=GROMIER
+Prenom=MARCEL
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:0
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=509
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

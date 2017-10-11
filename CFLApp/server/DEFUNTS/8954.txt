@@ -1,0 +1,15 @@
+Id=8954
+DefuntNom=GONON
+DefuntPrenom=HUGO
+DefuntDecesDate=27/08/2016
+ArriveeCommune=CHAMBERY
+ArriveeDate=03/09/2016
+ArriveeHeure=16:15
+PfArrivee=PF PASCAL  LECLERC
+PfCeremonie=PF PASCAL  LECLERC
+CeremonieCrematoriumDate=03/09/2016
+CeremonieCrematoriumHeure=16:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Civile
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=8954

@@ -1,0 +1,122 @@
+Id=8082014
+Jourdate=08/08/2014
+Version=NouveauFormat
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3590
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=BERTHET
+Prenom=JEAN LOUIS
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=INFOS + TARD QUI RECUPERENT 
+NoOrdre=674
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3605
+Pf=PF CHAMBERIENNES
+Conseiller=
+Nom=POIREL
+Prenom=ROGER
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie  Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=MB CF 8 H45  (cérémonie protestante) PF RECUPERENT
+NoOrdre=670
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3606
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=BOURGES
+Prenom=FERNANDE
+HeureArrivee=10:15
+HeureCeremonie=10:15
+HeureCremation=11:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de CHAMBERY
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=
+Police=True
+NoOrdre=671
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=3607
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=MICHOT
+Prenom=JEAN PIERRE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=673
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3608
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=SCHUH
+Prenom=JEAN
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION PF RECUPERENT
+NoOrdre=672
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=PAS DE CREMATION - INHUMATION CHARRIERE-NEUVE
+SaisieOccupe=Libre
+CodeDft=3609
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=TOURTE
+Prenom=ANDREE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With

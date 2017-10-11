@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\fbidis\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}{\f2\froman\fprq2\fcharset0 Book Antiqua;}}<Ret>\viewkind4\uc1\pard\ltrpar\f0\fs24 Thoiry.\f1\par<Ret>\f0 Martine et Patrice, ses enfants; Steeve, Marion, Hugo,ses petits-enfants; parents et amis\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\ltrpar\qc\b\f0 Madame Georgette MARTIN\f1\par<Ret>\f0 N\'e9e TOURNIER\f1\par<Ret>\pard\ltrpar\b0\f0 Pour lui rendre un dernier hommage, elle repose \'e0 la Chambre Mortuaire de l'h\'f4pital de Chamb\'e9ry.\b\f1\par<Ret>\b0\f0 La c\'e9r\'e9monie aura lieu le lundi 25 Ao\'fbt 2014 \'e0 dix heures quinze au Centre Fun\'e9raire de Chamb\'e9ry, suivie de la cr\'e9mation.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciement.\f1\par<Ret>\pard\ltrpar\tx2268\tx4536\tx4820\tx5103\tx5387\tx5670\tx5897\tx6124\tx6350\f2\par<Ret>\pard\ltrpar\f1\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=3683
+Tarif=208
+NbLignes=21
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=22/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

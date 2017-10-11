@@ -1,0 +1,14 @@
+DefuntNom=LAURENT 
+DefuntPrenom=BERNARD
+DefuntDecesDate=11/05/2015
+ArriveeCommune=AIX LES BAINS
+ArriveeDate=16/05/2015
+ArriveeHeure=11:15
+PfArrivee=SEDRAN
+CeremonieCrematoriumDate=16/05/2015
+CeremonieCrematoriumHeure=11:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Geste d'adieu
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5498
+Id=5498

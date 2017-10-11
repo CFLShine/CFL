@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry,\f1\par<Ret>\b0\f0 Rosalba, son \'e9pouse;\f1\par<Ret>\f0 La\'ebtitia, Nathalie, St\'e9phane, Aur\'e9lie, ses enfants; Fabrice, Yannick, Oc\'e9ane, ses gendres et belle-fille; Lucie, Oc\'e9ane, Rapha\'ebl, Enzo, Matteo, ses petits-enfants; Jos\'e9 et Maria Del Carmen, ses parents; ses fr\'e8res et soeurs; son beau-fr\'e8re, ont la douleur de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Fran\'e7ois PEREZ BLANCO\b0\f1\par<Ret>\pard\f0 la c\'e9r\'e9monie religieuse aura lieu le mercredi 13 mai 2015 \'e0 quinze heures en l'\'e9glise de Chamb\'e9ry-le-Vieux.\f1\par<Ret>\f0 Cet avis tient lieu de faire part.\par<Ret>}<Ret>
+CodeDft=5480
+Tarif=208
+NbLignes=18
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=12/05/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

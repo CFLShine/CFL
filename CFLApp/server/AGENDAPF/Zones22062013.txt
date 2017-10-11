@@ -1,0 +1,53 @@
+Id=22062013
+With ZONE
+Id=18
+CodeZone=18
+Pos=0
+DemiJour=1
+AdressDft=\DONNEES\DONNEES2013\1131.txt
+Ordo=TREVARIN Loïc
+OrdoOk=red
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Jean-Luc PEYREDIEU
+Pf=PFM
+DefuntNom=KAMELEDDINE
+DefuntPrenom=FARID
+Saisie=Inhumation
+Heure_0=15:00
+Ev_0=Inhumation Charrière Neuve Pleine terre Ligne 7 Tombe 43
+Comment_0=RDV AVEC LA FAMILLE QUI AMMENE L'URNE AU CIMETIERE
+CodeDft=1131
+End With
+With ZONE
+Id=19
+CodeZone=19
+Pos=1
+DemiJour=1
+AdressDft=\DONNEES\DONNEES2013\1171.txt
+Ordo=TREVARIN Loïc
+OrdoOk=red
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Jean-Luc PEYREDIEU
+Pf=PFM
+DefuntNom=MIEGE
+DefuntPrenom=Louise
+Saisie=RDVOrdo
+Heure_0=14:00
+Ev_0=Rendez-vous avec l'ordonnateur
+Comment_0=
+CodeDft=1171
+End With

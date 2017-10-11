@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry,\f1\par<Ret>\b0\f0 Tous ses amis de la Boule PLM ont la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Monsieur Robert BRUN\f1\par<Ret>\pard\b0\f0 Pour les obs\'e8ques, se reporter \'e0 l'avis de la famille.\f1\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=4519
+Tarif=118
+NbLignes=8
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=12/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

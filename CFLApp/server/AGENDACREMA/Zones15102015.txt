@@ -1,0 +1,144 @@
+Id=15102015
+Jourdate=15/10/2015
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=6661
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=ARBET
+Prenom_ceremonie=LOUIS
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL PIN   ON CONSERVE L'URNE  DIPERSION + TARD PAR FAMILLE
+CodeDft_cremation=6661
+Pf_cremation=PFG MACHE
+Nom_cremation=ARBET
+Prenom_cremation=LOUIS
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1477
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=6662
+Pf_ceremonie=PFG YENNE
+Nom_ceremonie=SEIGLER
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL PIN   LA FAMILLE RECUPERE  NE PAS SELLER L'URNE 
+CodeDft_cremation=6662
+Pf_cremation=PFG YENNE
+Nom_cremation=SEIGLER
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+NoOrdre=1474
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=6653
+Pf_ceremonie=PFM
+Nom_ceremonie=RASELLI
+Prenom_ceremonie=ZOE
+CodeDft_cremation=6653
+Pf_cremation=PFM
+Nom_cremation=RASELLI
+Prenom_cremation=ZOE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1475
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=6669
+Pf_ceremonie=PFM
+Nom_ceremonie=CAILLOT
+Prenom_ceremonie=LUCIEN
+CodeDft_cremation=6669
+Pf_cremation=PFM
+Nom_cremation=CAILLOT
+Prenom_cremation=LUCIEN
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1476
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=6667
+Pf_ceremonie=PF DES ALPES
+Nom_ceremonie=COURTIS
+Prenom_ceremonie=GEORGES
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de DETRIER
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=(CREMATION RESERVEE POUR YVES FONTANEL SANS FAMILLE)
+CodeDft_cremation=6671
+Pf_cremation=PFM
+Nom_cremation=FONTANEL
+Prenom_cremation=YVES
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+Police=True
+NoOrdre=1478
+Four=2
+FicheOccupe=Libre
+End With

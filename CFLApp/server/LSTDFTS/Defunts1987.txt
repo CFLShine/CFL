@@ -1,0 +1,8 @@
+Id=1987
+With DEFUNT
+Id=5010
+Nom=DEMOUY
+Prenom=DIDIER
+DecesDate=10/04/1987
+CodeDft=5010
+End With

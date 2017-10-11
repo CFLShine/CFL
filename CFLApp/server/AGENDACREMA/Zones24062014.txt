@@ -1,0 +1,159 @@
+Id=24062014
+Jourdate=24/06/2014
+Version=NouveauFormat
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION  INHUMATION CHARRIERE NEUVE  PF CHAMBERIENNE
+SaisieOccupe=Libre
+CodeDft=3346
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=VIVARELLI
+Prenom=ANTOINETTE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=4
+NoOrdre=772
+Four=2
+SaisieOccupe=Libre
+CodeDft=3342
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=RUBAUD
+Prenom=SIMONE
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=10:00
+EvenementCeremonie=Cérémonie Religieuse Eglise St Jean Bosco - BIOLLAY
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3334
+Pf=PFG MACHE
+Conseiller=Loïc TREVARAIN
+Nom=BILLIOTEL
+Prenom=JOSIANE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+FicheOccupe=Libre
+NoOrdre=773
+Four=2
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3349
+Pf=PF BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=COURVOISIER
+Prenom=LUCIENNE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=775
+Four=2
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3352
+Pf=PF PECH
+Conseiller=Loïc TREVARAIN
+Nom=MOLLIER
+Prenom=SUZANNE
+HeureArrivee=
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  
+NoOrdre=771
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3351
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=EXBRAYAT
+Prenom=AIME
+HeureArrivee=08:15
+HeureCeremonie=
+HeureCremation=09:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de AIX LES BAINS
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=
+NoOrdre=770
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3353
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=MOTTA
+Prenom=ALBERT RENE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=774
+Four=1
+End With

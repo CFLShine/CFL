@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry\b0 ,\f1\par<Ret>\f0 Yves, Patrick et son \'e9pouse, Jocelyne, ses enfants,\f1\par<Ret>\f0 Claire, L\'e9a, Aur\'e9lie et Estelle, ses petites filles,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Madame Aim\'e9e QUILET\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie religieuse aura lieu au centre fun\'e9raire de Chamb\'e9ry le mercredi 25 f\'e9vrier 2015 \'e0 neuf heures quinze suivie de la cr\'e9mation,\f1\par<Ret>\f0 cet avis tient lieu de faire part et de remerciements.\f1\par<Ret>\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=4906
+Tarif=165
+NbLignes=17
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=24/02/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

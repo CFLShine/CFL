@@ -1,0 +1,29 @@
+Id=1977
+With DEFUNT
+Id=5384
+Nom=CALARD
+Prenom=FRANCOIS
+DecesDate=10/07/1977
+CodeDft=5384
+End With
+With DEFUNT
+Id=7041
+Nom=JEZEQUEL
+Prenom=ANNE MARIE
+DecesDate=30/04/1977
+CodeDft=7041
+End With
+With DEFUNT
+Id=7984
+Nom=LAGO
+Prenom=ANTOINE
+DecesDate=11/01/1977
+CodeDft=7984
+End With
+With DEFUNT
+Id=9413
+Nom=MOLLA 
+Prenom=FERNAND 
+DecesDate=07/02/1977
+CodeDft=9413
+End With

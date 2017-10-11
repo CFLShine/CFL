@@ -1,0 +1,118 @@
+Id=23092015
+Jourdate=23/09/2015
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6507
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=BOUVERAT
+Prenom_ceremonie=MARIE  LOUISE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de LA MOTTE SERVOLEX
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6507
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=BOUVERAT
+Prenom_cremation=MARIE  LOUISE
+EvenementArrivee_cremation=Arrivée de LA MOTTE SERVOLEX
+FicheOccupe=Libre
+NoOrdre=1382
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6519
+Pf_ceremonie=PF PECH
+Nom_ceremonie=LAPOINTE
+Prenom_ceremonie=BERNARD
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6519
+Pf_cremation=PF PECH
+Nom_cremation=LAPOINTE
+Prenom_cremation=BERNARD
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=1380
+Four=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PF RECUPERENT L'URNE  CERCUEIL PIN
+SaisieOccupe=Libre
+CodeDft_ceremonie=6510
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=VISSOUD
+Prenom_ceremonie=ODETTE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6510
+Pf_cremation=PF MOUCHE
+Nom_cremation=VISSOUD
+Prenom_cremation=ODETTE
+EvenementArrivee_cremation=Arrivée de CHAMOUX
+FicheOccupe=Libre
+NoOrdre=1381
+Four=2
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=6513
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=CHEMET
+Prenom_ceremonie=MARTINE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6513
+Pf_cremation=PF BALDINI
+Nom_cremation=CHEMET
+Prenom_cremation=MARTINE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=1383
+Four=2
+End With

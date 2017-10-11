@@ -1,0 +1,171 @@
+Id=14032016
+Jourdate=14/03/2016
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=7760
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=RENTCHNICK
+Prenom_ceremonie=PAULE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7760
+Pf_cremation=PF SEDRAN
+Nom_cremation=RENTCHNICK
+Prenom_cremation=PAULE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=402
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=7766
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=CHAVANNE
+Prenom_ceremonie=PAULETTE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY  HOPITAL
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7766
+Pf_cremation=PFG MACHE
+Nom_cremation=CHAVANNE
+Prenom_cremation=PAULETTE
+EvenementArrivee_cremation=Arrivée de CHAMBERY  HOPITAL
+NoOrdre=401
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=7762
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=MATHEY
+Prenom_ceremonie=ROBERT
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE    LES PF RECUPERENT L'URNE
+CodeDft_cremation=7762
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=MATHEY
+Prenom_cremation=ROBERT
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=403
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7767
+Pf_ceremonie=PFM
+Nom_ceremonie=DERIVAZ
+Prenom_ceremonie=YVES
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7767
+Pf_cremation=PFM
+Nom_cremation=DERIVAZ
+Prenom_cremation=YVES
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=404
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=7765
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=MONTCHOUGNY
+Prenom_ceremonie=PASCAL
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7765
+Pf_cremation=PF SEDRAN
+Nom_cremation=MONTCHOUGNY
+Prenom_cremation=PASCAL
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=405
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7768
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=BEASSE
+Prenom_ceremonie=BERNARD
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7768
+Pf_cremation=PF MOUCHE
+Nom_cremation=BEASSE
+Prenom_cremation=BERNARD
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+FicheOccupe=Libre
+NoOrdre=406
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

@@ -1,0 +1,27 @@
+Id=3022013
+With ZONE
+Id=18
+CodeZone=18
+Pos=0
+DemiJour=1
+AdressDft=\DONNEES\DONNEES2013\275.txt
+Ordo=
+OrdoOk=white
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Marie-Pierre PINET
+Pf=PASCAL LECLERC
+DefuntNom=PACHOUD
+DefuntPrenom=ANNE
+Saisie=TAMB1
+Heure_0=20:15
+Ev_0=TAMB depuisMEDIPOLE vers Centre funéraire
+Comment_0=
+CodeDft=275
+End With

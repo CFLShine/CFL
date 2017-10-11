@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=520
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Pontcharra, La Terrasse,\f1\par<Ret>\b0\f0 son \'e9pouse Josette;\f1\par<Ret>\f0 ses enfants Patricia et Marcel Mezin et Nicolas;\f1\par<Ret>\f0 ses petits-enfants Fabien et Amandine Gimenez et Alexandre Mezin;\f1\par<Ret>\f0 toute sa famille et ses amis, ont la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Monsieur Andr\'e9 LAURENT\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 77 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse aura lieu le vendredi 29 ao\'fbt 2014 \'e0 dix heures en l'\'e9glise de Pontcharra.\f1\par<Ret>\f0 Ni fleurs ni plaques mais des dons au profit de la recherche contre le cancer.\par<Ret>}<Ret>
+CodeDft=3708
+Tarif=272
+NbLignes=18
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=27/08/2014
+End With
+With DEPARTEMENT
+Id=5
+Name=ISERE
+End With

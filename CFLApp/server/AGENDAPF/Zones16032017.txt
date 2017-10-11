@@ -1,0 +1,119 @@
+Id=16032017
+JourDate=16/03/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10421
+Comment_0=OUVERTURE CASE COLUMBARIUM PAR NOS SERVICES 
+Comment_1=CARRE I LIGNE RE N°5
+HeureComment=  :
+OrdoId=58
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=MULDER Michaël
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10422
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=26
+EquipeId_1=5
+EquipeId_2=6
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=WALLYN Benoît
+Equipe_1=MILLON Patrick
+Equipe_2=PINTOUT Bruno
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10408
+Comment_0=CREUSEMENT PAR NOS SERVICES 
+Comment_1=
+HeureComment=  :
+OrdoId=73
+EquipeId_0=26
+EquipeId_1=14
+EquipeId_2=58
+EquipeId_3=6
+Ordo=FRANZINI Karine
+Equipe_0=WALLYN Benoît
+Equipe_1=KAELBERER Eric
+Equipe_2=MULDER Michaël
+Equipe_3=PINTOUT Bruno
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10432
+Comment_0=PAS DE CEREMONIE, AUCUNE FAMILLE PRESENTE
+Comment_1=LA FAMILLE VIENDRA RECUPERER L URNE LUNDI
+HeureComment=  :
+OrdoId=26
+EquipeId_0=5
+EquipeId_1=6
+EquipeId_2=-1
+EquipeId_3=14
+Ordo=WALLYN Benoît
+Equipe_0=MILLON Patrick
+Equipe_1=PINTOUT Bruno
+Equipe_2=
+Equipe_3=KAELBERER Eric
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10437
+Comment_0=SALON DAUPHINELLE
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=5
+CodeDft=10438
+DemiJour=1
+Pos=1
+UsedBy=
+End With

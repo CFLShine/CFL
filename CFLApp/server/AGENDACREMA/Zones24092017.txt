@@ -1,0 +1,54 @@
+Id=24092017
+Jourdate=24/09/2017
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=11627
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=BESENVAL
+Prenom_ceremonie=RAYMONDE
+CodeDft_cremation=11627
+Pf_cremation=PF DE SAVOY
+Nom_cremation=BESENVAL
+Prenom_cremation=RAYMONDE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de BOURG ST MAURICE
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de BOURG ST MAURICE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CREMATION 21/09/2017  à 18h00   VU LOIC
+NoOrdre=1307
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

@@ -1,0 +1,177 @@
+Id=23042016
+Jourdate=23/04/2016
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=8079
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=CHABERT
+Prenom_ceremonie=JULIENNE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM   ACCUEIL DE LA FAMILLE
+CodeDft_cremation=8079
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=CHABERT
+Prenom_cremation=JULIENNE
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=636
+Four=1
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=8081
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=BILLAT
+Prenom_ceremonie=SERAPHIN
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8081
+Pf_cremation=PF FLORET
+Nom_cremation=BILLAT
+Prenom_cremation=SERAPHIN
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=633
+Four=1
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=8093
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=BRIANCON
+Prenom_ceremonie=ANGELE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de BOURG ST MAURICE
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+CodeDft_cremation=8093
+Pf_cremation=PF DE SAVOY
+Nom_cremation=BRIANCON
+Prenom_cremation=ANGELE
+EvenementArrivee_cremation=Arrivée de BOURG ST MAURICE
+FicheOccupe=Libre
+NoOrdre=634
+Four=2
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=8090
+Pf_ceremonie=PF PASCAL LECLERC
+Nom_ceremonie=ROMANELLI
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION 
+End With
+With ZONE
+Id=3
+EvenementCommentaire=ORDONNATEUR PFM   LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8091
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=LEFEVRE
+Prenom_ceremonie=JACQUELINE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8091
+Pf_cremation=PF MOUCHE
+Nom_cremation=LEFEVRE
+Prenom_cremation=JACQUELINE
+EvenementArrivee_cremation=Arrivée de CHAMOUX
+FicheOccupe=Libre
+NoOrdre=635
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=8080
+Pf_ceremonie=PFM
+Nom_ceremonie=CORNET
+Prenom_ceremonie=GASPARD
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+HeureArrivee_ceremonie=14:14
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=8082
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=PITITTO
+Prenom_ceremonie=PIERRETTE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8082
+Pf_cremation=PF FLORET
+Nom_cremation=PITITTO
+Prenom_cremation=PIERRETTE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=637
+Four=2
+End With

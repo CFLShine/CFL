@@ -1,0 +1,102 @@
+Id=30072014
+Jourdate=30/07/2014
+Version=NouveauFormat
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3548
+Pf=PFM VOIRON
+Conseiller=Marie-Pierre PINET
+Nom=SCHWARTZ
+Prenom=LOLA
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ENFANT NEE SANS VIE  DISPERSION PAR NOS SOINS
+NoOrdre=929
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=3555
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=LEFEBVRE
+Prenom=JEAN
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=930
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=3559
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=CARVALHO
+Prenom=DELPHIN
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CULOZ
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=931
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LES PF RECUPERENT L'URNE   
+SaisieOccupe=Libre
+CodeDft=3561
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=LAZZARONI
+Prenom=GILLES
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=932
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

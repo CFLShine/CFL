@@ -1,0 +1,18 @@
+Id=5122014
+JourDate=05/12/2014
+With ZONE
+Id=3
+EtatCivilChecked=True
+End With
+With ZONE
+Id=0
+EtatCivilChecked=True
+End With
+With ZONE
+Id=4
+EtatCivilChecked=True
+End With
+With ZONE
+Id=6
+EtatCivilChecked=True
+End With

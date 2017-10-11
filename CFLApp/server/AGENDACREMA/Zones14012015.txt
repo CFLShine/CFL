@@ -1,0 +1,164 @@
+Id=14012015
+Jourdate=14/01/2015
+Version=NouveauFormat
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=4522
+Pf=PF AJEPI
+Conseiller=Marie-Pierre PINET
+Nom=SABAU
+Prenom=PAULICA
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=73
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=4524
+Pf=PF BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=DUEE
+Prenom=FABIENNE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de HOPITAL CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=74
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4523
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=SARO
+Prenom=GUIDO
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=75
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4525
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=HEL
+Prenom=JEAN-JACQUES
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM
+NoOrdre=77
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4527
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=BERTRAND
+Prenom=LUCETTE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=78
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4529
+Pf=PF POMMAT
+Conseiller=Loïc TREVARAIN
+Nom=CANONNE
+Prenom=FREDDY
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=76
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4530
+Pf=PF TONIN COIFFET
+Conseiller=Loïc TREVARAIN
+Nom=BURKHART
+Prenom=MICHEL
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM
+NoOrdre=79
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4537
+Pf=PF MERCIER
+Conseiller=Jean-Luc PEYREDIEU
+Nom=DURAND
+Prenom=CLAIRE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de AVENIERES
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=72
+Four=1
+FicheOccupe=Libre
+End With

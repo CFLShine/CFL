@@ -1,0 +1,17 @@
+Id=1906
+New=
+DefuntNom=PERRET
+DefuntPrenom=MARCEL
+DefuntDecesDate=25/10/2013
+CremationArriveeDe=SAINT LAURENT DU PONT
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationHeure=
+CremationCommune=
+Conseiller=Loïc TREVARAIN
+PfCremation=PF PENA
+PfArrivee=PF PENA
+CodeDefunt=1906

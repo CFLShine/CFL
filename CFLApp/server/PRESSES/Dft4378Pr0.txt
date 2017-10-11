@@ -1,0 +1,18 @@
+Id=-1
+Type=Remerciements
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Le Bourget du Lac, Chamb\'e9ry, Bourdeau,\f1\par<Ret>\f0 La famille Sandon remercie chaleureusement toutes les personnes qui ont pris part \'e0 sa peine lors des obs\'e8ques de :\f1\par<Ret>\pard\qc\b\f0 Madame Jeanne SANDON\f1\par<Ret>\pard\b0\f0 le Mardi 23 D\'e9cembre 2014.\f1\par<Ret>\pard\f0\par<Ret>}<Ret>
+CodeDft=4378
+Tarif=84
+NbLignes=9
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=26/12/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

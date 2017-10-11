@@ -1,0 +1,164 @@
+Id=13092014
+Jourdate=13/09/2014
+Version=NouveauFormat
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3795
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=JAYAT
+Prenom=ARISTIDE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=1109
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3791
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BEDIOT
+Prenom=GISELE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:00
+EvenementCeremonie=Cérémonie Religieuse Eglise St Joseph
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1112
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3797
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=MENGOLLI
+Prenom=ROMANE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL ENFANT  FAMILLE RECUPERE  BB DCD 2002
+NoOrdre=1105
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=ON CONSERVE L'URNE AU CREMATORUM 
+SaisieOccupe=Libre
+CodeDft=3800
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=RICHARD
+Prenom=CLAUDE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1110
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3803
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=AUBERT
+Prenom=JEAN-CLAUDE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMOUX
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 14H
+NoOrdre=1107
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3802
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=DESCHAMPS
+Prenom=JOSEPHINE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1108
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=ORDONNATEUR PFM    DEPOT DU CERCUEIL VENDREDI FIN DE JOURNEE
+SaisieOccupe=Libre
+CodeDft=3805
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=JACQUIER
+Prenom=LOUIS
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1106
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3808
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=DESERAUD
+Prenom=JACQUES
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1111
+Four=2
+FicheOccupe=Libre
+End With

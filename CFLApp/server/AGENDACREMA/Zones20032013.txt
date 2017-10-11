@@ -1,0 +1,177 @@
+Id=20032013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\597.txt
+Pf=PFG MOUTIERS
+Conseiller=Marie-Pierre PINET
+Nom=PANNAQUIN
+Prenom=BRUNO
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile 
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+NoOrdre=366
+Four=2
+CodeDft=597
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\587.txt
+Pf=PF MOUCHE
+Conseiller=Pascal MARIE
+Nom=MATERNO
+Prenom=LAURENT
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIRE ORDO (musique du Centre , prise de parole simple) FAMILLE RECUPERE A12H00
+NoOrdre=367
+Four=1
+CodeDft=587
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\586.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=GRAND
+Prenom=RAYMONDE
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile  Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=14:00
+EvenementCommentaire=LA FAMILLE RECUPERE LES CENDRES POUR DISPERSION
+Police=True
+NoOrdre=368
+Four=2
+CodeDft=586
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\584.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=LAMBERLIN
+Prenom=ANNIE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=INHUMATION URNE CHARRIERE NEUVE
+NoOrdre=369
+Four=1
+CodeDft=584
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\595.txt
+Pf=PF PENA
+Conseiller=Marie-Pierre PINET
+Nom=VIAL-TIRELON
+Prenom=MARCELLE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=370
+Four=2
+CodeDft=595
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\590.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=MAILLAND-LAGRACE
+Prenom=Robert
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=14:30
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=371
+Four=2
+CodeDft=590
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\581.txt
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=RODRIGUEZ-BEZOS
+Prenom=CARMEN
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM POUR TONIN COIFFET ON GARDE L'URNE AU CREMATORIUM
+NoOrdre=372
+Four=1
+CodeDft=581
+End With

@@ -1,0 +1,57 @@
+Id=22062017
+JourDate=22/06/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=11045
+Comment_0=MISE EN BIERE IMMEDIATE,  RECUEILLEMENT EN SALON 5 OU 6 PERSONNES  
+Comment_1=INHUMATION DE L'URNE A VEREL-PRAGONDRAN LE MARDI 27 JUIN 2017 A 10H00
+HeureComment=  :
+OrdoId=14
+EquipeId_0=7
+EquipeId_1=6
+EquipeId_2=58
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+Equipe_2=MULDER Michaël
+Equipe_3=
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11050
+Comment_0=PREVOIR ORDO PFM + DISPERSION PAR NOS SOINS 15h30
+Comment_1=
+HeureComment=  :
+OrdoId=58
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=MULDER Michaël
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+CodeDft=11062
+DemiJour=1
+Pos=1
+UsedBy=
+End With

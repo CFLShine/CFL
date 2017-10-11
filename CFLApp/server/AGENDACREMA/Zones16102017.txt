@@ -1,0 +1,56 @@
+Id=-1
+With ZONE
+Id=0
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=4
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=11733
+Pf_ceremonie=PFCCA
+Nom_ceremonie=CURT
+Prenom_ceremonie=PIERRE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=11733
+Pf_cremation=PFCCA
+Nom_cremation=CURT
+Prenom_cremation=PIERRE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+End With
+With ZONE
+Id=8
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=9
+End With

@@ -1,0 +1,146 @@
+Id=5072017
+Jourdate=05/07/2017
+With ZONE
+Id=3
+EvenementCommentaire=LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=11124
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=BESSAULT
+Prenom_ceremonie=NICOLLE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11124
+Pf_cremation=PF SEDRAN
+Nom_cremation=BESSAULT
+Prenom_cremation=NICOLLE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=924
+Four=FTX
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+EvenementCommentaire=
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=resa laurie
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+HeuretArrivee_ceremonie=
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=11121
+Pf_ceremonie=PFM
+Nom_ceremonie=ROQUIER-VICAT
+Prenom_ceremonie=VINCENT
+CodeDft_cremation=11121
+Pf_cremation=PFM
+Nom_cremation=ROQUIER-VICAT
+Prenom_cremation=VINCENT
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=925
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11129
+Pf_ceremonie=PF MERCIER
+Nom_ceremonie=VIVIER
+Prenom_ceremonie=JEANNE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AVENIERE
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11129
+Pf_cremation=PF MERCIER
+Nom_cremation=VIVIER
+Prenom_cremation=JEANNE
+EvenementArrivee_cremation=Arrivée de AVENIERE
+NoOrdre=926
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=9
+EvenementCommentaire= 
+SaisieOccupe=Libre
+CodeDft_ceremonie=11118
+Pf_ceremonie=PFM
+Nom_ceremonie=DELTEIL
+Prenom_ceremonie=MARIE THERESE
+CodeDft_cremation=11118
+Pf_cremation=PFM
+Nom_cremation=DELTEIL
+Prenom_cremation=MARIE THERESE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=16:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=927
+Four=FT3
+End With

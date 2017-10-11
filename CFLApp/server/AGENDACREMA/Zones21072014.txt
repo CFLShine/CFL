@@ -1,0 +1,80 @@
+Id=21072014
+Jourdate=21/07/2014
+Version=NouveauFormat
+With ZONE
+Id=1
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft=3502
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=DUFFEAL
+Prenom=LUCIENNE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=False
+NoOrdre=889
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3508
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=MILESI
+Prenom=ROSARIO
+HeureArrivee=09:45
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=890
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 18H00
+SaisieOccupe=Libre
+CodeDft=3510
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+Nom=LEROUX-BEAUDOUT
+Prenom=ANNE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=891
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=7
+End With

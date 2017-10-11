@@ -1,0 +1,455 @@
+Id=6
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=40:00
+EpargneesFC=15:00
+varHeuresSupAnDernier=3:53
+With LigneConges
+Id=0
+varPrisDu=02/01/17
+varPrisAu=02/01/17
+varDemandeDate=30/12/16
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=30/12/16
+varVisaDirecteur=30/12/16
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=26/01/17
+varPrisAu=26/01/17
+varDemandeDate=23/01/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=23/01/17
+varVisaDirecteur=23/01/17
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=26/01/17
+varPrisAu=26/01/17
+varDemandeDate=27/01/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=27/01/17
+varVisaDirecteur=27/01/17
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=31/01/17
+varPrisAu=31/01/17
+varDemandeDate=30/01/17
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=30/01/17
+varVisaDirecteur=30/01/17
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=01/02/17
+varPrisAu=01/02/17
+varDemandeDate=06/02/17
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=06/02/17
+varVisaDirecteur=06/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=10/02/17
+varPrisAu=10/02/17
+varDemandeDate=10/02/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=10/02/17
+varVisaDirecteur=10/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=16/02/17
+varPrisAu=16/02/17
+varDemandeDate=17/02/17
+varAnnuel=2:00
+varRecup=
+varEpargne=
+varVisaChef=17/02/17
+varVisaDirecteur=17/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=08/02/17
+varPrisAu=08/02/17
+varDemandeDate=17/02/17
+varAnnuel=1:00
+varRecup=
+varEpargne=
+varVisaChef=17/02/17
+varVisaDirecteur=17/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=21/02/17
+varPrisAu=21/02/17
+varDemandeDate=20/02/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=20/02/17
+varVisaDirecteur=20/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=9
+varPrisDu=28/02/17
+varPrisAu=28/02/17
+varDemandeDate=28/02/17
+varAnnuel=1:00
+varRecup=
+varEpargne=
+varVisaChef=28/02/17
+varVisaDirecteur=28/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=10
+varPrisDu=03/03/17
+varPrisAu=03/03/17
+varDemandeDate=02/03/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=02/03/17
+varVisaDirecteur=02/03/17
+varRetourDate=
+End With
+With LigneConges
+Id=11
+varPrisDu=21/03/17
+varPrisAu=21/03/17
+varDemandeDate=21/03/17
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=21/03/17
+varVisaDirecteur=21/03/17
+varRetourDate=
+End With
+With LigneConges
+Id=12
+varPrisDu=02/04/17
+varPrisAu=07/04/17
+varDemandeDate=30/03/17
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=30/03/17
+varVisaDirecteur=30/03/17
+varRetourDate=10/04/17
+End With
+With LigneConges
+Id=13
+varPrisDu=13/04/17
+varPrisAu=13/04/17
+varDemandeDate=13/04/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=13/04/17
+varVisaDirecteur=13/04/17
+varRetourDate=
+End With
+With LigneConges
+Id=14
+varPrisDu=21/04/17
+varPrisAu=21/04/17
+varDemandeDate=20/04/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=20/04/17
+varVisaDirecteur=20/04/17
+varRetourDate=
+End With
+With LigneConges
+Id=15
+varPrisDu=27/04/17
+varPrisAu=27/04/17
+varDemandeDate=27/04/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=27/04/17
+varVisaDirecteur=27/04/17
+varRetourDate=
+End With
+With LigneConges
+Id=16
+varPrisDu=16/05/17
+varPrisAu=16/05/17
+varDemandeDate=18/05/17
+varAnnuel=7:00
+varRecup=
+varEpargne=
+varVisaChef=18/05/17
+varVisaDirecteur=18/05/17
+varRetourDate=
+End With
+With LigneConges
+Id=17
+varPrisDu=19/05/17
+varPrisAu=19/05/17
+varDemandeDate=18/05/17
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=18/05/17
+varVisaDirecteur=18/05/17
+varRetourDate=
+End With
+With LigneConges
+Id=18
+varPrisDu=09/06/17
+varPrisAu=09/06/17
+varDemandeDate=09/06/17
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=09/06/17
+varVisaDirecteur=09/06/17
+varRetourDate=
+End With
+With LigneConges
+Id=19
+varPrisDu=27/06/17
+varPrisAu=27/06/17
+varDemandeDate=27/06/17
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=27/06/17
+varVisaDirecteur=27/06/17
+varRetourDate=
+End With
+With LigneConges
+Id=20
+varPrisDu=29/06/17
+varPrisAu=29/06/17
+varDemandeDate=27/06/17
+varAnnuel=
+varRecup=8:00
+varEpargne=
+varVisaChef=27/06/17
+varVisaDirecteur=27/06/17
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=17/02/17
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=06/01/17
+varNbHeuresSup=6:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=2
+varDateHeuresSup=12/01/17
+varNbHeuresSup=9:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=3
+varDateHeuresSup=18/01/17
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=4
+varDateHeuresSup=19/01/17
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=5
+varDateHeuresSup=20/01/17
+varNbHeuresSup=6:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=6
+varDateHeuresSup=21/01/17
+varNbHeuresSup=6:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=7
+varDateHeuresSup=17/01/47
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=8
+varDateHeuresSup=25/01/17
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=9
+varDateHeuresSup=03/02/17
+varNbHeuresSup=7:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=10
+varDateHeuresSup=09/02/17
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=11
+varDateHeuresSup=14/02/17
+varNbHeuresSup=5:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=12
+varDateHeuresSup=20/02/17
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=13
+varDateHeuresSup=14/03/17
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=14
+varDateHeuresSup=15/03/17
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=15
+varDateHeuresSup=19/03/17
+varNbHeuresSup=10:00
+varMotifHeuresSup=DIMANCHE
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=16
+varDateHeuresSup=20/03/17
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=17
+varDateHeuresSup=18/04/17
+varNbHeuresSup=3:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=18
+varDateHeuresSup=10/05/17
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=19
+varDateHeuresSup=17/05/17
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=20
+varDateHeuresSup=23/05/17
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=21
+varDateHeuresSup=26/05/17
+varNbHeuresSup=6:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=22
+varDateHeuresSup=26/05/17
+varNbHeuresSup=5:00
+varMotifHeuresSup=2h00 de jour + 3h00 de Nuit
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=23
+varDateHeuresSup=13/06/17
+varNbHeuresSup=6:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=24
+varDateHeuresSup=14/06/17
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=25
+varDateHeuresSup=19/06/17
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=26
+varDateHeuresSup=21/06/17
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=27
+varDateHeuresSup=26/06/17
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With

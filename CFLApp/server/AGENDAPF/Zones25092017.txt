@@ -1,0 +1,177 @@
+Id=25092017
+JourDate=25/09/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11639
+Comment_0=PRENDRE UN CHEVALET POUR L EGLISE, LA FAMILLE AMENE UNE PHOTO
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=16
+EquipeId_1=6
+EquipeId_2=60
+EquipeId_3=64
+Ordo=FAVRIN Thierry
+Equipe_0=MILESI Robert
+Equipe_1=PINTOUT Bruno
+Equipe_2=DUMAZ Rémy
+Equipe_3=DEMOUSSY Alain
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11639
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=58
+EquipeId_1=8
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=MULDER Michaël
+Equipe_1=ESPINOZA François
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11642
+Comment_0=POSE DE SCELLES A 11H30
+Comment_1=
+HeureComment=  :
+OrdoId=78
+EquipeId_0=16
+EquipeId_1=6
+EquipeId_2=60
+EquipeId_3=64
+Ordo=CLANET Sébastien
+Equipe_0=MILESI Robert
+Equipe_1=PINTOUT Bruno
+Equipe_2=DUMAZ Rémy
+Equipe_3=DEMOUSSY Alain
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11642
+Comment_0=ATTENTION C EST UNE CAVURNE SUR UNE CONCESSION
+Comment_1=
+HeureComment=  :
+OrdoId=78
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=CLANET Sébastien
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11644
+Comment_0=LA FAMILLE RECUPERE L'URNE 
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=7
+EquipeId_1=5
+EquipeId_2=75
+EquipeId_3=58
+Ordo=KAELBERER Eric
+Equipe_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+Equipe_2=MESSIN Laurent
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11652
+Comment_0=CREMATION A 13H
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=5
+EquipeId_1=51
+EquipeId_2=14
+EquipeId_3=76
+Ordo=TREVARAIN Loïc
+Equipe_0=MILLON Patrick
+Equipe_1=POIRAUD Guy
+Equipe_2=KAELBERER Eric
+Equipe_3=PIERRE Hugo
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11652
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=7
+CodeDft=11671
+DemiJour=1
+Pos=1
+UsedBy=
+End With

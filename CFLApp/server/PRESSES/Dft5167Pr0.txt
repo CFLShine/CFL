@@ -1,0 +1,22 @@
+Id=-1
+Type=Avis
+Height=680
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Le Bourget du Lac, La Ravoire, Challes Les Eaux.\f1\par<Ret>\b0\f0 Gilberte PROVENT, son \'e9pouse;\f1\par<Ret>\f0 G\'e9rard (+), Colette PROVENT et Alain NOURRY, G\'e9rard et Anne-Marie PROVENT, Serge et Marielle PROVENT, ses enfants et leurs conjoints;\f1\par<Ret>\f0 Nicolas et C\'e9lia, Bertrand et Fanny, Elise et Enrick, Julien et Laurie, Fanny et Jo\'ebl, Maxime et Alice, Cl\'e9mence et Laurent, ses petits-enfants et leurs conjoints;\f1\par<Ret>\f0 El\'e9anor, Gabin, Morgane, Eliott, Ad\'e8le, Gautier, L\'e9on et Guillaume, ses arri\'e8res petits-enfants;\f1\par<Ret>\f0 ses belles-soeurs, ses beaux-fr\'e8res, neveux et ni\'e8ces, ses amis;\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 C\'e9lestin PROVENT\f1\par<Ret>\f0 Dit "Tintin"\f1\par<Ret>\pard\b0\f0 survenu le 28 Mars 2015, dans sa 93eme ann\'e9e.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse aura lieu en l'\'e9glise du Bourget Du Lac le Mercredi 1er Avril \'e0 dix heures.\f1\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=5167
+Tarif=498
+NbLignes=32
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=30/03/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=7
+Name=HAUTE SAVOIE
+End With

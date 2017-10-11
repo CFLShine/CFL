@@ -1,0 +1,164 @@
+Id=16112013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2015.txt
+Pf=PF DU PLATEAU
+Conseiller=Marie-Pierre PINET
+Nom=MARJOLET
+Prenom=ROBERT
+HeureArrivee=
+EvenementArrivee=Arrivée de HAUTEVILLE
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1383
+Four=1
+CodeDft=2015
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=ON GARDE L'URNE AU CREMATORIUM
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2021.txt
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=AUBERT
+Prenom=JEAN-FRANCOIS
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de PONT DE EAUVOISIN
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1384
+Four=2
+CodeDft=2021
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2018.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=NEYROUD
+Prenom=RAYMONDE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1385
+Four=1
+CodeDft=2018
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2019.txt
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=RENAUD-GOUD
+Prenom=ANNIE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+NoOrdre=1386
+Four=2
+CodeDft=2019
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=NE PAS SCELLER L'URNE LA FAMILLE RECUPERE L'URNE A 17H ORDONNATEUR PFM
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2022.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=FOURNIER
+Prenom=SIMON
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1387
+Four=1
+CodeDft=2022
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2020.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=CALY
+Prenom=FAUSTA
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:30
+EvenementCeremonie=Cérémonie Religieuse CHAPELLE ST PIERRE DE MACHE
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1388
+Four=2
+CodeDft=2020
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1985.txt
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=BONFILS
+Prenom=MARIA
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de HOPITAL DE CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1389
+Four=1
+CodeDft=1985
+End With

@@ -1,0 +1,70 @@
+Id=14022016
+Jourdate=14/02/2016
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+HeuretArrivee_ceremonie=
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+NoOrdre=247
+Four=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=7574
+Pf_ceremonie=PF CHAMBERIENNES
+Nom_ceremonie=JOSEPH
+Prenom_ceremonie=SIMONE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL CHAMBERY
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7574
+Pf_cremation=PF CHAMBERIENNES
+Nom_cremation=JOSEPH
+Prenom_cremation=SIMONE
+EvenementArrivee_cremation=Arrivée de HOPITAL CHAMBERY
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With

@@ -1,0 +1,214 @@
+Id=8
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=71:00
+EpargneesFC=00:00
+varHeuresSupAnDernier=7:11
+With LigneConges
+Id=0
+varPrisDu=09/01/16
+varPrisAu=23/01/16
+varDemandeDate=08/01/16
+varAnnuel=71:00
+varRecup=5:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=23/01/16
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=27/02/16
+varPrisAu=27/02/16
+varDemandeDate=27/02/16
+varAnnuel=
+varRecup=2:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=27/02/16
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=29/03/16
+varPrisAu=29/03/16
+varDemandeDate=22/03/16
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=22/03/16
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=05/04/16
+varPrisAu=05/04/16
+varDemandeDate=05/04/16
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=05/04/16
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=17/05/16
+varPrisAu=21/05/16
+varDemandeDate=10/05/16
+varAnnuel=28:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=10/05/16
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=02/07/16
+varPrisAu=02/07/16
+varDemandeDate=02/07/16
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=02/07/16
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=05/07/16
+varPrisAu=09/07/16
+varDemandeDate=04/07/16
+varAnnuel=28:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=04/07/16
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=23/07/16
+varPrisAu=23/07/16
+varDemandeDate=23/07/16
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=23/07/16
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=08/08/16
+varPrisAu=27/08/16
+varDemandeDate=29/07/16
+varAnnuel=100:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=29/07/16
+varRetourDate=29/08/16
+End With
+With LigneConges
+Id=9
+varPrisDu=10/11/16
+varPrisAu=12/11/16
+varDemandeDate=08/11/16
+varAnnuel=12:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=08/11/16
+varRetourDate=
+End With
+With LigneConges
+Id=10
+varPrisDu=15/11/16
+varPrisAu=15/11/16
+varDemandeDate=17/11/16
+varAnnuel=
+varRecup=0:30
+varEpargne=
+varVisaChef=
+varVisaDirecteur=17/11/16
+varRetourDate=
+End With
+With LigneConges
+Id=11
+varPrisDu=12/12/16
+varPrisAu=13/12/16
+varDemandeDate=09/12/16
+varAnnuel=16:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=09/12/16
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=18/03/16
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=11/04/16
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=2
+varDateHeuresSup=30/06/16
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=3
+varDateHeuresSup=14/09/16
+varNbHeuresSup=3:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=4
+varDateHeuresSup=20/09/12
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=5
+varDateHeuresSup=30/11/16
+varNbHeuresSup=3:00
+varMotifHeuresSup=Fin de moi
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=6
+varDateHeuresSup=06/11/16
+varNbHeuresSup=1:00
+varMotifHeuresSup=Inventaire
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=7
+varDateHeuresSup=08/11/16
+varNbHeuresSup=1:00
+varMotifHeuresSup=Inventaire
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=8
+varDateHeuresSup=30/12/16
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With

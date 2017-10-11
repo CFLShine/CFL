@@ -1,0 +1,5 @@
+Agent=NANTOIS
+Provenance=   CENTRE HOSPITALIER DE CHAMBERY
+Nature= 4 FOETUS
+Four=1
+NoOrdre=927

@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 La Direction et le Personnel de la R\'e9gie Savoie Grand Revard t\'e9moignent toute leur sympathie \'e0 R\'e9my DUBOIS et sa famille pour le d\'e9part de leur maman\f1\par<Ret>\pard\qc\b\f0 Anne\f1\par<Ret>\pard\b0\f0 Pour la c\'e9r\'e9monie se rporter \'e0 l'avis de la famille.\par<Ret>}<Ret>
+CodeDft=5140
+Tarif=118
+NbLignes=8
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=26/03/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

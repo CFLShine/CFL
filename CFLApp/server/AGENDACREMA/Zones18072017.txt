@@ -1,0 +1,216 @@
+Id=18072017
+Jourdate=18/07/2017
+With ZONE
+Id=9
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11200
+Pf_ceremonie=PFM
+Nom_ceremonie=MARTINACHE
+Prenom_ceremonie=PERRINE
+CodeDft_cremation=11200
+Pf_cremation=PFM
+Nom_cremation=MARTINACHE
+Prenom_cremation=PERRINE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=992
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11204
+Pf_ceremonie=PFM
+Nom_ceremonie=FRANCONY
+Prenom_ceremonie=GERARD
+CodeDft_cremation=11204
+Pf_cremation=PFM
+Nom_cremation=FRANCONY
+Prenom_cremation=GERARD
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=985
+Four=FT3
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11205
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=PLANCHAT
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11205
+Pf_cremation=PF SEDRAN
+Nom_cremation=PLANCHAT
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=986
+Four=FTX
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11203
+Pf_ceremonie=PFM
+Nom_ceremonie=GREIFFENBERG
+Prenom_ceremonie=MARIE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11203
+Pf_cremation=PFM
+Nom_cremation=GREIFFENBERG
+Prenom_cremation=MARIE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=987
+Four=FT3
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS D'ORDONNATEUR PFCCA    
+SaisieOccupe=Libre
+CodeDft_ceremonie=11219
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=PRABLANC
+Prenom_ceremonie=DANIEL
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11219
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=PRABLANC
+Prenom_cremation=DANIEL
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+NoOrdre=988
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PIN LES PF RECUPERENT, NEE EN 1927
+SaisieOccupe=Libre
+CodeDft_ceremonie=11214
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=DEGROISSE
+Prenom_ceremonie=MARIE MADELEINE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11214
+Pf_cremation=PF FLORET
+Nom_cremation=DEGROISSE
+Prenom_cremation=MARIE MADELEINE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=989
+Four=FT3
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11202
+Pf_ceremonie=PFG MOUTIERS
+Nom_ceremonie=THOMAS
+Prenom_ceremonie=EMMA
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11202
+Pf_cremation=PFG MOUTIERS
+Nom_cremation=THOMAS
+Prenom_cremation=EMMA
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=990
+Four=FTX
+End With
+With ZONE
+Id=8
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11201
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=DEGUIN
+Prenom_ceremonie=MARCELLE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11201
+Pf_cremation=PF MOUCHE
+Nom_cremation=DEGUIN
+Prenom_cremation=MARCELLE
+EvenementArrivee_cremation=Arrivée de CHAMOUX
+FicheOccupe=Libre
+NoOrdre=991
+Four=FT3
+End With

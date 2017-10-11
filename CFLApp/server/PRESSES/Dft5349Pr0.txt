@@ -1,0 +1,23 @@
+Id=-1
+Type=Avis
+Height=520
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 La Ravoire, Albertville, Bassens\f1\par<Ret>\b0\f0 Christian et Colette Gay, Pierre et Janine GAY, ses enfants; S\'e9bastien et Karine, Nicolas, St\'e9phanie et Vincent, ses petits-enfants; Thomas et Noelie, ses arri\'e8re petits-enfants; Madame Lucienne MENARD sa soeur; \f1\par<Ret>\f0 sa famille et ses proches,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Madame Ren\'e9e PIGNAUL\f1\par<Ret>\f0 N\'e9e BERTET\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 92 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e samedi 25 avril 2015 \'e0 quatorze heures quinze au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 Condol\'e9ances sur registre.\f1\par<Ret>\f0 La famille remercie le personnel et la direction des Bl\'e9s d'Or pour leur gentillesse et d\'e9vouement.\par<Ret>}<Ret>
+CodeDft=5349
+Tarif=250
+NbLignes=24
+Cadre=False
+Symbole=False
+Photo=False
+SiteSent=True
+SiteDate1=23/04/2015
+SiteDate2=25/04/2015
+SiteTitre=Renee PIGNAUL
+SiteClientMail=gay.christian73@gmail.com
+With PARUTION
+Id=3
+Date=24/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

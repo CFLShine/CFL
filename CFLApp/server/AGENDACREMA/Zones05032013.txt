@@ -1,0 +1,161 @@
+Id=5032013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\437.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Pascal MARIE
+Nom=COTTAREL
+Prenom=FRANCOIS / MARTHE / PAULETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie RIEN 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ATTENTION EHXUMATION REGROUPEMENT DE TROIS CORPS
+NoOrdre=293
+Four=1
+CodeDft=437
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\468.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=MATHANT
+Prenom=JEAN-MARIE
+HeureArrivee=15:58
+HeureCeremonie=10:15
+HeureCremation=11:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de CHAMBERY
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=
+NoOrdre=294
+Four=2
+CodeDft=468
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\451.txt
+Pf=PF VIAL
+Conseiller=Loïc TREVARAIN
+Nom=RAPPENEAU
+Prenom=Michel
+HeureArrivee=
+EvenementArrivee=Arrivée de St Jean Maurienne
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=295
+Four=1
+CodeDft=451
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\471.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Loïc TREVARAIN
+Nom=GONNET
+Prenom=EDOUARD
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=296
+Four=2
+CodeDft=471
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\463.txt
+Pf=PF TONIN COIFFET
+Conseiller=TREVARAIN LOIC
+Nom=BERTHET
+Prenom=LUCIE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CULOZ
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF arriveront  en fin de matinée. Prévoir ordonnateur texte + musique.
+NoOrdre=297
+Four=1
+CodeDft=463
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\470.txt
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=PERRET
+Prenom=THOMAS
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire= PAS DE CREMATION  inhumation Ch. Neuve
+CodeDft=470
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\469.txt
+Pf=PF BOUDRIER
+Conseiller=Marie-Pierre PINET
+Nom=GUERY
+Prenom=GILBERT
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de MORESTEL
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=298
+Four=2
+CodeDft=469
+End With

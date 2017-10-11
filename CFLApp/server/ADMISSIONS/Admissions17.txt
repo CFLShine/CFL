@@ -1,0 +1,9 @@
+Id=-1
+With ADMISSION
+Id=10040
+Nom=PERNOUD
+Prenom=RAYMOND
+CodeDft=10040
+AdmissionDate=20/12/0017
+NoOrdre=100
+End With

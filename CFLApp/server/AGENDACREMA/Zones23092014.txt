@@ -1,0 +1,95 @@
+Id=23092014
+Jourdate=23/09/2014
+Version=NouveauFormat
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3848
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=NENDZA
+Prenom=JEAN
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1151
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3847
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=BROCHIER
+Prenom=PAUL
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE  A 17H
+FicheOccupe=Libre
+NoOrdre=1153
+Four=1
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3850
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=DI PAOLO
+Prenom=VITTORIA
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CULOZ
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=1154
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=ENFANT NE SANS VIE
+SaisieOccupe=Libre
+CodeDft=3852
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=LACHENAL
+Prenom=CEDRIC
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1152
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=6
+End With

@@ -1,0 +1,164 @@
+Id=12042013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+NoOrdre=465
+Four=2
+AdresseFicheDefunt=\DONNEES\DONNEES2013\735.txt
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=CHOVIN
+Prenom=GABRIEL
+HeureArrivee=08:15
+EvenementArrivee=Arriv�e de ALBERTVILLE
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=PAS DE FAMILLE DEPOT DU CERCUEIL JEUDI 11 AVRIL A 18H
+CodeDft=735
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+NoOrdre=466
+Four=1
+AdresseFicheDefunt=\DONNEES\DONNEES2013\736.txt
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=FONTAINE
+Prenom=LINA
+HeureArrivee=09:15
+EvenementArrivee=Arriv�e de BELLEY
+HeureCeremonie=09:15
+EvenementCeremonie=C�r�monie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION PAR NOS SOINS SANS FAMILLE
+CodeDft=736
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\724.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=MORARD
+Prenom=OLIVIER
+HeureArrivee=10:15
+EvenementArrivee=Arriv�e de CHAMOUX SUR GELON
+HeureCeremonie=10:15
+EvenementCeremonie=C�r�monie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM LA FAMILLE PRESENTE A 09H45 POUR PREPARATION
+NoOrdre=467
+Four=2
+CodeDft=724
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+NoOrdre=
+Four=
+AdresseFicheDefunt=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\729.txt
+Pf=AINAN FUNERAIRE
+Conseiller=Marie-Pierre PINET
+Nom=LOCATELLI
+Prenom=RENE
+HeureArrivee=14:15
+EvenementArrivee=Arriv�e de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=C�r�monie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=CORPS SALON ANEMONE DISPERSION JDS A 17H15 JDS CHARRIERE- NEUVE
+NoOrdre=468
+Four=2
+CodeDft=729
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+NoOrdre=
+Four=!!!
+AdresseFicheDefunt=\DONNEES\DONNEES2013\728.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BERNAT
+Prenom=Franceline
+HeureArrivee=
+EvenementArrivee=Arriv�e de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=C�r�monie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=INHUMATION CHARRIERE NEUVE
+CodeDft=728
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\722.txt
+Pf=PFM
+Conseiller=Marie-Pierre PINET
+Nom=NICOLAS
+Prenom=MICHELINE
+HeureArrivee=
+EvenementArrivee=Arriv�e de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=C�r�monie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=469
+Four=
+CodeDft=722
+End With

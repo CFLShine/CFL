@@ -1,0 +1,68 @@
+Id=7092015
+JourDate=07/09/2015
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6376
+Comment_0=EXHUMATION  DE BEBE CONCESSION PLEINE TERRE  ET REIHNUMATION CAVEAU OUVERTURE 
+Comment_1=DESSUS 08H30
+HeureComment=  :
+OrdoId=6
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=PINTOUT Bruno
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6389
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=26
+EquipeId_1=5
+EquipeId_2=17
+EquipeId_3=58
+Ordo=KAELBERER Eric
+Equipe_0=WALLYN Benoît
+Equipe_1=MILLON Patrick
+Equipe_2=MEGHEZZI Marc
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=2
+CodeDft=6404
+DemiJour=0
+Pos=1
+End With
+With ZONE
+Id=3
+CodeDft=6411
+DemiJour=1
+Pos=1
+End With
+With ZONE
+Id=4
+CodeDft=6408
+DemiJour=1
+Pos=2
+End With

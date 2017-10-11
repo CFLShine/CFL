@@ -1,0 +1,132 @@
+Id=20012014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2409.txt
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=GUILLOT
+Prenom=GEORGES
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+FicheOccupe=Libre
+CodeDft=2409
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2411.txt
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=DUVAL
+Prenom=GERMAINE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=85
+Four=2
+FicheOccupe=Libre
+CodeDft=2411
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2413.txt
+Pf=PFG MOUTIERS
+Conseiller=Marie-Pierre PINET
+Nom=CHIARELLO
+Prenom=BRUNO
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION 
+NoOrdre=86
+Four=1
+FicheOccupe=Libre
+CodeDft=2413
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2412.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=GAUTIER
+Prenom=FRANCIS
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=88
+Four=1
+FicheOccupe=Libre
+CodeDft=2412
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2415.txt
+Pf=PFG MACHE
+Conseiller=Pascal MARIE
+Nom=FARCY
+Prenom=JACQUES
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=89
+Four=2
+FicheOccupe=Libre
+CodeDft=2415
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2416.txt
+Pf=PF BOUDRIER
+Conseiller=Marie-Pierre PINET
+Nom=CAILLAULT
+Prenom=GILLES
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de MORESTEL
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=87
+Four=2
+FicheOccupe=Libre
+CodeDft=2416
+End With

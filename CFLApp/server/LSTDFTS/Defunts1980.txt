@@ -1,0 +1,8 @@
+Id=1980
+With DEFUNT
+Id=149
+Nom=FERNANDEZ CEPEDANO
+Prenom=MARIA
+DecesDate=01/01/1980
+CodeDft=149
+End With

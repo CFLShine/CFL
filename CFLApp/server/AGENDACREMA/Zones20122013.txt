@@ -1,0 +1,175 @@
+Id=20122013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2221.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=LANDRIN-BERLAND
+Prenom=GEORGES
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft=2221
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2228.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=CHARRIERE 
+Prenom=MARIE LOUISE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft=2228
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2229.txt
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=COSSETTO
+Prenom=MICHEL
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1533
+Four=2
+CodeDft=2229
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2224.txt
+Pf=PFG MONTMELIAN
+Conseiller=Marie-Pierre PINET
+Nom=GUESNON
+Prenom=MARIE  ANTOINETTE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1534
+Four=
+CodeDft=2224
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2217.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Marie-Pierre PINET
+Nom=EXERTIER
+Prenom=ANNIK
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=1535
+Four=2
+CodeDft=2217
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2223.txt
+Pf=PF BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=DANICO
+Prenom=SOLANGE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1536
+Four=1
+CodeDft=2223
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=CERCUEIL CREMATION   PF RECUPERENT
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2237.txt
+Pf=PF SAVOYARDES
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BIEUX
+Prenom=MARIE JOSE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1537
+Four=2
+CodeDft=2237
+End With
+With Zone
+Id=7
+AdresseFicheDefunt=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+HeureCeremonie=
+HeureCremation=
+HeureCommentaire=
+EvenementArrivee=
+EvenementCeremonie=
+EvenementCremation=
+EvenementCommentaire=
+End With

@@ -1,0 +1,161 @@
+Id=25042016
+Jourdate=25/04/2016
+With ZONE
+Id=6
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft_ceremonie=8098
+Pf_ceremonie=PFM
+Nom_ceremonie=PINGET
+Prenom_ceremonie=JACQUES
+CodeDft_cremation=8098
+Pf_cremation=PFM
+Nom_cremation=PINGET
+Prenom_cremation=JACQUES
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=642
+Four=2
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=8089
+Pf_ceremonie=PFM
+Nom_ceremonie=SETTI
+Prenom_ceremonie=JACQUES
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=2
+EvenementCommentaire=NE PAS DONNER DE RENSEIGNEMENTS SUR LA CEREMONIE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8094
+Pf_ceremonie=PFM
+Nom_ceremonie=REBUT
+Prenom_ceremonie=ANDREE
+CodeDft_cremation=8094
+Pf_cremation=PFM
+Nom_cremation=REBUT
+Prenom_cremation=ANDREE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=638
+Four=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=8095
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=BERTOUT
+Prenom_ceremonie=DANIEL
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8095
+Pf_cremation=PF SEDRAN
+Nom_cremation=BERTOUT
+Prenom_cremation=DANIEL
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=639
+Four=1
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=8102
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=MAZOUE
+Prenom_ceremonie=GILLES
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNES
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+CodeDft_cremation=8102
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=MAZOUE
+Prenom_cremation=GILLES
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNES
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+NoOrdre=640
+Four=2
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 17H15
+CodeDft_ceremonie=8097
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=JARRE
+Prenom_ceremonie=ADRIENNE
+CodeDft_cremation=8097
+Pf_cremation=PF DE SAVOY
+Nom_cremation=JARRE
+Prenom_cremation=ADRIENNE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de BOURG ST MAURICE
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de BOURG ST MAURICE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=641
+Four=1
+End With
+With ZONE
+Id=7
+End With

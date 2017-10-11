@@ -1,0 +1,242 @@
+Id=2437
+New=
+DefuntNom=X
+DefuntPrenom=X
+DefuntDecesDate=18/01/2014
+PfArrivee=
+AdmissionDate=18/01/2014
+AdmissionHeure=20:54
+AdmissionAgent1=
+AdmissionAgent2=
+AdmissionOrdreNo=42
+AdmissionArriveeDe=
+AdmissionTaille=2.00 / 55
+Requisition=False
+AdmissionCorpsArriveHabille=True
+AdmissionVetementsArrivesAvecDefunt=False
+AdmissionHabillageParNous=False
+AdmissionChaussures=True
+AdmissionCorpsPresentable=False
+AdmissionObstacleJudiciaire=True
+AdmissionValeur1=
+AdmissionValeur2=
+AdmissionValeur3=
+AdmissionValeur4=
+AdmissionValeur5=
+AdmissionValeur6=
+AdmissionValeur7=
+AdmissionValeur8=
+AdmissionValeur9=
+AdmissionValeur10=
+AdmissionValeur11=
+AdmissionValeur12=
+AdmissionValeur13=
+AdmissionValeur14=
+AdmissionValeurAutre1=
+AdmissionValeurAutre2=
+AdmissionValeursRemisesANomPrenom=
+AdmissionValeursRemisesAAdresse=
+AdmissionValeursRemisesAQualite=
+AdmissionCommentaire=
+CodeDefunt=2437
+DefuntNationalite=
+DefuntTitre=
+DefuntAdresse2=
+DefuntProfession=
+DefuntAdresseCommune=
+DefuntAdresseCodPost=
+DefuntAdresse=
+DefuntNaissancePays=
+DefuntNaissanceDepartement=
+DefuntNaissanceCommune=
+DefuntPrenoms=
+DefuntNomJF=
+DefuntNaissanceDate=  /  /
+DefuntDecesHeure=  :
+DefuntDecesAdresse=
+DefuntDecesMedecin=
+DefuntDecesPays=
+DefuntDecesCommune=
+DefuntMereDecede=False
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=
+DefuntMereNom=
+DefuntPereDecede=False
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=
+DefuntPereNom=
+DefuntMariageDate=  /  /
+DefuntDivorseDate=  /  /
+DefuntSituationDecesDate=  /  /
+DefuntSituationNaissanceDate=  /  /
+DefuntNbEnfantsVivants=
+DefuntNbEnfants=
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=
+DefuntSituationNom=
+PouvQualite=Conjoint
+PouvNom=
+PouvPrenom=
+PouvNomJF=
+PouvAdresse=
+PouvAdresse2=
+PouvCodePost=
+PouvCommune=
+PouvTel1=
+PouvTel2=
+PouvMail=
+ReceptionDate=11/09/2014
+Conseiller=Jean-Luc PEYREDIEU
+ExhumationSepulture=1
+PfExhumation=PFM
+SepultureTombe=
+SepultureLigne=
+SepultureCarre=
+SepultureSection=
+SepultureDivision=
+ExhumationDate=18/09/2014
+ExhumationHeure=08:00
+CodeExhumation=18/09/2014_0_1
+SepultureCimetiere=
+SepultureCommune=LA RAVOIRE
+SepultureType=
+Concessionaire=False
+AyantDroit=False
+SepultureProvisoire=False
+ConcessionDPINom=
+ConcessionDPINomJF=
+ConcessionDPIPrenom=
+ConcessionDPIAnnee=
+ConcessionAquiseParNom=
+ConcessionAquiseParPrenom=
+ConcessionAquiseDate=  /  /
+ConcessionDuree=
+ConcessionDesignation=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+With EXHUM
+Id=0
+Nom=MERMOZ
+NomJF=
+Prenom=ANGELE
+NaissanceAnnee=
+DecesAnnee=
+ExhumationDate=16/09/2014
+Sepulture=
+End With
+With EXHUM
+Id=1
+Nom=GRIOT
+NomJF=
+Prenom=MR
+NaissanceAnnee=
+DecesAnnee=
+ExhumationDate=16/09/2014
+Sepulture=
+End With
+With EXHUM
+Id=2
+Nom=GRIOT
+NomJF=
+Prenom=MME
+NaissanceAnnee=
+DecesAnnee=
+ExhumationDate=16/09/2014
+Sepulture=
+End With
+With EXHUM
+Id=3
+Nom=SOLLIMA
+NomJF=
+Prenom=ADELINE
+NaissanceAnnee=
+DecesAnnee=
+ExhumationDate=16/09/2014
+Sepulture=
+End With
+With EXHUM
+Id=4
+Nom=BERLIAT
+NomJF=
+Prenom=MLLE
+NaissanceAnnee=
+DecesAnnee=
+ExhumationDate=16/09/2014
+Sepulture=
+End With
+With EXHUM
+Id=5
+Nom=V
+NomJF=
+Prenom=
+NaissanceAnnee=
+DecesAnnee=
+ExhumationDate=18/09/2014
+Sepulture=
+End With
+With EXHUM
+Id=6
+Nom=W
+NomJF=
+Prenom=
+NaissanceAnnee=
+DecesAnnee=
+ExhumationDate=18/09/2014
+Sepulture=
+End With
+With EXHUM
+Id=7
+Nom=X
+NomJF=
+Prenom=
+NaissanceAnnee=
+DecesAnnee=
+ExhumationDate=18/09/2014
+Sepulture=
+End With
+With EXHUM
+Id=8
+Nom=Y
+NomJF=
+Prenom=
+NaissanceAnnee=
+DecesAnnee=
+ExhumationDate=18/09/2014
+Sepulture=
+End With
+With EXHUM
+Id=9
+Nom=Z
+NomJF=
+Prenom=
+NaissanceAnnee=
+DecesAnnee=
+ExhumationDate=18/09/2014
+Sepulture=
+End With
+With A FAIRE
+Id=0
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=11/09/2014 10:11:47
+DateFait=12/09/2014 11:47:12
+FaitPar=Jean-Luc PEYREDIEU
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=11/09/2014 10:11:47
+DateFait=12/09/2014 11:47:13
+FaitPar=Jean-Luc PEYREDIEU
+End With

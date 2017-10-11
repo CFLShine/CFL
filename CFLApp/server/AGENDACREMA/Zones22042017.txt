@@ -1,0 +1,147 @@
+Id=22042017
+Jourdate=22/04/2017
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=10655
+Pf_ceremonie=PFM
+Nom_ceremonie=SANCEY RICHARD
+Prenom_ceremonie=PHILIPPE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDO ACCUEIL FAMILLE  ON CONSERVE L'URNE 
+CodeDft_cremation=10655
+Pf_cremation=TONIN COIFFET
+Nom_cremation=SANCEY RICHARD
+Prenom_cremation=PHILIPPE
+EvenementArrivee_cremation=Arrivée de BELLEY
+NoOrdre=604
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10663
+Pf_ceremonie=PF PENA
+Nom_ceremonie=DESCHAMPS
+Prenom_ceremonie=YVETTE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10663
+Pf_cremation=PF PENA
+Nom_cremation=DESCHAMPS
+Prenom_cremation=YVETTE
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+NoOrdre=605
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10667
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=FLAMAND
+Prenom_ceremonie=JEAN-CLAUDE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10667
+Pf_cremation=PF FLORET
+Nom_cremation=FLAMAND
+Prenom_cremation=JEAN-CLAUDE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=606
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10666
+Pf_ceremonie=PFM
+Nom_ceremonie=SAIGNIE
+Prenom_ceremonie=PIERRETTE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10666
+Pf_cremation=PFM
+Nom_cremation=SAIGNIE
+Prenom_cremation=PIERRETTE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=607
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=ORDONNATEUR PFM    BEAUCOUP DE MONDE....
+SaisieOccupe=Libre
+CodeDft_ceremonie=10672
+Pf_ceremonie=PF PENA
+Nom_ceremonie=HAEMS
+Prenom_ceremonie=RONALD
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10672
+Pf_cremation=PF PENA
+Nom_cremation=HAEMS
+Prenom_cremation=RONALD
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=608
+Four=2
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

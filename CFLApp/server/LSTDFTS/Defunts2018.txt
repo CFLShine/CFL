@@ -1,0 +1,8 @@
+Id=2018
+With DEFUNT
+Id=5617
+Nom=THIVICHON PRINCE
+Prenom=RENE
+DecesDate=23/05/2018
+CodeDft=5617
+End With

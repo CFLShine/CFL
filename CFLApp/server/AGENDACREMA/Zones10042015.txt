@@ -1,0 +1,166 @@
+Id=10042015
+Jourdate=10/04/2015
+Version=NouveauFormat
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5010
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=DEMOUY
+Prenom=DIDIER
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CIMETIERE
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=573
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5226
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=DALAISON
+Prenom=HENRI
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Centre funéraire
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=577
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5224
+Pf=PF SAVOYARDES
+Conseiller=MP PINET
+Nom=ANGELLOZ PESSEY
+Prenom=PASCAL
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=579
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=5222
+Pf=PFG CHAMBERY
+Conseiller=MP PINET
+Nom=BAROUTI
+Prenom=HENRI
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+FicheOccupe=Libre
+NoOrdre=576
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5206
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=GRENARD
+Prenom=NOEL
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Centre funéraire
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=574
+Four=1
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=5233
+Pf=MOUCHE
+Conseiller=Loïc TREVARAIN
+Nom=CROZET
+Prenom=ANDRE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=  PREVOIR ORDO PFM   
+NoOrdre=578
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=cercueil en chene   LA FAMILLE RECUPERE L'URNE A 14H
+SaisieOccupe=Libre
+CodeDft=5235
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=GACHET
+Prenom=HELENE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=575
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=5243
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=HENRY
+Prenom=JEAN CLAUDE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=572
+Four=1
+FicheOccupe=Libre
+End With

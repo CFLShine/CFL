@@ -1,0 +1,15 @@
+Id=4485
+CodeDefunt=4485
+DefuntNom=COMBETTO
+DefuntPrenom=FREDERIC
+DefuntDecesDate=03/01/2015
+CremationArriveeDe=HOPITAL CHAMBERY
+ArriveeDate=08/01/2015
+CeremonieCrematoriumDate=08/01/2015
+CeremonieCrematoriumHeure=09:15
+CeremonieCrematoriumLieu=Cf salle omnicultes
+CeremonieCrematoriumType=Civile
+CremationDate=
+CremationCommune=
+ReservCrema=Marie-Pierre PINET
+PfArrivee=PF SAVOYARDES

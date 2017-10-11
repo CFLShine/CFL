@@ -1,0 +1,6 @@
+Id=18072017
+Agent=THOMAS
+Provenance=MEDIPOLE
+Nature=PIECES ANATOMIQUE
+Four=FT3
+NoOrdre=993

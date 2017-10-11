@@ -1,0 +1,16 @@
+Id=3740
+CodeDefunt=3740
+DefuntNom=DALLA LIBERA
+DefuntPrenom=JACQUES
+DefuntDecesDate=31/08/2014
+CremationArriveeDe=
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationHeure=
+CremationCommune=
+PfCremation=
+ReservCrema=B NANTOIS
+PfArrivee=

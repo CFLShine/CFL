@@ -1,0 +1,44 @@
+Id=10082014
+JourDate=10/08/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=1
+CodeDft=3631
+Pf=PFM
+Conseiller=Pascal MARIE
+DefuntNom=KITA
+DefuntPrenom=DANIEL
+Heure_0=13:16
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=PACHOUD Nicolas
+Equipe_1=MEGHEZZI Marc
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=1
+DemiJour=1
+CodeDft=3632
+Pf=PFM
+Conseiller=
+DefuntNom=BOVAGNET
+DefuntPrenom=GEORGES
+Heure_0=18:08
+Ev_0=TAMB depuis CURIENNE vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=PACHOUD Nicolas
+Equipe_1=MEGHEZZI Marc
+End With

@@ -1,0 +1,134 @@
+Id=10012014
+With ZONE
+Id=0
+Saisie=Ceremonie
+Pos=0
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2356.txt
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+DefuntNom=SERRA
+DefuntPrenom=GRAZIANO
+Heure_0=16:15
+Ev_0=Cérémonie Civile CENTRE FUNERAIRE
+Comment_0=ORDONNATEUR PFM POUR PF TONIN COIFFET  RDV FAMILLE A 16H
+Comment_1=
+Ordo=KAELBERER Eric
+CodeDft=2356
+End With
+With ZONE
+Id=1
+Saisie=Inhumation
+Pos=1
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2358.txt
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+DefuntNom=BEYLIER
+DefuntPrenom=JULIETTE
+Heure_0=14:30
+Ev_0=
+Comment_0=Creusement inhumation d'urne pour PF Mouche - Prévoir Ordo
+Comment_1=Viviers du lac
+Ordo=FAVRIN Thierry
+CodeDft=2358
+End With
+With ZONE
+Id=2
+Saisie=Ceremonie
+Pos=0
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2358.txt
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+DefuntNom=BEYLIER
+DefuntPrenom=JULIETTE
+Heure_0=10:15
+Ev_0=Cérémonie Civile CENTRE FUNERAIRE
+Comment_0=          INHUMATION URNE VIVIERS DU LAC 14h30 PAR PFM FAMILLE PRESENTE A 10H
+Comment_1=ORDONNATEUR PFM POUR PF MOUCHE FAMILLE PRESENTE A 10H
+Ordo=KAELBERER Eric
+CodeDft=2358
+End With
+With ZONE
+Id=3
+Saisie=RDVOrdo
+Pos=1
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2359.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=BON
+DefuntPrenom=FRANCOIS
+Heure_0=11:00
+Ev_0=Rendez-vous avec l'ordonnateur
+Comment_0=
+Comment_1=
+Ordo=FAVRIN Thierry
+CodeDft=2359
+End With
+With ZONE
+Id=4
+Saisie=Ceremonie
+Pos=2
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2353.txt
+Pf=PFM
+Conseiller=Marie-Pierre PINET
+DefuntNom=GICHON
+DefuntPrenom=GILLES
+Heure_0=14:15
+Ev_0=Cérémonie GESTE D'ADIEU Cf salle omnicultes
+Comment_0=ORDONNATEUR PFM  POUR  TONIN COIFFET FAMILLE PRESENTE A 14H
+Comment_1=
+Ordo=KAELBERER Eric
+CodeDft=2353
+End With
+With ZONE
+Id=5
+Saisie=TAMB
+Pos=3
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2371.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=GOLUB
+DefuntPrenom=Albert
+Ev_0=TAMB depuis Hopital Cochin - PARIS vers Centre funéraire
+Comment_0=
+Comment_1=
+Equipe_0=
+Heure_0=21:00
+Ordo=JACQUIER Michel
+CodeDft=2371
+End With

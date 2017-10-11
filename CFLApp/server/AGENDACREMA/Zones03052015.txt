@@ -1,0 +1,48 @@
+Id=3052015
+Jourdate=03/05/2015
+With ZONE
+Id=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft_ceremonie=5424
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=HELLE
+Prenom_ceremonie=PIERRE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=693
+Four=2
+CodeDft_cremation=5424
+Pf_cremation=PF BALDINI
+Nom_crema=HELLE
+Prenom_crema=PIERRE
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With

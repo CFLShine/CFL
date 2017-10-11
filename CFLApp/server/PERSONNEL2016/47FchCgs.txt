@@ -1,0 +1,40 @@
+Id=47
+DroitCongesFC=81:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=00:00
+EpargneesFC=00:00
+varHeuresSupAnDernier=00:00
+With LigneConges
+Id=0
+varPrisDu=23/10/16
+varPrisAu=31/10/16
+varDemandeDate=31/10/16
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=19/10/16
+varVisaDirecteur=
+varRetourDate=02/11/16
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=10/11/16
+varNbHeuresSup=10:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=21/11/16
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With
+With LigneHeuresSup
+Id=2
+varDateHeuresSup=29/12/16
+varNbHeuresSup=10:00
+varMotifHeuresSup=
+varPayeesHeuresSup=P
+End With

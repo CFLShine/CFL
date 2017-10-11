@@ -1,0 +1,61 @@
+Id=19042015
+Jourdate=19/04/2015
+Version=NouveauFormat
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=5298
+Pf=BALDINI
+Conseiller=B NANTOIS
+Nom=MARRAY
+Prenom=MICHELLE
+HeureArrivee=13:30
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION   FAMILLE RECUPERE 
+FicheOccupe=Libre
+NoOrdre=599
+Four=1
+End With
+With ZONE
+Id=1
+NoOrdre=621
+Four=2
+SaisieOccupe=Libre
+CodeDft=5319
+Pf=PFG
+Conseiller=B NANTOIS
+Nom=MAITRE
+Prenom=JOSEPH
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BOURG SAINT MAURICE
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With

@@ -1,0 +1,149 @@
+Id=12092014
+Jourdate=12/09/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3776
+Pf=AJEPI
+Conseiller=Marie-Pierre PINET
+Nom=QUESNEL
+Prenom=GISELLE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=lLA FAMILLE RECUPERE L'URNE A 17H30
+NoOrdre=1102
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3785
+Pf=PFM VOIRON
+Conseiller=Marie-Pierre PINET
+Nom=DELALANDE
+Prenom=MAELYS
+HeureArrivee=
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=NE PAS DONNER D'INFORMATION  MORT NEE   PAS DE FAMILLE
+NoOrdre=1098
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3787
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=JAQUOT
+Prenom=DENISE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1100
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3788
+Pf=AJEPI
+Conseiller=Marie-Pierre PINET
+Nom=GIROD
+Prenom=RAYMOND
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1099
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3790
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=ANTOINE
+Prenom=ARTHUR
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+NoOrdre=1103
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3793
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=LEZIEZ
+Prenom=PASCAL
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE LA MOTTE SERVOLEX
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=1104
+Four=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3794
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=ROCHE
+Prenom=ELIANE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1101
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+End With

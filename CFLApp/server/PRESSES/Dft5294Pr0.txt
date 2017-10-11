@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=580
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, Bissy, Arith, Dijon\f1\par<Ret>\b0\f0 Bernard CHAPUIS, son \'e9poux;\f1\par<Ret>\f0 Jean CHAPUIS, son fils; \f1\par<Ret>\f0 Jenny et C\'e9cile CHAPUIS, ses petites filles; Sagi, son arri\'e8re petit-fils; Madame Maria MORAND, ses enfants et petits-enfants; Madame et Monsieur Bernard RABILLOUD, leurs enfants et petits-enfants; Michel et Chantal JOLY; \f1\par<Ret>\f0 Tous les cousins, parents, alli\'e9s et amis,\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Madame F\'e9licie CHAPUIS\f1\par<Ret>\f0 N\'e9e MORAND\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 93 ans.\f1\par<Ret>\f0 Ses obs\'e8ques auront lieu le lundi 20 f\'e9vrier 2015 \'e0 neuf heures quinze au Centre Fun\'e9raire de Chamb\'e9ry, suivies de la cr\'e9mation dans l'intimit\'e9 familiale.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciements.\par<Ret>}<Ret>
+CodeDft=5294
+Tarif=250
+NbLignes=27
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=17/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

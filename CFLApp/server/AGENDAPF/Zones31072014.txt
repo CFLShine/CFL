@@ -1,0 +1,77 @@
+Id=31072014
+JourDate=31/07/2014
+With ZONE
+Id=0
+Saisie=Convoi
+Pos=0
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+Heure_0=09:45
+Heure_1=10:15
+Heure_2=11:00
+Heure_3=
+Ev_0=Mise en bière Centre funéraire Case
+Ev_1=Cérémonie Civile Cf salle omnicultes
+Ev_2=Crémation  au crématorium de Chambéry
+Ev_3=
+DefuntNom=COMMUNAL
+DefuntPrenom=YVONNE
+Conseiller=Ginette GAYRAUD
+Pf=PFM
+Comment_0=LA FAMILLE RECUPERE L'URNE 
+CodeDft=3557
+Ordo=FAVRIN Thierry
+OrdoId=11
+Equipe_0=MILLON Patrick
+EquipeId_0=MILLON Patrick
+Equipe_1=ESPINOZA François
+EquipeId_1=ESPINOZA François
+Equipe_2=MILESI Robert
+EquipeId_2=MILESI Robert
+End With
+With ZONE
+Id=1
+Saisie=RDVOrdo
+Pos=1
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3562
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=RAYE
+DefuntPrenom=MATHIEU
+Heure_0=11:00
+Ev_0=Rendez-vous avec l'ordonnateur
+Comment_0=RENDEZ VOUS AVEC FAMILLE  RAYE
+Comment_1=
+Ordo=FAVRIN Thierry
+OrdoId=11
+End With
+With ZONE
+Id=2
+Saisie=TAMB
+Pos=2
+DemiJour=1
+CodeDft=3576
+Pf=PFM
+Conseiller=
+DefuntNom=DESCHAMPS
+DefuntPrenom=CHRISTIANE
+Heure_0=17:34
+Ev_0=TAMB depuis HOPITAL BELLEY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=ESPINOZA François
+End With

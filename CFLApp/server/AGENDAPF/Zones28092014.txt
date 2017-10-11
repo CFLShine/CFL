@@ -1,0 +1,20 @@
+Id=28092014
+JourDate=28/09/2014
+With ZONE
+Id=0
+Saisie=Soins
+Pos=0
+DemiJour=0
+CodeDft=3905
+Pf=PFM
+Conseiller=
+DefuntNom=GIBELLO
+DefuntPrenom=GABRIEL
+Heure_0=08:00
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+End With

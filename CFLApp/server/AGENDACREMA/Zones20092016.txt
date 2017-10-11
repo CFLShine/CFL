@@ -1,0 +1,166 @@
+Id=20092016
+Jourdate=20/09/2016
+With ZONE
+Id=7
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9068
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=AVRILLIER
+Prenom_ceremonie=PAUL
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9068
+Pf_cremation=PF POMMAT
+Nom_cremation=AVRILLIER
+Prenom_cremation=PAUL
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+NoOrdre=1351
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=9070
+Pf_ceremonie=PFM DE VOIRON
+Nom_ceremonie=MONTARNAL
+Prenom_ceremonie=ALEXIS
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de VOIRON
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=NE SANS VIE  DISPERSION PAR NOS SOINS  PAS DE FAMILLE
+CodeDft_cremation=9070
+Pf_cremation=PFM DE VOIRON
+Nom_cremation=MONTARNAL
+Prenom_cremation=ALEXIS
+EvenementArrivee_cremation=Arrivée de VOIRON
+FicheOccupe=Libre
+NoOrdre=1346
+Four=1
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft_ceremonie=9075
+Pf_ceremonie=PFM
+Nom_ceremonie=BOISSON
+Prenom_ceremonie=PATRICK
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9075
+Pf_cremation=PFM
+Nom_cremation=BOISSON
+Prenom_cremation=PATRICK
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1347
+Four=1
+Police=False
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=9017
+Pf_ceremonie=PFM
+Nom_ceremonie=RINCHET
+Prenom_ceremonie=DAVID
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=9017
+Pf_cremation=PFM
+Nom_cremation=RINCHET
+Prenom_cremation=DAVID
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+Police=True
+NoOrdre=1348
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+EvenementCommentaire=ORDONNATEUR PFM      LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9072
+Pf_ceremonie=PFM
+Nom_ceremonie=DEMITRES
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9072
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=DEMITRE
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=1349
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=9076
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=CHINAL 
+Prenom_ceremonie=GEORGES
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=9076
+Pf_cremation=PF MOUCHE
+Nom_cremation=CHINAL 
+Prenom_cremation=GEORGES
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+FicheOccupe=Libre
+NoOrdre=1350
+Four=1
+End With

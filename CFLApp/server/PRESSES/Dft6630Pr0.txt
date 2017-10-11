@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, La Motte Servolex\b0\f1\par<Ret>\f0 Nicole GENTIL, son \'e9pouse; Corentin et Herveline, ses enfants; Annick LE VESSIER, sa maman; Olivier, son fr\'e8re;\f1\par<Ret>\f0 sa famille et ses proches,\f1\par<Ret>\f0 on la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Ronan GENTIL\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 50 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e samedi 10 octobre 2015 \'e0 quatorze heures quinze au Centre Fun\'e9raire de Chamb\'e9ry, o\'f9 il repose.\f1\par<Ret>\f0 Pas de plaques.\f1\par<Ret>\f0 La famille remercie l'\'e9quipe du foyer Les Hirondelles et l'H.A.D. de Chamb\'e9ry.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciements.\par<Ret>}<Ret>
+CodeDft=6630
+Tarif=208
+NbLignes=21
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=09/10/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

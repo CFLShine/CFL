@@ -1,0 +1,24 @@
+Id=2082014
+JourDate=02/08/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+CodeDft=3582
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=VALENCIANO MARTINEZ
+DefuntPrenom=FELIPA
+Heure_0=08:30
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=WALLYN Benoît
+Equipe_1=KAELBERER Eric
+Comment_0=
+Comment_1=
+End With

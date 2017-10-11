@@ -1,0 +1,14 @@
+Id=5526
+DefuntNom=EVEQUE-MOUROUX
+DefuntPrenom=MAXIMIN
+DefuntDecesDate=13/05/2015
+ArriveeCommune=ALBERTVILLE
+ArriveeDate=17/05/2015
+ArriveeHeure=17:15
+PfArrivee=PF FLORET
+CeremonieCrematoriumDate=17/05/2015
+CeremonieCrematoriumHeure=18:00
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Geste d'adieu
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5526

@@ -1,0 +1,16 @@
+Id=4318
+CodeDefunt=4318
+DefuntNom=X
+DefuntPrenom=SEBASTIEN
+DefuntDecesDate=11/12/2014
+CremationArriveeDe=ST LAURENT DU PONT
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationCommune=
+ReservCrema=Jean-Luc PEYREDIEU
+PfArrivee=PF PENA
+CremationHeure=
+PfCremation=PF PENA

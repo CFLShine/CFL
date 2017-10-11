@@ -1,0 +1,234 @@
+Id=3637
+CodeDefunt=3637
+DefuntNom=MERMET
+DefuntPrenom=CHARLOTTE
+DefuntDecesDate=09/08/2014
+DefuntNationalite=
+DefuntTitre=
+DefuntAdresse2=
+DefuntProfession=
+DefuntAdresseCommune=
+DefuntAdresseCodPost=
+DefuntAdresse=
+DefuntNaissancePays=
+DefuntNaissanceDepartement=
+DefuntNaissanceCommune=
+DefuntPrenoms=
+DefuntNomJF=
+DefuntNaissanceDate=19/03/1912
+DefuntDecesHeure=  :
+DefuntDecesAdresse=Hôpital de Chambéry
+DefuntDecesMedecin=
+DefuntDecesPays=
+DefuntDecesCommune=CHAMBERY
+DefuntMereDecede=False
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=
+DefuntMereNom=
+DefuntPereDecede=False
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=
+DefuntPereNom=
+DefuntMariageDate=  /  /
+DefuntDivorseDate=  /  /
+DefuntSituationDecesDate=  /  /
+DefuntSituationNaissanceDate=  /  /
+DefuntNbEnfantsVivants=
+DefuntNbEnfants=
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=
+DefuntSituationNom=
+DefuntSituation=Celibataire
+PouvQualiteAutre=
+PouvQualite=Fille
+PouvNom=BEAUFILS
+PouvPrenom=Marie-Claude
+PouvNomJF=MERMET
+PouvAdresse=13 rue du Chardonnet
+PouvAdresse2=
+PouvCodePost=73000
+PouvCommune=CHAMBERY
+PouvTel1=
+PouvTel2=
+PouvMail=
+ReceptionDate=11/08/2014
+Conseiller=Pascal MARIE
+CeremonieDate=16/08/2014
+CeremonieHeure=10:15
+CeremonieLieu=Cf salle omnicultes
+CeremonieType=Religieuse
+PfCeremonie=PFM
+CeremonieRegistre=False
+Presse=True
+BourseADons=False
+PfMEB=PFM
+MEBCommune=
+ArriveeCommune=
+MEBDate=16/08/2014
+ArriveeDate=
+MEBHeure=09:30
+ArriveeHeure=
+MEBLieu=HOPITAL DE CHAMBERY
+ArriveeLieu=
+Salon=False
+SalonCase_Name=
+DispersionDate=  /  /
+DispersionHeure=  :
+DispersionLieu=
+DispersionCommune=
+PfDispersion=
+PfInhumation=PFM
+InhumationDate=16/08/2014
+InhumationHeure=  :
+InhumationSepulture=1
+CodeConvoit=16/08/2014_0_0
+SepultureCimetiere=Charrière Neuve
+SepultureCommune=
+SepultureType=Caveau ouverture dessus
+Concessionaire=False
+AyantDroit=False
+SepultureProvisoire=False
+ConcessionDPINom=MERMET
+ConcessionDPINomJF=
+ConcessionDPIPrenom=ANDRE
+ConcessionDPIAnnee=1997
+ConcessionAquiseParNom=
+ConcessionAquiseParPrenom=
+ConcessionAquiseDate=  /  /
+ConcessionDuree=
+ConcessionDesignation=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+SepultureDivision=
+SepultureSection=
+SepultureCarre=
+SepultureLigne=50
+SepultureTombe=10
+MarbrerieGravures=PFM
+GravPrenomNom=Charlotte MERMET
+GravAnNaiss=1912
+GravAnDeces=2014
+GravCouleur=Blanc
+GravRafraich=True
+GravNomJf=née BESANI
+CremationArriveeDe=CHAMBERY
+CeremonieCrematoriumDate=16/08/2014
+CeremonieCrematoriumHeure=10:15
+CeremonieCrematoriumLieu=Cf salle omnicultes
+CeremonieCrematoriumType=Religieuse
+CremationDate=
+CremationCommune=
+PfArrivee=PFM
+CeremonieDistanceCf=
+MEBDistanceCf=
+PfTransport=
+TransportDate=  /  /
+TransportDepartLieu=
+TransportArriveeLieu=
+TransportDepartHeure=  :
+TransportArriveeHeure=  :
+TransportVehicule=
+TransportDistanceCf=
+With A FAIRE
+Id=0
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=11/08/2014 15:04:15
+DateFait=11/08/2014 16:54:08
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul3]
+Fait=True
+Perso=False
+DateAFaire=11/08/2014 15:04:15
+DateFait=11/08/2014 16:54:15
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=2
+Intitule=[Intitul16]
+Fait=True
+Perso=False
+DateAFaire=11/08/2014 15:04:15
+DateFait=13/08/2014 10:25:39
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=3
+Intitule=[Intitul4]
+Fait=True
+Perso=False
+DateAFaire=11/08/2014 15:04:15
+DateFait=11/08/2014 16:21:17
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=4
+Intitule=[Intitul10]
+Fait=True
+Perso=False
+DateAFaire=11/08/2014 15:04:15
+DateFait=11/08/2014 16:14:16
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=5
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=11/08/2014 15:04:15
+DateFait=11/08/2014 16:35:35
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=6
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=11/08/2014 15:05:04
+DateFait=11/08/2014 16:54:19
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=7
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=11/08/2014 15:05:04
+DateFait=16/08/2014 09:52:05
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=8
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=11/08/2014 15:05:04
+DateFait=12/08/2014 09:19:35
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=9
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=11/08/2014 15:05:04
+DateFait=12/08/2014 09:19:36
+FaitPar=Pascal MARIE
+End With
+With PRESSE
+Id=0
+Type=Avis
+Parution=18/08/2014
+End With

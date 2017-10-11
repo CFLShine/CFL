@@ -1,0 +1,277 @@
+Id=1092016
+JourDate=01/09/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8937
+Comment_0=ORDONNATEUR PFM POUR PFM DE VOIRON
+Comment_1=ACCEUIL FAMILLE
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8937
+Comment_0=INHUMATION COGNIN URNE PAR PFM + CREUSEMENT CIMETIERE
+Comment_1=LA FAMILLE ATTEND DEVANT LE CAVEAU
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=8951
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=7
+EquipeId_0=26
+EquipeId_1=-1
+EquipeId_2=8
+EquipeId_3=-1
+Ordo=JACQUIER Michel
+Equipe_0=WALLYN Benoît
+Equipe_1=
+Equipe_2=ESPINOZA François
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=8951
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=7
+EquipeId_0=21
+EquipeId_1=6
+EquipeId_2=60
+EquipeId_3=-1
+Ordo=JACQUIER Michel
+Equipe_0=VINCENT Judicael
+Equipe_1=PINTOUT Bruno
+Equipe_2=DUMAZ Rémy
+Equipe_3=
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8941
+Comment_0=TOILETTE A 9H PUIS DEPART
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8949
+Comment_0=TOILETTE A 8H PUIS DEPART
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=8947
+Comment_0=LE CHAUFFEUR PART SEUL, RELAIS PAR PF MOUCHE
+Comment_1=POUR LA CEREMONIE ET L'INHUMATION.
+HeureComment=  :
+OrdoId=6
+EquipeId_0=7
+EquipeId_1=14
+EquipeId_2=26
+EquipeId_3=-1
+Ordo=PINTOUT Bruno
+Equipe_0=JACQUIER Michel
+Equipe_1=KAELBERER Eric
+Equipe_2=WALLYN Benoît
+Equipe_3=
+End With
+With ZONE
+Id=8
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8956
+Comment_0=ORDONNATEUR PFM POUR PF TONIN COIFFET
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=9
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Green
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=8957
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=64
+EquipeId_1=58
+EquipeId_2=53
+EquipeId_3=8
+Ordo=WALLYN Benoît
+Equipe_0=DEMOUSSY Alain
+Equipe_1=MULDER Michaël
+Equipe_2=ROLLE Jean-Louis
+Equipe_3=ESPINOZA François
+End With
+With ZONE
+Id=10
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=8961
+Comment_0=RELAIS PFI POUR INHUMATION, EQUIPE + FOSSOYEURS PFM
+Comment_1=
+HeureComment=  :
+OrdoId=1
+EquipeId_0=50
+EquipeId_1=16
+EquipeId_2=51
+EquipeId_3=-1
+Ordo=EHNY Maxime
+Equipe_0=MARIE Tristan
+Equipe_1=MILESI Robert
+Equipe_2=POIRAUD Guy
+Equipe_3=
+End With
+With ZONE
+Id=11
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8964
+Comment_0=ORDONNATEUR PFM POUR PF DE LA VANOISE 
+Comment_1=ACCUEIL FAMILLE
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=12
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8963
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=13
+CodeDft=8969
+DemiJour=1
+Pos=1
+UsedBy=
+End With

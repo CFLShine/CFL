@@ -1,0 +1,9 @@
+Id=-1
+With CONVERSATION
+Id=9
+conversation=[enter]-----------------------[enter]NANTOIS B - 08/01/2016 14:04:35[enter][enter]YO[enter]
+End With
+With CONVERSATION
+Id=18
+conversation=[enter]-----------------------[enter]NANTOIS B - 12/10/2016 14:36:46[enter][enter]YOUTUBE CA MARCHE SUR TON ORDI,[enter][enter]-----------------------[enter]NANTOIS B - 12/10/2016 14:36:48[enter][enter]?[enter]
+End With

@@ -1,0 +1,165 @@
+Id=10072014
+Jourdate=10/07/2014
+Version=NouveauFormat
+With ZONE
+Id=1
+EvenementCommentaire=ORDONNATEUR PFM POUR PF MOUCHE  FAMILLE PRESENTE 8H45 
+SaisieOccupe=Libre
+CodeDft=3440
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=DONZEL
+Prenom=RENE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=840
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3439
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=CARTIER
+Prenom=LOUIS
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE LA MOTTE SERVOLEX
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=842
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3446
+Pf=PFG MONTMELIAN
+Conseiller=Marie-Pierre PINET
+Nom=DANJOUX
+Prenom=YVES
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de MONTMELIAN
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:0
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=841
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3448
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=PHILIPPE
+Prenom=LUCIEN
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=843
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3438
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=PERONI
+Prenom=EUGENE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=844
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3450
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=MARC
+Prenom=YVONNE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=846
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3452
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=MARILLET
+Prenom=LOUIS
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=845
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3454
+Pf=PF MERCIER
+Conseiller=Marie-Pierre PINET
+Nom=DENIS
+Prenom=MARGUERITE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de DES AVENIERES
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 11H
+NoOrdre=839
+Four=1
+FicheOccupe=Libre
+End With

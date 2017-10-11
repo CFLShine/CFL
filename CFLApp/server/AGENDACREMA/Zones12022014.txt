@@ -1,0 +1,133 @@
+Id=12022014
+Version=NouveauFormat
+With ZONE
+Id=3
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2564.txt
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=ZOCCOLO-CAPUCINO
+Prenom=ROGER
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=198
+Four=1
+FicheOccupe=Libre
+CodeDft=2564
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2563.txt
+Pf=POMMAT
+Conseiller=Loïc TREVARAIN
+Nom=DELAS
+Prenom=EDDA
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE  PF RECUPERENT
+NoOrdre=199
+Four=2
+FicheOccupe=Libre
+CodeDft=2563
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2566.txt
+Pf=PF ALPES SAVOIE
+Conseiller=Ginette GAYRAUD
+Nom=BOURGEOIS
+Prenom=ROMAIN
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=202
+Four=1
+FicheOccupe=Libre
+CodeDft=2566
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2568.txt
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=MOUSTEY
+Prenom=RENE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 14H
+NoOrdre=197
+Four=2
+FicheOccupe=Libre
+CodeDft=2568
+End With
+With ZONE
+Id=5
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2571.txt
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=ZENTNER
+Prenom=FRANCIS
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=
+Four=
+CodeDft=2571
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=6
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2578.txt
+Pf=PFG BOURG ST MAURICE
+Conseiller=Marie-Pierre PINET
+Nom=ROUX
+Prenom=JEAN
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=201
+Four=2
+FicheOccupe=Libre
+CodeDft=2578
+End With

@@ -1,0 +1,16 @@
+Id=8250
+DefuntNom=LAVIGNE
+DefuntPrenom=BERNADETTE
+DefuntDecesDate=  /  /
+ArriveeCommune=MOUTIERS
+ArriveeDate=
+ArriveeHeure=
+PfArrivee=PFG MOUTIERS
+PfCeremonie=PFG MOUTIERS
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+ReservCrema=Jeanine BORDEILER
+CodeDefunt=8250
+ArriveeLieu=

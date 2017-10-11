@@ -1,0 +1,108 @@
+Id=21082014
+Jourdate=21/08/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3660
+Pf=PF DE SAVOIE
+Conseiller=Loïc TREVARAIN
+Nom=VILLARET
+Prenom=FABRICE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMONIX
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION   RECUPERATION ?
+NoOrdre=1017
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3663
+Pf=PF BALDINI
+Conseiller=Loïc TREVARAIN
+Nom=COCHAUD
+Prenom=SUZANNE
+HeureArrivee=
+EvenementArrivee=Arrivée de PONT
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  DISPERSION JDS AVEC FAMILLE
+NoOrdre=1015
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3666
+Pf=AJEPI
+Conseiller=Loïc TREVARAIN
+Nom=VINCENT
+Prenom=JEAN
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+NoOrdre=1014
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3669
+Pf=PFM VOIRON
+Conseiller=Loïc TREVARAIN
+Nom=MONTLAHUC
+Prenom=GABRIEL
+HeureArrivee=
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=MORT NEE
+FicheOccupe=Libre
+NoOrdre=1013
+Four=1
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3674
+Pf=PF MAURIENNAISES
+Conseiller=Loïc TREVARAIN
+Nom=LEHNERT
+Prenom=DANIEL
+HeureArrivee=
+EvenementArrivee=Arrivée de SAINT JEAN DE MAURIENNE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE
+FicheOccupe=Libre
+NoOrdre=1016
+Four=2
+End With
+With ZONE
+Id=6
+NoOrdre=
+Four=
+End With

@@ -1,0 +1,228 @@
+Id=12112016
+JourDate=12/11/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9031
+Comment_0=LA FAMILLE ENMENE L'URNE AU CIMETIERE 
+Comment_1=PAS DE PERSONNEL PFM, FOSSOYEUR QUI INHUME 
+HeureComment=  :
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=9396
+Comment_0=LUI LAISSER SA MONTRE
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=17
+EquipeId_1=16
+EquipeId_2=60
+EquipeId_3=65
+Ordo=WALLYN Benoît
+Equipe_0=MEGHEZZI Marc
+Equipe_1=MILESI Robert
+Equipe_2=DUMAZ Rémy
+Equipe_3=PATUREL Christian
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9396
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=9407
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=17
+EquipeId_1=16
+EquipeId_2=60
+EquipeId_3=65
+Ordo=KAELBERER Eric
+Equipe_0=MEGHEZZI Marc
+Equipe_1=MILESI Robert
+Equipe_2=DUMAZ Rémy
+Equipe_3=PATUREL Christian
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9407
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=9403
+Comment_0=DRAP TRICOLORE ET COUSSIN A MEDAILLES
+Comment_1=CHEQUE PAROISSE (CONTRAT OBSEQUE)
+HeureComment=  :
+OrdoId=12
+EquipeId_0=17
+EquipeId_1=60
+EquipeId_2=16
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=MEGHEZZI Marc
+Equipe_1=DUMAZ Rémy
+Equipe_2=MILESI Robert
+Equipe_3=
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9406
+Comment_0=ORDONNATEUR PFM POUR GESTE D ADIEU 
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9412
+Comment_0=ORDONNATEUR PFM POUR PF MOUCHE
+Comment_1=FAMILLE PRESENTE A 8 H POUR PREPARATION
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=8
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9427
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=9
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9428
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=10
+CodeDft=9426
+DemiJour=1
+Pos=1
+End With

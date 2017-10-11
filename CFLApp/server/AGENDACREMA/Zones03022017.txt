@@ -1,0 +1,194 @@
+Id=3022017
+Jourdate=03/02/2017
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=10101
+Pf_ceremonie=PF PASCAL  LECLERC
+Nom_ceremonie=FIORESE
+Prenom_ceremonie=FRANCOIS
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 17H15
+CodeDft_cremation=10101
+Pf_cremation=PF PASCAL LECLERC
+Nom_cremation=FIORESE
+Prenom_cremation=FRANCOIS
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+NoOrdre=227
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10127
+Pf_ceremonie=PFM
+Nom_ceremonie=ALBANO
+Prenom_ceremonie=PIERRE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10127
+Pf_cremation=PFM
+Nom_cremation=ALBANO
+Prenom_cremation=PIERRE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=223
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10135
+Pf_ceremonie=PFM
+Nom_ceremonie=PY
+Prenom_ceremonie=ROGER
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10135
+Pf_cremation=PFM
+Nom_cremation=PY
+Prenom_cremation=ROGER
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=224
+Four=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+CodeDft_ceremonie=10121
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=MOLLIEX-DONJON
+Prenom_ceremonie=MARCEL
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10121
+Pf_cremation=PF POMMAT
+Nom_cremation=MOLLIEX-DONJON
+Prenom_cremation=MARCEL
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+NoOrdre=225
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=10129
+Pf_ceremonie=PFG YENNE
+Nom_ceremonie=ROUX
+Prenom_ceremonie=ANNE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10129
+Pf_cremation=PFG YENNE
+Nom_cremation=ROUX
+Prenom_cremation=ANNE
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=226
+Four=1
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10122
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=BAUDOIN-PICAUD
+Prenom_ceremonie=JEANNE 
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10122
+Pf_cremation=PF SEDRAN
+Nom_cremation=BAUDOIN-PICAUD
+Prenom_cremation=JEANNE 
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=228
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10131
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=TRUSZCZYNSKI
+Prenom_ceremonie=JUVENILE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10131
+Pf_cremation=PF POMMAT
+Nom_cremation=TRUSZCZYNSKI
+Prenom_cremation=JUVENILE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=229
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

@@ -1,0 +1,138 @@
+Id=5122013
+Version=NouveauFormat
+With ZONE
+Id=0
+CodeDft=
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+NoZONE=1
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2131.txt
+Pf=PF PENA
+Conseiller=Marie-Pierre PINET
+Nom=CHAUDAT
+Prenom=JEAN ETIENNE
+HeureArrivee=
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=1468
+Four=2
+CodeDft=2131
+End With
+With ZONE
+Id=2
+NoZONE=2
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2121.txt
+Pf=PFG CHAMBERY
+Conseiller=Loïc TREVARAIN
+Nom=GIRARD
+Prenom=JOSEPH
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=10:00
+EvenementCeremonie=Cérémonie Civile CENTRE FUNERAIRE
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=INHUMATION SAINT JEAN DE MAURIENNE  PAS DE CREMATION 
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=2121
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION  INHUMATION CHARRIERE NEUVE
+NoZONE=3
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2125.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=LOMBARDI
+Prenom=Oto
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft=2125
+End With
+With ZONE
+Id=4
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2128.txt
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=PONTAILLIER
+Prenom=MARIE ANTOINETTE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+SaisieOccupe=Libre
+NoOrdre=1469
+Four=2
+FicheOccupe=Libre
+CodeDft=2128
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+NoZONE=6
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2134.txt
+Pf=PF MAURIENNAISES
+Conseiller=Ginette GAYRAUD
+Nom=BOCHU
+Prenom=YVETTE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION PAR NOS SOINS SANS FAMILLE LE LENDEMAIN MATIN VENDREDI 06/12
+Police=False
+NoOrdre=1470
+Four=1
+FicheOccupe=Libre
+CodeDft=2134
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+NoZONE=7
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2136.txt
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=LEOTY
+Prenom=LUCIEN
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  FAMILLE RECUPERE
+NoOrdre=1471
+Four=2
+FicheOccupe=Libre
+CodeDft=2136
+End With

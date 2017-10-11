@@ -1,0 +1,24 @@
+Id=23112014
+JourDate=23/11/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=1
+CodeDft=4205
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=CABOT
+DefuntPrenom=NORMA
+Heure_0=16:20
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+Comment_0=
+Comment_1=
+End With

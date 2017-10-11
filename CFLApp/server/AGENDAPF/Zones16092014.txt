@@ -1,0 +1,114 @@
+Id=16092014
+JourDate=16/09/2014
+With ZONE
+Id=0
+Saisie=Exhumation
+Pos=0
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=2437
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=X
+DefuntPrenom=X
+Ev_0=Ehxumation . 5 corps
+Comment_0=EXHUMS ADMINISTRATIVES A LA RAVOIRE
+Comment_1=NE PAS METTRE AUTRE(S) SEPULTURE(S) CE MATIN
+End With
+With ZONE
+Id=3
+Saisie=MEB
+Pos=3
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3809
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+DefuntNom=TONEGUZZI
+DefuntPrenom=ODILE
+Heure_0=08:00
+Ev_0=Mise en bière Centre funéraire
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=4
+Saisie=Convoi
+Pos=0
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+Heure_0=15:00
+Heure_1=
+Heure_2=
+Heure_3=15:30
+Ev_0=Mise en bière HOPITAL DE CHAMBERY
+Ev_1=
+Ev_2=
+Ev_3=Inhumation Charrière Neuve Pleine terre carré enf.
+DefuntNom=AL NAASAN
+DefuntPrenom=NOUR
+Conseiller=Jean-Luc PEYREDIEU
+Pf=PFM
+Comment_0=Inhum bébé carré confessionnel enfants
+CodeDft=3810
+Ordo=FAVRIN Thierry
+OrdoId=11
+Equipe_0=MILLON Patrick
+EquipeId_0=MILLON Patrick
+End With
+With ZONE
+Id=5
+Saisie=Exhumation
+Pos=2
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3807
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=MERMOZ
+DefuntPrenom=ANGELE
+Heure_0=08:30
+Ev_0=Ehxumation  à LA RAVOIRE. 1 corps
+Comment_0=Prévoir 1 chauffeur/porteur - Pas de famille
+Comment_1=
+Heure_2=11:00
+Ev_2=Crémation  au crématorium de Chambéry
+Heure_3=10:00
+Ev_3=Inhumation de l'urne  à LA RAVOIRE case columb. le mercredi 17 septembre
+End With
+With ZONE
+Id=6
+Saisie=Cremation
+Pos=2
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3807
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=MERMOZ
+DefuntPrenom=ANGELE
+Heure_0=11:00
+Ev_0=Crémation  au crématorium de Chambéry
+Comment_0=
+Comment_1=
+End With

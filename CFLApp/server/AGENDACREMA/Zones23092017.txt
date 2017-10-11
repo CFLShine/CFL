@@ -1,0 +1,207 @@
+Id=23092017
+Jourdate=23/09/2017
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11638
+Pf_ceremonie=PFCCA
+Nom_ceremonie=DEMAGNY
+Prenom_ceremonie=CHRISTIAN
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11638
+Pf_cremation=PFCCA
+Nom_cremation=DEMAGNY
+Prenom_cremation=CHRISTIAN
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1313
+Four=FTX
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=INHUMATION   PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=11653
+Pf_ceremonie=PFCCA
+Nom_ceremonie=SAINT MARTIN TILLET
+Prenom_ceremonie=NADEGE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=11637
+Pf_ceremonie=PFCCA
+Nom_ceremonie=ROSAIRE
+Prenom_ceremonie=ELISABETH
+CodeDft_cremation=11637
+Pf_cremation=PFCCA
+Nom_cremation=ROSAIRE
+Prenom_cremation=ELISABETH
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FORTE CORPULENCE FT3
+FicheOccupe=Libre
+NoOrdre=1312
+Four=FT3
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=11636
+Pf_ceremonie=AOSTE
+Nom_ceremonie=GERBELOT
+Prenom_ceremonie=VIOLETTE
+HeureArrivee_ceremonie=12:00
+EvenementArrivee_ceremonie=Arrivée de ST GENIX SUR GUIERS
+HeureArrivee_cremation=12:00
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS DE FAMILLE POUR LA CREMATION  
+CodeDft_cremation=11636
+Pf_cremation=AOSTE
+Nom_cremation=GERBELOT
+Prenom_cremation=VIOLETTE
+EvenementArrivee_cremation=Arrivée de ST GENIX SUR GUIERS
+NoOrdre=1314
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11646
+Pf_ceremonie=PFCCA
+Nom_ceremonie=CARLE
+Prenom_ceremonie=MONIQUE
+HeureArrivee_ceremonie=13:30
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=13:30
+EvenementArrivee_crema=
+HeureCeremonie=13:30
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11646
+Pf_cremation=PFCCA
+Nom_cremation=CARLE
+Prenom_cremation=MONIQUE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1315
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=FORTE CORPULENCE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11643
+Pf_ceremonie=PFCCA
+Nom_ceremonie=LAVY
+Prenom_ceremonie=MONIQUE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11643
+Pf_cremation=PFCCA
+Nom_cremation=LAVY
+Prenom_cremation=MONIQUE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1316
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11647
+Pf_ceremonie=PFG YENNE
+Nom_ceremonie=DE CARO
+Prenom_ceremonie=GIUSEPPE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de YENNE
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11647
+Pf_cremation=PFG YENNE
+Nom_cremation=DE CARO
+Prenom_cremation=GIUSEPPE
+EvenementArrivee_cremation=Arrivée de YENNE
+NoOrdre=1317
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=9
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+CodeDft_ceremonie=11640
+Pf_ceremonie=PF BOUVIER
+Nom_ceremonie=MARGUET
+Prenom_ceremonie=HUBERT
+CodeDft_cremation=11640
+Pf_cremation=PF BOUVIER
+Nom_cremation=MARGUET
+Prenom_cremation=HUBERT
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=1318
+Four=FT3
+End With

@@ -1,0 +1,149 @@
+Id=1082016
+Jourdate=01/08/2016
+With ZONE
+Id=3
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8753
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=BOUTON
+Prenom_ceremonie=JEAN-MARIE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8753
+Pf_cremation=PF BALDINI
+Nom_cremation=BOUTON
+Prenom_cremation=JEAN-MARIE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=1138
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft_ceremonie=8754
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=BAUDET
+Prenom_ceremonie=ODETTE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8754
+Pf_cremation=PF MOUCHE
+Nom_cremation=BAUDET
+Prenom_cremation=ODETTE
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+FicheOccupe=Libre
+NoOrdre=1136
+Four=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=8759
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=SERISIER
+Prenom_ceremonie=YVETTE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNES
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+CodeDft_cremation=8759
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=SERISIER
+Prenom_cremation=YVETTE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNES
+FicheOccupe=Libre
+NoOrdre=1137
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8762
+Pf_ceremonie=PFM
+Nom_ceremonie=ARBET
+Prenom_ceremonie=HENRIETTE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8762
+Pf_cremation=PFM
+Nom_cremation=ARBET
+Prenom_cremation=HENRIETTE
+FicheOccupe=Libre
+Police=True
+NoOrdre=1139
+Four=1
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8763
+Pf_ceremonie=PFM
+Nom_ceremonie=FERREIRA
+Prenom_ceremonie=ROGER
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8763
+Pf_cremation=PFM
+Nom_cremation=FERREIRA
+Prenom_cremation=ROGER
+FicheOccupe=Libre
+Police=True
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1140
+Four=2
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

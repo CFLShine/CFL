@@ -1,0 +1,189 @@
+Id=-1
+Version=1
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=21:00
+varHeuresSupAnDernier=11:34
+With LigneConges
+Id=0
+varPrisDu=20/01/14
+varPrisAu=23/01/14
+varDemandeDate=10/01/14
+varAnnuel=20:00
+varRecup=
+varEpargne=
+varVisaChef=10/01/14
+varVisaDirecteur=10/01/14
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=24/01/14
+varPrisAu=24/01/14
+varDemandeDate=29/01/14
+varAnnuel=1:00
+varRecup=
+varEpargne=
+varVisaChef=29/01/14
+varVisaDirecteur=29/01/14
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=30/01/14
+varPrisAu=30/01/14
+varDemandeDate=29/01/14
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=29/01/14
+varVisaDirecteur=29/01/14
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=31/03/14
+varPrisAu=31/03/14
+varDemandeDate=27/03/14
+varAnnuel=
+varRecup=8:00
+varEpargne=
+varVisaChef=27/03/14
+varVisaDirecteur=27/04/14
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=01/04/14
+varPrisAu=05/04/14
+varDemandeDate=27/03/14
+varAnnuel=28:00
+varRecup=
+varEpargne=
+varVisaChef=27/03/14
+varVisaDirecteur=27/04/14
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=02/05/14
+varPrisAu=03/05/14
+varDemandeDate=02/05/14
+varAnnuel=
+varRecup=10:00
+varEpargne=
+varVisaChef=03/05/14
+varVisaDirecteur=03/05/14
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=23/06/14
+varPrisAu=28/06/14
+varDemandeDate=26/06/14
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=26/06/14
+varVisaDirecteur=26/06/14
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=30/06/14
+varPrisAu=30/06/14
+varDemandeDate=26/06/14
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=26/06/14
+varVisaDirecteur=26/06/14
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=01/07/14
+varPrisAu=05/07/14
+varDemandeDate=26/06/14
+varAnnuel=28:00
+varRecup=
+varEpargne=
+varVisaChef=26/06/14
+varVisaDirecteur=26/06/14
+varRetourDate=
+End With
+With LigneConges
+Id=9
+varPrisDu=26/08/14
+varPrisAu=30/08/14
+varDemandeDate=13/08/14
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=13/08/14
+varVisaDirecteur=13/08/14
+varRetourDate=
+End With
+With LigneConges
+Id=10
+varPrisDu=23/08/14
+varPrisAu=23/08/14
+varDemandeDate=12/09/14
+varAnnuel=
+varRecup=2:00
+varEpargne=
+varVisaChef=12/09/14
+varVisaDirecteur=12/09/14
+varRetourDate=
+End With
+With LigneConges
+Id=11
+varPrisDu=15/09/14
+varPrisAu=20/09/14
+varDemandeDate=12/09/14
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=12/09/14
+varVisaDirecteur=12/09/14
+varRetourDate=
+End With
+With LigneConges
+Id=12
+varPrisDu=22/09/14
+varPrisAu=27/09/14
+varDemandeDate=12/09/14
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=12/09/14
+varVisaDirecteur=12/09/14
+varRetourDate=
+End With
+With LigneConges
+Id=13
+varPrisDu=24/11/14
+varPrisAu=29/11/14
+varDemandeDate=19/11/14
+varAnnuel=35:00
+varRecup=1:00
+varEpargne=
+varVisaChef=19/11/14
+varVisaDirecteur=19/11/14
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=28/01/14
+varNbHeuresSup=10:00
+varMotifHeuresSup=FORMATION MUTAC MONTPELLIER
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=07/11/14
+varNbHeuresSup=1:00
+varMotifHeuresSup=Famille après 16h
+varPayeesHeuresSup=
+End With

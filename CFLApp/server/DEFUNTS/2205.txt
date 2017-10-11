@@ -1,0 +1,16 @@
+Id=2205
+New=
+DefuntNom=GARNIER
+DefuntPrenom=HENRI
+DefuntDecesDate=13/12/2013
+CremationArriveeDe=CHAMBERY HOPITAL
+ArriveeDate=18/12/2013
+CeremonieCrematoriumDate=18/12/2013
+CeremonieCrematoriumHeure=15:15
+CeremonieCrematoriumLieu=Cf salle omnicultes
+CeremonieCrematoriumType=Civile
+CremationDate=
+CremationCommune=
+Conseiller=Marie-Pierre PINET
+PfArrivee=PFG MACHE
+CodeDefunt=2205

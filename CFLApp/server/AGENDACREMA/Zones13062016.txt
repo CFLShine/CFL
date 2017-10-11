@@ -1,0 +1,168 @@
+Id=13062016
+Jourdate=13/06/2016
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=8406
+Pf_ceremonie=PF CHAMBERIENNES
+Nom_ceremonie=PANET
+Prenom_ceremonie=RAYMOND
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+CodeDft_cremation=8406
+Pf_cremation=PF CHAMBERIENNES
+Nom_cremation=PANET
+Prenom_cremation=RAYMOND
+FicheOccupe=Libre
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=888
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+FicheOccupe=Libre
+EvenementArrivee_cremation=
+HeuretArrivee_ceremonie=
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=8417
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=BERARD
+Prenom_ceremonie=MIREILLE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 15H30
+CodeDft_cremation=8417
+Pf_cremation=PF BOUDRIER
+Nom_cremation=BERARD
+Prenom_cremation=MIREILLE
+EvenementArrivee_cremation=Arrivée de MORESTEL
+FicheOccupe=Libre
+NoOrdre=889
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8419
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=CHAMPERT
+Prenom_ceremonie=JEAN-MARIE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY HOPITAL
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8419
+Pf_cremation=PF DE SAVOY
+Nom_cremation=CHAMPERT
+Prenom_cremation=JEAN-MARIE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=890
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8429
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=BUTTARD
+Prenom_ceremonie=SERGE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8429
+Pf_cremation=PF FLORET
+Nom_cremation=BUTTARD
+Prenom_cremation=SERGE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=891
+Four=1
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=8420
+Pf_ceremonie=PF PENA
+Nom_ceremonie=TERPAND
+Prenom_ceremonie=BRUNO
+CodeDft_cremation=8420
+Pf_cremation=PF PENA
+Nom_cremation=TERPAND
+Prenom_cremation=BRUNO
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=892
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

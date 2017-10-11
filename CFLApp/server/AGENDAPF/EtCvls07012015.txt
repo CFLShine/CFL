@@ -1,0 +1,22 @@
+Id=7012015
+JourDate=07/01/2015
+With ZONE
+Id=5
+EtatCivilChecked=True
+End With
+With ZONE
+Id=6
+EtatCivilChecked=True
+End With
+With ZONE
+Id=3
+EtatCivilChecked=True
+End With
+With ZONE
+Id=0
+EtatCivilChecked=True
+End With
+With ZONE
+Id=1
+EtatCivilChecked=True
+End With

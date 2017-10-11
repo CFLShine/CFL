@@ -1,0 +1,118 @@
+Id=10012016
+Jourdate=10/01/2016
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=7272
+Pf_ceremonie=DE SAVOY
+Nom_ceremonie=VIVET GROS
+Prenom_ceremonie=MARIN
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+CodeDft_cremation=7272
+Pf_cremation=DE SAVOY
+Nom_cremation=VIVET GROS
+Prenom_cremation=MARIN
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+NoOrdre=14
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=7283
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=TEMPLIER 
+Prenom_ceremonie=MICHELINE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7283
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=TEMPLIER 
+Prenom_cremation=MICHELINE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+NoOrdre=31
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+NoOrdre=51
+Four=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=7311
+Pf_ceremonie=FLORET
+Nom_ceremonie=BAUDIN
+Prenom_ceremonie=ALAIN
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+CodeDft_cremation=7311
+Pf_cremation=FLORET
+Nom_cremation=BAUDIN
+Prenom_cremation=ALAIN
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+NoOrdre=55
+Four=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=7305
+Pf_ceremonie=PFM
+Nom_ceremonie=THOMASSIN
+Prenom_ceremonie=CLAUDE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CREMATION 18H00
+CodeDft_cremation=7305
+Pf_cremation=PFM
+Nom_cremation=THOMASSIN
+Prenom_cremation=CLAUDE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+End With

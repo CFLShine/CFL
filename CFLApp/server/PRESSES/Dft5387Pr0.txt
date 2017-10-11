@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=700
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Sainte H\'e9l\'e8ne du Lac, Novalaise, Bassens,\f1\par<Ret>\f0 La Motte-Servolex, Grenoble, Haute-Savoie,\f1\par<Ret>\b0\f0 M. Andr\'e9 Janex, son \'e9poux; Dominique Janex, Pascale Garcia, Marie-Claire Aguettaz, Philippe Janex, ses enfants et leurs conjoints; Micha\'ebl, Christophe, Isabelle, Thibaud, Ludovic, No\'eblie, Romain, Evol\'e8ne, B\'e9n\'e9dicte, Laure, ses petits-enfants et leurs conjoints; Sarah et Math\'e9o, ses arri\'e8re-petits-enfants; parents, alli\'e9s et amis, ont la grande tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Madame\f1\par<Ret>\f0 Emmanuelle JANEX\f1\par<Ret>\f0 n\'e9e BOUVIER\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'aube de ses 87 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse aura lieu le samedi 2 mai 2015 \'e0 dix heures trente en l'\'e9glise de Ste H\'e9l\'e8ne du Lac.\f1\par<Ret>\f0 Condol\'e9ances sur registres.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\f1\par<Ret>\f0 Priez pour elle.\par<Ret>}<Ret>
+CodeDft=5387
+Tarif=290
+NbLignes=29
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=3
+Date=29/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

@@ -1,0 +1,22 @@
+With TIERS
+Id=0
+Code=0
+Name=Centre funéraire
+Var1=
+Var2=
+Var3=CHAMBERY
+Var4=04 79 60 50 71
+Var5=
+Var6=
+End With
+With TIERS
+Id=1
+Code=1
+Name=HOPITAL DE CHAMBERY
+Var1=
+Var2=
+Var3=CHAMBERY
+Var4=04 56 80 82 33
+Var5=
+Var6=
+End With

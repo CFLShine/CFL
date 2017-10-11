@@ -1,0 +1,14 @@
+Id=5346
+DefuntNom=KARBOWSKI
+DefuntPrenom=YVONNE
+DefuntDecesDate=22/04/2015
+ArriveeCommune=AIX LES BAINS
+ArriveeDate=25/04/2015
+ArriveeHeure=10:15
+PfArrivee=PF  BOUVIER  
+CeremonieCrematoriumDate=25/04/2015
+CeremonieCrematoriumHeure=10:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Civile
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=5346

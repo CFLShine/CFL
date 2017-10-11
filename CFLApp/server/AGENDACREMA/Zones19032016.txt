@@ -1,0 +1,167 @@
+Id=19032016
+Jourdate=19/03/2016
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7801
+Pf_ceremonie=PFM
+Nom_ceremonie=CAMOZ
+Prenom_ceremonie=MARIE-THERESE
+CodeDft_cremation=7801
+Pf_cremation=PFM
+Nom_cremation=CAMOZ
+Prenom_cremation=MARIE-THERESE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=10:30
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=439
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=7826
+Pf_ceremonie=PFM
+Nom_ceremonie=BURDIN
+Prenom_ceremonie=JOSEPH
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=INHUMATION URNE CHARRIERE NEUVE
+CodeDft_cremation=7826
+Pf_cremation=PFM
+Nom_cremation=BURDIN
+Prenom_cremation=JOSEPH
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+Police=True
+NoOrdre=437
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=7817
+Pf_ceremonie=FLORET
+Nom_ceremonie=PRATABUY
+Prenom_ceremonie=RAYMOND
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de ALBERVILLE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION
+CodeDft_cremation=7817
+Pf_cremation=FLORET
+Nom_cremation=PRATABUY
+Prenom_cremation=RAYMOND
+EvenementArrivee_cremation=Arrivée de ALBERVILLE
+FicheOccupe=Libre
+NoOrdre=438
+Four=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=7816
+Pf_ceremonie=PF PENA
+Nom_ceremonie=BUFFAUD
+Prenom_ceremonie=IDA
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION
+CodeDft_cremation=7816
+Pf_cremation=PF PENA
+Nom_cremation=BUFFAUD
+Prenom_cremation=IDA
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=440
+Four=2
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=7818
+Pf_ceremonie=POMMAT
+Nom_ceremonie=DESCHAMPS
+Prenom_ceremonie=FRANCOISE
+HeureArrivee_ceremonie=13:45
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=13:45
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7818
+Pf_cremation=POMMAT
+Nom_cremation=DESCHAMPS
+Prenom_cremation=FRANCOISE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+NoOrdre=441
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7815
+Pf_ceremonie=PFM
+Nom_ceremonie=PASQUALINI
+Prenom_ceremonie=PAUL
+CodeDft_cremation=7815
+Pf_cremation=PFM
+Nom_cremation=PASQUALINI
+Prenom_cremation=PAUL
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=16:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=442
+Four=2
+End With

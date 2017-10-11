@@ -1,0 +1,111 @@
+Id=14042014
+Jourdate=14/04/2014
+Version=NouveauFormat
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION  PFM
+SaisieOccupe=Libre
+CodeDft=2939
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=RENAUD
+Prenom=LUCIEN
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=2945
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=BERTHOLDY
+Prenom=MARIA
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=468
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=2949
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=SPINETTI
+Prenom=GISELE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=469
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=2946
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=GROS
+Prenom=RENE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=470
+Four=2
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=2950
+Pf=PFG MONTMELIAN
+Conseiller=Marie-Pierre PINET
+Nom=BENNA
+Prenom=FERRUCIO
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=467
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=6
+End With

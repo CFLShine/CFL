@@ -1,0 +1,198 @@
+Id=13082016
+Jourdate=13/08/2016
+With ZONE
+Id=5
+EvenementCommentaire=SALON ANÉMONE, PAS DE CRÉMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=8828
+Pf_ceremonie=PFM
+Nom_ceremonie=CHARRUT
+Prenom_ceremonie=ASTRIDE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+End With
+With ZONE
+Id=0
+EvenementCommentaire=DISPERSION JDS CHAMBERY 11 H 00
+SaisieOccupe=Libre
+CodeDft_ceremonie=8846
+Pf_ceremonie=PFM VOIRON
+Nom_ceremonie=TRAISSAC
+Prenom_ceremonie=MADYSON
+HeureArrivee_ceremonie=15:30
+EvenementArrivee_ceremonie=Arrivée de VOIRON
+HeureArrivee_cremation=15:30
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8846
+Pf_cremation=PFM VOIRON
+Nom_cremation=TRAISSAC
+Prenom_cremation=MADYSON
+EvenementArrivee_cremation=Arrivée de VOIRON
+FicheOccupe=Libre
+NoOrdre=1188
+Four=1
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8841
+Pf_ceremonie=PFM
+Nom_ceremonie=HERNAS
+Prenom_ceremonie=MARCEL
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8841
+Pf_cremation=PFM
+Nom_cremation=HERNAS
+Prenom_cremation=MARCEL
+FicheOccupe=Libre
+NoOrdre=1189
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8837
+Pf_ceremonie=PFM
+Nom_ceremonie=BOURGEOIS
+Prenom_ceremonie=MARIE-JEANNE
+CodeDft_cremation=8837
+Pf_cremation=PFM
+Nom_cremation=BOURGEOIS
+Prenom_cremation=MARIE-JEANNE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:45
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1190
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8825
+Pf_ceremonie=PFM
+Nom_ceremonie=PORTIER
+Prenom_ceremonie=MARC
+HeureArrivee_ceremonie=09:00
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:30
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8825
+Pf_cremation=PFM
+Nom_cremation=PORTIER
+Prenom_cremation=MARC
+FicheOccupe=Libre
+NoOrdre=1191
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=SALLE DE CEREMONIE SANS CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=8844
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=BILLARD
+Prenom_ceremonie=PAUL
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de PONTCHARRA
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=8836
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=BLANC
+Prenom_ceremonie=GILLES
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8836
+Pf_cremation=PF BALDINI
+Nom_cremation=BLANC
+Prenom_cremation=GILLES
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+NoOrdre=1192
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft_ceremonie=8832
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=DENCHE 
+Prenom_ceremonie=RENÉ
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8832
+Pf_cremation=PF POMMAT
+Nom_cremation=DENCHE 
+Prenom_cremation=RENÉ
+EvenementArrivee_cremation=Arrivée de ALBERVILLE
+FicheOccupe=Libre
+NoOrdre=1193
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

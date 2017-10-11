@@ -1,0 +1,166 @@
+Id=15042015
+Jourdate=15/04/2015
+Version=NouveauFormat
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5257
+Pf=PFM
+Conseiller=MICHAEL
+Nom=BIDAUD
+Prenom=HENRI
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Centre funéraire
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=605
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=5260
+Pf=PFG AIX LES BAINS
+Conseiller=Loïc TREVARAIN
+Nom=AVRIL
+Prenom=GABRIELLE
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE PF RECUPERENT
+NoOrdre=606
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=5264
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=PERRIN 
+Prenom=PHILIPPE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION 
+Police=True
+NoOrdre=608
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=5266
+Pf=PF CHAMBERIENNES
+Conseiller=Loïc TREVARAIN
+Nom=BELPOIS
+Prenom=MICHEL
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION 
+NoOrdre=607
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=5267
+Pf=DE SAVOY
+Conseiller=Loïc TREVARAIN
+Nom=MOURGUES
+Prenom=LAURENT
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de BOURG SAINT MAURICE 
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=604
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=5270
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=LECLERCQ
+Prenom=ALAIN
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=610
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5284
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=BILLAZ
+Prenom=ALBERTINE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Centre funéraire
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=609
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5281
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=MARGUERET
+Prenom=ADELAIDE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=603
+Four=1
+FicheOccupe=Libre
+End With

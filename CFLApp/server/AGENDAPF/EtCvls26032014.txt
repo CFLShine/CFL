@@ -1,0 +1,14 @@
+Id=26032014
+JourDate=26/03/2014
+With ZONE
+Id=0
+EtatCivilChecked=False
+End With
+With ZONE
+Id=2
+EtatCivilChecked=True
+End With
+With ZONE
+Id=1
+EtatCivilChecked=True
+End With

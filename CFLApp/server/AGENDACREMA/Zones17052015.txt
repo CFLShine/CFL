@@ -1,0 +1,161 @@
+Id=17052015
+Jourdate=17/05/2015
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=SCHMITT
+Prenom_ceremonie=JOANNE
+CodeDft_cremation=5519
+Pf_cremation=
+Nom_crema=
+Prenom_crema=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=747
+Four=1
+HeuretArrivee_ceremonie=
+Nom_cremation=
+Prenom=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=5521
+Pf_ceremonie=MOUCHE
+Nom_ceremonie=THOUVARD
+Prenom_ceremonie=GINETTE
+CodeDft_cremation=5522
+Pf_cremation=MOUCHE
+Nom_crema=THOUVARD
+Prenom_crema=GINETTE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_crema=13:15
+EvenementArrivee_crema=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION PF RECUPERENT CREMATION EFFECTUE 16/05/15 à14h00
+NoOrdre=761
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=5526
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=EVEQUE-MOUROUX
+Prenom_ceremonie=MAXIMIN
+CodeDft_cremation=5527
+Pf_cremation=PF FLORET
+Nom_crema=EVEQUE-MOUROUX
+Prenom_crema=MAXIMIN
+HeureArrivee_ceremonie=17:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_crema=17:15
+EvenementArrivee_crema=
+HeureCeremonie=18:00
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=18:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=SAMEDI 16 MAI ARRIVEE 17 H 30 - CREMATION 18 HOO 
+NoOrdre=767
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+FicheOccupe=Libre
+SaisieOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=5554
+Pf_ceremonie=PFM VOIRON
+Nom_ceremonie=TERNUS
+Prenom_ceremonie=X
+CodeDft_cremation=5555
+Pf_cremation=PFM VOIRON
+Nom_crema=TERNUS
+Prenom_crema=X
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de VOIRON
+HeureArrivee_crema=14:15
+EvenementArrivee_crema=Arrivée de VOIRON
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION CHARRIERE NEUVE LE18/05/2015
+FicheOccupe=Libre
+NoOrdre=763
+Four=2
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=5556
+Pf_ceremonie=PFM VOIRON
+Nom_ceremonie=DUFETRE SAVRY
+Prenom_ceremonie=X
+CodeDft_cremation=5557
+Pf_cremation=PFM VOIRON
+Nom_crema=DUFETRE SAVRY
+Prenom_crema=X
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de VOIRON
+HeureArrivee_crema=16:15
+EvenementArrivee_crema=Arrivée de VOIRON
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION CHARRIERE NEUVE LE18/05/2015
+FicheOccupe=Libre
+NoOrdre=765
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=CREMATION EFFECTUE 13/05/2015 18h00
+SaisieOccupe=Libre
+CodeDft_ceremonie=5490
+Pf_ceremonie=PFM
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=18:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Occupé
+NoOrdre=747
+Four=1
+End With
+With ZONE
+Id=3
+End With

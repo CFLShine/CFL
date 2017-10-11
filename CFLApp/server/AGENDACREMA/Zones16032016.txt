@@ -1,0 +1,195 @@
+Id=16032016
+Jourdate=16/03/2016
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=7777
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=DREUX
+Prenom_ceremonie=MADELEINE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=INHUMATION DE L'URNE PAR NOS SOINS A 15H  AVEC ORDONNATEUR
+CodeDft_cremation=7777
+Pf_cremation=PF BOUDRIER
+Nom_cremation=DREUX
+Prenom_cremation=MADELEINE
+EvenementArrivee_cremation=Arrivée de MORESTEL
+NoOrdre=417
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7785
+Pf_ceremonie=PFM
+Nom_ceremonie=CHEVALLIER
+Prenom_ceremonie=PIERRETTE
+CodeDft_cremation=7785
+Pf_cremation=PFM
+Nom_cremation=CHEVALLIER
+Prenom_cremation=PIERRETTE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=415
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7784
+Pf_ceremonie=PFM
+Nom_ceremonie=MARANDET
+Prenom_ceremonie=ANDREE
+CodeDft_cremation=7784
+Pf_cremation=PFM
+Nom_cremation=MARANDET
+Prenom_cremation=ANDREE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=416
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=7800
+Pf_ceremonie=PENA
+Nom_ceremonie=BARRAL
+Prenom_ceremonie=HENRIETTE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION PF RECUPERENT
+CodeDft_cremation=7800
+Pf_cremation=PENA
+Nom_cremation=BARRAL
+Prenom_cremation=HENRIETTE
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+NoOrdre=418
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=7804
+Pf_ceremonie=FLORET
+Nom_ceremonie=CLEMENT
+Prenom_ceremonie=RAYMONDE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS DE FAMILLE DEPOT FIN DE  MATINEE CERCUEIL CREMATION PF RECUPERENT 
+CodeDft_cremation=7804
+Pf_cremation=FLORET
+Nom_cremation=CLEMENT
+Prenom_cremation=RAYMONDE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+NoOrdre=419
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=7807
+Pf_ceremonie=DE SAVOY
+Nom_ceremonie=CHENAL
+Prenom_ceremonie=AMEDEE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7807
+Pf_cremation=DE SAVOY
+Nom_cremation=CHENAL
+Prenom_cremation=AMEDEE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+NoOrdre=420
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=7802
+Pf_ceremonie=PECH
+Nom_ceremonie=FALCINO
+Prenom_ceremonie=LUCIEN
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION PF RECUPERENT
+CodeDft_cremation=7802
+Pf_cremation=PECH
+Nom_cremation=FALCINO
+Prenom_cremation=LUCIEN
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=421
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

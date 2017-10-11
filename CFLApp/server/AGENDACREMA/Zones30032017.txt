@@ -1,0 +1,118 @@
+Id=30032017
+Jourdate=30/03/2017
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=10498
+Pf_ceremonie=PFM
+Nom_ceremonie=FORAY
+Prenom_ceremonie=MAURICE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10498
+Pf_cremation=PFM
+Nom_cremation=FORAY
+Prenom_cremation=MAURICE
+FicheOccupe=Libre
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=501
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10501
+Pf_ceremonie=PFM
+Nom_ceremonie=VICENTINI
+Prenom_ceremonie=IDA
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10501
+Pf_cremation=PFM
+Nom_cremation=VICENTINI
+Prenom_cremation=IDA
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=498
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10506
+Pf_ceremonie=PF PECH
+Nom_ceremonie=CAPELLI
+Prenom_ceremonie=ANDRE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10506
+Pf_cremation=PF PECH
+Nom_cremation=CAPELLI
+Prenom_cremation=ANDRE
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=499
+Four=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE 
+SaisieOccupe=Libre
+CodeDft_ceremonie=10503
+Pf_ceremonie=PFM
+Nom_ceremonie=PASCAL
+Prenom_ceremonie=MARCEL
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10503
+Pf_cremation=PFM
+Nom_cremation=PASCAL
+Prenom_cremation=MARCEL
+FicheOccupe=Libre
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=500
+Four=2
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With

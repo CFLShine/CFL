@@ -1,0 +1,36 @@
+Id=2006
+With DEFUNT
+Id=6657
+Nom=BORELLA
+Prenom=PAUL
+DecesDate=08/06/2006
+CodeDft=6657
+End With
+With DEFUNT
+Id=2465
+Nom=BROCAVET
+Prenom=BRUNO
+DecesDate=02/12/2006
+CodeDft=2465
+End With
+With DEFUNT
+Id=3670
+Nom=GROSSI
+Prenom=ANTOINE ET MALVINA
+DecesDate=22/06/2006
+CodeDft=3670
+End With
+With DEFUNT
+Id=9727
+Nom=PELLITTERI
+Prenom=ANGE
+DecesDate=11/05/2006
+CodeDft=9727
+End With
+With DEFUNT
+Id=4273
+Nom=VIDAL
+Prenom=ANTOINE
+DecesDate=15/01/2006
+CodeDft=4273
+End With

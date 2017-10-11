@@ -1,0 +1,162 @@
+Id=22082016
+Jourdate=22/08/2016
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=8848
+Pf_ceremonie=PFM
+Nom_ceremonie=BORDES PAGES
+Prenom_ceremonie=ANDREE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8848
+Pf_cremation=PFM
+Nom_cremation=BORDES PAGES
+Prenom_cremation=ANDREE
+NoOrdre=1226
+Four=2
+Police=True
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8891
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=COHARD
+Prenom_ceremonie=ARMELLE
+CodeDft_cremation=8891
+Pf_cremation=PF BAUDRION
+Nom_cremation=COHARD
+Prenom_cremation=ARMELLE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1223
+Four=1
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=8872
+Pf_ceremonie=PFM
+Nom_ceremonie=DIOUX
+Prenom_ceremonie=ROBERT
+CodeDft_cremation=8872
+Pf_cremation=PFM
+Nom_cremation=DIOUX
+Prenom_cremation=ROBERT
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=1224
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=GESTE D'ADIEU , ORDONNATEUR PFM POUR GESTE D'ADIEU
+SaisieOccupe=Libre
+CodeDft_ceremonie=8892
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=SIBUÉ
+Prenom_ceremonie=LUCIEN
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8892
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=SIBUÉ
+Prenom_cremation=LUCIEN
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1225
+Four=1
+End With
+With ZONE
+Id=6
+EvenementCommentaire=CEREMONIE EN SALON GENTIANE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8885
+Pf_ceremonie=PFM
+Nom_ceremonie=CHIROIX
+Prenom_ceremonie=LILIANE
+CodeDft_cremation=8885
+Pf_cremation=PFM
+Nom_cremation=CHIROIX
+Prenom_cremation=LILIANE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1227
+Four=1
+Police=True
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=8888
+Pf_ceremonie=PF DE LA VANOISE
+Nom_ceremonie=GASPARD
+Prenom_ceremonie=CLAUDE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de MODANE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDO PFM A PREVOIR - URNE FAMILLE
+CodeDft_cremation=8888
+Pf_cremation=PF DE LA VANOISE
+Nom_cremation=GASPARD
+Prenom_cremation=CLAUDE
+EvenementArrivee_cremation=Arrivée de MODANE
+FicheOccupe=Libre
+NoOrdre=1228
+Four=2
+End With

@@ -1,0 +1,217 @@
+Id=1092017
+Jourdate=01/09/2017
+With ZONE
+Id=9
+EvenementCommentaire=CERCUEIL CHENE, LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=11469
+Pf_ceremonie=PFG BOURG SAINT MAURICE
+Nom_ceremonie=VILLIBORD
+Prenom_ceremonie=RAYMOND
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de BOURG SAINT MAURICE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11469
+Pf_cremation=PFG BOURG SAINT MAURICE
+Nom_cremation=VILLIBORD
+Prenom_cremation=RAYMOND
+EvenementArrivee_cremation=Arrivée de BOURG SAINT MAURICE
+FicheOccupe=Libre
+NoOrdre=1204
+Four=FT3
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=11484
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=VIQUERAT
+Prenom_ceremonie=HENRI
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=11484
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=VIQUERAT
+Prenom_cremation=HENRI
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1197
+Four=FTX
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11482
+Pf_ceremonie=PF  BOUVIER
+Nom_ceremonie=LECLERC
+Prenom_ceremonie=SERGE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11482
+Pf_cremation=PF  BOUVIER
+Nom_cremation=LECLERC
+Prenom_cremation=SERGE
+EvenementArrivee_cremation=Arrivée de HOPITAL CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1198
+Four=FT3
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11491
+Pf_ceremonie=PFCCA
+Nom_ceremonie=PSZYBYLA
+Prenom_ceremonie=DENISE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11491
+Pf_cremation=PFCCA
+Nom_cremation=PSZYBYLA
+Prenom_cremation=DENISE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1199
+Four=FTX
+End With
+With ZONE
+Id=5
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11494
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=HUYGHE
+Prenom_ceremonie=CECILE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11494
+Pf_cremation=PFG CHAMBERY
+Nom_cremation=HUYGHE
+Prenom_cremation=CECILE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1200
+Four=FT3
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PIN LES PF RECUPERENT 
+SaisieOccupe=Libre
+CodeDft_ceremonie=11497
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=GAUBERT
+Prenom_ceremonie=PASCAL
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11497
+Pf_cremation=PF BALDINI
+Nom_cremation=GAUBERT
+Prenom_cremation=PASCAL
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=1201
+Four=FTX
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11508
+Pf_ceremonie=PF DU PLATEAU
+Nom_ceremonie=PINGEON
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de HAUTEVILLE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11508
+Pf_cremation=PF DU PLATEAU
+Nom_cremation=PINGEON
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de HAUTEVILLE
+NoOrdre=1202
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+EvenementCommentaire=ORDONNATEUR PFCCA   
+SaisieOccupe=Libre
+CodeDft_ceremonie=11506
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=PITTIOT
+Prenom_ceremonie=ROGER
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11506
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=PITTIOT
+Prenom_cremation=ROGER
+EvenementArrivee_cremation=Arrivée de BELLEY
+NoOrdre=1203
+Four=FTX
+FicheOccupe=Libre
+End With

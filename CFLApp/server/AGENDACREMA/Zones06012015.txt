@@ -1,0 +1,163 @@
+Id=6012015
+Jourdate=06/01/2015
+Version=NouveauFormat
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4459
+Pf=PFG BOURG ST MAURICE
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BRESCI
+Prenom=JOSEPH
+HeureArrivee=14:30
+EvenementArrivee=Arrivée de SEEZ
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 17H15
+NoOrdre=25
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4467
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=LOPEZ
+Prenom=COLETTE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM  
+FicheOccupe=Libre
+NoOrdre=26
+Four=2
+End With
+With ZONE
+Id=7
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+CodeDft=4464
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=VINCENT
+Prenom=YVETTE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ORNEX (  01)
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=27
+Four=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4466
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=ROYER ADNOT
+Prenom=JACQUELINE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=23
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4471
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=JOET
+Prenom=BRUNA
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=24
+Four=1
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=4473
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=COUCHOT
+Prenom=COLETTE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=22
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=4477
+Pf=PF DE SAVOY
+Conseiller=Loïc TREVARAIN
+Nom=CONDEMINE
+Prenom=CHRISTIAN
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=21
+Four=1
+FicheOccupe=Libre
+End With

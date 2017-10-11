@@ -1,0 +1,70 @@
+Id=13112016
+Jourdate=13/11/2016
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=9397
+Pf_ceremonie=PF MERCIER
+Nom_ceremonie=MONNET
+Prenom_ceremonie=JOSEPH
+CodeDft_cremation=9397
+Pf_cremation=PF MERCIER
+Nom_cremation=MONNET
+Prenom_cremation=JOSEPH
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de DES AVENIERES
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de DES AVENIERES
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1585
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With

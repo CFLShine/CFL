@@ -1,0 +1,165 @@
+Id=26092013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1710.txt
+Pf=PFM VOIRON
+Conseiller=Loïc TREVARAIN
+Nom=GARREL
+Prenom=KARIM
+HeureArrivee=
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=09:15
+EvenementCeremonie=
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ENFANT SANS VIE - PAS DE FAMILLE - DISPERSION PAR NOS SOINS JARDIN DU SOUVENIR
+NoOrdre=1158
+Four=1
+CodeDft=1710
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1702.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=GUMERY
+Prenom=CLAUDE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1159
+Four=2
+CodeDft=1702
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1696.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=MONTMAYEUR
+Prenom=MADELEINE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+NoOrdre=1160
+Four=1
+CodeDft=1696
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1700.txt
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=MARTOIA
+Prenom=EMILLE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+NoOrdre=1161
+Four=2
+CodeDft=1700
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1691.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=LAMBERT
+Prenom=DENISE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1162
+Four=1
+CodeDft=1691
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1698.txt
+Pf=DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=MARCHAND-MAILLET
+Prenom=ROBERT
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1163
+Four=2
+CodeDft=1698
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=LES PF RECUPERENT L'URNE  CERCUEIL EN PIN
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1699.txt
+Pf=PFG MOUTIERS
+Conseiller=Marie-Pierre PINET
+Nom=ROLLAND
+Prenom=GASTON
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1164
+Four=1
+CodeDft=1699
+End With

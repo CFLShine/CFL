@@ -1,0 +1,6 @@
+Id=20042015
+Agent=BOULET
+Provenance=HOPITAL DE CHAMBERY
+Nature= 2 FOETUS
+Four=1
+NoOrdre=638

@@ -1,0 +1,153 @@
+Id=18112015
+JourDate=18/11/2015
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6892
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=18
+EquipeId_1=52
+EquipeId_2=59
+EquipeId_3=58
+Ordo=KAELBERER Eric
+Equipe_0=E.SPRINGOLO Eric
+Equipe_1=SANCHEZ Dominique
+Equipe_2=DOUAY Jean-Yves
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6899
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=5
+EquipeId_1=58
+EquipeId_2=7
+EquipeId_3=26
+Ordo=FAVRIN Thierry
+Equipe_0=MILLON Patrick
+Equipe_1=MULDER Michaël
+Equipe_2=JACQUIER Michel
+Equipe_3=WALLYN Benoît
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6898
+Comment_0=DEPOT DE L URNE AU CREMATORIUM 
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=7
+EquipeId_1=5
+EquipeId_2=54
+EquipeId_3=16
+Ordo=FAVRIN Thierry
+Equipe_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+Equipe_2=BRUN Tony
+Equipe_3=MILESI Robert
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6903
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6917
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=7
+EquipeId_1=5
+EquipeId_2=54
+EquipeId_3=16
+Ordo=WALLYN Benoît
+Equipe_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+Equipe_2=BRUN Tony
+Equipe_3=MILESI Robert
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6900
+Comment_0=ORDONNATEUR PFM POUR PF MAURIENNAISES
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=7
+CodeDft=6929
+DemiJour=1
+Pos=1
+UsedBy=
+End With

@@ -1,0 +1,14 @@
+Id=5523
+DefuntNom=FRICHE
+DefuntPrenom=GINETTE
+DefuntDecesDate=13/05/2015
+ArriveeCommune=AIX LES BAINS
+ArriveeDate=16/05/2015
+ArriveeHeure=14:15
+PfArrivee=SEDRAN
+CeremonieCrematoriumDate=16/05/2015
+CeremonieCrematoriumHeure=14:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Geste d'adieu
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5523

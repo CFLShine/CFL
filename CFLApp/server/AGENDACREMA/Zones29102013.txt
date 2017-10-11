@@ -1,0 +1,148 @@
+Id=29102013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1901.txt
+Pf=AJEPI
+Conseiller=Loïc TREVARAIN
+Nom=BOISHARDY
+Prenom=FERDINAND
+HeureArrivee=
+EvenementArrivee=Arrivée de CH CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=1300
+Four=1
+CodeDft=1901
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1894.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=VIGUET-CARRIN
+Prenom=ALEXANDRE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1301
+Four=2
+CodeDft=1894
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1896.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=AGUETTAZ
+Prenom=SIMONE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1302
+Four=1
+CodeDft=1896
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire= CERCUEIL CREMATION   PF RECUPERENT
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1903.txt
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=PEGAZ BLANC
+Prenom=MARIE MADELEINE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Religieuse AIX LES BAINS
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1303
+Four=2
+CodeDft=1903
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION  
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1890.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=MASSA
+Prenom=BERNARD
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft=1890
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=ORDONNATEUR PFM POUR PF LA VANOISE
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1891.txt
+Pf=PF LA VANOISE
+Conseiller=Marie-Pierre PINET
+Nom=ROCCHETTI
+Prenom=RAYMONDE
+HeureArrivee=
+EvenementArrivee=Arrivée de MODANE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1304
+Four=2
+CodeDft=1891
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With

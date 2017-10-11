@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=640
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Marennes, Chamb\'e9ry, Givors, Grenoble, Curienne, Arbin.\f1\par<Ret>\f0 Mr et Mme Georges Reynaud, Mr et Mme G\'e9rard Reynaud, Mr Yves Pron, Mme Josette Simiand, Mme et Mr Daniel Coudurier, Mr et Mme Christian Pron, ses enfants; V\'e9ronique, Edwige, St\'e9phanie et Thierry, Fr\'e9d\'e9rique et Edwige, Vanessa et David, Corinne et Nicolas, C\'e9line, Laurence et J\'e9r\'f4me, ses petits-enfants; ses arri\'e8res petits-enfants; ses beaux-Fr\'e8res et belles-soeurs; ses amis\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Monsieur Marius REYNAUD\f1\par<Ret>\f0 survenu \'e0 l'\'e2ge de 102 ans\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e le Samedi 23 Ao\'fbt 2014 \'e0 dix heures en l'\'e9glise de Montm\'e9lian, suivie de son inhumation dans l'intimit\'e9 familiale.\f1\par<Ret>\f0 Condol\'e9ances sur registres.\f1\par<Ret>\f0 Pas de plaques\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\f1\par<Ret>\f0 La famille remercie le personnel de l'EHPAD la Vanoise pour leur bon soins.\par<Ret>}<Ret>
+CodeDft=3678
+Tarif=290
+NbLignes=30
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=3
+Date=21/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

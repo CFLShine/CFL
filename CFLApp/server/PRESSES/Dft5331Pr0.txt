@@ -1,0 +1,23 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Saint Alban Leysse, Le Bourget du Lac, Chamb\'e9ry;\f1\par<Ret>\f0 Ses enfants; ses petits enfants;\f1\par<Ret>\f0 ses arri\'e8res petits enfants;\f1\par<Ret>\f0 parents et proches;\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de:\f1\par<Ret>\pard\qc\b\f0 Madame Gis\'e8le CURTILLAT\f1\par<Ret>\f0 n\'e9e DAGAND\f1\par<Ret>\pard\b0\f0 dans sa 90\'e8me ann\'e9e.\f1\par<Ret>\f0 La c\'e9r\'e9monie aura lieu au centre fun\'e9raire de Chamb\'e9ry le Jeudi 23 Avril 2015 \'e0 neuf heures quinze. Suivie de l'inhumation au cimeti\'e8re du Bourget du Lac \'e0 dix heures quinze.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=5331
+Tarif=208
+NbLignes=19
+Cadre=False
+Symbole=False
+Photo=False
+SiteSent=True
+SiteDate1=20/04/2015
+SiteDate2=23/04/2015
+SiteTitre=Gisele CURTILLAT
+SiteClientMail=ginephy73@free.fr
+With PARUTION
+Id=0
+Date=21/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

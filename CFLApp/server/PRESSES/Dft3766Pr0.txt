@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Cognin,\f1\par<Ret>\f0 Denis et son \'e9pouse, Elisabeth, Genevi\'e8ve, Bernadette, Jean, ses enfants;\f1\par<Ret>\f0 Olivier, Marie, Jonathan, Pauline, L\'e9onard, ses petits enfants;\f1\par<Ret>\f0 Th\'e9o, Hugo, Camille, Charlotte, Eva et lison, ses arri\'e8res petits enfants, parents et amis ont l'immense chagrin de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\f0 Monsieur Pierre VALENTIN\f1\par<Ret>\f0 survenu \'e0 l'\'e2ge de 91 ans\f1\par<Ret>\pard\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e le jeudi 11 septembre 2014 \'e0 15h en l'\'e9glise de Cognin, suivie de l'inhumation au cimeti\'e8re de Bissy\f1\par<Ret>\f0 Condol\'e9ances sur registre.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=3766
+Tarif=208
+NbLignes=21
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=08/09/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

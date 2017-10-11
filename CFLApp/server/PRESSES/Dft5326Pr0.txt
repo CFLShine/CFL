@@ -1,0 +1,22 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, La Motte Servolex, Grenoble.\f1\par<Ret>\b0\f0 Ses enfants, ses petits-enfants, ses arri\'e8re petits-enfants, parents et amis \f1\par<Ret>\f0 vous font part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Madame Sidonie MICHON\f1\par<Ret>\f0 N\'e9e FONTANET\f1\par<Ret>\b0\f0 survenu \'e0 l'aube de ses 90 ans\f1\par<Ret>\pard\f0 Elle nous a quitt\'e9 comme elle a v\'e9cu, dans la discr\'e9tion et la dignit\'e9. Elle a rejoint son \'e9poux et son fils.\f1\par<Ret>\f0 La c\'e9r\'e9monie aura lieu le mercredi 22 avril 2015 \'e0 quinze heure quinze au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 La famille remercie le personnel soignant du service de soins continu de M\'e9dip\'f4le, ainsi que le personnel de la R\'e9sidence Ma Joie.\par<Ret>}<Ret>
+CodeDft=5326
+Tarif=396,8
+NbLignes=22
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=20/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=5
+Name=ISERE
+End With

@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, La Ravoire.\f1\par<Ret>\b0\f0 Monsieur Marie-Albert GOBBO, son fr\'e8re et son \'e9pouse;\f1\par<Ret>\f0 Neveux et ni\'e8ces;\f1\par<Ret>\f0 Parents et proches;\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Atilio GOBBO\f1\par<Ret>\f0 dit "Achille"\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'aube de ses 97 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie civile aura lieu au centre fun\'e9raire de Chamb\'e9ry le vendredi 20 mars 2015 \'e0 dix heures quinze.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciements.\par<Ret>}<Ret>
+CodeDft=5096
+Tarif=165
+NbLignes=16
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=18/03/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

@@ -1,0 +1,10 @@
+Id=5631
+DefuntNom=MATTEI
+DefuntPrenom=CHRISTIAN
+DefuntDecesDate=22/05/2015
+CremationDate=26/05/2015
+CremationHeure=  :
+CremationCommune=Chambéry
+PfCremation=
+ReservCrema=B NANTOIS
+CodeDefunt=5631

@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, Yenne.\f1\par<Ret>\b0\f0 Yvette CARRON, sa maman;\f1\par<Ret>\f0 Fran\'e7oise CARRON, son \'e9pouse;\f1\par<Ret>\f0 Jo\'ebl et No\'e9lie, ses enfants et leurs conjoints;\f1\par<Ret>\f0 Martine ROUGERON, sa soeur et sa famille;\f1\par<Ret>\f0 Cousins, parents et proches;\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 M. Jean-Pierre CARRON\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 61 ans.\f1\par<Ret>\f0 Ses obs\'e8ques ont eu lieu dans l'intimit\'e9 familiale.\par<Ret>}<Ret>
+CodeDft=5371
+Tarif=165
+NbLignes=15
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=30/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

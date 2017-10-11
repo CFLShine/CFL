@@ -1,0 +1,22 @@
+Id=-1
+Type=Avis
+Height=720
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Myans, Apremont, Chapareillan\f1\par<Ret>\b0\f0 Simone, son \'e9pouse;\f1\par<Ret>\f0 Brigitte et Maurice Teppaz,\f1\par<Ret>\f0 Solange et Jean-Paul Souveton et leurs enfants;\f1\par<Ret>\f0 Henri Cochet, ses enfants et petits-enfants;\f1\par<Ret>\f0 Jean-Pierre et Ir\'e8ne Boiton et leur fille;\f1\par<Ret>\f0 Michel Palmer, son filleul;\f1\par<Ret>\f0 Son beau-fr\'e8re, neveux et ni\'e8ces;\f1\par<Ret>\f0 parents et proches ont l'immense tristesse de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Monsieur Bertrand BERNARD\f1\par<Ret>\f0 survenu \'e0 l'aube \f1\par<Ret>\f0 de ses 86 ans\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie religieuse aura lieu le vendredi 6 Mars 2015 \'e0 quatorze heures trente en l'\'e9glise de Myans.\f1\par<Ret>\f0 La famille remercie l'\'e9quipe m\'e9dicale des Foug\'e8res qui ont pris soin de lui et l'on accompagn\'e9.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4993
+Tarif=555
+NbLignes=30
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=05/03/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=5
+Name=ISERE
+End With

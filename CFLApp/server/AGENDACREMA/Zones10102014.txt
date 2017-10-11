@@ -1,0 +1,159 @@
+Id=10102014
+Jourdate=10/10/2014
+Version=NouveauFormat
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3954
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=BERT
+Prenom=RENEE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1233
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3955
+Pf=PF MERCIER
+Conseiller=Marie-Pierre PINET
+Nom=DUSSARD
+Prenom=DENIS
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de DES AVENIERES
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 15H
+FicheOccupe=Libre
+NoOrdre=1235
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=LA FAMILLE RECUPERE POUR DISPERSION
+SaisieOccupe=Libre
+CodeDft=3958
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=MAGAUD
+Prenom=JEAN-YVES
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1236
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3957
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=GARIBALDO
+Prenom=JOSEPH
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1237
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3952
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=SORANZO
+Prenom=NATALINO
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=1234
+Four=1
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3962
+Pf=PF BOUDRIER
+Conseiller=Marie-Pierre PINET
+Nom=BORGEY
+Prenom=PAUL
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de MORESTEL
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=1232
+Four=1
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+End With

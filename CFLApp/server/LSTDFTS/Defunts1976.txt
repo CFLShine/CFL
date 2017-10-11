@@ -1,0 +1,8 @@
+Id=1976
+With DEFUNT
+Id=6600
+Nom=YON
+Prenom=GASTON
+DecesDate=18/05/1976
+CodeDft=6600
+End With

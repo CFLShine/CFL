@@ -1,0 +1,148 @@
+Id=27062017
+Jourdate=27/06/2017
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=11066
+Pf_ceremonie=PFM
+Nom_ceremonie=PAQUET
+Prenom_ceremonie=GERARD
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=11066
+Pf_cremation=PFM
+Nom_cremation=PAQUET
+Prenom_cremation=GERARD
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=882
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=2
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 14H
+SaisieOccupe=Libre
+CodeDft_ceremonie=11077
+Pf_ceremonie=FAURE
+Nom_ceremonie=PEPIN
+Prenom_ceremonie=AIME
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de MODANE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11077
+Pf_cremation=FAURE
+Nom_cremation=PEPIN
+Prenom_cremation=AIME
+EvenementArrivee_cremation=Arrivée de MODANE
+FicheOccupe=Libre
+NoOrdre=883
+Four=FT3
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=11068
+Pf_ceremonie=PFM
+Nom_ceremonie=VIBOUD
+Prenom_ceremonie=NICOLAS
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=11068
+Pf_cremation=PFM
+Nom_cremation=VIBOUD
+Prenom_cremation=NICOLAS
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=884
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11073
+Pf_ceremonie=PFM
+Nom_ceremonie=COUPEAU
+Prenom_ceremonie=ROLANDE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11073
+Pf_cremation=PFM
+Nom_cremation=COUPEAU
+Prenom_cremation=ROLANDE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=885
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11071
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=LAPOTRE
+Prenom_ceremonie=BERNARD
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11071
+Pf_cremation=PF FLORET
+Nom_cremation=LAPOTRE
+Prenom_cremation=BERNARD
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=886
+Four=FTX
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

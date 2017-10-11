@@ -1,0 +1,16 @@
+Id=9416
+DefuntNom=LAUDON
+DefuntPrenom=COLETTE
+DefuntDecesDate=  /  /
+ArriveeCommune=LA MOTTE SERVOLEX
+ArriveeDate=
+ArriveeHeure=
+PfArrivee=PFG CHAMBERY
+PfCeremonie=PFG CHAMBERY
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=9416
+ArriveeLieu=

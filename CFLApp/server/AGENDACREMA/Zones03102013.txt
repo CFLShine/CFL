@@ -1,0 +1,161 @@
+Id=3102013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1742.txt
+Pf=PF ALPES SAVOIE
+Conseiller=Marie-Pierre PINET
+Nom=BAZONNET
+Prenom=MARLENE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+NoOrdre=1193
+Four=2
+CodeDft=1742
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1722.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=PAOLI
+Prenom=MARIE LOUISE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+CodeDft=1722
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1739.txt
+Pf=PF MOUCHE
+Conseiller=Ginette GAYRAUD
+Nom=GRAND
+Prenom=JEAN-MICHEL
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDONNATEUR PFM   RDV AVEC FAMILLE A 10H
+NoOrdre=1194
+Four=2
+CodeDft=1739
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=CERCUEIL EN PIN
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1748.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Marie-Pierre PINET
+Nom=CHAIZE
+Prenom=JACQUES
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1195
+Four=1
+CodeDft=1748
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1745.txt
+Pf=PFG MOUTIERS
+Conseiller=Marie-Pierre PINET
+Nom=SIPOS
+Prenom=ALAIN
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1196
+Four=2
+CodeDft=1745
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1744.txt
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=JOURDAN
+Prenom=BERNARD
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1197
+Four=1
+CodeDft=1744
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1743.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=RAUBER
+Prenom=RAYMONDE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:30
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE LA RAVOIRE
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1198
+Four=2
+CodeDft=1743
+End With

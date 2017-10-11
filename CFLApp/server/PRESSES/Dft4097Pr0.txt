@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 MODANE, FOURNEAUX, LA MOTTE SERVOLEX, VILLARD-LEGER\f1\par<Ret>\b0\f0 Franck, Fabienne et Nathalie ses enfants; son gendre et sa belle-fille; ses petits-enfants et arri\'e8re petits-enfants; Michel MICLOT, \f1\par<Ret>\f0 famille et amis\f1\par<Ret>\f0 ont l'immence tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Marcel BURDIN\f1\par<Ret>\pard\b0\f0 Ses obs\'e8ques ont eu lieu dans l'intimit\'e9 familiale.\b\f1\par<Ret>\b0\f0 Il rejoint sa fille Dominique, d\'e9c\'e9d\'e9e accidentellement en 1983.\f1\par<Ret>\f0 Un homme au grand coeur est parti, que tous ceux qui l'ont connu et aim\'e9, aient un pens\'e9e sp\'e9ciale pour lui aujourd'hui.\b\par<Ret>}<Ret>
+CodeDft=4097
+Tarif=208
+NbLignes=20
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=4
+Date=07/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

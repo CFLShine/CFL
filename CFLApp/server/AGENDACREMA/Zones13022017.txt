@@ -1,0 +1,185 @@
+Id=13022017
+Jourdate=13/02/2017
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=10193
+Pf_ceremonie=PF CHAMBERIENNES
+Nom_ceremonie=REGAIRAZ
+Prenom_ceremonie=GILBERT
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+CodeDft_cremation=10193
+Pf_cremation=PF CHAMBERIENNES
+Nom_cremation=REGAIRAZ
+Prenom_cremation=GILBERT
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=279
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=10080
+Pf_ceremonie=PFM
+Nom_ceremonie=PELTIER
+Prenom_ceremonie=LOUISA
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+HeuretArrivee_ceremonie=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=10195
+Pf_ceremonie=PFM
+Nom_ceremonie=VUILLERMET
+Prenom_ceremonie=MONIQUE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10209
+Pf_ceremonie=PF AOSTE
+Nom_ceremonie=FETU
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AOSTE
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10209
+Pf_cremation=PF AOSTE
+Nom_cremation=FETU
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de AOSTE
+FicheOccupe=Libre
+NoOrdre=277
+Four=1
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=10212
+Pf_ceremonie=MOUCHE
+Nom_ceremonie=BUISSON - DEBON
+Prenom_ceremonie=JOSEPH
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de LA CHAPELLE DU VAR-
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDO PFM  PF RECUPERENT DANS LA SEMAINE
+CodeDft_cremation=10212
+Pf_cremation=MOUCHE
+Nom_cremation=BUISSON - DEBON
+Prenom_cremation=JOSEPH
+EvenementArrivee_cremation=Arrivée de LA CHAPELLE DU VAR-
+FicheOccupe=Libre
+NoOrdre=278
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10202
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=LAURENT
+Prenom_ceremonie=PIERRE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10202
+Pf_cremation=PFG CHAMBERY
+Nom_cremation=LAURENT
+Prenom_cremation=PIERRE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=280
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=10199
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=TRONEL
+Prenom_ceremonie=MARCEL
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10199
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=TRONEL
+Prenom_cremation=MARCEL
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=281
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

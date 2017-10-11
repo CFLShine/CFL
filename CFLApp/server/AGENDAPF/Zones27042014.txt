@@ -1,0 +1,46 @@
+Id=27042014
+JourDate=27/04/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3046
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=BARREAU
+DefuntPrenom=ADRIENNE
+Heure_0=11:05
+Ev_0=TAMB depuis Agelia CHY vers Centre funéraire
+Comment_0=Case
+Comment_1=
+Equipe_0=JACQUIER Michel
+EquipeId_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+EquipeId_1=PINTOUT Bruno
+End With
+With ZONE
+Id=1
+Saisie=  TAMB
+Pos=1
+DemiJour=0
+CodeDft=3045
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=VIOLET
+DefuntPrenom=PAULETTE
+Heure_0=09:35
+Ev_0=TAMB depuis LES CLEMATIS vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+End With

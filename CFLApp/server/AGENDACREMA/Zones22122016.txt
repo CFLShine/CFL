@@ -1,0 +1,216 @@
+Id=22122016
+Jourdate=22/12/2016
+With ZONE
+Id=3
+EvenementCommentaire=CHENE - PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=9691
+Pf_ceremonie=PFG MONTMELIAN
+Nom_ceremonie=GRANDINETTI
+Prenom_ceremonie=GAETAN
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9691
+Pf_cremation=PFG MONTMELIAN
+Nom_cremation=GRANDINETTI
+Prenom_cremation=GAETAN
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1811
+Four=1
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9713
+Pf_ceremonie=PF BOUVIER
+Nom_ceremonie=ABRY
+Prenom_ceremonie=RAYMOND
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9713
+Pf_cremation=PF BOUVIER
+Nom_cremation=ABRY
+Prenom_cremation=RAYMOND
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1808
+Four=
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9707
+Pf_ceremonie=PF PENA
+Nom_ceremonie=GIRAUD
+Prenom_ceremonie=MICHELINE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9707
+Pf_cremation=PF PENA
+Nom_cremation=GIRAUD
+Prenom_cremation=MICHELINE
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=1809
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9699
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=PAREL
+Prenom_ceremonie=YOLANDE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9699
+Pf_cremation=PF SEDRAN
+Nom_cremation=PAREL
+Prenom_cremation=YOLANDE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1810
+Four=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=9709
+Pf_ceremonie=PFG  CHAMBERY
+Nom_ceremonie=ROLLIN
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL  CHAMBERY
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=9709
+Pf_cremation=PFG  CHAMBERY
+Nom_cremation=ROLLIN
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de HOPITAL  CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1812
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE  SAMEDI 22 DECEMBRE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9706
+Pf_ceremonie=PFM
+Nom_ceremonie=FERRAND
+Prenom_ceremonie=GEORGETTE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9706
+Pf_cremation=PFM
+Nom_cremation=FERRAND
+Prenom_cremation=GEORGETTE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1814
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9708
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=LAVILLETTI
+Prenom_ceremonie=PAUL
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL  CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9708
+Pf_cremation=PFG MACHE
+Nom_cremation=LAVILLETTI
+Prenom_cremation=PAUL
+EvenementArrivee_cremation=Arrivée de HOPITAL  CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1815
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft_ceremonie=9711
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=FORESY
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9711
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=FORESY
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=1816
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

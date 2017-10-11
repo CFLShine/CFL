@@ -1,0 +1,274 @@
+Id=4357
+CodeDefunt=4357
+DefuntNom=BINETTI
+DefuntPrenom=DOMINIQUE
+DefuntDecesDate=15/12/2014
+DefuntNationalite=
+DefuntTitre=Monsieur
+DefuntAdresse2=
+DefuntProfession=
+DefuntAdresseCommune=
+DefuntAdresseCodPost=
+DefuntAdresse=
+DefuntNaissancePays=
+DefuntNaissanceDepartement=
+DefuntNaissanceCommune=
+DefuntPrenoms=
+DefuntNomJF=
+DefuntNaissanceDate=  /  /
+DefuntDecesHeure=  :
+DefuntDecesAdresse=HOTEL DIEU
+DefuntDecesMedecin=PREVOT
+DefuntDecesPays=FRANCE
+DefuntDecesCommune=CHAMBERY
+DefuntMereDecede=False
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=
+DefuntMereNom=
+DefuntPereDecede=False
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=
+DefuntPereNom=
+DefuntMariageDate=  /  /
+DefuntDivorseDate=  /  /
+DefuntSituationDecesDate=  /  /
+DefuntSituationNaissanceDate=  /  /
+DefuntNbEnfantsVivants=
+DefuntNbEnfants=
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=
+DefuntSituationNom=
+DefuntSituation=Celibataire
+PouvQualiteAutre=
+PouvQualite=Conjoint
+PouvNom=
+PouvPrenom=
+PouvNomJF=
+PouvAdresse=
+PouvAdresse2=
+PouvCodePost=
+PouvCommune=
+PouvTel1=
+PouvTel2=
+PouvMail=
+ReceptionDate=17/12/2014
+Conseiller=Marion TREBOUTE
+CeremonieDate=19/12/2014
+CeremonieHeure=10:00
+CeremonieLieu=CHAPELLE HOTEL DIEU
+CeremonieType=Religieuse
+PfCeremonie=PFM
+CeremonieDistanceCf=
+CeremonieRegistre=True
+Presse=True
+BourseADons=False
+PfMEB=PFM
+MEBCommune=
+ArriveeCommune=
+MEBDate=19/12/2014
+ArriveeDate=
+MEBHeure=09:15
+ArriveeHeure=
+MEBLieu=HOPITAL DE CHAMBERY
+ArriveeLieu=
+MEBDistanceCf=
+Salon=False
+SalonCase_Name=
+PfTransport=
+TransportDate=  /  /
+TransportDepartLieu=
+TransportArriveeLieu=
+TransportDepartHeure=  :
+TransportArriveeHeure=  :
+TransportVehicule=
+TransportDistanceCf=
+CremationDate=19/12/2014
+CremationHeure=13:00
+CeremonieCrematoriumLieu=CHAPELLE HOTEL DIEU
+CeremonieCrematoriumHeure=10:30
+CeremonieCrematoriumType=Religieuse
+PfCremation=PFM
+CendresDestination=Inhumation
+DispersionDate=  /  /
+DispersionHeure=  :
+DispersionLieu=
+DispersionCommune=
+PfDispersion=
+PfInhumation=PFM
+InhumationDate=19/12/2014
+InhumationHeure=15:30
+InhumationSepulture=1
+CodeConvoit=19/12/2014_0_4
+SepultureCimetiere=CHARRIERE NEUVE
+SepultureCommune=
+SepultureType=Pleine terre
+Concessionaire=False
+AyantDroit=False
+SepultureProvisoire=False
+ConcessionDPINom=
+ConcessionDPINomJF=
+ConcessionDPIPrenom=
+ConcessionDPIAnnee=
+ConcessionAquiseParNom=
+ConcessionAquiseParPrenom=
+ConcessionAquiseDate=  /  /
+ConcessionDuree=
+ConcessionDesignation=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+SepultureDivision=
+SepultureSection=
+SepultureCarre=
+SepultureLigne=
+SepultureTombe=
+CremationArriveeDe=CHAMBERY
+CeremonieCrematoriumDate=19/12/2014
+CremationCommune=Chambéry
+ReservCrema=Marion TREBOUTE
+PfArrivee=PFM
+CodeInhumation=19/12/2014_1_7
+CremationOperateur=AVERONE David
+CremationNoOrdre=1549
+CremationHeureDebut=12:45
+CremationHeureFin=14:30
+CremationAutorisationDate=17/12/2014
+CremationAttestationDate=19/12/2014
+CremationAutorisationCommune=CHAMBERY
+CremationCendresRemisDate=19/12/2014
+CremationCendresRemisANom=PFM
+CremationCendresRemisAPreNom=
+CremationCendresRemisAAdresse=
+CremationCendresRemisACodePost=
+CremationCendresRemisACommune=
+CremationCendresRemisAQualite=INHUMEES CHARRIERE NEUVE
+CremationCercueilType=Bois blanc
+With A FAIRE
+Id=0
+Intitule=[Intitul1]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:05:20
+DateFait=17/12/2014 08:34:09
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:05:20
+DateFait=18/12/2014 08:24:22
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=2
+Intitule=[Intitul4]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:05:20
+DateFait=18/12/2014 08:24:23
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=3
+Intitule=[Intitul6]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:05:20
+DateFait=18/12/2014 08:24:24
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=4
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:05:20
+DateFait=18/12/2014 08:24:24
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=5
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:05:53
+DateFait=18/12/2014 08:24:25
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=6
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:05:53
+DateFait=18/12/2014 08:24:26
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=7
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:05:53
+DateFait=18/12/2014 08:24:27
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=8
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:05:53
+DateFait=18/12/2014 08:24:31
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=9
+Intitule=[Intitul10]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:14:15
+DateFait=18/12/2014 08:24:28
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=10
+Intitule=[Intitul11]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:14:15
+DateFait=18/12/2014 08:24:32
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=11
+Intitule=[Intitul3]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:30:34
+DateFait=18/12/2014 08:24:33
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=12
+Intitule=[Intitul16]
+Fait=True
+Perso=False
+DateAFaire=17/12/2014 08:30:34
+DateFait=18/12/2014 08:24:34
+FaitPar=Marion TREBOUTE
+End With
+With PRESSE
+Id=0
+Type=Avis
+Parution=18/12/2014
+End With

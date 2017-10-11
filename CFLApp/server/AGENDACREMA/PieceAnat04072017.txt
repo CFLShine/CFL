@@ -1,0 +1,6 @@
+Id=4072017
+Agent=THOMAS
+Provenance=CHAMBERY
+Nature=FOETUS
+Four=FTX
+NoOrdre=923

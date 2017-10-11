@@ -1,0 +1,6 @@
+Id=13062016
+Agent=LOIC
+Provenance=CENTRE HOSPITALIER DE CHAMBERY
+Nature=1 FOETUS
+Four=1
+NoOrdre=893

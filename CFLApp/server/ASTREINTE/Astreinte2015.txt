@@ -1,0 +1,3658 @@
+<METASF>
+Id=2
+With TEL
+Id=1022015
+IdPers=12
+End With
+With TEL
+Id=2022015
+IdPers=4
+End With
+With TEL
+Id=3022015
+IdPers=4
+End With
+With TEL
+Id=4022015
+IdPers=4
+End With
+With TEL
+Id=5022015
+IdPers=4
+End With
+With TEL
+Id=6022015
+IdPers=4
+End With
+With TEL
+Id=7022015
+IdPers=4
+End With
+With TEL
+Id=8022015
+IdPers=4
+End With
+With TEL
+Id=9022015
+IdPers=42
+End With
+With TEL
+Id=10022015
+IdPers=42
+End With
+With TEL
+Id=11022015
+IdPers=42
+End With
+With TEL
+Id=12022015
+IdPers=42
+End With
+With TEL
+Id=13022015
+IdPers=42
+End With
+With TEL
+Id=14022015
+IdPers=42
+End With
+With TEL
+Id=15022015
+IdPers=42
+End With
+With TEL
+Id=16022015
+IdPers=3
+End With
+With TEL
+Id=21022015
+IdPers=3
+End With
+With TEL
+Id=17022015
+IdPers=3
+End With
+With TEL
+Id=18022015
+IdPers=3
+End With
+With TEL
+Id=19022015
+IdPers=3
+End With
+With TEL
+Id=20022015
+IdPers=3
+End With
+With TEL
+Id=22022015
+IdPers=3
+End With
+With TEL
+Id=23022015
+IdPers=28
+End With
+With TEL
+Id=24022015
+IdPers=28
+End With
+With TEL
+Id=25022015
+IdPers=28
+End With
+With TEL
+Id=26022015
+IdPers=28
+End With
+With TEL
+Id=27022015
+IdPers=28
+End With
+With TEL
+Id=28022015
+IdPers=28
+End With
+With EQU1
+Id=1022015
+IdPers=9
+End With
+With EQU1
+Id=2022015
+IdPers=12
+End With
+With EQU1
+Id=3022015
+IdPers=10
+End With
+With EQU1
+Id=4022015
+IdPers=10
+End With
+With EQU1
+Id=5022015
+IdPers=10
+End With
+With EQU1
+Id=6022015
+IdPers=10
+End With
+With EQU1
+Id=10022015
+IdPers=10
+End With
+With EQU1
+Id=11022015
+IdPers=10
+End With
+With EQU1
+Id=12022015
+IdPers=10
+End With
+With EQU1
+Id=13022015
+IdPers=10
+End With
+With EQU1
+Id=17022015
+IdPers=10
+End With
+With EQU1
+Id=18022015
+IdPers=10
+End With
+With EQU1
+Id=19022015
+IdPers=10
+End With
+With EQU1
+Id=20022015
+IdPers=10
+End With
+With EQU1
+Id=24022015
+IdPers=10
+End With
+With EQU1
+Id=25022015
+IdPers=10
+End With
+With EQU1
+Id=26022015
+IdPers=10
+End With
+With EQU1
+Id=27022015
+IdPers=10
+End With
+With EQU1
+Id=21022015
+IdPers=14
+End With
+With EQU1
+Id=22022015
+IdPers=14
+End With
+With EQU1
+Id=14022015
+IdPers=31
+End With
+With EQU1
+Id=15022015
+IdPers=31
+End With
+With EQU1
+Id=7022015
+IdPers=31
+End With
+With EQU1
+Id=8022015
+IdPers=31
+End With
+With EQU1
+Id=9022015
+IdPers=12
+End With
+With EQU1
+Id=28022015
+IdPers=12
+End With
+With EQU1
+Id=23022015
+IdPers=12
+End With
+With EQU1
+Id=16022015
+IdPers=12
+End With
+With EQU2
+Id=1022015
+IdPers=26
+End With
+With EQU2
+Id=2022015
+IdPers=28
+End With
+With EQU2
+Id=3022015
+IdPers=28
+End With
+With EQU2
+Id=9022015
+IdPers=28
+End With
+With EQU2
+Id=10022015
+IdPers=28
+End With
+With EQU2
+Id=23022015
+IdPers=28
+End With
+With EQU2
+Id=24022015
+IdPers=28
+End With
+With EQU2
+Id=4022015
+IdPers=14
+End With
+With EQU2
+Id=5022015
+IdPers=14
+End With
+With EQU2
+Id=14022015
+IdPers=14
+End With
+With EQU2
+Id=15022015
+IdPers=14
+End With
+With EQU2
+Id=25022015
+IdPers=14
+End With
+With EQU2
+Id=26022015
+IdPers=14
+End With
+With EQU2
+Id=16022015
+IdPers=7
+End With
+With EQU2
+Id=17022015
+IdPers=7
+End With
+With EQU2
+Id=18022015
+IdPers=7
+End With
+With EQU2
+Id=19022015
+IdPers=7
+End With
+With EQU2
+Id=20022015
+IdPers=7
+End With
+With EQU2
+Id=21022015
+IdPers=7
+End With
+With EQU2
+Id=22022015
+IdPers=7
+End With
+With EQU2
+Id=6022015
+IdPers=26
+End With
+With EQU2
+Id=7022015
+IdPers=28
+End With
+With EQU2
+Id=8022015
+IdPers=28
+End With
+With EQU2
+Id=11022015
+IdPers=14
+End With
+With EQU2
+Id=12022015
+IdPers=14
+End With
+With EQU2
+Id=13022015
+IdPers=26
+End With
+With EQU2
+Id=28022015
+IdPers=14
+End With
+With EQU2
+Id=27022015
+IdPers=26
+End With
+<\METASF>
+<METASF>
+Id=3
+With TEL
+Id=1032015
+IdPers=28
+End With
+With TEL
+Id=2032015
+IdPers=0
+End With
+With TEL
+Id=3032015
+IdPers=0
+End With
+With TEL
+Id=4032015
+IdPers=0
+End With
+With TEL
+Id=5032015
+IdPers=0
+End With
+With TEL
+Id=6032015
+IdPers=0
+End With
+With TEL
+Id=7032015
+IdPers=0
+End With
+With TEL
+Id=8032015
+IdPers=0
+End With
+With TEL
+Id=9032015
+IdPers=12
+End With
+With TEL
+Id=10032015
+IdPers=12
+End With
+With TEL
+Id=11032015
+IdPers=12
+End With
+With TEL
+Id=12032015
+IdPers=12
+End With
+With TEL
+Id=13032015
+IdPers=12
+End With
+With TEL
+Id=14032015
+IdPers=12
+End With
+With TEL
+Id=15032015
+IdPers=12
+End With
+With TEL
+Id=16032015
+IdPers=4
+End With
+With TEL
+Id=17032015
+IdPers=4
+End With
+With TEL
+Id=18032015
+IdPers=4
+End With
+With TEL
+Id=19032015
+IdPers=4
+End With
+With TEL
+Id=20032015
+IdPers=4
+End With
+With TEL
+Id=21032015
+IdPers=4
+End With
+With TEL
+Id=22032015
+IdPers=4
+End With
+With TEL
+Id=23032015
+IdPers=42
+End With
+With TEL
+Id=24032015
+IdPers=42
+End With
+With TEL
+Id=25032015
+IdPers=42
+End With
+With TEL
+Id=26032015
+IdPers=42
+End With
+With TEL
+Id=27032015
+IdPers=42
+End With
+With TEL
+Id=28032015
+IdPers=42
+End With
+With TEL
+Id=29032015
+IdPers=42
+End With
+With TEL
+Id=30032015
+IdPers=3
+End With
+With TEL
+Id=31032015
+IdPers=3
+End With
+With EQU1
+Id=1032015
+IdPers=12
+End With
+With EQU1
+Id=2032015
+IdPers=12
+End With
+With EQU1
+Id=9032015
+IdPers=12
+End With
+With EQU1
+Id=16032015
+IdPers=12
+End With
+With EQU1
+Id=23032015
+IdPers=14
+End With
+With EQU1
+Id=30032015
+IdPers=12
+End With
+With EQU1
+Id=3032015
+IdPers=10
+End With
+With EQU1
+Id=4032015
+IdPers=10
+End With
+With EQU1
+Id=5032015
+IdPers=10
+End With
+With EQU1
+Id=6032015
+IdPers=10
+End With
+With EQU1
+Id=10032015
+IdPers=10
+End With
+With EQU1
+Id=11032015
+IdPers=10
+End With
+With EQU1
+Id=12032015
+IdPers=10
+End With
+With EQU1
+Id=13032015
+IdPers=10
+End With
+With EQU1
+Id=17032015
+IdPers=10
+End With
+With EQU1
+Id=18032015
+IdPers=10
+End With
+With EQU1
+Id=19032015
+IdPers=10
+End With
+With EQU1
+Id=20032015
+IdPers=10
+End With
+With EQU1
+Id=24032015
+IdPers=10
+End With
+With EQU1
+Id=25032015
+IdPers=10
+End With
+With EQU1
+Id=26032015
+IdPers=10
+End With
+With EQU1
+Id=27032015
+IdPers=10
+End With
+With EQU1
+Id=31032015
+IdPers=10
+End With
+With EQU1
+Id=7032015
+IdPers=9
+End With
+With EQU1
+Id=8032015
+IdPers=9
+End With
+With EQU1
+Id=28032015
+IdPers=48
+End With
+With EQU1
+Id=29032015
+IdPers=48
+End With
+With EQU1
+Id=21032015
+IdPers=1
+End With
+With EQU1
+Id=22032015
+IdPers=1
+End With
+With EQU1
+Id=14032015
+IdPers=31
+End With
+With EQU1
+Id=15032015
+IdPers=31
+End With
+With EQU2
+Id=2032015
+IdPers=28
+End With
+With EQU2
+Id=3032015
+IdPers=28
+End With
+With EQU2
+Id=9032015
+IdPers=28
+End With
+With EQU2
+Id=10032015
+IdPers=28
+End With
+With EQU2
+Id=14032015
+IdPers=28
+End With
+With EQU2
+Id=15032015
+IdPers=28
+End With
+With EQU2
+Id=16032015
+IdPers=28
+End With
+With EQU2
+Id=17032015
+IdPers=28
+End With
+With EQU2
+Id=30032015
+IdPers=28
+End With
+With EQU2
+Id=31032015
+IdPers=28
+End With
+With EQU2
+Id=1032015
+IdPers=14
+End With
+With EQU2
+Id=4032015
+IdPers=14
+End With
+With EQU2
+Id=5032015
+IdPers=14
+End With
+With EQU2
+Id=11032015
+IdPers=14
+End With
+With EQU2
+Id=12032015
+IdPers=14
+End With
+With EQU2
+Id=18032015
+IdPers=14
+End With
+With EQU2
+Id=19032015
+IdPers=14
+End With
+With EQU2
+Id=6032015
+IdPers=26
+End With
+With EQU2
+Id=7032015
+IdPers=26
+End With
+With EQU2
+Id=8032015
+IdPers=26
+End With
+With EQU2
+Id=13032015
+IdPers=26
+End With
+With EQU2
+Id=20032015
+IdPers=26
+End With
+With EQU2
+Id=23032015
+IdPers=28
+End With
+With EQU2
+Id=24032015
+IdPers=28
+End With
+With EQU2
+Id=25032015
+IdPers=14
+End With
+With EQU2
+Id=26032015
+IdPers=14
+End With
+With EQU2
+Id=27032015
+IdPers=26
+End With
+With EQU2
+Id=28032015
+IdPers=7
+End With
+With EQU2
+Id=29032015
+IdPers=7
+End With
+With EQU2
+Id=21032015
+IdPers=5
+End With
+With EQU2
+Id=22032015
+IdPers=5
+End With
+<\METASF>
+<METASF>
+Id=4
+With TEL
+Id=1042015
+IdPers=3
+End With
+With TEL
+Id=2042015
+IdPers=3
+End With
+With TEL
+Id=3042015
+IdPers=3
+End With
+With TEL
+Id=4042015
+IdPers=3
+End With
+With TEL
+Id=5042015
+IdPers=3
+End With
+With TEL
+Id=6042015
+IdPers=28
+End With
+With TEL
+Id=7042015
+IdPers=28
+End With
+With TEL
+Id=8042015
+IdPers=28
+End With
+With TEL
+Id=9042015
+IdPers=28
+End With
+With TEL
+Id=10042015
+IdPers=28
+End With
+With TEL
+Id=11042015
+IdPers=28
+End With
+With TEL
+Id=13042015
+IdPers=0
+End With
+With TEL
+Id=14042015
+IdPers=0
+End With
+With TEL
+Id=15042015
+IdPers=0
+End With
+With TEL
+Id=16042015
+IdPers=0
+End With
+With TEL
+Id=17042015
+IdPers=0
+End With
+With TEL
+Id=18042015
+IdPers=0
+End With
+With TEL
+Id=19042015
+IdPers=0
+End With
+With TEL
+Id=12042015
+IdPers=28
+End With
+With TEL
+Id=20042015
+IdPers=12
+End With
+With TEL
+Id=21042015
+IdPers=12
+End With
+With TEL
+Id=22042015
+IdPers=12
+End With
+With TEL
+Id=23042015
+IdPers=12
+End With
+With TEL
+Id=24042015
+IdPers=12
+End With
+With TEL
+Id=25042015
+IdPers=12
+End With
+With TEL
+Id=26042015
+IdPers=12
+End With
+With TEL
+Id=27042015
+IdPers=4
+End With
+With TEL
+Id=28042015
+IdPers=4
+End With
+With TEL
+Id=29042015
+IdPers=4
+End With
+With TEL
+Id=30042015
+IdPers=4
+End With
+With EQU2
+Id=7042015
+IdPers=28
+End With
+With EQU2
+Id=13042015
+IdPers=28
+End With
+With EQU2
+Id=14042015
+IdPers=28
+End With
+With EQU2
+Id=20042015
+IdPers=28
+End With
+With EQU2
+Id=21042015
+IdPers=28
+End With
+With EQU2
+Id=18042015
+IdPers=28
+End With
+With EQU2
+Id=19042015
+IdPers=28
+End With
+With EQU2
+Id=1042015
+IdPers=14
+End With
+With EQU2
+Id=2042015
+IdPers=14
+End With
+With EQU2
+Id=4042015
+IdPers=14
+End With
+With EQU2
+Id=5042015
+IdPers=14
+End With
+With EQU2
+Id=6042015
+IdPers=14
+End With
+With EQU2
+Id=15042015
+IdPers=14
+End With
+With EQU2
+Id=16042015
+IdPers=14
+End With
+With EQU2
+Id=22042015
+IdPers=14
+End With
+With EQU2
+Id=23042015
+IdPers=14
+End With
+With EQU2
+Id=27042015
+IdPers=7
+End With
+With EQU2
+Id=28042015
+IdPers=7
+End With
+With EQU2
+Id=29042015
+IdPers=7
+End With
+With EQU2
+Id=30042015
+IdPers=7
+End With
+With EQU2
+Id=25042015
+IdPers=5
+End With
+With EQU2
+Id=26042015
+IdPers=5
+End With
+With EQU2
+Id=8042015
+IdPers=14
+End With
+With EQU2
+Id=9042015
+IdPers=14
+End With
+With EQU2
+Id=10042015
+IdPers=26
+End With
+With EQU2
+Id=11042015
+IdPers=26
+End With
+With EQU2
+Id=12042015
+IdPers=26
+End With
+With EQU2
+Id=17042015
+IdPers=26
+End With
+With EQU2
+Id=24042015
+IdPers=26
+End With
+With EQU2
+Id=3042015
+IdPers=26
+End With
+With EQU1
+Id=1042015
+IdPers=10
+End With
+With EQU1
+Id=2042015
+IdPers=10
+End With
+With EQU1
+Id=3042015
+IdPers=10
+End With
+With EQU1
+Id=7042015
+IdPers=10
+End With
+With EQU1
+Id=8042015
+IdPers=10
+End With
+With EQU1
+Id=9042015
+IdPers=10
+End With
+With EQU1
+Id=10042015
+IdPers=10
+End With
+With EQU1
+Id=14042015
+IdPers=10
+End With
+With EQU1
+Id=15042015
+IdPers=10
+End With
+With EQU1
+Id=16042015
+IdPers=10
+End With
+With EQU1
+Id=17042015
+IdPers=10
+End With
+With EQU1
+Id=21042015
+IdPers=10
+End With
+With EQU1
+Id=22042015
+IdPers=10
+End With
+With EQU1
+Id=23042015
+IdPers=10
+End With
+With EQU1
+Id=24042015
+IdPers=10
+End With
+With EQU1
+Id=28042015
+IdPers=10
+End With
+With EQU1
+Id=29042015
+IdPers=10
+End With
+With EQU1
+Id=4042015
+IdPers=12
+End With
+With EQU1
+Id=5042015
+IdPers=12
+End With
+With EQU1
+Id=6042015
+IdPers=12
+End With
+With EQU1
+Id=13042015
+IdPers=12
+End With
+With EQU1
+Id=20042015
+IdPers=12
+End With
+With EQU1
+Id=27042015
+IdPers=12
+End With
+With EQU1
+Id=25042015
+IdPers=14
+End With
+With EQU1
+Id=26042015
+IdPers=14
+End With
+With EQU1
+Id=18042015
+IdPers=31
+End With
+With EQU1
+Id=19042015
+IdPers=31
+End With
+With EQU1
+Id=11042015
+IdPers=9
+End With
+With EQU1
+Id=12042015
+IdPers=9
+End With
+<\METASF>
+<METASF>
+Id=6
+With TEL
+Id=1062015
+IdPers=12
+End With
+With TEL
+Id=2062015
+IdPers=12
+End With
+With TEL
+Id=3062015
+IdPers=12
+End With
+With TEL
+Id=4062015
+IdPers=12
+End With
+With TEL
+Id=5062015
+IdPers=12
+End With
+With TEL
+Id=6062015
+IdPers=12
+End With
+With TEL
+Id=7062015
+IdPers=12
+End With
+With TEL
+Id=8062015
+IdPers=31
+End With
+With TEL
+Id=9062015
+IdPers=31
+End With
+With TEL
+Id=10062015
+IdPers=31
+End With
+With TEL
+Id=11062015
+IdPers=31
+End With
+With TEL
+Id=12062015
+IdPers=31
+End With
+With TEL
+Id=13062015
+IdPers=31
+End With
+With TEL
+Id=14062015
+IdPers=31
+End With
+With TEL
+Id=15062015
+IdPers=42
+End With
+With TEL
+Id=16062015
+IdPers=42
+End With
+With TEL
+Id=17062015
+IdPers=42
+End With
+With TEL
+Id=18062015
+IdPers=42
+End With
+With TEL
+Id=19062015
+IdPers=42
+End With
+With TEL
+Id=20062015
+IdPers=42
+End With
+With TEL
+Id=21062015
+IdPers=42
+End With
+With TEL
+Id=22062015
+IdPers=3
+End With
+With TEL
+Id=23062015
+IdPers=3
+End With
+With TEL
+Id=24062015
+IdPers=3
+End With
+With TEL
+Id=25062015
+IdPers=3
+End With
+With TEL
+Id=26062015
+IdPers=3
+End With
+With TEL
+Id=27062015
+IdPers=3
+End With
+With TEL
+Id=28062015
+IdPers=3
+End With
+With TEL
+Id=29062015
+IdPers=28
+End With
+With TEL
+Id=30062015
+IdPers=28
+End With
+With EQU1
+Id=1062015
+IdPers=6
+End With
+With EQU1
+Id=2062015
+IdPers=6
+End With
+With EQU1
+Id=6062015
+IdPers=6
+End With
+With EQU1
+Id=7062015
+IdPers=6
+End With
+With EQU1
+Id=8062015
+IdPers=6
+End With
+With EQU1
+Id=9062015
+IdPers=6
+End With
+With EQU1
+Id=15062015
+IdPers=6
+End With
+With EQU1
+Id=16062015
+IdPers=6
+End With
+With EQU1
+Id=22062015
+IdPers=6
+End With
+With EQU1
+Id=23062015
+IdPers=6
+End With
+With EQU1
+Id=29062015
+IdPers=6
+End With
+With EQU1
+Id=30062015
+IdPers=6
+End With
+With EQU1
+Id=3062015
+IdPers=26
+End With
+With EQU1
+Id=4062015
+IdPers=26
+End With
+With EQU1
+Id=5062015
+IdPers=26
+End With
+With EQU1
+Id=10062015
+IdPers=26
+End With
+With EQU1
+Id=11062015
+IdPers=26
+End With
+With EQU1
+Id=12062015
+IdPers=26
+End With
+With EQU1
+Id=17062015
+IdPers=26
+End With
+With EQU1
+Id=18062015
+IdPers=26
+End With
+With EQU1
+Id=19062015
+IdPers=26
+End With
+With EQU1
+Id=25062015
+IdPers=26
+End With
+With EQU1
+Id=26062015
+IdPers=26
+End With
+With EQU1
+Id=20062015
+IdPers=31
+End With
+With EQU1
+Id=21062015
+IdPers=31
+End With
+With EQU1
+Id=24062015
+IdPers=31
+End With
+With EQU1
+Id=27062015
+IdPers=48
+End With
+With EQU1
+Id=28062015
+IdPers=48
+End With
+With EQU1
+Id=13062015
+IdPers=5
+End With
+With EQU1
+Id=14062015
+IdPers=5
+End With
+With EQU2
+Id=5062015
+IdPers=14
+End With
+With EQU2
+Id=3062015
+IdPers=14
+End With
+With EQU2
+Id=4062015
+IdPers=14
+End With
+With EQU2
+Id=10062015
+IdPers=14
+End With
+With EQU2
+Id=11062015
+IdPers=14
+End With
+With EQU2
+Id=12062015
+IdPers=14
+End With
+With EQU2
+Id=17062015
+IdPers=14
+End With
+With EQU2
+Id=18062015
+IdPers=14
+End With
+With EQU2
+Id=19062015
+IdPers=14
+End With
+With EQU2
+Id=24062015
+IdPers=14
+End With
+With EQU2
+Id=25062015
+IdPers=14
+End With
+With EQU2
+Id=26062015
+IdPers=14
+End With
+With EQU2
+Id=27062015
+IdPers=14
+End With
+With EQU2
+Id=28062015
+IdPers=14
+End With
+With EQU2
+Id=1062015
+IdPers=28
+End With
+With EQU2
+Id=2062015
+IdPers=28
+End With
+With EQU2
+Id=8062015
+IdPers=28
+End With
+With EQU2
+Id=9062015
+IdPers=28
+End With
+With EQU2
+Id=13062015
+IdPers=28
+End With
+With EQU2
+Id=14062015
+IdPers=28
+End With
+With EQU2
+Id=15062015
+IdPers=28
+End With
+With EQU2
+Id=16062015
+IdPers=28
+End With
+With EQU2
+Id=29062015
+IdPers=28
+End With
+With EQU2
+Id=30062015
+IdPers=28
+End With
+With EQU2
+Id=6062015
+IdPers=7
+End With
+With EQU2
+Id=7062015
+IdPers=7
+End With
+With EQU2
+Id=20062015
+IdPers=31
+End With
+With EQU2
+Id=22062015
+IdPers=31
+End With
+With EQU2
+Id=23062015
+IdPers=31
+End With
+<\METASF>
+<METASF>
+Id=7
+With TEL
+Id=1072015
+IdPers=28
+End With
+With TEL
+Id=2072015
+IdPers=28
+End With
+With TEL
+Id=3072015
+IdPers=28
+End With
+With TEL
+Id=4072015
+IdPers=28
+End With
+With TEL
+Id=5072015
+IdPers=28
+End With
+With TEL
+Id=6072015
+IdPers=0
+End With
+With TEL
+Id=7072015
+IdPers=0
+End With
+With TEL
+Id=8072015
+IdPers=0
+End With
+With TEL
+Id=9072015
+IdPers=0
+End With
+With TEL
+Id=10072015
+IdPers=0
+End With
+With TEL
+Id=11072015
+IdPers=0
+End With
+With TEL
+Id=12072015
+IdPers=0
+End With
+With TEL
+Id=13072015
+IdPers=12
+End With
+With TEL
+Id=14072015
+IdPers=12
+End With
+With TEL
+Id=15072015
+IdPers=12
+End With
+With TEL
+Id=16072015
+IdPers=12
+End With
+With TEL
+Id=17072015
+IdPers=12
+End With
+With TEL
+Id=18072015
+IdPers=12
+End With
+With TEL
+Id=19072015
+IdPers=12
+End With
+With TEL
+Id=20072015
+IdPers=31
+End With
+With TEL
+Id=21072015
+IdPers=31
+End With
+With TEL
+Id=22072015
+IdPers=31
+End With
+With TEL
+Id=23072015
+IdPers=31
+End With
+With TEL
+Id=24072015
+IdPers=31
+End With
+With TEL
+Id=25072015
+IdPers=31
+End With
+With TEL
+Id=26072015
+IdPers=31
+End With
+With TEL
+Id=27072015
+IdPers=42
+End With
+With TEL
+Id=28072015
+IdPers=42
+End With
+With TEL
+Id=29072015
+IdPers=42
+End With
+With TEL
+Id=30072015
+IdPers=42
+End With
+With TEL
+Id=31072015
+IdPers=42
+End With
+With EQU2
+Id=6072015
+IdPers=28
+End With
+With EQU2
+Id=7072015
+IdPers=28
+End With
+With EQU2
+Id=11072015
+IdPers=28
+End With
+With EQU2
+Id=12072015
+IdPers=28
+End With
+With EQU2
+Id=20072015
+IdPers=28
+End With
+With EQU2
+Id=21072015
+IdPers=28
+End With
+With EQU2
+Id=27072015
+IdPers=28
+End With
+With EQU2
+Id=28072015
+IdPers=28
+End With
+With EQU2
+Id=1072015
+IdPers=14
+End With
+With EQU2
+Id=2072015
+IdPers=14
+End With
+With EQU2
+Id=3072015
+IdPers=14
+End With
+With EQU2
+Id=8072015
+IdPers=14
+End With
+With EQU2
+Id=9072015
+IdPers=14
+End With
+With EQU2
+Id=10072015
+IdPers=14
+End With
+With EQU2
+Id=4072015
+IdPers=9
+End With
+With EQU2
+Id=5072015
+IdPers=9
+End With
+With EQU2
+Id=13072015
+IdPers=14
+End With
+With EQU2
+Id=14072015
+IdPers=14
+End With
+With EQU2
+Id=22072015
+IdPers=14
+End With
+With EQU2
+Id=23072015
+IdPers=14
+End With
+With EQU2
+Id=24072015
+IdPers=14
+End With
+With EQU2
+Id=25072015
+IdPers=14
+End With
+With EQU2
+Id=26072015
+IdPers=14
+End With
+With EQU2
+Id=29072015
+IdPers=14
+End With
+With EQU2
+Id=30072015
+IdPers=14
+End With
+With EQU2
+Id=31072015
+IdPers=14
+End With
+With EQU2
+Id=15072015
+IdPers=14
+End With
+With EQU2
+Id=16072015
+IdPers=14
+End With
+With EQU2
+Id=17072015
+IdPers=14
+End With
+With EQU2
+Id=18072015
+IdPers=14
+End With
+With EQU2
+Id=19072015
+IdPers=14
+End With
+With EQU1
+Id=25072015
+IdPers=12
+End With
+With EQU1
+Id=26072015
+IdPers=12
+End With
+With EQU1
+Id=27072015
+IdPers=12
+End With
+With EQU1
+Id=28072015
+IdPers=12
+End With
+With EQU1
+Id=11072015
+IdPers=31
+End With
+With EQU1
+Id=12072015
+IdPers=31
+End With
+With EQU1
+Id=1072015
+IdPers=26
+End With
+With EQU1
+Id=2072015
+IdPers=26
+End With
+With EQU1
+Id=3072015
+IdPers=26
+End With
+With EQU1
+Id=4072015
+IdPers=6
+End With
+With EQU1
+Id=5072015
+IdPers=6
+End With
+With EQU1
+Id=8072015
+IdPers=26
+End With
+With EQU1
+Id=9072015
+IdPers=26
+End With
+With EQU1
+Id=10072015
+IdPers=26
+End With
+With EQU1
+Id=15072015
+IdPers=26
+End With
+With EQU1
+Id=16072015
+IdPers=26
+End With
+With EQU1
+Id=17072015
+IdPers=26
+End With
+With EQU1
+Id=22072015
+IdPers=26
+End With
+With EQU1
+Id=23072015
+IdPers=26
+End With
+With EQU1
+Id=24072015
+IdPers=26
+End With
+With EQU1
+Id=29072015
+IdPers=26
+End With
+With EQU1
+Id=30072015
+IdPers=26
+End With
+With EQU1
+Id=31072015
+IdPers=26
+End With
+With EQU1
+Id=13072015
+IdPers=5
+End With
+With EQU1
+Id=14072015
+IdPers=5
+End With
+With EQU1
+Id=6072015
+IdPers=6
+End With
+With EQU1
+Id=7072015
+IdPers=6
+End With
+With EQU1
+Id=18072015
+IdPers=26
+End With
+With EQU1
+Id=19072015
+IdPers=26
+End With
+With EQU1
+Id=20072015
+IdPers=6
+End With
+With EQU1
+Id=21072015
+IdPers=6
+End With
+<\METASF>
+<METASF>
+Id=8
+With TEL
+Id=1082015
+IdPers=42
+End With
+With TEL
+Id=2082015
+IdPers=42
+End With
+With TEL
+Id=3082015
+IdPers=28
+End With
+With TEL
+Id=4082015
+IdPers=28
+End With
+With TEL
+Id=5082015
+IdPers=28
+End With
+With TEL
+Id=6082015
+IdPers=28
+End With
+With TEL
+Id=7082015
+IdPers=28
+End With
+With TEL
+Id=8082015
+IdPers=28
+End With
+With TEL
+Id=9082015
+IdPers=28
+End With
+With TEL
+Id=10082015
+IdPers=12
+End With
+With TEL
+Id=11082015
+IdPers=12
+End With
+With TEL
+Id=12082015
+IdPers=12
+End With
+With TEL
+Id=13082015
+IdPers=12
+End With
+With TEL
+Id=14082015
+IdPers=12
+End With
+With TEL
+Id=15082015
+IdPers=12
+End With
+With TEL
+Id=16082015
+IdPers=12
+End With
+With TEL
+Id=17082015
+IdPers=31
+End With
+With TEL
+Id=18082015
+IdPers=31
+End With
+With TEL
+Id=19082015
+IdPers=31
+End With
+With TEL
+Id=20082015
+IdPers=31
+End With
+With TEL
+Id=21082015
+IdPers=31
+End With
+With TEL
+Id=22082015
+IdPers=31
+End With
+With TEL
+Id=23082015
+IdPers=31
+End With
+With TEL
+Id=24082015
+IdPers=42
+End With
+With TEL
+Id=25082015
+IdPers=42
+End With
+With TEL
+Id=26082015
+IdPers=42
+End With
+With TEL
+Id=27082015
+IdPers=42
+End With
+With TEL
+Id=28082015
+IdPers=42
+End With
+With TEL
+Id=29082015
+IdPers=42
+End With
+With TEL
+Id=30082015
+IdPers=42
+End With
+With TEL
+Id=31082015
+IdPers=0
+End With
+With EQU1
+Id=3082015
+IdPers=12
+End With
+With EQU1
+Id=4082015
+IdPers=12
+End With
+With EQU1
+Id=10082015
+IdPers=28
+End With
+With EQU1
+Id=11082015
+IdPers=28
+End With
+With EQU1
+Id=17082015
+IdPers=6
+End With
+With EQU1
+Id=18082015
+IdPers=6
+End With
+With EQU1
+Id=24082015
+IdPers=6
+End With
+With EQU1
+Id=25082015
+IdPers=6
+End With
+With EQU1
+Id=31082015
+IdPers=14
+End With
+With EQU1
+Id=1082015
+IdPers=12
+End With
+With EQU1
+Id=2082015
+IdPers=12
+End With
+With EQU1
+Id=22082015
+IdPers=12
+End With
+With EQU1
+Id=23082015
+IdPers=12
+End With
+With EQU1
+Id=15082015
+IdPers=28
+End With
+With EQU1
+Id=16082015
+IdPers=28
+End With
+With EQU1
+Id=8082015
+IdPers=7
+End With
+With EQU1
+Id=9082015
+IdPers=7
+End With
+With EQU1
+Id=5082015
+IdPers=14
+End With
+With EQU1
+Id=6082015
+IdPers=14
+End With
+With EQU1
+Id=7082015
+IdPers=14
+End With
+With EQU1
+Id=12082015
+IdPers=14
+End With
+With EQU1
+Id=13082015
+IdPers=14
+End With
+With EQU1
+Id=14082015
+IdPers=28
+End With
+With EQU1
+Id=19082015
+IdPers=14
+End With
+With EQU1
+Id=20082015
+IdPers=14
+End With
+With EQU1
+Id=21082015
+IdPers=14
+End With
+With EQU1
+Id=26082015
+IdPers=14
+End With
+With EQU1
+Id=27082015
+IdPers=14
+End With
+With EQU1
+Id=28082015
+IdPers=14
+End With
+With EQU1
+Id=29082015
+IdPers=6
+End With
+With EQU1
+Id=30082015
+IdPers=6
+End With
+With EQU2
+Id=1082015
+IdPers=26
+End With
+With EQU2
+Id=2082015
+IdPers=26
+End With
+With EQU2
+Id=5082015
+IdPers=26
+End With
+With EQU2
+Id=6082015
+IdPers=26
+End With
+With EQU2
+Id=7082015
+IdPers=26
+End With
+With EQU2
+Id=12082015
+IdPers=26
+End With
+With EQU2
+Id=13082015
+IdPers=26
+End With
+With EQU2
+Id=14082015
+IdPers=14
+End With
+With EQU2
+Id=19082015
+IdPers=26
+End With
+With EQU2
+Id=20082015
+IdPers=26
+End With
+With EQU2
+Id=21082015
+IdPers=26
+End With
+With EQU2
+Id=26082015
+IdPers=26
+End With
+With EQU2
+Id=27082015
+IdPers=26
+End With
+With EQU2
+Id=28082015
+IdPers=26
+End With
+With EQU2
+Id=10082015
+IdPers=26
+End With
+With EQU2
+Id=11082015
+IdPers=26
+End With
+With EQU2
+Id=3082015
+IdPers=28
+End With
+With EQU2
+Id=4082015
+IdPers=28
+End With
+With EQU2
+Id=17082015
+IdPers=28
+End With
+With EQU2
+Id=18082015
+IdPers=28
+End With
+With EQU2
+Id=24082015
+IdPers=28
+End With
+With EQU2
+Id=25082015
+IdPers=28
+End With
+With EQU2
+Id=31082015
+IdPers=28
+End With
+With EQU2
+Id=8082015
+IdPers=47
+End With
+With EQU2
+Id=9082015
+IdPers=47
+End With
+With EQU2
+Id=15082015
+IdPers=14
+End With
+With EQU2
+Id=16082015
+IdPers=14
+End With
+With EQU2
+Id=22082015
+IdPers=31
+End With
+With EQU2
+Id=23082015
+IdPers=31
+End With
+With EQU2
+Id=29082015
+IdPers=14
+End With
+With EQU2
+Id=30082015
+IdPers=14
+End With
+<\METASF>
+<METASF>
+Id=9
+With TEL
+Id=1092015
+IdPers=0
+End With
+With TEL
+Id=2092015
+IdPers=0
+End With
+With TEL
+Id=3092015
+IdPers=0
+End With
+With TEL
+Id=4092015
+IdPers=0
+End With
+With TEL
+Id=5092015
+IdPers=0
+End With
+With TEL
+Id=7092015
+IdPers=12
+End With
+With TEL
+Id=8092015
+IdPers=12
+End With
+With TEL
+Id=9092015
+IdPers=12
+End With
+With TEL
+Id=10092015
+IdPers=12
+End With
+With TEL
+Id=11092015
+IdPers=12
+End With
+With TEL
+Id=12092015
+IdPers=12
+End With
+With TEL
+Id=13092015
+IdPers=12
+End With
+With TEL
+Id=6092015
+IdPers=0
+End With
+With TEL
+Id=14092015
+IdPers=42
+End With
+With TEL
+Id=15092015
+IdPers=42
+End With
+With TEL
+Id=16092015
+IdPers=42
+End With
+With TEL
+Id=17092015
+IdPers=42
+End With
+With TEL
+Id=18092015
+IdPers=42
+End With
+With TEL
+Id=19092015
+IdPers=42
+End With
+With TEL
+Id=20092015
+IdPers=42
+End With
+With TEL
+Id=21092015
+IdPers=31
+End With
+With TEL
+Id=22092015
+IdPers=31
+End With
+With TEL
+Id=23092015
+IdPers=31
+End With
+With TEL
+Id=24092015
+IdPers=31
+End With
+With TEL
+Id=25092015
+IdPers=31
+End With
+With TEL
+Id=26092015
+IdPers=31
+End With
+With TEL
+Id=27092015
+IdPers=31
+End With
+With TEL
+Id=28092015
+IdPers=28
+End With
+With TEL
+Id=29092015
+IdPers=28
+End With
+With TEL
+Id=30092015
+IdPers=28
+End With
+With EQU2
+Id=1092015
+IdPers=28
+End With
+With EQU2
+Id=7092015
+IdPers=7
+End With
+With EQU2
+Id=8092015
+IdPers=7
+End With
+With EQU2
+Id=14092015
+IdPers=28
+End With
+With EQU2
+Id=15092015
+IdPers=28
+End With
+With EQU2
+Id=21092015
+IdPers=28
+End With
+With EQU2
+Id=22092015
+IdPers=28
+End With
+With EQU2
+Id=28092015
+IdPers=28
+End With
+With EQU2
+Id=29092015
+IdPers=28
+End With
+With EQU2
+Id=19092015
+IdPers=28
+End With
+With EQU2
+Id=20092015
+IdPers=28
+End With
+With EQU2
+Id=9092015
+IdPers=7
+End With
+With EQU2
+Id=10092015
+IdPers=7
+End With
+With EQU2
+Id=11092015
+IdPers=14
+End With
+With EQU2
+Id=12092015
+IdPers=14
+End With
+With EQU2
+Id=13092015
+IdPers=14
+End With
+With EQU2
+Id=5092015
+IdPers=26
+End With
+With EQU2
+Id=6092015
+IdPers=26
+End With
+With EQU2
+Id=4092015
+IdPers=26
+End With
+With EQU2
+Id=3092015
+IdPers=26
+End With
+With EQU2
+Id=2092015
+IdPers=26
+End With
+With EQU2
+Id=16092015
+IdPers=26
+End With
+With EQU2
+Id=17092015
+IdPers=26
+End With
+With EQU2
+Id=18092015
+IdPers=26
+End With
+With EQU2
+Id=23092015
+IdPers=26
+End With
+With EQU2
+Id=24092015
+IdPers=26
+End With
+With EQU2
+Id=25092015
+IdPers=26
+End With
+With EQU2
+Id=30092015
+IdPers=26
+End With
+With EQU2
+Id=26092015
+IdPers=47
+End With
+With EQU2
+Id=27092015
+IdPers=47
+End With
+With EQU1
+Id=1092015
+IdPers=14
+End With
+With EQU1
+Id=7092015
+IdPers=6
+End With
+With EQU1
+Id=8092015
+IdPers=6
+End With
+With EQU1
+Id=14092015
+IdPers=6
+End With
+With EQU1
+Id=15092015
+IdPers=6
+End With
+With EQU1
+Id=21092015
+IdPers=6
+End With
+With EQU1
+Id=22092015
+IdPers=6
+End With
+With EQU1
+Id=28092015
+IdPers=6
+End With
+With EQU1
+Id=29092015
+IdPers=6
+End With
+With EQU1
+Id=12092015
+IdPers=6
+End With
+With EQU1
+Id=13092015
+IdPers=6
+End With
+With EQU1
+Id=2092015
+IdPers=14
+End With
+With EQU1
+Id=3092015
+IdPers=14
+End With
+With EQU1
+Id=4092015
+IdPers=14
+End With
+With EQU1
+Id=16092015
+IdPers=14
+End With
+With EQU1
+Id=17092015
+IdPers=14
+End With
+With EQU1
+Id=18092015
+IdPers=14
+End With
+With EQU1
+Id=23092015
+IdPers=14
+End With
+With EQU1
+Id=24092015
+IdPers=14
+End With
+With EQU1
+Id=25092015
+IdPers=14
+End With
+With EQU1
+Id=5092015
+IdPers=9
+End With
+With EQU1
+Id=6092015
+IdPers=9
+End With
+With EQU1
+Id=9092015
+IdPers=26
+End With
+With EQU1
+Id=10092015
+IdPers=26
+End With
+With EQU1
+Id=11092015
+IdPers=26
+End With
+With EQU1
+Id=30092015
+IdPers=31
+End With
+With EQU1
+Id=19092015
+IdPers=31
+End With
+With EQU1
+Id=20092015
+IdPers=31
+End With
+With EQU1
+Id=26092015
+IdPers=5
+End With
+With EQU1
+Id=27092015
+IdPers=5
+End With
+<\METASF>
+<METASF>
+Id=10
+With EQU1
+Id=3102015
+IdPers=9
+End With
+With EQU1
+Id=4102015
+IdPers=9
+End With
+With EQU1
+Id=10102015
+IdPers=12
+End With
+With EQU1
+Id=11102015
+IdPers=12
+End With
+With EQU1
+Id=17102015
+IdPers=28
+End With
+With EQU1
+Id=18102015
+IdPers=28
+End With
+With EQU1
+Id=24102015
+IdPers=31
+End With
+With EQU1
+Id=25102015
+IdPers=31
+End With
+With EQU1
+Id=31102015
+IdPers=14
+End With
+With EQU1
+Id=1102015
+IdPers=26
+End With
+With EQU1
+Id=2102015
+IdPers=26
+End With
+With EQU1
+Id=7102015
+IdPers=26
+End With
+With EQU1
+Id=8102015
+IdPers=26
+End With
+With EQU1
+Id=9102015
+IdPers=26
+End With
+With EQU1
+Id=14102015
+IdPers=26
+End With
+With EQU1
+Id=15102015
+IdPers=26
+End With
+With EQU1
+Id=16102015
+IdPers=26
+End With
+With EQU1
+Id=21102015
+IdPers=26
+End With
+With EQU1
+Id=22102015
+IdPers=26
+End With
+With EQU1
+Id=23102015
+IdPers=26
+End With
+With EQU1
+Id=28102015
+IdPers=26
+End With
+With EQU1
+Id=29102015
+IdPers=26
+End With
+With EQU1
+Id=30102015
+IdPers=26
+End With
+With EQU1
+Id=5102015
+IdPers=28
+End With
+With EQU1
+Id=6102015
+IdPers=28
+End With
+With EQU1
+Id=12102015
+IdPers=31
+End With
+With EQU1
+Id=13102015
+IdPers=31
+End With
+With EQU1
+Id=19102015
+IdPers=31
+End With
+With EQU1
+Id=20102015
+IdPers=31
+End With
+With EQU1
+Id=26102015
+IdPers=31
+End With
+With EQU1
+Id=27102015
+IdPers=31
+End With
+With EQU2
+Id=1102015
+IdPers=31
+End With
+With EQU2
+Id=2102015
+IdPers=31
+End With
+With EQU2
+Id=7102015
+IdPers=31
+End With
+With EQU2
+Id=8102015
+IdPers=31
+End With
+With EQU2
+Id=9102015
+IdPers=31
+End With
+With EQU2
+Id=14102015
+IdPers=31
+End With
+With EQU2
+Id=15102015
+IdPers=31
+End With
+With EQU2
+Id=16102015
+IdPers=9
+End With
+With EQU2
+Id=21102015
+IdPers=31
+End With
+With EQU2
+Id=22102015
+IdPers=31
+End With
+With EQU2
+Id=23102015
+IdPers=31
+End With
+With EQU2
+Id=24102015
+IdPers=6
+End With
+With EQU2
+Id=25102015
+IdPers=6
+End With
+With EQU2
+Id=28102015
+IdPers=31
+End With
+With EQU2
+Id=29102015
+IdPers=31
+End With
+With EQU2
+Id=30102015
+IdPers=14
+End With
+With EQU2
+Id=10102015
+IdPers=47
+End With
+With EQU2
+Id=11102015
+IdPers=47
+End With
+With EQU2
+Id=5102015
+IdPers=6
+End With
+With EQU2
+Id=6102015
+IdPers=6
+End With
+With EQU2
+Id=12102015
+IdPers=6
+End With
+With EQU2
+Id=13102015
+IdPers=6
+End With
+With EQU2
+Id=17102015
+IdPers=26
+End With
+With EQU2
+Id=18102015
+IdPers=26
+End With
+With EQU2
+Id=19102015
+IdPers=6
+End With
+With EQU2
+Id=20102015
+IdPers=6
+End With
+With EQU2
+Id=26102015
+IdPers=6
+End With
+With EQU2
+Id=27102015
+IdPers=6
+End With
+With EQU2
+Id=31102015
+IdPers=12
+End With
+With EQU2
+Id=3102015
+IdPers=26
+End With
+With EQU2
+Id=4102015
+IdPers=26
+End With
+With TEL
+Id=1102015
+IdPers=28
+End With
+With TEL
+Id=2102015
+IdPers=28
+End With
+With TEL
+Id=3102015
+IdPers=28
+End With
+With TEL
+Id=4102015
+IdPers=28
+End With
+With TEL
+Id=5102015
+IdPers=0
+End With
+With TEL
+Id=6102015
+IdPers=0
+End With
+With TEL
+Id=7102015
+IdPers=0
+End With
+With TEL
+Id=8102015
+IdPers=0
+End With
+With TEL
+Id=9102015
+IdPers=0
+End With
+With TEL
+Id=10102015
+IdPers=0
+End With
+With TEL
+Id=11102015
+IdPers=0
+End With
+With TEL
+Id=12102015
+IdPers=12
+End With
+With TEL
+Id=13102015
+IdPers=12
+End With
+With TEL
+Id=14102015
+IdPers=12
+End With
+With TEL
+Id=15102015
+IdPers=12
+End With
+With TEL
+Id=16102015
+IdPers=12
+End With
+With TEL
+Id=17102015
+IdPers=12
+End With
+With TEL
+Id=18102015
+IdPers=12
+End With
+With TEL
+Id=19102015
+IdPers=42
+End With
+With TEL
+Id=20102015
+IdPers=42
+End With
+With TEL
+Id=21102015
+IdPers=42
+End With
+With TEL
+Id=22102015
+IdPers=42
+End With
+With TEL
+Id=23102015
+IdPers=42
+End With
+With TEL
+Id=24102015
+IdPers=42
+End With
+With TEL
+Id=25102015
+IdPers=42
+End With
+With TEL
+Id=26102015
+IdPers=31
+End With
+With TEL
+Id=27102015
+IdPers=31
+End With
+With TEL
+Id=28102015
+IdPers=31
+End With
+With TEL
+Id=29102015
+IdPers=31
+End With
+With TEL
+Id=30102015
+IdPers=31
+End With
+With TEL
+Id=31102015
+IdPers=31
+End With
+<\METASF>
+<METASF>
+Id=11
+With TEL
+Id=1112015
+IdPers=31
+End With
+With TEL
+Id=2112015
+IdPers=28
+End With
+With TEL
+Id=3112015
+IdPers=28
+End With
+With TEL
+Id=4112015
+IdPers=28
+End With
+With TEL
+Id=5112015
+IdPers=28
+End With
+With TEL
+Id=6112015
+IdPers=28
+End With
+With TEL
+Id=7112015
+IdPers=28
+End With
+With TEL
+Id=8112015
+IdPers=28
+End With
+With TEL
+Id=9112015
+IdPers=0
+End With
+With TEL
+Id=10112015
+IdPers=0
+End With
+With TEL
+Id=11112015
+IdPers=0
+End With
+With TEL
+Id=12112015
+IdPers=0
+End With
+With TEL
+Id=13112015
+IdPers=0
+End With
+With TEL
+Id=14112015
+IdPers=0
+End With
+With TEL
+Id=15112015
+IdPers=0
+End With
+With TEL
+Id=16112015
+IdPers=42
+End With
+With TEL
+Id=17112015
+IdPers=42
+End With
+With TEL
+Id=18112015
+IdPers=42
+End With
+With TEL
+Id=19112015
+IdPers=42
+End With
+With TEL
+Id=20112015
+IdPers=42
+End With
+With TEL
+Id=21112015
+IdPers=42
+End With
+With TEL
+Id=22112015
+IdPers=42
+End With
+With TEL
+Id=23112015
+IdPers=12
+End With
+With TEL
+Id=24112015
+IdPers=12
+End With
+With TEL
+Id=25112015
+IdPers=12
+End With
+With TEL
+Id=26112015
+IdPers=12
+End With
+With TEL
+Id=27112015
+IdPers=12
+End With
+With TEL
+Id=28112015
+IdPers=12
+End With
+With TEL
+Id=29112015
+IdPers=12
+End With
+With TEL
+Id=30112015
+IdPers=31
+End With
+With EQU1
+Id=1112015
+IdPers=14
+End With
+With EQU1
+Id=2112015
+IdPers=31
+End With
+With EQU1
+Id=3112015
+IdPers=31
+End With
+With EQU1
+Id=4112015
+IdPers=14
+End With
+With EQU1
+Id=5112015
+IdPers=14
+End With
+With EQU1
+Id=6112015
+IdPers=14
+End With
+With EQU1
+Id=12112015
+IdPers=14
+End With
+With EQU1
+Id=13112015
+IdPers=14
+End With
+With EQU1
+Id=18112015
+IdPers=14
+End With
+With EQU1
+Id=19112015
+IdPers=14
+End With
+With EQU1
+Id=20112015
+IdPers=14
+End With
+With EQU1
+Id=25112015
+IdPers=14
+End With
+With EQU1
+Id=26112015
+IdPers=14
+End With
+With EQU1
+Id=27112015
+IdPers=14
+End With
+With EQU1
+Id=9112015
+IdPers=31
+End With
+With EQU1
+Id=16112015
+IdPers=31
+End With
+With EQU1
+Id=17112015
+IdPers=31
+End With
+With EQU1
+Id=23112015
+IdPers=31
+End With
+With EQU1
+Id=24112015
+IdPers=31
+End With
+With EQU1
+Id=30112015
+IdPers=31
+End With
+With EQU1
+Id=7112015
+IdPers=9
+End With
+With EQU1
+Id=8112015
+IdPers=9
+End With
+With EQU1
+Id=10112015
+IdPers=7
+End With
+With EQU1
+Id=11112015
+IdPers=7
+End With
+With EQU1
+Id=14112015
+IdPers=14
+End With
+With EQU1
+Id=15112015
+IdPers=14
+End With
+With EQU1
+Id=21112015
+IdPers=26
+End With
+With EQU1
+Id=22112015
+IdPers=26
+End With
+With EQU1
+Id=28112015
+IdPers=31
+End With
+With EQU1
+Id=29112015
+IdPers=31
+End With
+With EQU2
+Id=1112015
+IdPers=12
+End With
+With EQU2
+Id=2112015
+IdPers=6
+End With
+With EQU2
+Id=3112015
+IdPers=6
+End With
+With EQU2
+Id=4112015
+IdPers=26
+End With
+With EQU2
+Id=5112015
+IdPers=26
+End With
+With EQU2
+Id=6112015
+IdPers=26
+End With
+With EQU2
+Id=12112015
+IdPers=26
+End With
+With EQU2
+Id=13112015
+IdPers=26
+End With
+With EQU2
+Id=18112015
+IdPers=26
+End With
+With EQU2
+Id=19112015
+IdPers=26
+End With
+With EQU2
+Id=20112015
+IdPers=26
+End With
+With EQU2
+Id=25112015
+IdPers=26
+End With
+With EQU2
+Id=26112015
+IdPers=26
+End With
+With EQU2
+Id=27112015
+IdPers=26
+End With
+With EQU2
+Id=9112015
+IdPers=6
+End With
+With EQU2
+Id=16112015
+IdPers=6
+End With
+With EQU2
+Id=17112015
+IdPers=6
+End With
+With EQU2
+Id=23112015
+IdPers=6
+End With
+With EQU2
+Id=24112015
+IdPers=6
+End With
+With EQU2
+Id=30112015
+IdPers=6
+End With
+With EQU2
+Id=7112015
+IdPers=26
+End With
+With EQU2
+Id=8112015
+IdPers=26
+End With
+With EQU2
+Id=10112015
+IdPers=6
+End With
+With EQU2
+Id=11112015
+IdPers=6
+End With
+With EQU2
+Id=14112015
+IdPers=28
+End With
+With EQU2
+Id=15112015
+IdPers=28
+End With
+With EQU2
+Id=21112015
+IdPers=47
+End With
+With EQU2
+Id=22112015
+IdPers=47
+End With
+With EQU2
+Id=28112015
+IdPers=14
+End With
+With EQU2
+Id=29112015
+IdPers=14
+End With
+<\METASF>
+<METASF>
+Id=12
+With EQU1
+Id=5122015
+IdPers=9
+End With
+With EQU1
+Id=6122015
+IdPers=9
+End With
+With EQU1
+Id=12122015
+IdPers=7
+End With
+With EQU1
+Id=13122015
+IdPers=7
+End With
+With EQU1
+Id=19122015
+IdPers=28
+End With
+With EQU1
+Id=20122015
+IdPers=28
+End With
+With EQU1
+Id=27122015
+IdPers=14
+End With
+With EQU1
+Id=26122015
+IdPers=14
+End With
+With EQU1
+Id=1122015
+IdPers=31
+End With
+With EQU1
+Id=2122015
+IdPers=14
+End With
+With EQU1
+Id=3122015
+IdPers=14
+End With
+With EQU1
+Id=4122015
+IdPers=14
+End With
+With EQU1
+Id=7122015
+IdPers=31
+End With
+With EQU1
+Id=8122015
+IdPers=31
+End With
+With EQU1
+Id=14122015
+IdPers=31
+End With
+With EQU1
+Id=15122015
+IdPers=31
+End With
+With EQU1
+Id=21122015
+IdPers=31
+End With
+With EQU1
+Id=22122015
+IdPers=31
+End With
+With EQU1
+Id=28122015
+IdPers=31
+End With
+With EQU1
+Id=29122015
+IdPers=31
+End With
+With EQU1
+Id=9122015
+IdPers=14
+End With
+With EQU1
+Id=10122015
+IdPers=14
+End With
+With EQU1
+Id=11122015
+IdPers=14
+End With
+With EQU1
+Id=16122015
+IdPers=14
+End With
+With EQU1
+Id=17122015
+IdPers=14
+End With
+With EQU1
+Id=18122015
+IdPers=14
+End With
+With EQU1
+Id=23122015
+IdPers=14
+End With
+With EQU1
+Id=24122015
+IdPers=26
+End With
+With EQU1
+Id=25122015
+IdPers=26
+End With
+With EQU1
+Id=30122015
+IdPers=14
+End With
+With EQU1
+Id=31122015
+IdPers=12
+End With
+With EQU2
+Id=5122015
+IdPers=26
+End With
+With EQU2
+Id=6122015
+IdPers=26
+End With
+With EQU2
+Id=12122015
+IdPers=6
+End With
+With EQU2
+Id=13122015
+IdPers=6
+End With
+With EQU2
+Id=19122015
+IdPers=12
+End With
+With EQU2
+Id=20122015
+IdPers=12
+End With
+With EQU2
+Id=26122015
+IdPers=31
+End With
+With EQU2
+Id=27122015
+IdPers=31
+End With
+With EQU2
+Id=1122015
+IdPers=6
+End With
+With EQU2
+Id=2122015
+IdPers=26
+End With
+With EQU2
+Id=3122015
+IdPers=26
+End With
+With EQU2
+Id=4122015
+IdPers=26
+End With
+With EQU2
+Id=7122015
+IdPers=6
+End With
+With EQU2
+Id=8122015
+IdPers=6
+End With
+With EQU2
+Id=14122015
+IdPers=6
+End With
+With EQU2
+Id=15122015
+IdPers=6
+End With
+With EQU2
+Id=21122015
+IdPers=6
+End With
+With EQU2
+Id=22122015
+IdPers=6
+End With
+With EQU2
+Id=28122015
+IdPers=6
+End With
+With EQU2
+Id=29122015
+IdPers=6
+End With
+With EQU2
+Id=9122015
+IdPers=26
+End With
+With EQU2
+Id=10122015
+IdPers=26
+End With
+With EQU2
+Id=11122015
+IdPers=26
+End With
+With EQU2
+Id=16122015
+IdPers=26
+End With
+With EQU2
+Id=17122015
+IdPers=26
+End With
+With EQU2
+Id=18122015
+IdPers=26
+End With
+With EQU2
+Id=23122015
+IdPers=26
+End With
+With EQU2
+Id=24122015
+IdPers=14
+End With
+With EQU2
+Id=25122015
+IdPers=14
+End With
+With EQU2
+Id=30122015
+IdPers=26
+End With
+With EQU2
+Id=31122015
+IdPers=26
+End With
+With TEL
+Id=1122015
+IdPers=31
+End With
+With TEL
+Id=2122015
+IdPers=31
+End With
+With TEL
+Id=3122015
+IdPers=31
+End With
+With TEL
+Id=4122015
+IdPers=31
+End With
+With TEL
+Id=5122015
+IdPers=31
+End With
+With TEL
+Id=6122015
+IdPers=31
+End With
+With TEL
+Id=7122015
+IdPers=28
+End With
+With TEL
+Id=8122015
+IdPers=28
+End With
+With TEL
+Id=9122015
+IdPers=28
+End With
+With TEL
+Id=10122015
+IdPers=28
+End With
+With TEL
+Id=11122015
+IdPers=28
+End With
+With TEL
+Id=12122015
+IdPers=28
+End With
+With TEL
+Id=13122015
+IdPers=28
+End With
+With TEL
+Id=14122015
+IdPers=12
+End With
+With TEL
+Id=15122015
+IdPers=12
+End With
+With TEL
+Id=16122015
+IdPers=12
+End With
+With TEL
+Id=17122015
+IdPers=12
+End With
+With TEL
+Id=18122015
+IdPers=12
+End With
+With TEL
+Id=19122015
+IdPers=12
+End With
+With TEL
+Id=20122015
+IdPers=12
+End With
+With TEL
+Id=21122015
+IdPers=42
+End With
+With TEL
+Id=22122015
+IdPers=42
+End With
+With TEL
+Id=23122015
+IdPers=42
+End With
+With TEL
+Id=24122015
+IdPers=42
+End With
+With TEL
+Id=25122015
+IdPers=42
+End With
+With TEL
+Id=26122015
+IdPers=42
+End With
+With TEL
+Id=27122015
+IdPers=42
+End With
+With TEL
+Id=28122015
+IdPers=12
+End With
+With TEL
+Id=29122015
+IdPers=12
+End With
+With TEL
+Id=30122015
+IdPers=12
+End With
+With TEL
+Id=31122015
+IdPers=12
+End With
+<\METASF>

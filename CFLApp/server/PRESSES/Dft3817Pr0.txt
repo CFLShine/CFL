@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=540
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 VOGLANS, BARBERAZ\f1\par<Ret>\f0 Madame Th\'e9r\'e8se RIBAULT sa maman; Darianne et Adrien son compagnon, R\'e9my, ses enfants;  Valerie et S\'e9bastien sa soeur et son fr\'e8re; Alain, son beau-fr\'e8re; Madame et Monsieur Georges GROS sa tante et son oncle; ses cousins et cousines; La famille DUISIT;\f1\par<Ret>\f0 sa famille et ses proches,\f1\par<Ret>\f0 ont l'immence douleur de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Monsieur Philippe RIBAULT\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 44 ans.\f1\par<Ret>\f0 Il repose au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e en l'Eglise de Voglans mecredi 17 septembre 2014 \'e0 dix heures.\f1\par<Ret>\f0 La famille rapelle \'e0 votre m\'e9moire\f1\par<Ret>\pard\qc\b\f0 Monsieur Michel RIBAULT\f1\par<Ret>\pard\b0\f0 son papa d\'e9c\'e9d\'e9 en 2005.\f1\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=3817
+Tarif=250
+NbLignes=25
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=14/09/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

@@ -1,0 +1,7 @@
+Id=23092016
+Jourdate=23/09/2016
+FactureZone5=true
+FactureZone8=False
+FactureZone7=true
+FactureZone6=true
+FactureZone2=true

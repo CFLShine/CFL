@@ -1,0 +1,22 @@
+Id=1112014
+JourDate=01/11/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=1
+CodeDft=4088
+Pf=PFM
+Conseiller=
+DefuntNom=DONNAZ
+DefuntPrenom=SIMONE
+Heure_0=12:38
+Ev_0=TAMB depuis TRESSERVE vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=TREVARAIN Loïc
+Equipe_1=KAELBERER
+End With

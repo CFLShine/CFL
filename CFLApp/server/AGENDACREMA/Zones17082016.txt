@@ -1,0 +1,149 @@
+Id=17082016
+Jourdate=17/08/2016
+With ZONE
+Id=7
+EvenementCommentaire=LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=8850
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=VIDAL
+Prenom_ceremonie=DANIELLE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8850
+Pf_cremation=PF POMMAT
+Nom_cremation=VIDAL
+Prenom_cremation=DANIELLE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1202
+Four=2
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=8854
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=DONAHUE
+Prenom_ceremonie=KATHERINE
+HeureArrivee_ceremonie=08:00
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN MAURIENNE
+HeureArrivee_cremation=08:00
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS D'ORDONNATEUR PFM, LES PF RECUPERENT, PAS DE FAMILLE
+CodeDft_cremation=8854
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=DONAHUE
+Prenom_cremation=KATHERINE
+EvenementArrivee_cremation=Arrivée de SAINT JEAN MAURIENNE
+NoOrdre=1198
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=8857
+Pf_ceremonie=FLORET
+Nom_ceremonie=BOSI
+Prenom_ceremonie=RENZO
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+CodeDft_cremation=8857
+Pf_cremation=FLORET
+Nom_cremation=BOSI
+Prenom_cremation=RENZO
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+NoOrdre=1199
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=8852
+Pf_ceremonie=PFM
+Nom_ceremonie=SUIZE
+Prenom_ceremonie=VIRGINIE
+CodeDft_cremation=8852
+Pf_cremation=PFM
+Nom_cremation=SUIZE
+Prenom_cremation=VIRGINIE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=1200
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=CERCUEIL CREMATION ATTENTION URNE VEGETALE FRAGILE!!!!!!!!
+SaisieOccupe=Libre
+CodeDft_ceremonie=8856
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=GERONIMI
+Prenom_ceremonie=FRANCOIS
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de DOMICILE BOURDEAU
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8856
+Pf_cremation=PFG CHAMBERY
+Nom_cremation=GERONIMI
+Prenom_cremation=FRANCOIS
+EvenementArrivee_cremation=Arrivée de DOMICILE BOURDEAU
+NoOrdre=1201
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

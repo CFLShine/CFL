@@ -1,0 +1,16 @@
+Id=7781
+DefuntNom=MOLLIER GENERAZ
+DefuntPrenom=RENE
+DefuntDecesDate=08/03/2016
+ArriveeCommune=UGINE
+ArriveeDate=
+ArriveeHeure=
+PfArrivee=PF PECH
+PfCeremonie=PF PECH
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+ReservCrema=B NANTOIS
+CodeDefunt=7781
+ArriveeLieu=

@@ -1,0 +1,55 @@
+Id=11062017
+Jourdate=11/06/2017
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=10973
+Pf_ceremonie=PFM
+Nom_ceremonie=EBERLIN
+Prenom_ceremonie=MAURICE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNES
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10973
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=EBERNIN
+Prenom_cremation=MAURICE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNES
+FicheOccupe=Libre
+NoOrdre=811
+Four=FT3
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

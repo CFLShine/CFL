@@ -1,0 +1,101 @@
+Id=8092017
+Jourdate=08/09/2017
+With ZONE
+Id=8
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11545
+Pf_ceremonie=PFCCA
+Nom_ceremonie=CHARLETY
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11545
+Pf_cremation=PFCCA
+Nom_cremation=CHARLETY
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1244
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=11555
+Pf_ceremonie=PF BOUVIER
+Nom_ceremonie=CRISTOFOLI
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 16H30
+CodeDft_cremation=11555
+Pf_cremation=PF BOUVIER
+Nom_cremation=CRISTOFOLI
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=1242
+Four=FTX
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=11550
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=PIONCHON
+Prenom_ceremonie=LOUISE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+CodeDft_cremation=11550
+Pf_cremation=PF BALDINI
+Nom_cremation=PIONCHON
+Prenom_cremation=LOUISE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+NoOrdre=1243
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=9
+End With

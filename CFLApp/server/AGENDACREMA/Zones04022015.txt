@@ -1,0 +1,114 @@
+Id=4022015
+Jourdate=04/02/2015
+Version=NouveauFormat
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4711
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+Nom=MUDRY
+Prenom=FRANCE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=200
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+EvenementCommentaire=
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4697
+Pf=PF MAURIENNAISES
+Conseiller=Loïc TREVARAIN
+Nom=BONNIVARD
+Prenom=GUY
+HeureArrivee=
+EvenementArrivee=Arrivée de SAINT JEAN DE MAURIENNE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 17H
+FicheOccupe=Libre
+NoOrdre=202
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4702
+Pf=PF DE LA VANOISE
+Conseiller=Marie-Pierre PINET
+Nom=MOLLARD
+Prenom=LUCIENNE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de MODANE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=203
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4703
+Pf=MANCHON
+Conseiller=Marie-Pierre PINET
+Nom=FRENOD
+Prenom=JEAN
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de LA COTE ST ANDRE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=201
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4704
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=JOGUET-RECORDON
+Prenom=JEAN-PAUL
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=204
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With

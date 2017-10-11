@@ -1,0 +1,142 @@
+Id=11062014
+Jourdate=11/06/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3266
+Pf=AJEPI
+Conseiller=Marie-Pierre PINET
+Nom=BELLETTRE
+Prenom=JEAN-MAXIME
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=712
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3267
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=FONTAINE
+Prenom=JACQUES
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=710
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3285
+Pf=PF MAURIENNAISES
+Conseiller=Pascal MARIE
+Nom=DORNIER
+Prenom=ROGER
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=VU AVEC LOIC POUR RECEVOIR LA FAMILLE OK
+NoOrdre=713
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3280
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=NHEM
+Prenom=YUTH
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie BOUDISTE Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=714
+Four=2
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3276
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=CENDRE
+Prenom=MARIE LOUISE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=DEPART INHUMATION LA RAVOIRE  PAS DE CREMATION
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3278
+Pf=PF BALDINI
+Conseiller=Pascal MARIE
+Nom=ESTATOF
+Prenom=RENE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=709
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3284
+Pf=PF MERCIER DES AVENIERES
+Conseiller=Pascal MARIE
+Nom=DEBOT
+Prenom=JACKY
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de LES AVENIERES
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=711
+Four=1
+FicheOccupe=Libre
+End With

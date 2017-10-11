@@ -1,0 +1,30 @@
+Id=2082015
+JourDate=02/08/2015
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6145
+Comment_0=PF BAUDRION
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6144
+Comment_0=PF BAUDRION
+Comment_1=
+HeureComment=  :
+End With

@@ -1,0 +1,18 @@
+Id=-1
+Type=Remerciements
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 La Ravoire,\f1\par<Ret>\b0\f0 Tr\'e8s touch\'e9e des nombreuses marques de sympathie qui lui ont \'e9t\'e9 t\'e9moign\'e9es lors du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Auguste PETIT\f1\par<Ret>\pard\b0\f0 toute sa famille vous remercie d'avoir pris part \'e0 son chagrin par votre pr\'e9sence, vos messages, envois de plaques et de fleurs.\par<Ret>}<Ret>
+CodeDft=4548
+Tarif=94
+NbLignes=11
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=22/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

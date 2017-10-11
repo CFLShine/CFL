@@ -1,0 +1,89 @@
+Id=24052015
+Jourdate=24/05/2015
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=MONTARNAL
+Prenom_ceremonie=LOIC
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de VOIRON
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=BEBE
+CodeDft_cremation=5587
+Pf_cremation=PFM VOIRON
+Nom_crema=MONTARNAL
+Prenom_crema=LOIC
+HeuretArrivee_ceremonie=
+NoOrdre=791
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_cremation=5588
+Pf_cremation=PFM VOIRON
+Nom_crema=TARGET
+Prenom_crema=JADE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=BEBE
+NoOrdre=792
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=5599
+Pf_ceremonie=PF PECH
+Nom_ceremonie=PAYEUR
+Prenom_ceremonie=DOMINIQUE
+HeureArrivee_ceremonie=17:45
+EvenementArrivee_ceremonie=Arrivée de FAVERGE
+HeureArrivee_crema=17:45
+EvenementArrivee_crema=Arrivée de FAVERGE
+HeureCeremonie=17:45
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=18:30
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5599
+Pf_cremation=PF PECH
+Nom_crema=PAYEUR
+Prenom_crema=DOMINIQUE
+NoOrdre=805
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With

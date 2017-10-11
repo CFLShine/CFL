@@ -1,0 +1,161 @@
+Id=28052015
+Jourdate=28/05/2015
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION REVISION FOUR
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PAS DE CREMATION REVISION FOUR
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=14:45
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de UGINE
+HeureCeremonie=14:45
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:30
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_ceremonie=5632
+Pf_ceremonie=PF PECH
+Nom_ceremonie=BRUGEASSOU
+Prenom_ceremonie=ARLETTE
+CodeDft_cremation=5632
+Pf_cremation=PF PECH
+Nom_crema=BRUGEASSOU
+Prenom_crema=ARLETTE
+NoOrdre=824
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=08:45
+EvenementArrivee_ceremonie=Arrivée de HOPITAL  CHAMBERY
+HeureArrivee_crema=08:45
+EvenementArrivee_crema=Arrivée de HOPITAL CHAMBERY
+HeureCeremonie=08:45
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:30
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDONNATEUR PFM  FAMILLE RECUPERE
+FicheOccupe=Libre
+CodeDft_ceremonie=5637
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=CAPULLI
+Prenom_ceremonie=FRANCIS
+CodeDft_cremation=5638
+Pf_cremation=PF MOUCHE
+Nom_crema=CAPULLI
+Prenom_crema=FRANCIS
+NoOrdre=820
+Four=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=5617
+Pf_ceremonie=PFM
+Nom_ceremonie=THIVICHON PRINCE
+Prenom_ceremonie=RENE
+CodeDft_cremation=5617
+Pf_cremation=PFM
+Nom_crema=THIVICHON PRINCE
+Prenom_crema=RENE
+Police=True
+NoOrdre=821
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=12:30
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+CodeDft_ceremonie=5627
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=MARTIN
+Prenom_ceremonie=JEAN-MARIE
+CodeDft_cremation=5627
+Pf_cremation=PF ¨POMMAT
+Nom_crema=MARTIN
+Prenom_crema=JEAN-MARIE
+NoOrdre=822
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de MOUTIERS
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 16H
+CodeDft_ceremonie=5595
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=SAILLARD
+Prenom_ceremonie=LEON
+CodeDft_cremation=5595
+Pf_cremation=PF D SAVOY
+Nom_crema=SAILLARD
+Prenom_crema=LEON
+NoOrdre=823
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=16:30
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=5622
+Pf_ceremonie=PF FLORET PECH
+Nom_ceremonie=DERRE
+Prenom_ceremonie=ROGER
+CodeDft_cremation=5622
+Pf_cremation=PF FLORET PECH
+Nom_crema=DERRE
+Prenom_crema=ROGER
+NoOrdre=825
+Four=1
+FicheOccupe=Libre
+End With

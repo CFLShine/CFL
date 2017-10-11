@@ -1,0 +1,23 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 ST JEOIRE PRIEURE, COGNIN, TOULOUSE\f1\par<Ret>\b0\f0 Nicole COLLETAZ son \'e9pouse; Jean-Philippe et Brigitte COLLETAZ, Sandrine et Jean-Fran\'e7ois LUCIEN, ses enfants; Valentin, Cl\'e9ment, Ethan et Carline, ses petits-enfants; Jean et Jo\'eblle COLLETAZ son fr\'e8re et leurs enfants; Annie GIRARD et sa famille; parents et amis,\f1\par<Ret>\f0 ont la grande tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Jacques COLLETAZ\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 70 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e le jeudi 20 novembre 2014 \'e0 dix heures en l'Eglise de St Jeoire Prieur\'e9.\f1\par<Ret>\f0 Condol\'e9ances sur registre.\f1\par<Ret>\f0 Ni fleur ni plaque.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4162
+Tarif=250
+NbLignes=23
+Cadre=False
+Symbole=False
+Photo=False
+SiteSent=True
+SiteDate1=17/11/2014
+SiteDate2=20/11/2014
+SiteTitre=Jacques COLLETAZ
+SiteClientMail=jacques.colletaz@gmail.com
+With PARUTION
+Id=1
+Date=18/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

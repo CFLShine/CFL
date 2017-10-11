@@ -1,0 +1,56 @@
+Id=-1
+Version=1
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=02:00
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=22/01/14
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=07/03/14
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneConges
+Id=0
+varPrisDu=12/01/14
+varPrisAu=15/01/14
+varDemandeDate=01/03/14
+varAnnuel=7:00
+varRecup=
+varEpargne=
+varVisaChef=15/01/14
+varVisaDirecteur=12/01/14
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=26/01/14
+varPrisAu=29/01/14
+varDemandeDate=01/03/14
+varAnnuel=9:00
+varRecup=
+varEpargne=
+varVisaChef=26/01/14
+varVisaDirecteur=26/01/14
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=08/03/14
+varPrisAu=12/03/14
+varDemandeDate=01/03/14
+varAnnuel=13:00
+varRecup=5:00
+varEpargne=
+varVisaChef=08/01/14
+varVisaDirecteur=08/01/14
+varRetourDate=
+End With

@@ -1,0 +1,44 @@
+Id=14092014
+JourDate=14/09/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+CodeDft=3820
+Pf=PFM
+Conseiller=Pascal MARIE
+DefuntNom=PORCHERON
+DefuntPrenom=LILIANE
+Heure_0=11:15
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=KAELBERER Eric
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=1
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3821
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+DefuntNom=BOIS
+DefuntPrenom=EDMOND
+Heure_0=11:00
+Ev_0=TAMB depuis MEDIPOLE vers Centre funéraire
+Comment_0=
+Comment_1=
+End With

@@ -1,0 +1,6009 @@
+Id=2013
+With ADMISSION
+Id=40
+Nom=LABESSE
+Prenom=ELIANE
+CodeDft=40
+AdmissionDate=02/01/2013
+NoOrdre=1
+End With
+With ADMISSION
+Id=44
+Nom=MARIGOT
+Prenom=Didier
+CodeDft=44
+AdmissionDate=02/01/2013
+NoOrdre=2
+End With
+With ADMISSION
+Id=50
+Nom=DELESSE
+Prenom=YVES
+CodeDft=50
+AdmissionDate=03/01/2013
+NoOrdre=3
+End With
+With ADMISSION
+Id=51
+Nom=TAUBES
+Prenom=ROBERT
+CodeDft=51
+AdmissionDate=03/01/13
+NoOrdre=8
+End With
+With ADMISSION
+Id=52
+Nom=PERRET
+Prenom=MARGUERITTE
+CodeDft=52
+AdmissionDate=03/01/2013
+NoOrdre=4
+End With
+With ADMISSION
+Id=53
+Nom=BERTHET
+Prenom=Christian
+CodeDft=53
+AdmissionDate=04/01/13
+NoOrdre=5
+End With
+With ADMISSION
+Id=54
+Nom=LOMBARDI
+Prenom=ROCCO
+CodeDft=54
+AdmissionDate=04/01/2013
+NoOrdre=7
+End With
+With ADMISSION
+Id=57
+Nom=SPINETTI
+Prenom=LAURENT
+CodeDft=57
+AdmissionDate=03/01/13
+NoOrdre=6
+End With
+With ADMISSION
+Id=60
+Nom=LEMUT
+Prenom=Liliane
+CodeDft=60
+AdmissionDate=04/01/2013
+NoOrdre=9
+End With
+With ADMISSION
+Id=74
+Nom=DELETTRES
+Prenom=Frederic
+CodeDft=74
+AdmissionDate=04/01/13
+NoOrdre=10
+End With
+With ADMISSION
+Id=78
+Nom=MICHAUD
+Prenom=JEAN FRANCOIS
+CodeDft=78
+AdmissionDate=05/01/2013
+NoOrdre=11
+End With
+With ADMISSION
+Id=79
+Nom=BAILLY
+Prenom=RENEE
+CodeDft=79
+AdmissionDate=05/01/2013
+NoOrdre=14
+End With
+With ADMISSION
+Id=81
+Nom=CORTES
+Prenom=LINA
+CodeDft=81
+AdmissionDate=05/01/2013
+NoOrdre=13
+End With
+With ADMISSION
+Id=87
+Nom=SONTAG
+Prenom=JULES
+CodeDft=87
+AdmissionDate=06/01/13
+NoOrdre=16
+End With
+With ADMISSION
+Id=88
+Nom=ROSSIAUD
+Prenom=MARIE JOSEPHINE
+CodeDft=88
+AdmissionDate=06/01/2013
+NoOrdre=17
+End With
+With ADMISSION
+Id=89
+Nom=GEOFFROY
+Prenom=GILBERT
+CodeDft=89
+AdmissionDate=06/01/2013
+NoOrdre=15
+End With
+With ADMISSION
+Id=94
+Nom=MITHIEUX
+Prenom=JULIETTE
+CodeDft=94
+AdmissionDate=08/01/2013
+NoOrdre=18
+End With
+With ADMISSION
+Id=96
+Nom=RODRIGUES
+Prenom=MARC
+CodeDft=96
+AdmissionDate=08/01/2013
+NoOrdre=19
+End With
+With ADMISSION
+Id=98
+Nom=CLARET
+Prenom=ROGER
+CodeDft=98
+AdmissionDate=08/01/2013
+NoOrdre=20
+End With
+With ADMISSION
+Id=112
+Nom=BOSETTA
+Prenom=LOUIS
+CodeDft=112
+AdmissionDate=11/01/2013
+NoOrdre=23
+End With
+With ADMISSION
+Id=113
+Nom=SPALANZANI
+Prenom=Jeannine
+CodeDft=113
+AdmissionDate=11/01/2013
+NoOrdre=24
+End With
+With ADMISSION
+Id=115
+Nom=GINSBURGER
+Prenom=MARIE-THERESE
+CodeDft=115
+AdmissionDate=10/01/2013
+NoOrdre=21
+End With
+With ADMISSION
+Id=117
+Nom=DELAGE
+Prenom=CLAUDE
+CodeDft=117
+AdmissionDate=10/01/2013
+NoOrdre=22
+End With
+With ADMISSION
+Id=124
+Nom=GAGLIARDINO
+Prenom=LILIANE
+CodeDft=124
+AdmissionDate=11/01/2013
+NoOrdre=25
+End With
+With ADMISSION
+Id=125
+Nom=PETOVELLO
+Prenom=MARIUS
+CodeDft=125
+AdmissionDate=12/01/2013
+NoOrdre=26
+End With
+With ADMISSION
+Id=126
+Nom=PEDROLI
+Prenom=SUZANNE
+CodeDft=126
+AdmissionDate=12/01/2013
+NoOrdre=28
+End With
+With ADMISSION
+Id=128
+Nom=SUPTIL
+Prenom=ANDRE
+CodeDft=128
+AdmissionDate=13/01/2013
+NoOrdre=27
+End With
+With ADMISSION
+Id=130
+Nom=VIVIAND
+Prenom=Henri
+CodeDft=130
+AdmissionDate=14/01/2013
+NoOrdre=29
+End With
+With ADMISSION
+Id=133
+Nom=ROSSI
+Prenom=Angelo
+CodeDft=133
+AdmissionDate=14/01/2013
+NoOrdre=30
+End With
+With ADMISSION
+Id=135
+Nom=PERRIN
+Prenom=CLAUDE
+CodeDft=135
+AdmissionDate=14/01/2013
+NoOrdre=31
+End With
+With ADMISSION
+Id=137
+Nom=HENDERYCKX
+Prenom=GUI
+CodeDft=137
+AdmissionDate=14/01/2013
+NoOrdre=32
+End With
+With ADMISSION
+Id=138
+Nom=RIVES
+Prenom=JEAN
+CodeDft=138
+AdmissionDate=15/01/2013
+NoOrdre=33
+End With
+With ADMISSION
+Id=140
+Nom=COUTIN
+Prenom=ANNA
+CodeDft=140
+AdmissionDate=15/01/2013
+NoOrdre=35
+End With
+With ADMISSION
+Id=141
+Nom=BIANCHINI
+Prenom=GILLES
+CodeDft=141
+AdmissionDate=15/01/2013
+NoOrdre=34
+End With
+With ADMISSION
+Id=146
+Nom=FERNANDEZ
+Prenom=LEOPOLDO
+CodeDft=146
+AdmissionDate=15/01/2013
+NoOrdre=36
+End With
+With ADMISSION
+Id=147
+Nom=LE GARS
+Prenom=MARC
+CodeDft=147
+AdmissionDate=15/01/2013
+NoOrdre=
+End With
+With ADMISSION
+Id=151
+Nom=JACQUIN
+Prenom=MONIQUE
+CodeDft=151
+AdmissionDate=16/01/2013
+NoOrdre=37
+End With
+With ADMISSION
+Id=154
+Nom=GUILLOT
+Prenom=JEANNE
+CodeDft=154
+AdmissionDate=16/01/2013
+NoOrdre=39
+End With
+With ADMISSION
+Id=155
+Nom=PIRAS
+Prenom=MARCELLE
+CodeDft=155
+AdmissionDate=16/01/2013
+NoOrdre=40
+End With
+With ADMISSION
+Id=165
+Nom=PACHE
+Prenom=THERESE
+CodeDft=165
+AdmissionDate=17/01/2013
+NoOrdre=42
+End With
+With ADMISSION
+Id=167
+Nom=ROBERT
+Prenom=MICHEL
+CodeDft=167
+AdmissionDate=17/01/2013
+NoOrdre=43
+End With
+With ADMISSION
+Id=168
+Nom=POURTIER
+Prenom=SYLVIE
+CodeDft=168
+AdmissionDate=18/01/2013
+NoOrdre=44
+End With
+With ADMISSION
+Id=170
+Nom=DELRIEU
+Prenom=ANDRE
+CodeDft=170
+AdmissionDate=18/01/2013
+NoOrdre=45
+End With
+With ADMISSION
+Id=174
+Nom=SILVA
+Prenom=JORGE
+CodeDft=174
+AdmissionDate=16/01/2013
+NoOrdre=47
+End With
+With ADMISSION
+Id=177
+Nom=SOUDARIN
+Prenom=JEAN FRANCOIS
+CodeDft=177
+AdmissionDate=20/01/2013
+NoOrdre=48
+End With
+With ADMISSION
+Id=178
+Nom=MITHIEUX
+Prenom=LOUISE
+CodeDft=178
+AdmissionDate=21/01/2013
+NoOrdre=49
+End With
+With ADMISSION
+Id=179
+Nom=MONNET
+Prenom=IRENE
+CodeDft=179
+AdmissionDate=21/01/2013
+NoOrdre=51
+End With
+With ADMISSION
+Id=185
+Nom=DAIX
+Prenom=Roland
+CodeDft=185
+AdmissionDate=21/01/2013
+NoOrdre=52
+End With
+With ADMISSION
+Id=192
+Nom=HERAIL
+Prenom=Regis
+CodeDft=192
+AdmissionDate=21/01/2013
+NoOrdre=50
+End With
+With ADMISSION
+Id=196
+Nom=ANDRE
+Prenom=NOEL
+CodeDft=196
+AdmissionDate=22/01/2013
+NoOrdre=53
+End With
+With ADMISSION
+Id=198
+Nom=LOPEZ- ORTIZ
+Prenom=MARIA
+CodeDft=198
+AdmissionDate=22/01/2013
+NoOrdre=54
+End With
+With ADMISSION
+Id=205
+Nom=POLLIENS
+Prenom=GEORGETTE
+CodeDft=205
+AdmissionDate=23/01/2013
+NoOrdre=55
+End With
+With ADMISSION
+Id=207
+Nom=GARNIER
+Prenom=Paulette
+CodeDft=207
+AdmissionDate=24/01/2013
+NoOrdre=56
+End With
+With ADMISSION
+Id=211
+Nom=FEPPON
+Prenom=Pierre
+CodeDft=211
+AdmissionDate=25/01/2013
+NoOrdre=57
+End With
+With ADMISSION
+Id=212
+Nom=MOLL
+Prenom=GERARD
+CodeDft=212
+AdmissionDate=24/01/2013
+NoOrdre=58
+End With
+With ADMISSION
+Id=219
+Nom=PERRIN 
+Prenom=YVETTE
+CodeDft=219
+AdmissionDate=26/01/2013
+NoOrdre=62
+End With
+With ADMISSION
+Id=225
+Nom=DROGUET
+Prenom=GENEVIEVE
+CodeDft=225
+AdmissionDate=26/01/2013
+NoOrdre=60
+End With
+With ADMISSION
+Id=226
+Nom=CAILLET
+Prenom=ROGER
+CodeDft=226
+AdmissionDate=26/01/2013
+NoOrdre=59
+End With
+With ADMISSION
+Id=229
+Nom=JACQUIER
+Prenom=LUCIENNE
+CodeDft=229
+AdmissionDate=26/01/2013
+NoOrdre=61
+End With
+With ADMISSION
+Id=231
+Nom=VILLOUD
+Prenom=JEAN - MARIE
+CodeDft=231
+AdmissionDate=27/01/2013
+NoOrdre=63
+End With
+With ADMISSION
+Id=232
+Nom=TERRIER
+Prenom=GABRIELLE
+CodeDft=232
+AdmissionDate=28/01/2013
+NoOrdre=64
+End With
+With ADMISSION
+Id=234
+Nom=LAURENT
+Prenom=Marinette
+CodeDft=234
+AdmissionDate=29/01/2013
+NoOrdre=67
+End With
+With ADMISSION
+Id=235
+Nom=RAVANAT
+Prenom=Dominique
+CodeDft=235
+AdmissionDate=27/01/2013
+NoOrdre=65
+End With
+With ADMISSION
+Id=242
+Nom=PROUST
+Prenom=GINETTE
+CodeDft=242
+AdmissionDate=29/01/2013
+NoOrdre=66
+End With
+With ADMISSION
+Id=243
+Nom=DORDI
+Prenom=Jean
+CodeDft=243
+AdmissionDate=29/01/2013
+NoOrdre=68
+End With
+With ADMISSION
+Id=247
+Nom=JACQUIER 
+Prenom=HENRI
+CodeDft=247
+AdmissionDate=29/01/2013
+NoOrdre=69
+End With
+With ADMISSION
+Id=251
+Nom=LOCATELLI
+Prenom=ANGELO
+CodeDft=251
+AdmissionDate=30/01/2013
+NoOrdre=70
+End With
+With ADMISSION
+Id=253
+Nom=BLANC
+Prenom=GERMAINE
+CodeDft=253
+AdmissionDate=30/01/2013
+NoOrdre=71
+End With
+With ADMISSION
+Id=256
+Nom=BUVAT
+Prenom=LILIANE
+CodeDft=256
+AdmissionDate=30/01/2013
+NoOrdre=73
+End With
+With ADMISSION
+Id=257
+Nom=DEMARCHI
+Prenom=CHARLES
+CodeDft=257
+AdmissionDate=31/01/2013
+NoOrdre=72
+End With
+With ADMISSION
+Id=260
+Nom=PARAMUCCHIO
+Prenom=LINO
+CodeDft=260
+AdmissionDate=31/01/2013
+NoOrdre=74
+End With
+With ADMISSION
+Id=264
+Nom=REBOTTON
+Prenom=SIMONE
+CodeDft=264
+AdmissionDate=01/02/2013
+NoOrdre=75
+End With
+With ADMISSION
+Id=274
+Nom=PERRUCHOT
+Prenom=CLOTILDE
+CodeDft=274
+AdmissionDate=04/02/2013
+NoOrdre=77
+End With
+With ADMISSION
+Id=275
+Nom=PACHOUD
+Prenom=ANNE
+CodeDft=275
+AdmissionDate=03/02/2013
+NoOrdre=76
+End With
+With ADMISSION
+Id=276
+Nom=VALLIER
+Prenom=AIME
+CodeDft=276
+AdmissionDate=04/02/2013
+NoOrdre=78
+End With
+With ADMISSION
+Id=279
+Nom=GUIGAZ
+Prenom=CELINA
+CodeDft=279
+AdmissionDate=04/02/2013
+NoOrdre=79
+End With
+With ADMISSION
+Id=281
+Nom=CAMBON
+Prenom=Rene
+CodeDft=281
+AdmissionDate=04/02/2013
+NoOrdre=81
+End With
+With ADMISSION
+Id=287
+Nom=SACLIER
+Prenom=Michel
+CodeDft=287
+AdmissionDate=05/02/2013
+NoOrdre=82
+End With
+With ADMISSION
+Id=292
+Nom=MARTIN-GARIN
+Prenom=THIERRY
+CodeDft=292
+AdmissionDate=05/02/2013
+NoOrdre=83
+End With
+With ADMISSION
+Id=294
+Nom=CHAUVIN
+Prenom=MATHILDE
+CodeDft=294
+AdmissionDate=05/02/2013
+NoOrdre=84
+End With
+With ADMISSION
+Id=295
+Nom=SINISCALCHI
+Prenom=ANGELO
+CodeDft=295
+AdmissionDate=06/02/2013
+NoOrdre=85
+End With
+With ADMISSION
+Id=298
+Nom=DUMAS
+Prenom=NICOLE
+CodeDft=298
+AdmissionDate=06/02/2013
+NoOrdre=86
+End With
+With ADMISSION
+Id=300
+Nom=RUSE
+Prenom=HUGUETTE
+CodeDft=300
+AdmissionDate=07/02/2013
+NoOrdre=87
+End With
+With ADMISSION
+Id=301
+Nom=MARCON
+Prenom=BERNARD
+CodeDft=301
+AdmissionDate=08/02/2013
+NoOrdre=84
+End With
+With ADMISSION
+Id=306
+Nom=JANIN
+Prenom=SUZANNE
+CodeDft=306
+AdmissionDate=08/02/2013
+NoOrdre=85
+End With
+With ADMISSION
+Id=309
+Nom=MOLINES
+Prenom=JOSEPHINE
+CodeDft=309
+AdmissionDate=09/02/2013
+NoOrdre=86
+End With
+With ADMISSION
+Id=314
+Nom=JOCTEUR
+Prenom=LEON
+CodeDft=314
+AdmissionDate=08/02/2013
+NoOrdre=87
+End With
+With ADMISSION
+Id=324
+Nom=PORRAL 
+Prenom=ELISE
+CodeDft=324
+AdmissionDate=10/02/2013
+NoOrdre=88
+End With
+With ADMISSION
+Id=326
+Nom=RAFFIN
+Prenom=SUZANNE
+CodeDft=326
+AdmissionDate=11/02/2013
+NoOrdre=89
+End With
+With ADMISSION
+Id=327
+Nom=GRANDJEAN
+Prenom=Philippe
+CodeDft=327
+AdmissionDate=11/02/2013
+NoOrdre=90
+End With
+With ADMISSION
+Id=330
+Nom=DUMONT
+Prenom=YVETTE
+CodeDft=330
+AdmissionDate=12/02/2013
+NoOrdre=91
+End With
+With ADMISSION
+Id=334
+Nom=BOVAGNET
+Prenom=RAYMOND
+CodeDft=334
+AdmissionDate=13/02/2013
+NoOrdre=94
+End With
+With ADMISSION
+Id=335
+Nom=VERNIERE 
+Prenom=JEAN
+CodeDft=335
+AdmissionDate=13/02/2013
+NoOrdre=92
+End With
+With ADMISSION
+Id=336
+Nom=GIROUD
+Prenom=YVONNE
+CodeDft=336
+AdmissionDate=13/02/2013
+NoOrdre=93
+End With
+With ADMISSION
+Id=338
+Nom=MARECHAL
+Prenom=ANTHELME
+CodeDft=338
+AdmissionDate=13/02/2013
+NoOrdre=95
+End With
+With ADMISSION
+Id=340
+Nom=CLAVEL 
+Prenom=JEANNINE
+CodeDft=340
+AdmissionDate=13/02/2013
+NoOrdre=96
+End With
+With ADMISSION
+Id=342
+Nom=VILLARD
+Prenom=ANDRE
+CodeDft=342
+AdmissionDate=14/02/2013
+NoOrdre=97
+End With
+With ADMISSION
+Id=345
+Nom=OLIVIER
+Prenom=SUZANNE
+CodeDft=345
+AdmissionDate=14/02/2013
+NoOrdre=98
+End With
+With ADMISSION
+Id=347
+Nom=FERTONANI
+Prenom=OLIMPIA
+CodeDft=347
+AdmissionDate=15/02/2013
+NoOrdre=99
+End With
+With ADMISSION
+Id=348
+Nom=PELLINO
+Prenom=RUGGIERO
+CodeDft=348
+AdmissionDate=15/02/2013
+NoOrdre=100
+End With
+With ADMISSION
+Id=349
+Nom=MERENDET
+Prenom=ANGELE
+CodeDft=349
+AdmissionDate=15/02/2013
+NoOrdre=101
+End With
+With ADMISSION
+Id=350
+Nom=MONTCALM
+Prenom=RENEE
+CodeDft=350
+AdmissionDate=15/02/2013
+NoOrdre=102
+End With
+With ADMISSION
+Id=354
+Nom=VALLIER
+Prenom=ROSE
+CodeDft=354
+AdmissionDate=16/02/2013
+NoOrdre=105
+End With
+With ADMISSION
+Id=355
+Nom=HUTTEAU
+Prenom=PAUL
+CodeDft=355
+AdmissionDate=16/02/2013
+NoOrdre=103
+End With
+With ADMISSION
+Id=356
+Nom=PEYRES
+Prenom=ANNIE
+CodeDft=356
+AdmissionDate=16/02/2013
+NoOrdre=104
+End With
+With ADMISSION
+Id=357
+Nom=HUTTEAU
+Prenom=PAULE
+CodeDft=357
+AdmissionDate=16/02/2013
+NoOrdre=108
+End With
+With ADMISSION
+Id=360
+Nom=CARPENTIER
+Prenom=CHARLES
+CodeDft=360
+AdmissionDate=15/02/2013
+NoOrdre=150
+End With
+With ADMISSION
+Id=364
+Nom=MORARD
+Prenom=LOUISE
+CodeDft=364
+AdmissionDate=17/02/2013
+NoOrdre=106
+End With
+With ADMISSION
+Id=368
+Nom=FAUX - GIRARD
+Prenom=ELISE
+CodeDft=368
+AdmissionDate=17/02/2013
+NoOrdre=107
+End With
+With ADMISSION
+Id=373
+Nom=MARCET
+Prenom=RENE
+CodeDft=373
+AdmissionDate=18/02/2013
+NoOrdre=111
+End With
+With ADMISSION
+Id=374
+Nom=MAMONE
+Prenom=Filomene
+CodeDft=374
+AdmissionDate=18/02/2013
+NoOrdre=109
+End With
+With ADMISSION
+Id=378
+Nom=PORTUGAL
+Prenom=HELENE
+CodeDft=378
+AdmissionDate=18/02/2013
+NoOrdre=110
+End With
+With ADMISSION
+Id=379
+Nom=BOGEAT
+Prenom=ANNE MARIE
+CodeDft=379
+AdmissionDate=18/02/2013
+NoOrdre=113
+End With
+With ADMISSION
+Id=382
+Nom=SCHMIT
+Prenom=MARGUERITE
+CodeDft=382
+AdmissionDate=19/02/2013
+NoOrdre=113
+End With
+With ADMISSION
+Id=385
+Nom=RINCHET
+Prenom=PAUL
+CodeDft=385
+AdmissionDate=20/02/2013
+NoOrdre=114
+End With
+With ADMISSION
+Id=390
+Nom=CHAMIOT- MAITRAL
+Prenom=Raymond
+CodeDft=390
+AdmissionDate=28/02/2013
+NoOrdre=131
+End With
+With ADMISSION
+Id=391
+Nom=ALDEBERT
+Prenom=HERVE
+CodeDft=391
+AdmissionDate=20/02/2013
+NoOrdre=116
+End With
+With ADMISSION
+Id=393
+Nom=CORDEL
+Prenom=RAYMOND
+CodeDft=393
+AdmissionDate=20/02/2013
+NoOrdre=115
+End With
+With ADMISSION
+Id=394
+Nom=OBADIA
+Prenom=CHARLES
+CodeDft=394
+AdmissionDate=20/02/2013
+NoOrdre=117
+End With
+With ADMISSION
+Id=399
+Nom=BERETTA
+Prenom=PATRICK
+CodeDft=399
+AdmissionDate=21/02/2013
+NoOrdre=118
+End With
+With ADMISSION
+Id=404
+Nom=PEDRON
+Prenom=BRUNO
+CodeDft=404
+AdmissionDate=22/02/2013
+NoOrdre=119
+End With
+With ADMISSION
+Id=407
+Nom=MASSE
+Prenom=GUY
+CodeDft=407
+AdmissionDate=23/02/2013
+NoOrdre=120
+End With
+With ADMISSION
+Id=413
+Nom=CHAFFARDON
+Prenom=GINETTE
+CodeDft=413
+AdmissionDate=23/02/2013
+NoOrdre=121
+End With
+With ADMISSION
+Id=415
+Nom=MEUNIER
+Prenom=PAUL
+CodeDft=415
+AdmissionDate=23/02/2013
+NoOrdre=122
+End With
+With ADMISSION
+Id=419
+Nom=PEYLIN
+Prenom=RENE
+CodeDft=419
+AdmissionDate=24/02/2013
+NoOrdre=123
+End With
+With ADMISSION
+Id=420
+Nom=BILLARD
+Prenom=IRENE
+CodeDft=420
+AdmissionDate=24/02/2013
+NoOrdre=124
+End With
+With ADMISSION
+Id=421
+Nom=MILAZZO
+Prenom=NINO
+CodeDft=421
+AdmissionDate=26/02/2013
+NoOrdre=128
+End With
+With ADMISSION
+Id=426
+Nom=EXERTIER
+Prenom=Solange
+CodeDft=426
+AdmissionDate=25/02/2013
+NoOrdre=126
+End With
+With ADMISSION
+Id=430
+Nom=GIRARD
+Prenom=YVES
+CodeDft=430
+AdmissionDate=25/02/2013
+NoOrdre=125
+End With
+With ADMISSION
+Id=434
+Nom=WILSON
+Prenom=MARIE CAROLINE
+CodeDft=434
+AdmissionDate=25/02/2013
+NoOrdre=127
+End With
+With ADMISSION
+Id=436
+Nom=SULPICE
+Prenom=HENRIETTE
+CodeDft=436
+AdmissionDate=27/02/2013
+NoOrdre=129
+End With
+With ADMISSION
+Id=447
+Nom=CONTESSE
+Prenom=MARCELLE
+CodeDft=447
+AdmissionDate=28/02/2013
+NoOrdre=130
+End With
+With ADMISSION
+Id=450
+Nom=CHAMBONNET
+Prenom=Jean-Charles
+CodeDft=450
+AdmissionDate=28/02/2013
+NoOrdre=132
+End With
+With ADMISSION
+Id=462
+Nom=YVROUD
+Prenom=ALICE
+CodeDft=462
+AdmissionDate=01/03/2013
+NoOrdre=133
+End With
+With ADMISSION
+Id=465
+Nom=VOIRON
+Prenom=MAURICE
+CodeDft=465
+AdmissionDate=01/03/2013
+NoOrdre=136
+End With
+With ADMISSION
+Id=466
+Nom=PERRET
+Prenom=THOMAS
+CodeDft=466
+AdmissionDate=01/03/2013
+NoOrdre=134
+End With
+With ADMISSION
+Id=468
+Nom=MATHANT
+Prenom=JEAN-MARIE
+CodeDft=468
+AdmissionDate=01/03/2013
+NoOrdre=135
+End With
+With ADMISSION
+Id=474
+Nom=CHEMARIN
+Prenom=JEAN
+CodeDft=474
+AdmissionDate=02/03/2013
+NoOrdre=137
+End With
+With ADMISSION
+Id=482
+Nom=MARIN-LAMELLET
+Prenom=XAVIER
+CodeDft=482
+AdmissionDate=04/03/2013
+NoOrdre=138
+End With
+With ADMISSION
+Id=485
+Nom=SALOMON
+Prenom=ANICET
+CodeDft=485
+AdmissionDate=04/03/2013
+NoOrdre=139
+End With
+With ADMISSION
+Id=489
+Nom=REGAIRAZ
+Prenom=YVETTE
+CodeDft=489
+AdmissionDate=05/03/2013
+NoOrdre=140
+End With
+With ADMISSION
+Id=490
+Nom=GARIN
+Prenom=Genevieve
+CodeDft=490
+AdmissionDate=05/03/2013
+NoOrdre=141
+End With
+With ADMISSION
+Id=491
+Nom=GUENEZAN
+Prenom=AIME
+CodeDft=491
+AdmissionDate=05/03/2013
+NoOrdre=142
+End With
+With ADMISSION
+Id=493
+Nom=CORDEAU
+Prenom=Maurice
+CodeDft=493
+AdmissionDate=06/03/2013
+NoOrdre=144
+End With
+With ADMISSION
+Id=497
+Nom=VIZZUTTI
+Prenom=ODETTE
+CodeDft=497
+AdmissionDate=06/03/2013
+NoOrdre=143
+End With
+With ADMISSION
+Id=504
+Nom=ULYSSE
+Prenom=CHRISTIANE
+CodeDft=504
+AdmissionDate=06/03/2013
+NoOrdre=145
+End With
+With ADMISSION
+Id=509
+Nom=YVROUD
+Prenom=MARCEL
+CodeDft=509
+AdmissionDate=07/03/2013
+NoOrdre=146
+End With
+With ADMISSION
+Id=516
+Nom=LOMBARD
+Prenom=LUCIEN
+CodeDft=516
+AdmissionDate=08/03/2013
+NoOrdre=148
+End With
+With ADMISSION
+Id=519
+Nom=CARTIER
+Prenom=MARIE-LOUISE
+CodeDft=519
+AdmissionDate=08/03/2013
+NoOrdre=149
+End With
+With ADMISSION
+Id=520
+Nom=BOUVIER
+Prenom=RENE
+CodeDft=520
+AdmissionDate=07/03/2013
+NoOrdre=150
+End With
+With ADMISSION
+Id=527
+Nom=VENDRAMINI
+Prenom=ERNESTE
+CodeDft=527
+AdmissionDate=09/03/2013
+NoOrdre=151
+End With
+With ADMISSION
+Id=529
+Nom=VIAL
+Prenom=HELENE
+CodeDft=529
+AdmissionDate=09/03/2013
+NoOrdre=152
+End With
+With ADMISSION
+Id=532
+Nom=DUFFAUD
+Prenom=NELLY
+CodeDft=532
+AdmissionDate=09/03/2013
+NoOrdre=153
+End With
+With ADMISSION
+Id=534
+Nom=ROCHE
+Prenom=PAUL
+CodeDft=534
+AdmissionDate=10/03/2013
+NoOrdre=154
+End With
+With ADMISSION
+Id=545
+Nom=BOZON
+Prenom=BERNARD
+CodeDft=545
+AdmissionDate=11/03/2013
+NoOrdre=155
+End With
+With ADMISSION
+Id=549
+Nom=BETEMPS
+Prenom=Gilberte
+CodeDft=549
+AdmissionDate=12/03/2013
+NoOrdre=158
+End With
+With ADMISSION
+Id=553
+Nom=NARETTO
+Prenom=SARAH
+CodeDft=553
+AdmissionDate=11/03/2013
+NoOrdre=169
+End With
+With ADMISSION
+Id=554
+Nom=CLERY
+Prenom=LEA
+CodeDft=554
+AdmissionDate=12/03/2013
+NoOrdre=159
+End With
+With ADMISSION
+Id=558
+Nom=CHAPPERON
+Prenom=LUCIEN
+CodeDft=558
+AdmissionDate=13/03/2013
+NoOrdre=162
+End With
+With ADMISSION
+Id=559
+Nom=MAGNIN
+Prenom=JOSEPH
+CodeDft=559
+AdmissionDate=13/03/2013
+NoOrdre=160
+End With
+With ADMISSION
+Id=561
+Nom=BERTHIER
+Prenom=JEANNE
+CodeDft=561
+AdmissionDate=13/03/2013
+NoOrdre=163
+End With
+With ADMISSION
+Id=562
+Nom=BOUILLON
+Prenom=MATTEO
+CodeDft=562
+AdmissionDate=13/03/2013
+NoOrdre=161
+End With
+With ADMISSION
+Id=563
+Nom=LEJEUNE
+Prenom=JEAN
+CodeDft=563
+AdmissionDate=13/03/2013
+NoOrdre=164
+End With
+With ADMISSION
+Id=564
+Nom=VERNUSSE
+Prenom=Yvette
+CodeDft=564
+AdmissionDate=14/03/2013
+NoOrdre=168
+End With
+With ADMISSION
+Id=568
+Nom=GRILLET
+Prenom=ANDRE
+CodeDft=568
+AdmissionDate=14/03/2013
+NoOrdre=169
+End With
+With ADMISSION
+Id=569
+Nom=JULIEN
+Prenom=Micheline
+CodeDft=569
+AdmissionDate=13/03/2013
+NoOrdre=166
+End With
+With ADMISSION
+Id=570
+Nom=VIRETTO-TRUTTO
+Prenom=STELLA
+CodeDft=570
+AdmissionDate=13/03/2013
+NoOrdre=165
+End With
+With ADMISSION
+Id=571
+Nom=COUVERT
+Prenom=LUCIENNE
+CodeDft=571
+AdmissionDate=13/03/2013
+NoOrdre=167
+End With
+With ADMISSION
+Id=576
+Nom=JAQUIER
+Prenom=ROBERT
+CodeDft=576
+AdmissionDate=14/03/2013
+NoOrdre=170
+End With
+With ADMISSION
+Id=578
+Nom=DUBONNET
+Prenom=FRANCISQUE
+CodeDft=578
+AdmissionDate=15/03/2013
+NoOrdre=172
+End With
+With ADMISSION
+Id=579
+Nom=FILIPPI
+Prenom=JEAN-NOEL
+CodeDft=579
+AdmissionDate=15/03/2013
+NoOrdre=171
+End With
+With ADMISSION
+Id=584
+Nom=LAMBERLIN
+Prenom=ANNIE
+CodeDft=584
+AdmissionDate=16/03/2013
+NoOrdre=173
+End With
+With ADMISSION
+Id=585
+Nom=RAYMOND
+Prenom=MARCELLE
+CodeDft=585
+AdmissionDate=16/03/2013
+NoOrdre=174
+End With
+With ADMISSION
+Id=586
+Nom=GRAND
+Prenom=RAYMONDE
+CodeDft=586
+AdmissionDate=17/03/2013
+NoOrdre=175
+End With
+With ADMISSION
+Id=589
+Nom=DE COENE
+Prenom=ANNIE
+CodeDft=589
+AdmissionDate=17/03/2013
+NoOrdre=176
+End With
+With ADMISSION
+Id=591
+Nom=BADI
+Prenom=GERMAINE
+CodeDft=591
+AdmissionDate=18/03/2013
+NoOrdre=179
+End With
+With ADMISSION
+Id=593
+Nom=MARGUET
+Prenom=CHRISTIAN
+CodeDft=593
+AdmissionDate=18/03/2013
+NoOrdre=178
+End With
+With ADMISSION
+Id=596
+Nom=THOURET
+Prenom=GILBERT
+CodeDft=596
+AdmissionDate=18/03/2013
+NoOrdre=177
+End With
+With ADMISSION
+Id=601
+Nom=MARTEL
+Prenom=ANDREE
+CodeDft=601
+AdmissionDate=18/03/2013
+NoOrdre=180
+End With
+With ADMISSION
+Id=605
+Nom=BRIQUET
+Prenom=MICHEL
+CodeDft=605
+AdmissionDate=19/03/2013
+NoOrdre=181
+End With
+With ADMISSION
+Id=607
+Nom=DESPRAIRIES
+Prenom=MARIE NOELLE
+CodeDft=607
+AdmissionDate=19/03/2013
+NoOrdre=182
+End With
+With ADMISSION
+Id=608
+Nom=BERTHOLLET
+Prenom=Charles
+CodeDft=608
+AdmissionDate=19/03/2013
+NoOrdre=183
+End With
+With ADMISSION
+Id=613
+Nom=GURINI
+Prenom=EBE
+CodeDft=613
+AdmissionDate=21/07/2013
+NoOrdre=425
+End With
+With ADMISSION
+Id=615
+Nom=MINA
+Prenom=Simone
+CodeDft=615
+AdmissionDate=20/03/2013
+NoOrdre=184
+End With
+With ADMISSION
+Id=618
+Nom=PASARIN
+Prenom=MERCEDES
+CodeDft=618
+AdmissionDate=21/03/2013
+NoOrdre=185
+End With
+With ADMISSION
+Id=620
+Nom=CAILLASSE
+Prenom=Denise
+CodeDft=620
+AdmissionDate=21/03/2013
+NoOrdre=186
+End With
+With ADMISSION
+Id=621
+Nom=HUSTACHE
+Prenom=JEAN-MARIE
+CodeDft=621
+AdmissionDate=21/03/2013
+NoOrdre=187
+End With
+With ADMISSION
+Id=626
+Nom=DAMEVIN
+Prenom=JACQUES
+CodeDft=626
+AdmissionDate=22/03/2013
+NoOrdre=188
+End With
+With ADMISSION
+Id=628
+Nom=JACCAZ
+Prenom=DENISE
+CodeDft=628
+AdmissionDate=23/03/2013
+NoOrdre=190
+End With
+With ADMISSION
+Id=630
+Nom=MILLION  BRODAZ
+Prenom=RENE
+CodeDft=630
+AdmissionDate=22/03/2013
+NoOrdre=189
+End With
+With ADMISSION
+Id=631
+Nom=DE ISEPPI
+Prenom=HELENE
+CodeDft=631
+AdmissionDate=23/03/2013
+NoOrdre=191
+End With
+With ADMISSION
+Id=633
+Nom=RABILLER
+Prenom=Pierre
+CodeDft=633
+AdmissionDate=24/03/2013
+NoOrdre=192
+End With
+With ADMISSION
+Id=634
+Nom=PARMENTIER
+Prenom=MARIE
+CodeDft=634
+AdmissionDate=24/03/2013
+NoOrdre=193
+End With
+With ADMISSION
+Id=636
+Nom=VENTURINI
+Prenom=ALBERT
+CodeDft=636
+AdmissionDate=25/03/2013
+NoOrdre=194
+End With
+With ADMISSION
+Id=644
+Nom=YOL
+Prenom=KAZIM
+CodeDft=644
+AdmissionDate=25/03/2013
+NoOrdre=195
+End With
+With ADMISSION
+Id=649
+Nom=REVIL-BAUDARD
+Prenom=LOUIS
+CodeDft=649
+AdmissionDate=26/03/2013
+NoOrdre=197
+End With
+With ADMISSION
+Id=651
+Nom=GROS
+Prenom=PIERRE
+CodeDft=651
+AdmissionDate=26/03/2013
+NoOrdre=196
+End With
+With ADMISSION
+Id=659
+Nom=GOTTELAND
+Prenom=Arlette
+CodeDft=659
+AdmissionDate=28/03/2013
+NoOrdre=198
+End With
+With ADMISSION
+Id=660
+Nom=VIANNEY
+Prenom=ROGEZ
+CodeDft=660
+AdmissionDate=28/03/2013
+NoOrdre=199
+End With
+With ADMISSION
+Id=666
+Nom=LOPEZ
+Prenom=JOSEPH
+CodeDft=666
+AdmissionDate=29/03/2013
+NoOrdre=200
+End With
+With ADMISSION
+Id=668
+Nom=GUILLEMAUT
+Prenom=MARC
+CodeDft=668
+AdmissionDate=30/03/2013
+NoOrdre=201
+End With
+With ADMISSION
+Id=670
+Nom=BAR
+Prenom=CHRISTIANE
+CodeDft=670
+AdmissionDate=30/03/2013
+NoOrdre=202
+End With
+With ADMISSION
+Id=671
+Nom=DULLIN
+Prenom=REINE
+CodeDft=671
+AdmissionDate=30/03/2013
+NoOrdre=203
+End With
+With ADMISSION
+Id=673
+Nom=VOISIN
+Prenom=LEONIE
+CodeDft=673
+AdmissionDate=31/03/2013
+NoOrdre=204
+End With
+With ADMISSION
+Id=675
+Nom=BELLEMIN COMTE
+Prenom=MARCELLE
+CodeDft=675
+AdmissionDate=01/04/2013
+NoOrdre=206
+End With
+With ADMISSION
+Id=676
+Nom=RICHARD
+Prenom=ANTHELME
+CodeDft=676
+AdmissionDate=01/04/2013
+NoOrdre=205
+End With
+With ADMISSION
+Id=681
+Nom=BACCHETTA
+Prenom=LILIANE
+CodeDft=681
+AdmissionDate=03/04/2013
+NoOrdre=209
+End With
+With ADMISSION
+Id=684
+Nom=RENAUD
+Prenom=MAURICE
+CodeDft=684
+AdmissionDate=02/04/2013
+NoOrdre=207
+End With
+With ADMISSION
+Id=685
+Nom=RAZAU
+Prenom=MARIE THERESE
+CodeDft=685
+AdmissionDate=02/04/2013
+NoOrdre=208
+End With
+With ADMISSION
+Id=693
+Nom=PIN
+Prenom=PIERRE
+CodeDft=693
+AdmissionDate=03/04/2013
+NoOrdre=210
+End With
+With ADMISSION
+Id=694
+Nom=LOMBARD
+Prenom=GEORGES
+CodeDft=694
+AdmissionDate=03/04/2013
+NoOrdre=211
+End With
+With ADMISSION
+Id=699
+Nom=VALET
+Prenom=HELENE
+CodeDft=699
+AdmissionDate=04/04/2013
+NoOrdre=212
+End With
+With ADMISSION
+Id=701
+Nom=VANNEAUD
+Prenom=ANNE
+CodeDft=701
+AdmissionDate=04/04/2013
+NoOrdre=213
+End With
+With ADMISSION
+Id=702
+Nom=JUST
+Prenom=JEAN
+CodeDft=702
+AdmissionDate=04/04/2013
+NoOrdre=214
+End With
+With ADMISSION
+Id=703
+Nom=VALESINI
+Prenom=MICHEL
+CodeDft=703
+AdmissionDate=05/04/2013
+NoOrdre=216
+End With
+With ADMISSION
+Id=705
+Nom=GALBIT
+Prenom=MICHEL
+CodeDft=705
+AdmissionDate=05/04/2013
+NoOrdre=215
+End With
+With ADMISSION
+Id=707
+Nom=BRIAT
+Prenom=YVONNE
+CodeDft=707
+AdmissionDate=05/04/2013
+NoOrdre=217
+End With
+With ADMISSION
+Id=708
+Nom=LATHOUD
+Prenom=DENISE
+CodeDft=708
+AdmissionDate=06/04/2013
+NoOrdre=218
+End With
+With ADMISSION
+Id=709
+Nom=JACQUET
+Prenom=VICTOR
+CodeDft=709
+AdmissionDate=06/04/2013
+NoOrdre=220
+End With
+With ADMISSION
+Id=710
+Nom=BUFFET
+Prenom=ODETTE
+CodeDft=710
+AdmissionDate=06/04/2013
+NoOrdre=219
+End With
+With ADMISSION
+Id=712
+Nom=DURAND
+Prenom=ROGER
+CodeDft=712
+AdmissionDate=07/04/2013
+NoOrdre=225
+End With
+With ADMISSION
+Id=713
+Nom=SIBILLE
+Prenom=MORGANE
+CodeDft=713
+AdmissionDate=06/04/2013
+NoOrdre=221
+End With
+With ADMISSION
+Id=714
+Nom=CLONIET
+Prenom=RENEE
+CodeDft=714
+AdmissionDate=06/04/2013
+NoOrdre=222
+End With
+With ADMISSION
+Id=718
+Nom=PORTAZ
+Prenom=DENISE
+CodeDft=718
+AdmissionDate=07/04/2013
+NoOrdre=223
+End With
+With ADMISSION
+Id=719
+Nom=CARLE
+Prenom=DANIELE
+CodeDft=719
+AdmissionDate=07/04/2013
+NoOrdre=224
+End With
+With ADMISSION
+Id=726
+Nom=HUYSSEN
+Prenom=MARIUS
+CodeDft=726
+AdmissionDate=09/04/2013
+NoOrdre=226
+End With
+With ADMISSION
+Id=728
+Nom=BERNAT
+Prenom=Franceline
+CodeDft=728
+AdmissionDate=09/04/2013
+NoOrdre=227
+End With
+With ADMISSION
+Id=729
+Nom=LOCATELLI
+Prenom=RENE
+CodeDft=729
+AdmissionDate=10/04/2013
+NoOrdre=228
+End With
+With ADMISSION
+Id=731
+Nom=TROCCAZ
+Prenom=IRMA
+CodeDft=731
+AdmissionDate=10/04/2013
+NoOrdre=229
+End With
+With ADMISSION
+Id=737
+Nom=RICHOUD
+Prenom=YVES
+CodeDft=737
+AdmissionDate=10/04/2013
+NoOrdre=230
+End With
+With ADMISSION
+Id=742
+Nom=MOINET
+Prenom=HELENE
+CodeDft=742
+AdmissionDate=10/04/2013
+NoOrdre=231
+End With
+With ADMISSION
+Id=743
+Nom=URZI
+Prenom=SALVATORE
+CodeDft=743
+AdmissionDate=11/04/2013
+NoOrdre=232
+End With
+With ADMISSION
+Id=753
+Nom=BARLAND
+Prenom=ANAIS
+CodeDft=753
+AdmissionDate=12/04/2013
+NoOrdre=233
+End With
+With ADMISSION
+Id=756
+Nom=CRACOWSKI
+Prenom=JACQUES
+CodeDft=756
+AdmissionDate=13/04/2013
+NoOrdre=234
+End With
+With ADMISSION
+Id=757
+Nom=RISPAL
+Prenom=CLAUDE
+CodeDft=757
+AdmissionDate=13/04/2013
+NoOrdre=235
+End With
+With ADMISSION
+Id=758
+Nom=POUPION
+Prenom=ANDRE
+CodeDft=758
+AdmissionDate=13/04/2013
+NoOrdre=236
+End With
+With ADMISSION
+Id=760
+Nom=BOGEAT
+Prenom=MICHELE
+CodeDft=760
+AdmissionDate=14/04/2013
+NoOrdre=237
+End With
+With ADMISSION
+Id=762
+Nom=CURTET
+Prenom=SIMONE
+CodeDft=762
+AdmissionDate=14/04/2013
+NoOrdre=238
+End With
+With ADMISSION
+Id=766
+Nom=BOUCHET
+Prenom=RENE
+CodeDft=766
+AdmissionDate=15/04/2013
+NoOrdre=239
+End With
+With ADMISSION
+Id=769
+Nom=BERARD
+Prenom=CHRISTOPHE
+CodeDft=769
+AdmissionDate=15/04/2013
+NoOrdre=240
+End With
+With ADMISSION
+Id=770
+Nom=STRAUDO
+Prenom=RAYMOND
+CodeDft=770
+AdmissionDate=15/04/2013
+NoOrdre=241
+End With
+With ADMISSION
+Id=775
+Nom=VAILLANT
+Prenom=RENEE
+CodeDft=775
+AdmissionDate=17/04/2013
+NoOrdre=243
+End With
+With ADMISSION
+Id=778
+Nom=WAINER
+Prenom=THERESE
+CodeDft=778
+AdmissionDate=17/04/2013
+NoOrdre=242
+End With
+With ADMISSION
+Id=783
+Nom=RADICI
+Prenom=ANDRE
+CodeDft=783
+AdmissionDate=17/04/2013
+NoOrdre=244
+End With
+With ADMISSION
+Id=784
+Nom=VAGNON
+Prenom=PIERRE
+CodeDft=784
+AdmissionDate=17/04/2013
+NoOrdre=245
+End With
+With ADMISSION
+Id=786
+Nom=GRANGEAT
+Prenom=ERNEST
+CodeDft=786
+AdmissionDate=18/04/2013
+NoOrdre=246
+End With
+With ADMISSION
+Id=791
+Nom=FERNANDEZ
+Prenom=MARIE
+CodeDft=791
+AdmissionDate=18/04/2013
+NoOrdre=247
+End With
+With ADMISSION
+Id=792
+Nom=VENTURA
+Prenom=THERESE
+CodeDft=792
+AdmissionDate=19/04/2013
+NoOrdre=248
+End With
+With ADMISSION
+Id=794
+Nom=BOUCHE
+Prenom=CLAUDE
+CodeDft=794
+AdmissionDate=19/04/2013
+NoOrdre=249
+End With
+With ADMISSION
+Id=802
+Nom=FOUQUERE
+Prenom=AGNES
+CodeDft=802
+AdmissionDate=21/04/2013
+NoOrdre=250
+End With
+With ADMISSION
+Id=806
+Nom=FLAMMIER
+Prenom=ALBERT
+CodeDft=806
+AdmissionDate=22/04/2013
+NoOrdre=251
+End With
+With ADMISSION
+Id=809
+Nom=CHIVILO
+Prenom=LOUIS
+CodeDft=809
+AdmissionDate=22/04/2013
+NoOrdre=252
+End With
+With ADMISSION
+Id=812
+Nom=ROMANET
+Prenom=MONIQUE
+CodeDft=812
+AdmissionDate=23/04/2013
+NoOrdre=254
+End With
+With ADMISSION
+Id=813
+Nom=FAYARD
+Prenom=DOMINIQUE
+CodeDft=813
+AdmissionDate=23/04/2013
+NoOrdre=253
+End With
+With ADMISSION
+Id=814
+Nom=MASSON
+Prenom=CLAUDE
+CodeDft=814
+AdmissionDate=24/04/2013
+NoOrdre=255
+End With
+With ADMISSION
+Id=819
+Nom=GIRARDET
+Prenom=ALICE
+CodeDft=819
+AdmissionDate=24/04/2013
+NoOrdre=256
+End With
+With ADMISSION
+Id=828
+Nom=BETAIMI
+Prenom=ROGER
+CodeDft=828
+AdmissionDate=25/04/2013
+NoOrdre=257
+End With
+With ADMISSION
+Id=832
+Nom=VERNET
+Prenom=YVETTE
+CodeDft=832
+AdmissionDate=26/04/2013
+NoOrdre=258
+End With
+With ADMISSION
+Id=838
+Nom=RIGAUD MODELIN
+Prenom=GILBERT
+CodeDft=838
+AdmissionDate=26/04/2013
+NoOrdre=259
+End With
+With ADMISSION
+Id=839
+Nom=BOURGEOIS
+Prenom=MARIE
+CodeDft=839
+AdmissionDate=26/04/2013
+NoOrdre=260
+End With
+With ADMISSION
+Id=844
+Nom=DOUINE
+Prenom=MARGUERITE
+CodeDft=844
+AdmissionDate=27/04/2013
+NoOrdre=261
+End With
+With ADMISSION
+Id=845
+Nom=FOEX
+Prenom=CHRISTIANNE
+CodeDft=845
+AdmissionDate=28/04/2013
+NoOrdre=263
+End With
+With ADMISSION
+Id=846
+Nom=CORTES
+Prenom=JOSEPH
+CodeDft=846
+AdmissionDate=27/04/2013
+NoOrdre=262
+End With
+With ADMISSION
+Id=847
+Nom=VANDENHANDENHUYSE
+Prenom=ROGER
+CodeDft=847
+AdmissionDate=29/04/2013
+NoOrdre=269
+End With
+With ADMISSION
+Id=849
+Nom=SALOMON
+Prenom=ELIANE
+CodeDft=849
+AdmissionDate=28/04/2013
+NoOrdre=264
+End With
+With ADMISSION
+Id=851
+Nom=TREVISIOL
+Prenom=TOMASO
+CodeDft=851
+AdmissionDate=29/04/2013
+NoOrdre=266
+End With
+With ADMISSION
+Id=853
+Nom=MONELLO
+Prenom=JOACHINO
+CodeDft=853
+AdmissionDate=29/04/2013
+NoOrdre=267
+End With
+With ADMISSION
+Id=854
+Nom=PRUNIER-BOURGEOIS
+Prenom=JEAN
+CodeDft=854
+AdmissionDate=29/04/2013
+NoOrdre=268
+End With
+With ADMISSION
+Id=856
+Nom=PIOZ
+Prenom=ELISABETH
+CodeDft=856
+AdmissionDate=28/04/2013
+NoOrdre=265
+End With
+With ADMISSION
+Id=862
+Nom=FONTANEL
+Prenom=JOSEPH
+CodeDft=862
+AdmissionDate=30/04/2013
+NoOrdre=270
+End With
+With ADMISSION
+Id=864
+Nom=PORRAL
+Prenom=ODETTE JOSEPHINE
+CodeDft=864
+AdmissionDate=01/05/2013
+NoOrdre=272
+End With
+With ADMISSION
+Id=865
+Nom=FUMAT
+Prenom=DENISE
+CodeDft=865
+AdmissionDate=01/05/2013
+NoOrdre=271
+End With
+With ADMISSION
+Id=872
+Nom=DUFAUD
+Prenom=MARC
+CodeDft=872
+AdmissionDate=02/05/2013
+NoOrdre=273
+End With
+With ADMISSION
+Id=878
+Nom=THEVENOT
+Prenom=ARLETTE
+CodeDft=878
+AdmissionDate=03/05/2013
+NoOrdre=274
+End With
+With ADMISSION
+Id=880
+Nom=MASSE
+Prenom=MAURICE
+CodeDft=880
+AdmissionDate=03/05/2013
+NoOrdre=275
+End With
+With ADMISSION
+Id=881
+Nom=COBBE
+Prenom=CATHERINE
+CodeDft=881
+AdmissionDate=04/05/2013
+NoOrdre=278
+End With
+With ADMISSION
+Id=883
+Nom=BERNARD
+Prenom=FRANCOISE
+CodeDft=883
+AdmissionDate=03/05/2013
+NoOrdre=276
+End With
+With ADMISSION
+Id=884
+Nom=JAECK
+Prenom=MIREILLE
+CodeDft=884
+AdmissionDate=04/05/2013
+NoOrdre=277
+End With
+With ADMISSION
+Id=889
+Nom=DAVID
+Prenom=VICTOR
+CodeDft=889
+AdmissionDate=05/05/2013
+NoOrdre=281
+End With
+With ADMISSION
+Id=891
+Nom=DURET
+Prenom=JACKY
+CodeDft=891
+AdmissionDate=04/05/2013
+NoOrdre=279
+End With
+With ADMISSION
+Id=893
+Nom=FLEURY
+Prenom=MAURICE
+CodeDft=893
+AdmissionDate=05/05/2013
+NoOrdre=280
+End With
+With ADMISSION
+Id=898
+Nom=VIALLE
+Prenom=MARIE- ALIX
+CodeDft=898
+AdmissionDate=05/05/2013
+NoOrdre=282
+End With
+With ADMISSION
+Id=901
+Nom=FILSNOEL
+Prenom=JEAN
+CodeDft=901
+AdmissionDate=05/05/2013
+NoOrdre=283
+End With
+With ADMISSION
+Id=909
+Nom=TERRIER
+Prenom=COLETTE
+CodeDft=909
+AdmissionDate=06/05/2013
+NoOrdre=284
+End With
+With ADMISSION
+Id=910
+Nom=PAILLEX
+Prenom=NATHALIE
+CodeDft=910
+AdmissionDate=06/05/2013
+NoOrdre=285
+End With
+With ADMISSION
+Id=911
+Nom=MESSIN
+Prenom=ANDREE
+CodeDft=911
+AdmissionDate=07/05/2013
+NoOrdre=286
+End With
+With ADMISSION
+Id=919
+Nom=MARZIN
+Prenom=MONIQUE
+CodeDft=919
+AdmissionDate=09/05/2013
+NoOrdre=287
+End With
+With ADMISSION
+Id=925
+Nom=DURANDAU
+Prenom=BERNARD
+CodeDft=925
+AdmissionDate=10/05/2013
+NoOrdre=288
+End With
+With ADMISSION
+Id=932
+Nom=LAPEYRE
+Prenom=MICHELINE
+CodeDft=932
+AdmissionDate=12/05/2013
+NoOrdre=290
+End With
+With ADMISSION
+Id=933
+Nom=CATHIARD
+Prenom=MADELEINE
+CodeDft=933
+AdmissionDate=12/05/2013
+NoOrdre=289
+End With
+With ADMISSION
+Id=936
+Nom=MARCON
+Prenom=Marie-Thérèse
+CodeDft=936
+AdmissionDate=13/05/2013
+NoOrdre=292
+End With
+With ADMISSION
+Id=940
+Nom=CHAFFARDON
+Prenom=SIMONE
+CodeDft=940
+AdmissionDate=13/05/2013
+NoOrdre=291
+End With
+With ADMISSION
+Id=942
+Nom=LEREDDE
+Prenom=JEAN-BERNARD
+CodeDft=942
+AdmissionDate=14/05/2013
+NoOrdre=293
+End With
+With ADMISSION
+Id=943
+Nom=MONTAZ
+Prenom=INES
+CodeDft=943
+AdmissionDate=15/05/2013
+NoOrdre=294
+End With
+With ADMISSION
+Id=946
+Nom=THOMAS
+Prenom=ANTOINE
+CodeDft=946
+AdmissionDate=15/05/2013
+NoOrdre=295
+End With
+With ADMISSION
+Id=949
+Nom=PONCET
+Prenom=JEAN
+CodeDft=949
+AdmissionDate=15/05/2013
+NoOrdre=296
+End With
+With ADMISSION
+Id=951
+Nom=DENAT
+Prenom=Philippe
+CodeDft=951
+AdmissionDate=16/05/2013
+NoOrdre=297
+End With
+With ADMISSION
+Id=952
+Nom=PORCHERON
+Prenom=Jean
+CodeDft=952
+AdmissionDate=16/05/2013
+NoOrdre=299
+End With
+With ADMISSION
+Id=954
+Nom=DELVEAU
+Prenom=ROSEMAI
+CodeDft=954
+AdmissionDate=15/05/2013
+NoOrdre=297
+End With
+With ADMISSION
+Id=955
+Nom=DUJOURD'HUI
+Prenom=MAX
+CodeDft=955
+AdmissionDate=15/05/2013
+NoOrdre=298
+End With
+With ADMISSION
+Id=957
+Nom=BLARD
+Prenom=GISELE
+CodeDft=957
+AdmissionDate=16/05/2013
+NoOrdre=300
+End With
+With ADMISSION
+Id=958
+Nom=JEANNIN
+Prenom=Jacqueline
+CodeDft=958
+AdmissionDate=17/05/2013
+NoOrdre=303
+End With
+With ADMISSION
+Id=961
+Nom=GOMEZ
+Prenom=REMY
+CodeDft=961
+AdmissionDate=17/05/2013
+NoOrdre=301
+End With
+With ADMISSION
+Id=962
+Nom=DABURON
+Prenom=Christine
+CodeDft=962
+AdmissionDate=17/05/2013
+NoOrdre=302
+End With
+With ADMISSION
+Id=964
+Nom=CHAFFARDON
+Prenom=MAURICE
+CodeDft=964
+AdmissionDate=18/05/2013
+NoOrdre=304
+End With
+With ADMISSION
+Id=969
+Nom=BADROT
+Prenom=MARCELLE
+CodeDft=969
+AdmissionDate=18/05/2013
+NoOrdre=305
+End With
+With ADMISSION
+Id=974
+Nom=DOUSSON
+Prenom=SERGE
+CodeDft=974
+AdmissionDate=18/05/2013
+NoOrdre=306
+End With
+With ADMISSION
+Id=977
+Nom=TURCHET
+Prenom=ANDREE
+CodeDft=977
+AdmissionDate=19/05/2013
+NoOrdre=307
+End With
+With ADMISSION
+Id=979
+Nom=CHARPIN
+Prenom=Michel
+CodeDft=979
+AdmissionDate=20/05/2013
+NoOrdre=308
+End With
+With ADMISSION
+Id=986
+Nom=DUPRAZ
+Prenom=MARGUERITE
+CodeDft=986
+AdmissionDate=21/05/2013
+NoOrdre=309
+End With
+With ADMISSION
+Id=987
+Nom=RAFFORT
+Prenom=FERNAND
+CodeDft=987
+AdmissionDate=21/05/2013
+NoOrdre=310
+End With
+With ADMISSION
+Id=992
+Nom=BOUVOT
+Prenom=ANTOINE
+CodeDft=992
+AdmissionDate=21/05/2013
+NoOrdre=311
+End With
+With ADMISSION
+Id=996
+Nom=REMY
+Prenom=GABRIEL
+CodeDft=996
+AdmissionDate=22/05/2013
+NoOrdre=312
+End With
+With ADMISSION
+Id=999
+Nom=LESCOT
+Prenom=Raymond
+CodeDft=999
+AdmissionDate=23/05/2013
+NoOrdre=315
+End With
+With ADMISSION
+Id=1000
+Nom=JULIEN
+Prenom=François
+CodeDft=1000
+AdmissionDate=23/05/2013
+NoOrdre=316
+End With
+With ADMISSION
+Id=1007
+Nom=PIN
+Prenom=Aline
+CodeDft=1007
+AdmissionDate=23/05/2013
+NoOrdre=313
+End With
+With ADMISSION
+Id=1008
+Nom=BARBIER
+Prenom=CLAUDE
+CodeDft=1008
+AdmissionDate=23/05/2013
+NoOrdre=314
+End With
+With ADMISSION
+Id=1014
+Nom=BERTOLUTTI
+Prenom=MARCEL
+CodeDft=1014
+AdmissionDate=24/05/2013
+NoOrdre=317
+End With
+With ADMISSION
+Id=1017
+Nom=CHAMOUSSET
+Prenom=ROGER
+CodeDft=1017
+AdmissionDate=25/05/2013
+NoOrdre=318
+End With
+With ADMISSION
+Id=1027
+Nom=PADEY
+Prenom=GERARD
+CodeDft=1027
+AdmissionDate=27/05/2013
+NoOrdre=319
+End With
+With ADMISSION
+Id=1032
+Nom=CRON
+Prenom=Georges
+CodeDft=1032
+AdmissionDate=27/05/2013
+NoOrdre=320
+End With
+With ADMISSION
+Id=1034
+Nom=BRUN
+Prenom=RENE
+CodeDft=1034
+AdmissionDate=28/05/2013
+NoOrdre=321
+End With
+With ADMISSION
+Id=1039
+Nom=GUILBEAU
+Prenom=PATRICIA
+CodeDft=1039
+AdmissionDate=28/05/2013
+NoOrdre=322
+End With
+With ADMISSION
+Id=1043
+Nom=JANIN
+Prenom=JEANNE
+CodeDft=1043
+AdmissionDate=29/05/2013
+NoOrdre=323
+End With
+With ADMISSION
+Id=1050
+Nom=DIJOUD
+Prenom=BLANCHE
+CodeDft=1050
+AdmissionDate=31/05/2013
+NoOrdre=324
+End With
+With ADMISSION
+Id=1051
+Nom=PAULUS
+Prenom=MARIE GERMAINE
+CodeDft=1051
+AdmissionDate=01/06/2013
+NoOrdre=325
+End With
+With ADMISSION
+Id=1055
+Nom=MOTTA
+Prenom=ROSETTE
+CodeDft=1055
+AdmissionDate=01/06/2013
+NoOrdre=326
+End With
+With ADMISSION
+Id=1056
+Nom=RAJKOVIC
+Prenom=MARKO
+CodeDft=1056
+AdmissionDate=01/06/2013
+NoOrdre=327
+End With
+With ADMISSION
+Id=1058
+Nom=ROSSET
+Prenom=Louis
+CodeDft=1058
+AdmissionDate=02/06/2013
+NoOrdre=328
+End With
+With ADMISSION
+Id=1059
+Nom=ZUBORA
+Prenom=ALAIN
+CodeDft=1059
+AdmissionDate=02/06/2013
+NoOrdre=329
+End With
+With ADMISSION
+Id=1061
+Nom=LATHOUD
+Prenom=JULIEN
+CodeDft=1061
+AdmissionDate=03/06/2013
+NoOrdre=330
+End With
+With ADMISSION
+Id=1068
+Nom=CANIZAR
+Prenom=DOMINIQUE
+CodeDft=1068
+AdmissionDate=04/06/2013
+NoOrdre=331
+End With
+With ADMISSION
+Id=1074
+Nom=PETOT
+Prenom=CLAUDE
+CodeDft=1074
+AdmissionDate=05/06/2013
+NoOrdre=332
+End With
+With ADMISSION
+Id=1076
+Nom=FAURE
+Prenom=GEORGES
+CodeDft=1076
+AdmissionDate=05/06/2013
+NoOrdre=333
+End With
+With ADMISSION
+Id=1077
+Nom=CLERIN
+Prenom=Michel
+CodeDft=1077
+AdmissionDate=05/06/2013
+NoOrdre=334
+End With
+With ADMISSION
+Id=1087
+Nom=TISSOT
+Prenom=MICHELE
+CodeDft=1087
+AdmissionDate=07/06/2013
+NoOrdre=335
+End With
+With ADMISSION
+Id=1093
+Nom=MONET
+Prenom=LUCIEN
+CodeDft=1093
+AdmissionDate=08/06/2013
+NoOrdre=336
+End With
+With ADMISSION
+Id=1095
+Nom=CORDIER
+Prenom=BERNADETTE
+CodeDft=1095
+AdmissionDate=08/06/2013
+NoOrdre=337
+End With
+With ADMISSION
+Id=1096
+Nom=COMBAZ
+Prenom=HENRI
+CodeDft=1096
+AdmissionDate=09/06/2013
+NoOrdre=338
+End With
+With ADMISSION
+Id=1099
+Nom=DUNAND
+Prenom=FRANCOISE
+CodeDft=1099
+AdmissionDate=09/06/2013
+NoOrdre=339
+End With
+With ADMISSION
+Id=1105
+Nom=CHATELARD
+Prenom=ROGER
+CodeDft=1105
+AdmissionDate=10/06/2013
+NoOrdre=340
+End With
+With ADMISSION
+Id=1108
+Nom=MASCHIO
+Prenom=YVETTE
+CodeDft=1108
+AdmissionDate=11/06/2013
+NoOrdre=342
+End With
+With ADMISSION
+Id=1109
+Nom=PLONCARD
+Prenom=Gilles
+CodeDft=1109
+AdmissionDate=11/06/2013
+NoOrdre=343
+End With
+With ADMISSION
+Id=1110
+Nom=MICHEL
+Prenom=RENEE
+CodeDft=1110
+AdmissionDate=11/06/2013
+NoOrdre=341
+End With
+With ADMISSION
+Id=1115
+Nom=GACHET
+Prenom=GERARD
+CodeDft=1115
+AdmissionDate=12/06/2013
+NoOrdre=347
+End With
+With ADMISSION
+Id=1116
+Nom=MILLET
+Prenom=LUCIEN
+CodeDft=1116
+AdmissionDate=11/06/2013
+NoOrdre=344
+End With
+With ADMISSION
+Id=1118
+Nom=COPPOLA
+Prenom=RAFFAELE
+CodeDft=1118
+AdmissionDate=12/06/2013
+NoOrdre=345
+End With
+With ADMISSION
+Id=1119
+Nom=BOSSIO
+Prenom=ORTENCIA
+CodeDft=1119
+AdmissionDate=12/06/2013
+NoOrdre=346
+End With
+With ADMISSION
+Id=1120
+Nom=COURBEBAISSE
+Prenom=PAUL
+CodeDft=1120
+AdmissionDate=12/06/2013
+NoOrdre=349
+End With
+With ADMISSION
+Id=1122
+Nom=DURAND
+Prenom=Odette
+CodeDft=1122
+AdmissionDate=12/06/2013
+NoOrdre=348
+End With
+With ADMISSION
+Id=1123
+Nom=LAURENT
+Prenom=MARINA
+CodeDft=1123
+AdmissionDate=12/06/2013
+NoOrdre=350
+End With
+With ADMISSION
+Id=1124
+Nom=BRICHE
+Prenom=CHRISTIAN
+CodeDft=1124
+AdmissionDate=12/06/2013
+NoOrdre=351
+End With
+With ADMISSION
+Id=1125
+Nom=BLANC
+Prenom=JOSETTE
+CodeDft=1125
+AdmissionDate=12/06/2013
+NoOrdre=352
+End With
+With ADMISSION
+Id=1126
+Nom=GANDELLI
+Prenom=GILBERT
+CodeDft=1126
+AdmissionDate=13/06/2013
+NoOrdre=354
+End With
+With ADMISSION
+Id=1128
+Nom=BERT
+Prenom=ROGER
+CodeDft=1128
+AdmissionDate=13/06/2013
+NoOrdre=355
+End With
+With ADMISSION
+Id=1130
+Nom=BRAGA
+Prenom=PIERRE
+CodeDft=1130
+AdmissionDate=13/06/2013
+NoOrdre=353
+End With
+With ADMISSION
+Id=1132
+Nom=NICOLOSI
+Prenom=FILIPPO
+CodeDft=1132
+AdmissionDate=13/06/2013
+NoOrdre=356
+End With
+With ADMISSION
+Id=1136
+Nom=JOUFFROY
+Prenom=NORBERT
+CodeDft=1136
+AdmissionDate=14/06/2013
+NoOrdre=357
+End With
+With ADMISSION
+Id=1138
+Nom=SIMONIN
+Prenom=MARIE HELENE
+CodeDft=1138
+AdmissionDate=14/06/2013
+NoOrdre=358
+End With
+With ADMISSION
+Id=1139
+Nom=JULLIARD
+Prenom=ANDREE
+CodeDft=1139
+AdmissionDate=15/06/2013
+NoOrdre=359
+End With
+With ADMISSION
+Id=1142
+Nom=CAILLE
+Prenom=DANIEL
+CodeDft=1142
+AdmissionDate=15/06/2013
+NoOrdre=360
+End With
+With ADMISSION
+Id=1149
+Nom=MONY
+Prenom=SIMONE
+CodeDft=1149
+AdmissionDate=16/06/2013
+NoOrdre=361
+End With
+With ADMISSION
+Id=1150
+Nom=DONZEL
+Prenom=BERNARD
+CodeDft=1150
+AdmissionDate=16/06/2013
+NoOrdre=362
+End With
+With ADMISSION
+Id=1151
+Nom=HERMANN
+Prenom=GHISLAINE
+CodeDft=1151
+AdmissionDate=17/06/2013
+NoOrdre=363
+End With
+With ADMISSION
+Id=1156
+Nom=RAISIN
+Prenom=HELENE
+CodeDft=1156
+AdmissionDate=17/06/2013
+NoOrdre=364
+End With
+With ADMISSION
+Id=1157
+Nom=REBENNE
+Prenom=BRIGITTE
+CodeDft=1157
+AdmissionDate=17/06/2013
+NoOrdre=365
+End With
+With ADMISSION
+Id=1158
+Nom=MONGELLAZ
+Prenom=CAMILLE
+CodeDft=1158
+AdmissionDate=17/06/2013
+NoOrdre=366
+End With
+With ADMISSION
+Id=1159
+Nom=VILLAUMET
+Prenom=GISELE
+CodeDft=1159
+AdmissionDate=17/06/2013
+NoOrdre=367
+End With
+With ADMISSION
+Id=1165
+Nom=ZVILOFF
+Prenom=MARGUERITE
+CodeDft=1165
+AdmissionDate=19/06/2013
+NoOrdre=368
+End With
+With ADMISSION
+Id=1170
+Nom=CARRON
+Prenom=GILBERT
+CodeDft=1170
+AdmissionDate=20/06/2013
+NoOrdre=369
+End With
+With ADMISSION
+Id=1171
+Nom=MIEGE
+Prenom=Louise
+CodeDft=1171
+AdmissionDate=21/06/2013
+NoOrdre=370
+End With
+With ADMISSION
+Id=1172
+Nom=HERITIER
+Prenom=JEAN MARC
+CodeDft=1172
+AdmissionDate=21/06/2013
+NoOrdre=371
+End With
+With ADMISSION
+Id=1173
+Nom=BONNET
+Prenom=MICHEL
+CodeDft=1173
+AdmissionDate=21/06/2013
+NoOrdre=372
+End With
+With ADMISSION
+Id=1178
+Nom=EMPEREUR-BUISSONNET
+Prenom=FERNAND
+CodeDft=1178
+AdmissionDate=22/06/2013
+NoOrdre=373
+End With
+With ADMISSION
+Id=1182
+Nom=DALU
+Prenom=ANGELO
+CodeDft=1182
+AdmissionDate=22/06/2013
+NoOrdre=374
+End With
+With ADMISSION
+Id=1187
+Nom=GRAVE
+Prenom=AGNES
+CodeDft=1187
+AdmissionDate=22/06/2013
+NoOrdre=375
+End With
+With ADMISSION
+Id=1189
+Nom=BOVAGNET
+Prenom=SIMONE
+CodeDft=1189
+AdmissionDate=22/06/2013
+NoOrdre=376
+End With
+With ADMISSION
+Id=1193
+Nom=ISERABLE
+Prenom=GINETTE
+CodeDft=1193
+AdmissionDate=24/06/2013
+NoOrdre=377
+End With
+With ADMISSION
+Id=1205
+Nom=MAILLAND
+Prenom=JACQUELINE
+CodeDft=1205
+AdmissionDate=25/06/2013
+NoOrdre=378
+End With
+With ADMISSION
+Id=1207
+Nom=TRIBALAT
+Prenom=Suzanne
+CodeDft=1207
+AdmissionDate=26/06/2013
+NoOrdre=380
+End With
+With ADMISSION
+Id=1209
+Nom=BOGEAT
+Prenom=JEAN PAUL
+CodeDft=1209
+AdmissionDate=26/06/2013
+NoOrdre=381
+End With
+With ADMISSION
+Id=1210
+Nom=MACHADO
+Prenom=TERESA
+CodeDft=1210
+AdmissionDate=26/06/2013
+NoOrdre=379
+End With
+With ADMISSION
+Id=1211
+Nom=GNESUTTA
+Prenom=ERNESTA
+CodeDft=1211
+AdmissionDate=26/06/2013
+NoOrdre=382
+End With
+With ADMISSION
+Id=1214
+Nom=CHAMBET
+Prenom=Solange
+CodeDft=1214
+AdmissionDate=27/06/2013
+NoOrdre=385
+End With
+With ADMISSION
+Id=1217
+Nom=NEHLIG
+Prenom=GENEVIEVE
+CodeDft=1217
+AdmissionDate=27/06/2013
+NoOrdre=383
+End With
+With ADMISSION
+Id=1218
+Nom=TREILLARD
+Prenom=MARCEL
+CodeDft=1218
+AdmissionDate=27/06/2013
+NoOrdre=384
+End With
+With ADMISSION
+Id=1221
+Nom=THIERCELIN
+Prenom=HENRI
+CodeDft=1221
+AdmissionDate=28/06/2013
+NoOrdre=386
+End With
+With ADMISSION
+Id=1225
+Nom=PAULETTI
+Prenom=ERIC
+CodeDft=1225
+AdmissionDate=28/06/2013
+NoOrdre=387
+End With
+With ADMISSION
+Id=1228
+Nom=GILLI-CANAL
+Prenom=YVONNE
+CodeDft=1228
+AdmissionDate=29/06/2013
+NoOrdre=388
+End With
+With ADMISSION
+Id=1230
+Nom=DAVID
+Prenom=Janine
+CodeDft=1230
+AdmissionDate=29/06/2013
+NoOrdre=389
+End With
+With ADMISSION
+Id=1231
+Nom=TRELY
+Prenom=JACQUES
+CodeDft=1231
+AdmissionDate=29/06/2013
+NoOrdre=390
+End With
+With ADMISSION
+Id=1232
+Nom=MACHET
+Prenom=JOSETTE
+CodeDft=1232
+AdmissionDate=30/06/2013
+NoOrdre=391
+End With
+With ADMISSION
+Id=1236
+Nom=VACHOD
+Prenom=MARC
+CodeDft=1236
+AdmissionDate=01/07/2013
+NoOrdre=392
+End With
+With ADMISSION
+Id=1238
+Nom=DIDIER
+Prenom=JEAN
+CodeDft=1238
+AdmissionDate=02/07/2013
+NoOrdre=393
+End With
+With ADMISSION
+Id=1241
+Nom=JEANDEMANGE
+Prenom=GILBERT
+CodeDft=1241
+AdmissionDate=03/07/2013
+NoOrdre=394
+End With
+With ADMISSION
+Id=1243
+Nom=SCIBETTA
+Prenom=PASCALE
+CodeDft=1243
+AdmissionDate=03/07/2013
+NoOrdre=395
+End With
+With ADMISSION
+Id=1244
+Nom=MANCONI
+Prenom=Francesco
+CodeDft=1244
+AdmissionDate=03/07/2013
+NoOrdre=398
+End With
+With ADMISSION
+Id=1246
+Nom=GALLAND
+Prenom=JEAN LUC
+CodeDft=1246
+AdmissionDate=03/07/2013
+NoOrdre=396
+End With
+With ADMISSION
+Id=1247
+Nom=MICIC
+Prenom=VERA
+CodeDft=1247
+AdmissionDate=03/07/2013
+NoOrdre=397
+End With
+With ADMISSION
+Id=1248
+Nom=VIGIER
+Prenom=ANDRE
+CodeDft=1248
+AdmissionDate=03/07/2013
+NoOrdre=399
+End With
+With ADMISSION
+Id=1249
+Nom=MILLIAS
+Prenom=CLAUDIUS
+CodeDft=1249
+AdmissionDate=04/07/2013
+NoOrdre=400
+End With
+With ADMISSION
+Id=1253
+Nom=DERRIER
+Prenom=HENRI
+CodeDft=1253
+AdmissionDate=05/07/2013
+NoOrdre=402
+End With
+With ADMISSION
+Id=1254
+Nom=AUGUSTE
+Prenom=RAYMONDE
+CodeDft=1254
+AdmissionDate=04/07/2013
+NoOrdre=401
+End With
+With ADMISSION
+Id=1257
+Nom=CHIFFLET
+Prenom=FRANCIS
+CodeDft=1257
+AdmissionDate=05/07/2013
+NoOrdre=403
+End With
+With ADMISSION
+Id=1265
+Nom=DIAS
+Prenom=LUCIE
+CodeDft=1265
+AdmissionDate=06/07/2013
+NoOrdre=404
+End With
+With ADMISSION
+Id=1266
+Nom=BARLET
+Prenom=GILBERT
+CodeDft=1266
+AdmissionDate=08/07/2013
+NoOrdre=405
+End With
+With ADMISSION
+Id=1272
+Nom=CAMPAGNA
+Prenom=ERNEST
+CodeDft=1272
+AdmissionDate=08/07/2013
+NoOrdre=406
+End With
+With ADMISSION
+Id=1274
+Nom=ANDZAM
+Prenom=ANNE
+CodeDft=1274
+AdmissionDate=09/07/2013
+NoOrdre=407
+End With
+With ADMISSION
+Id=1275
+Nom=LUBIN
+Prenom=Denise
+CodeDft=1275
+AdmissionDate=09/07/2013
+NoOrdre=408
+End With
+With ADMISSION
+Id=1277
+Nom=BERNARD
+Prenom=Alice
+CodeDft=1277
+AdmissionDate=10/07/2013
+NoOrdre=410
+End With
+With ADMISSION
+Id=1279
+Nom=COSTE
+Prenom=JEAN
+CodeDft=1279
+AdmissionDate=10/07/2013
+NoOrdre=409
+End With
+With ADMISSION
+Id=1280
+Nom=DUBONNET
+Prenom=PAULETTE
+CodeDft=1280
+AdmissionDate=10/07/2013
+NoOrdre=411
+End With
+With ADMISSION
+Id=1282
+Nom=VEYRAT-CHARVILLON
+Prenom=JEANNE
+CodeDft=1282
+AdmissionDate=12/07/2013
+NoOrdre=412
+End With
+With ADMISSION
+Id=1284
+Nom=PITAUT
+Prenom=ROGER
+CodeDft=1284
+AdmissionDate=12/07/2013
+NoOrdre=414
+End With
+With ADMISSION
+Id=1286
+Nom=POMMIER
+Prenom=GEORGES
+CodeDft=1286
+AdmissionDate=12/07/2013
+NoOrdre=413
+End With
+With ADMISSION
+Id=1289
+Nom=ROUX
+Prenom=GINETTE
+CodeDft=1289
+AdmissionDate=13/07/2013
+NoOrdre=415
+End With
+With ADMISSION
+Id=1297
+Nom=CHAPPERON
+Prenom=JEANNE
+CodeDft=1297
+AdmissionDate=15/07/2013
+NoOrdre=416
+End With
+With ADMISSION
+Id=1300
+Nom=MARCEAU
+Prenom=Georgette
+CodeDft=1300
+AdmissionDate=16/07/2013
+NoOrdre=419
+End With
+With ADMISSION
+Id=1301
+Nom=FIARD
+Prenom=Robert
+CodeDft=1301
+AdmissionDate=16/07/2013
+NoOrdre=420
+End With
+With ADMISSION
+Id=1302
+Nom=ALONZO
+Prenom=JEAN LUC
+CodeDft=1302
+AdmissionDate=16/07/2013
+NoOrdre=417
+End With
+With ADMISSION
+Id=1303
+Nom=GAYET
+Prenom=Dominique
+CodeDft=1303
+AdmissionDate=16/07/2013
+NoOrdre=418
+End With
+With ADMISSION
+Id=1313
+Nom=VALLIER
+Prenom=LEON
+CodeDft=1313
+AdmissionDate=17/07/2013
+NoOrdre=421
+End With
+With ADMISSION
+Id=1317
+Nom=ACHARD
+Prenom=ALBERTINE
+CodeDft=1317
+AdmissionDate=19/07/2013
+NoOrdre=422
+End With
+With ADMISSION
+Id=1321
+Nom=LORRAIN
+Prenom=CLARA
+CodeDft=1321
+AdmissionDate=19/07/2013
+NoOrdre=423
+End With
+With ADMISSION
+Id=1324
+Nom=VIENNET
+Prenom=MADELEINE
+CodeDft=1324
+AdmissionDate=21/07/2013
+NoOrdre=424
+End With
+With ADMISSION
+Id=1329
+Nom=BOULANGER
+Prenom=ANTOINETTE
+CodeDft=1329
+AdmissionDate=22/07/2013
+NoOrdre=426
+End With
+With ADMISSION
+Id=1331
+Nom=DE LAVAREILLE
+Prenom=PAUL
+CodeDft=1331
+AdmissionDate=22/07/2013
+NoOrdre=427
+End With
+With ADMISSION
+Id=1334
+Nom=SCIOSCIA
+Prenom=Valentine
+CodeDft=1334
+AdmissionDate=22/07/2013
+NoOrdre=428
+End With
+With ADMISSION
+Id=1336
+Nom=CHERY
+Prenom=SUZANNE
+CodeDft=1336
+AdmissionDate=22/07/2013
+NoOrdre=429
+End With
+With ADMISSION
+Id=1343
+Nom=COUDRAY
+Prenom=MICHEL
+CodeDft=1343
+AdmissionDate=23/07/2013
+NoOrdre=430
+End With
+With ADMISSION
+Id=1346
+Nom=PILLET
+Prenom=GABRIELLE
+CodeDft=1346
+AdmissionDate=23/07/2013
+NoOrdre=431
+End With
+With ADMISSION
+Id=1349
+Nom=BERTHOUD
+Prenom=MARCELLE
+CodeDft=1349
+AdmissionDate=24/07/2013
+NoOrdre=432
+End With
+With ADMISSION
+Id=1351
+Nom=CHOPIN
+Prenom=Georgette
+CodeDft=1351
+AdmissionDate=24/07/2013
+NoOrdre=435
+End With
+With ADMISSION
+Id=1353
+Nom=COURLEUX
+Prenom=GEORGES
+CodeDft=1353
+AdmissionDate=24/07/2013
+NoOrdre=434
+End With
+With ADMISSION
+Id=1356
+Nom=BURGET
+Prenom=Coline
+CodeDft=1356
+AdmissionDate=25/07/2013
+NoOrdre=435
+End With
+With ADMISSION
+Id=1363
+Nom=ELIAS
+Prenom=EMMANUEL 
+CodeDft=1363
+AdmissionDate=26/07/2013
+NoOrdre=436
+End With
+With ADMISSION
+Id=1364
+Nom=BERNARD
+Prenom=GEORGES
+CodeDft=1364
+AdmissionDate=26/07/2013
+NoOrdre=438
+End With
+With ADMISSION
+Id=1365
+Nom=THIOLOT
+Prenom=AURELIE
+CodeDft=1365
+AdmissionDate=26/07/2013
+NoOrdre=437
+End With
+With ADMISSION
+Id=1366
+Nom=PRONER
+Prenom=PIERRE
+CodeDft=1366
+AdmissionDate=26/07/2013
+NoOrdre=439
+End With
+With ADMISSION
+Id=1367
+Nom=CHEVALLIER
+Prenom=FRANCIS
+CodeDft=1367
+AdmissionDate=27/07/2013
+NoOrdre=440
+End With
+With ADMISSION
+Id=1369
+Nom=VAIR
+Prenom=GINETTE
+CodeDft=1369
+AdmissionDate=27/07/2013
+NoOrdre=441
+End With
+With ADMISSION
+Id=1374
+Nom=CONTADINI
+Prenom=MARIA
+CodeDft=1374
+AdmissionDate=29/07/2013
+NoOrdre=442
+End With
+With ADMISSION
+Id=1375
+Nom=LANDREIN
+Prenom=GILLES
+CodeDft=1375
+AdmissionDate=29/07/2013
+NoOrdre=443
+End With
+With ADMISSION
+Id=1379
+Nom=COMBEY
+Prenom=Bernard
+CodeDft=1379
+AdmissionDate=29/07/2013
+NoOrdre=444
+End With
+With ADMISSION
+Id=1381
+Nom=PETIT
+Prenom=ANDRE
+CodeDft=1381
+AdmissionDate=29/07/2013
+NoOrdre=445
+End With
+With ADMISSION
+Id=1384
+Nom=LE BAS
+Prenom=Aymeric
+CodeDft=1384
+AdmissionDate=30/07/2013
+NoOrdre=446
+End With
+With ADMISSION
+Id=1391
+Nom=LAURENT
+Prenom=MARIE REINE
+CodeDft=1391
+AdmissionDate=30/07/2013
+NoOrdre=447
+End With
+With ADMISSION
+Id=1392
+Nom=HERY
+Prenom=JEAN LUC
+CodeDft=1392
+AdmissionDate=30/07/2013
+NoOrdre=448
+End With
+With ADMISSION
+Id=1397
+Nom=ROUX
+Prenom=GEORGETTE
+CodeDft=1397
+AdmissionDate=31/07/2013
+NoOrdre=449
+End With
+With ADMISSION
+Id=1403
+Nom=SANTARELLI
+Prenom=MARIA
+CodeDft=1403
+AdmissionDate=02/08/2013
+NoOrdre=451
+End With
+With ADMISSION
+Id=1405
+Nom=PETHELLAZ
+Prenom=JEANINE
+CodeDft=1405
+AdmissionDate=02/08/2013
+NoOrdre=450
+End With
+With ADMISSION
+Id=1407
+Nom=ROULLET
+Prenom=DENISE
+CodeDft=1407
+AdmissionDate=03/08/2013
+NoOrdre=452
+End With
+With ADMISSION
+Id=1408
+Nom=PARLONGUE
+Prenom=HUGUETTE
+CodeDft=1408
+AdmissionDate=03/08/2013
+NoOrdre=453
+End With
+With ADMISSION
+Id=1410
+Nom=PERRIER
+Prenom=MARTINE
+CodeDft=1410
+AdmissionDate=04/08/2013
+NoOrdre=454
+End With
+With ADMISSION
+Id=1423
+Nom=BUFFET
+Prenom=CHRISTIAN
+CodeDft=1423
+AdmissionDate=06/08/2013
+NoOrdre=455
+End With
+With ADMISSION
+Id=1424
+Nom=PIAGET
+Prenom=SUZANNE
+CodeDft=1424
+AdmissionDate=06/08/2013
+NoOrdre=456
+End With
+With ADMISSION
+Id=1425
+Nom=BLANC
+Prenom=ROGER
+CodeDft=1425
+AdmissionDate=06/08/2013
+NoOrdre=457
+End With
+With ADMISSION
+Id=1432
+Nom=MARGRIT
+Prenom=JACQUES
+CodeDft=1432
+AdmissionDate=07/08/2013
+NoOrdre=458
+End With
+With ADMISSION
+Id=1433
+Nom=DE FENOYL
+Prenom=ANNE
+CodeDft=1433
+AdmissionDate=07/08/2013
+NoOrdre=459
+End With
+With ADMISSION
+Id=1438
+Nom=RENEVIER
+Prenom=MARIE
+CodeDft=1438
+AdmissionDate=07/08/2013
+NoOrdre=461
+End With
+With ADMISSION
+Id=1440
+Nom=GEVET
+Prenom=FRANCOIS
+CodeDft=1440
+AdmissionDate=08/08/2013
+NoOrdre=462
+End With
+With ADMISSION
+Id=1444
+Nom=PUPPIS
+Prenom=MICHELE
+CodeDft=1444
+AdmissionDate=09/08/2013
+NoOrdre=463
+End With
+With ADMISSION
+Id=1449
+Nom=VIGNOUD
+Prenom=RAYMONDE
+CodeDft=1449
+AdmissionDate=10/08/2013
+NoOrdre=464
+End With
+With ADMISSION
+Id=1452
+Nom=DROGUET
+Prenom=LUCIE
+CodeDft=1452
+AdmissionDate=12/08/2013
+NoOrdre=465
+End With
+With ADMISSION
+Id=1456
+Nom=BRUN
+Prenom=SUZANNE
+CodeDft=1456
+AdmissionDate=12/08/2013
+NoOrdre=468
+End With
+With ADMISSION
+Id=1457
+Nom=LANCE
+Prenom=LUCETTE
+CodeDft=1457
+AdmissionDate=12/08/2013
+NoOrdre=466
+End With
+With ADMISSION
+Id=1461
+Nom=SAVARIN
+Prenom=GILBERTE
+CodeDft=1461
+AdmissionDate=12/08/2013
+NoOrdre=467
+End With
+With ADMISSION
+Id=1463
+Nom=REGAZZI
+Prenom=MARIE
+CodeDft=1463
+AdmissionDate=12/08/2013
+NoOrdre=469
+End With
+With ADMISSION
+Id=1464
+Nom=CHENU
+Prenom=ODETTE
+CodeDft=1464
+AdmissionDate=12/08/2013
+NoOrdre=470
+End With
+With ADMISSION
+Id=1470
+Nom=VALENTIN
+Prenom=MARIE LOUISE
+CodeDft=1470
+AdmissionDate=13/08/2013
+NoOrdre=471
+End With
+With ADMISSION
+Id=1474
+Nom=TEISSIER
+Prenom=MARIE HELENT
+CodeDft=1474
+AdmissionDate=14/08/2013
+NoOrdre=472
+End With
+With ADMISSION
+Id=1477
+Nom=BUTTIN
+Prenom=ANDRE
+CodeDft=1477
+AdmissionDate=15/08/2013
+NoOrdre=473
+End With
+With ADMISSION
+Id=1478
+Nom=BEYLIER
+Prenom=ROGER
+CodeDft=1478
+AdmissionDate=16/08/2013
+NoOrdre=474
+End With
+With ADMISSION
+Id=1479
+Nom=GAUTIER
+Prenom=INGRID
+CodeDft=1479
+AdmissionDate=16/08/2013
+NoOrdre=475
+End With
+With ADMISSION
+Id=1480
+Nom=GUICHERD CALLIN
+Prenom=MICHEL
+CodeDft=1480
+AdmissionDate=16/08/2013
+NoOrdre=476
+End With
+With ADMISSION
+Id=1482
+Nom=DOMENGET
+Prenom=MARGUERITE
+CodeDft=1482
+AdmissionDate=16/08/2013
+NoOrdre=477
+End With
+With ADMISSION
+Id=1487
+Nom=DUMONTEIL
+Prenom=RENEE
+CodeDft=1487
+AdmissionDate=16/08/2013
+NoOrdre=478
+End With
+With ADMISSION
+Id=1488
+Nom=MORIAU
+Prenom=FRANCOISE
+CodeDft=1488
+AdmissionDate=16/08/2013
+NoOrdre=479
+End With
+With ADMISSION
+Id=1491
+Nom=PERRON
+Prenom=ODILE
+CodeDft=1491
+AdmissionDate=16/08/2013
+NoOrdre=482
+End With
+With ADMISSION
+Id=1495
+Nom=FORAY
+Prenom=PIERRE
+CodeDft=1495
+AdmissionDate=18/08/2013
+NoOrdre=480
+End With
+With ADMISSION
+Id=1498
+Nom=PERROTTE
+Prenom=HAROLD
+CodeDft=1498
+AdmissionDate=17/08/2013
+NoOrdre=481
+End With
+With ADMISSION
+Id=1500
+Nom=CARRER
+Prenom=GISELE
+CodeDft=1500
+AdmissionDate=19/08/2013
+NoOrdre=483
+End With
+With ADMISSION
+Id=1504
+Nom=HUOT MARCHAND
+Prenom=HUGUETTE
+CodeDft=1504
+AdmissionDate=20/08/2013
+NoOrdre=484
+End With
+With ADMISSION
+Id=1505
+Nom=GIROUD
+Prenom=MARGUERITE
+CodeDft=1505
+AdmissionDate=20/08/2013
+NoOrdre=485
+End With
+With ADMISSION
+Id=1508
+Nom=LEFEIVRE
+Prenom=ANNE MARIE
+CodeDft=1508
+AdmissionDate=21/08/2013
+NoOrdre=486
+End With
+With ADMISSION
+Id=1515
+Nom=RAYE
+Prenom=ANDREE
+CodeDft=1515
+AdmissionDate=22/08/2013
+NoOrdre=487
+End With
+With ADMISSION
+Id=1520
+Nom=MONNET
+Prenom=MAURICE
+CodeDft=1520
+AdmissionDate=23/08/2013
+NoOrdre=488
+End With
+With ADMISSION
+Id=1522
+Nom=DOGLIONI
+Prenom=OLGA
+CodeDft=1522
+AdmissionDate=23/08/2013
+NoOrdre=489
+End With
+With ADMISSION
+Id=1523
+Nom=CHARRA
+Prenom=CHARLES
+CodeDft=1523
+AdmissionDate=23/08/2013
+NoOrdre=491
+End With
+With ADMISSION
+Id=1524
+Nom=QUILLET
+Prenom=FRANCOISE
+CodeDft=1524
+AdmissionDate=23/08/2013
+NoOrdre=490
+End With
+With ADMISSION
+Id=1526
+Nom=GIRAULT
+Prenom=ALAIN
+CodeDft=1526
+AdmissionDate=24/08/2013
+NoOrdre=492
+End With
+With ADMISSION
+Id=1527
+Nom=COUTAZ-TRINQUET
+Prenom=RENEE
+CodeDft=1527
+AdmissionDate=24/08/2013
+NoOrdre=493
+End With
+With ADMISSION
+Id=1530
+Nom=MAUREL
+Prenom=JEAN 
+CodeDft=1530
+AdmissionDate=25/08/2013
+NoOrdre=494
+End With
+With ADMISSION
+Id=1531
+Nom=GONNET
+Prenom=JEAN
+CodeDft=1531
+AdmissionDate=26/08/2013
+NoOrdre=495
+End With
+With ADMISSION
+Id=1538
+Nom=BUET
+Prenom=DELPHINE
+CodeDft=1538
+AdmissionDate=27/08/2013
+NoOrdre=496
+End With
+With ADMISSION
+Id=1549
+Nom=SOLITRO
+Prenom=GIOVANNI
+CodeDft=1549
+AdmissionDate=29/08/2013
+NoOrdre=497
+End With
+With ADMISSION
+Id=1557
+Nom=CHECCHI
+Prenom=BRUNA
+CodeDft=1557
+AdmissionDate=30/08/2013
+NoOrdre=498
+End With
+With ADMISSION
+Id=1559
+Nom=DELACHAT
+Prenom=MARIE LOUISE
+CodeDft=1559
+AdmissionDate=31/08/2013
+NoOrdre=501
+End With
+With ADMISSION
+Id=1560
+Nom=CLARET
+Prenom=LUCIEN
+CodeDft=1560
+AdmissionDate=30/08/2013
+NoOrdre=499
+End With
+With ADMISSION
+Id=1561
+Nom=FARGETTE
+Prenom=NATHALIE
+CodeDft=1561
+AdmissionDate=31/08/2013
+NoOrdre=500
+End With
+With ADMISSION
+Id=1565
+Nom=HAMMER
+Prenom=ALBA
+CodeDft=1565
+AdmissionDate=01/09/2013
+NoOrdre=502
+End With
+With ADMISSION
+Id=1568
+Nom=GUEVARA
+Prenom=Francois
+CodeDft=1568
+AdmissionDate=01/09/2013
+NoOrdre=503
+End With
+With ADMISSION
+Id=1574
+Nom=LETRONE
+Prenom=Georges
+CodeDft=1574
+AdmissionDate=03/09/2013
+NoOrdre=504
+End With
+With ADMISSION
+Id=1576
+Nom=PAULISCH
+Prenom=CHRISTOPHER
+CodeDft=1576
+AdmissionDate=03/09/2013
+NoOrdre=505
+End With
+With ADMISSION
+Id=1578
+Nom=GUENOT
+Prenom=Michel
+CodeDft=1578
+AdmissionDate=04/09/2013
+NoOrdre=506
+End With
+With ADMISSION
+Id=1579
+Nom=FRACHON
+Prenom=HENRI
+CodeDft=1579
+AdmissionDate=05/09/2013
+NoOrdre=507
+End With
+With ADMISSION
+Id=1596
+Nom=HERMEN
+Prenom=BERNARD
+CodeDft=1596
+AdmissionDate=06/09/2013
+NoOrdre=508
+End With
+With ADMISSION
+Id=1597
+Nom=PILON
+Prenom=ANNE
+CodeDft=1597
+AdmissionDate=05/09/2013
+NoOrdre=509
+End With
+With ADMISSION
+Id=1599
+Nom=BARONETTI
+Prenom=LEONIE
+CodeDft=1599
+AdmissionDate=06/09/2013
+NoOrdre=510
+End With
+With ADMISSION
+Id=1606
+Nom=FREYCON
+Prenom=FRANCOIS
+CodeDft=1606
+AdmissionDate=07/09/2013
+NoOrdre=511
+End With
+With ADMISSION
+Id=1608
+Nom=HELMER
+Prenom=ALAIN
+CodeDft=1608
+AdmissionDate=08/09/2013
+NoOrdre=512
+End With
+With ADMISSION
+Id=1609
+Nom=GIRAUD
+Prenom=PAUL
+CodeDft=1609
+AdmissionDate=08/09/2013
+NoOrdre=513
+End With
+With ADMISSION
+Id=1611
+Nom=HYVON
+Prenom=RICHARD
+CodeDft=1611
+AdmissionDate=09/09/2013
+NoOrdre=515
+End With
+With ADMISSION
+Id=1612
+Nom=PERROUD
+Prenom=JOSEPHINE
+CodeDft=1612
+AdmissionDate=09/09/2013
+NoOrdre=514
+End With
+With ADMISSION
+Id=1613
+Nom=LEBLOND
+Prenom=ROLAND
+CodeDft=1613
+AdmissionDate=10/09/2013
+NoOrdre=519
+End With
+With ADMISSION
+Id=1621
+Nom=ORTOLLAND
+Prenom=Paulette
+CodeDft=1621
+AdmissionDate=09/09/2013
+NoOrdre=516
+End With
+With ADMISSION
+Id=1622
+Nom=MICHELLIER
+Prenom=MARTHE
+CodeDft=1622
+AdmissionDate=09/09/2013
+NoOrdre=517
+End With
+With ADMISSION
+Id=1623
+Nom=PONCET
+Prenom=ALICE
+CodeDft=1623
+AdmissionDate=09/09/2013
+NoOrdre=518
+End With
+With ADMISSION
+Id=1627
+Nom=JACQUIER
+Prenom=CLAUDE
+CodeDft=1627
+AdmissionDate=10/09/2013
+NoOrdre=520
+End With
+With ADMISSION
+Id=1628
+Nom=BONNEMAINS
+Prenom=BERNARD
+CodeDft=1628
+AdmissionDate=10/09/2013
+NoOrdre=521
+End With
+With ADMISSION
+Id=1630
+Nom=DELMON
+Prenom=GEORGETTE
+CodeDft=1630
+AdmissionDate=10/09/2013
+NoOrdre=522
+End With
+With ADMISSION
+Id=1632
+Nom=REGAZZONI
+Prenom=JEAN MARIE
+CodeDft=1632
+AdmissionDate=10/09/2013
+NoOrdre=523
+End With
+With ADMISSION
+Id=1636
+Nom=THONGS
+Prenom=MARIE LOUISE
+CodeDft=1636
+AdmissionDate=11/09/2013
+NoOrdre=524
+End With
+With ADMISSION
+Id=1639
+Nom=MACHET
+Prenom=JEAN CLAUDE
+CodeDft=1639
+AdmissionDate=12/09/2013
+NoOrdre=525
+End With
+With ADMISSION
+Id=1640
+Nom=FAVRE
+Prenom=MICHEL
+CodeDft=1640
+AdmissionDate=12/09/2013
+NoOrdre=526
+End With
+With ADMISSION
+Id=1646
+Nom=BROLIS
+Prenom=PIERRE
+CodeDft=1646
+AdmissionDate=14/09/2013
+NoOrdre=527
+End With
+With ADMISSION
+Id=1648
+Nom=SIGOT
+Prenom=MARIE
+CodeDft=1648
+AdmissionDate=14/09/2013
+NoOrdre=528
+End With
+With ADMISSION
+Id=1651
+Nom=DAVOINE
+Prenom=JULIETTE
+CodeDft=1651
+AdmissionDate=14/09/2013
+NoOrdre=529
+End With
+With ADMISSION
+Id=1653
+Nom=VIRET
+Prenom=MARCEL
+CodeDft=1653
+AdmissionDate=16/09/2013
+NoOrdre=533
+End With
+With ADMISSION
+Id=1654
+Nom=GALLICE
+Prenom=Pierrette
+CodeDft=1654
+AdmissionDate=14/09/2013
+NoOrdre=530
+End With
+With ADMISSION
+Id=1656
+Nom=TETU
+Prenom=Ginette
+CodeDft=1656
+AdmissionDate=14/09/2013
+NoOrdre=531
+End With
+With ADMISSION
+Id=1658
+Nom=MOTTE
+Prenom=HELENE
+CodeDft=1658
+AdmissionDate=16/09/2013
+NoOrdre=532
+End With
+With ADMISSION
+Id=1660
+Nom=CAUDURO
+Prenom=SIMONE
+CodeDft=1660
+AdmissionDate=16/09/2013
+NoOrdre=534
+End With
+With ADMISSION
+Id=1662
+Nom=DEZAPHIE
+Prenom=Georgette
+CodeDft=1662
+AdmissionDate=16/09/2013
+NoOrdre=535
+End With
+With ADMISSION
+Id=1667
+Nom=LA ROSA
+Prenom=Angelo
+CodeDft=1667
+AdmissionDate=17/09/2013
+NoOrdre=536
+End With
+With ADMISSION
+Id=1670
+Nom=LEONARD
+Prenom=EUGENE
+CodeDft=1670
+AdmissionDate=17/09/2013
+NoOrdre=537
+End With
+With ADMISSION
+Id=1671
+Nom=ROCHE
+Prenom=DENIS
+CodeDft=1671
+AdmissionDate=18/09/2013
+NoOrdre=538
+End With
+With ADMISSION
+Id=1672
+Nom=AUDINET
+Prenom=Henri
+CodeDft=1672
+AdmissionDate=18/09/2013
+NoOrdre=539
+End With
+With ADMISSION
+Id=1676
+Nom=LUQUAIN
+Prenom=Madeleine
+CodeDft=1676
+AdmissionDate=18/09/2013
+NoOrdre=541
+End With
+With ADMISSION
+Id=1678
+Nom=ALESSI
+Prenom=COSIMA
+CodeDft=1678
+AdmissionDate=18/09/2013
+NoOrdre=540
+End With
+With ADMISSION
+Id=1682
+Nom=PHILIPPOT
+Prenom=MICHEL
+CodeDft=1682
+AdmissionDate=19/09/2013
+NoOrdre=542
+End With
+With ADMISSION
+Id=1687
+Nom=MICHAUD
+Prenom=GERARD
+CodeDft=1687
+AdmissionDate=19/09/2013
+NoOrdre=543
+End With
+With ADMISSION
+Id=1688
+Nom=BELLER
+Prenom=EDITH
+CodeDft=1688
+AdmissionDate=19/09/2013
+NoOrdre=544
+End With
+With ADMISSION
+Id=1689
+Nom=PIERRE-BEZ
+Prenom=JEAN
+CodeDft=1689
+AdmissionDate=19/09/2013
+NoOrdre=545
+End With
+With ADMISSION
+Id=1691
+Nom=LAMBERT
+Prenom=DENISE
+CodeDft=1691
+AdmissionDate=21/09/2013
+NoOrdre=546
+End With
+With ADMISSION
+Id=1695
+Nom=TURPIN
+Prenom=MARIE THERESE
+CodeDft=1695
+AdmissionDate=22/09/2013
+NoOrdre=547
+End With
+With ADMISSION
+Id=1702
+Nom=GUMERY
+Prenom=CLAUDE
+CodeDft=1702
+AdmissionDate=23/09/2013
+NoOrdre=548
+End With
+With ADMISSION
+Id=1703
+Nom=DEMANGEOT
+Prenom=ROGER
+CodeDft=1703
+AdmissionDate=24/09/2013
+NoOrdre=549
+End With
+With ADMISSION
+Id=1706
+Nom=BERTRAND
+Prenom=HENRI
+CodeDft=1706
+AdmissionDate=24/09/2013
+NoOrdre=550
+End With
+With ADMISSION
+Id=1711
+Nom=BEAUFRERE
+Prenom=HENRIETTE
+CodeDft=1711
+AdmissionDate=25/09/2013
+NoOrdre=551
+End With
+With ADMISSION
+Id=1720
+Nom=MIEGE
+Prenom=SYLVAIN
+CodeDft=1720
+AdmissionDate=26/09/2013
+NoOrdre=552
+End With
+With ADMISSION
+Id=1722
+Nom=PAOLI
+Prenom=MARIE LOUISE
+CodeDft=1722
+AdmissionDate=27/09/2013
+NoOrdre=553
+End With
+With ADMISSION
+Id=1725
+Nom=SQUECCO
+Prenom=MARIA
+CodeDft=1725
+AdmissionDate=27/09/2013
+NoOrdre=554
+End With
+With ADMISSION
+Id=1732
+Nom=SCHROEDER
+Prenom=GEORGES
+CodeDft=1732
+AdmissionDate=28/09/2013
+NoOrdre=556
+End With
+With ADMISSION
+Id=1735
+Nom=TISSOT
+Prenom=ROLAND
+CodeDft=1735
+AdmissionDate=28/09/2013
+NoOrdre=555
+End With
+With ADMISSION
+Id=1736
+Nom=COCHET
+Prenom=DENYS
+CodeDft=1736
+AdmissionDate=28/09/2013
+NoOrdre=557
+End With
+With ADMISSION
+Id=1741
+Nom=BARLET
+Prenom=JEANNINE
+CodeDft=1741
+AdmissionDate=30/09/2013
+NoOrdre=558
+End With
+With ADMISSION
+Id=1746
+Nom=BERTHO
+Prenom=Yvon
+CodeDft=1746
+AdmissionDate=30/09/2013
+NoOrdre=559
+End With
+With ADMISSION
+Id=1749
+Nom=DALLA COSTA
+Prenom=ANTOINETTE
+CodeDft=1749
+AdmissionDate=30/09/2013
+NoOrdre=560
+End With
+With ADMISSION
+Id=1753
+Nom=LIGEON
+Prenom=JEAN
+CodeDft=1753
+AdmissionDate=01/10/2013
+NoOrdre=561
+End With
+With ADMISSION
+Id=1757
+Nom=BOUAITA
+Prenom=ZEGHDOUD
+CodeDft=1757
+AdmissionDate=01/10/2013
+NoOrdre=562
+End With
+With ADMISSION
+Id=1758
+Nom=RUSSO
+Prenom=PASQUALE
+CodeDft=1758
+AdmissionDate=02/10/2013
+NoOrdre=563
+End With
+With ADMISSION
+Id=1763
+Nom=LECHAT
+Prenom=Rosa
+CodeDft=1763
+AdmissionDate=03/10/2013
+NoOrdre=564
+End With
+With ADMISSION
+Id=1767
+Nom=LABORDE
+Prenom=Suzanne
+CodeDft=1767
+AdmissionDate=03/10/2013
+NoOrdre=565
+End With
+With ADMISSION
+Id=1768
+Nom=MESSIERI
+Prenom=Yolande
+CodeDft=1768
+AdmissionDate=04/10/2013
+NoOrdre=567
+End With
+With ADMISSION
+Id=1769
+Nom=CHENAL
+Prenom=Julien
+CodeDft=1769
+AdmissionDate=03/10/2013
+NoOrdre=566
+End With
+With ADMISSION
+Id=1771
+Nom=MUGNIER
+Prenom=ANDRE
+CodeDft=1771
+AdmissionDate=04/10/2013
+NoOrdre=568
+End With
+With ADMISSION
+Id=1773
+Nom=SAHUC
+Prenom=MARC
+CodeDft=1773
+AdmissionDate=04/10/2013
+NoOrdre=569
+End With
+With ADMISSION
+Id=1774
+Nom=BERTRAND
+Prenom=FRANCOIS
+CodeDft=1774
+AdmissionDate=05/10/2013
+NoOrdre=571
+End With
+With ADMISSION
+Id=1775
+Nom=BENEDETTI
+Prenom=LIVIO
+CodeDft=1775
+AdmissionDate=05/10/2013
+NoOrdre=570
+End With
+With ADMISSION
+Id=1777
+Nom=REGINAT
+Prenom=ELIETTE
+CodeDft=1777
+AdmissionDate=05/10/2013
+NoOrdre=572
+End With
+With ADMISSION
+Id=1779
+Nom=LEFEBVRE
+Prenom=MARGUERITE
+CodeDft=1779
+AdmissionDate=05/10/2013
+NoOrdre=573
+End With
+With ADMISSION
+Id=1784
+Nom=BAILLY
+Prenom=ALAIN
+CodeDft=1784
+AdmissionDate=07/10/2013
+NoOrdre=574
+End With
+With ADMISSION
+Id=1788
+Nom=REY
+Prenom=RENEE
+CodeDft=1788
+AdmissionDate=07/10/2013
+NoOrdre=575
+End With
+With ADMISSION
+Id=1789
+Nom=CAMPMAS
+Prenom=ROBERT
+CodeDft=1789
+AdmissionDate=07/10/2013
+NoOrdre=576
+End With
+With ADMISSION
+Id=1790
+Nom=CHEVALLIER
+Prenom=MICHELINE
+CodeDft=1790
+AdmissionDate=08/10/2013
+NoOrdre=577
+End With
+With ADMISSION
+Id=1793
+Nom=PEROTTO
+Prenom=PIERRE
+CodeDft=1793
+AdmissionDate=08/10/2013
+NoOrdre=578
+End With
+With ADMISSION
+Id=1795
+Nom=ANNEQUIN DIGOND
+Prenom=OLIVIER
+CodeDft=1795
+AdmissionDate=08/10/2013
+NoOrdre=579
+End With
+With ADMISSION
+Id=1796
+Nom=PERRIER
+Prenom=GABRIELLE
+CodeDft=1796
+AdmissionDate=09/10/2013
+NoOrdre=580
+End With
+With ADMISSION
+Id=1797
+Nom=FERNANDEZ
+Prenom=ANDRE
+CodeDft=1797
+AdmissionDate=09/10/2013
+NoOrdre=581
+End With
+With ADMISSION
+Id=1801
+Nom=BLONDEAU
+Prenom=JOEL
+CodeDft=1801
+AdmissionDate=10/10/2013
+NoOrdre=582
+End With
+With ADMISSION
+Id=1802
+Nom=BRAHIM
+Prenom=SYLVIE
+CodeDft=1802
+AdmissionDate=10/10/2013
+NoOrdre=583
+End With
+With ADMISSION
+Id=1803
+Nom=PAGES
+Prenom=ODETTE
+CodeDft=1803
+AdmissionDate=11/10/2013
+NoOrdre=585
+End With
+With ADMISSION
+Id=1805
+Nom=ZEHR
+Prenom=DANIEL
+CodeDft=1805
+AdmissionDate=10/10/2013
+NoOrdre=584
+End With
+With ADMISSION
+Id=1813
+Nom=BASSET
+Prenom=LUCETTE
+CodeDft=1813
+AdmissionDate=11/10/2013
+NoOrdre=587
+End With
+With ADMISSION
+Id=1814
+Nom=TURCZYNSKI
+Prenom=MICHEL
+CodeDft=1814
+AdmissionDate=11/10/2013
+NoOrdre=586
+End With
+With ADMISSION
+Id=1815
+Nom=THOMAS
+Prenom=YVETTE
+CodeDft=1815
+AdmissionDate=12/10/2013
+NoOrdre=588
+End With
+With ADMISSION
+Id=1819
+Nom=BREMANT
+Prenom=SUZANNE
+CodeDft=1819
+AdmissionDate=13/10/2013
+NoOrdre=589
+End With
+With ADMISSION
+Id=1820
+Nom=SAISSY
+Prenom=GEORGETTE
+CodeDft=1820
+AdmissionDate=13/10/2013
+NoOrdre=590
+End With
+With ADMISSION
+Id=1828
+Nom=ROUX
+Prenom=YVETTE
+CodeDft=1828
+AdmissionDate=14/10/2013
+NoOrdre=592
+End With
+With ADMISSION
+Id=1829
+Nom=SAADI
+Prenom=ALI
+CodeDft=1829
+AdmissionDate=14/10/2013
+NoOrdre=591
+End With
+With ADMISSION
+Id=1832
+Nom=BACHELET
+Prenom=Thierry
+CodeDft=1832
+AdmissionDate=15/10/2013
+NoOrdre=593
+End With
+With ADMISSION
+Id=1833
+Nom=BAULAND
+Prenom=YVETTE
+CodeDft=1833
+AdmissionDate=15/10/2013
+NoOrdre=594
+End With
+With ADMISSION
+Id=1835
+Nom=ROSINOL
+Prenom=Suzanne
+CodeDft=1835
+AdmissionDate=15/10/2013
+NoOrdre=595
+End With
+With ADMISSION
+Id=1839
+Nom=ROS
+Prenom=JEAN LOUIS
+CodeDft=1839
+AdmissionDate=16/10/2013
+NoOrdre=596
+End With
+With ADMISSION
+Id=1845
+Nom=MURZILLI
+Prenom=BRUNO
+CodeDft=1845
+AdmissionDate=18/10/2013
+NoOrdre=597
+End With
+With ADMISSION
+Id=1848
+Nom=BAUDRAND
+Prenom=MONIQUE
+CodeDft=1848
+AdmissionDate=18/10/2013
+NoOrdre=598
+End With
+With ADMISSION
+Id=1868
+Nom=VINCENT
+Prenom=Liliane
+CodeDft=1868
+AdmissionDate=21/10/2013
+NoOrdre=599
+End With
+With ADMISSION
+Id=1869
+Nom=EBRAD
+Prenom=Solange
+CodeDft=1869
+AdmissionDate=21/10/2013
+NoOrdre=600
+End With
+With ADMISSION
+Id=1875
+Nom=BLONDET
+Prenom=SIMONE
+CodeDft=1875
+AdmissionDate=21/10/2013
+NoOrdre=601
+End With
+With ADMISSION
+Id=1877
+Nom=DIAS
+Prenom=PAOLO
+CodeDft=1877
+AdmissionDate=22/10/2013
+NoOrdre=602
+End With
+With ADMISSION
+Id=1879
+Nom=LOPEZ
+Prenom=SERAPHIN
+CodeDft=1879
+AdmissionDate=23/10/2013
+NoOrdre=603
+End With
+With ADMISSION
+Id=1880
+Nom=CHATELAIN
+Prenom=Raymonde
+CodeDft=1880
+AdmissionDate=23/10/2013
+NoOrdre=604
+End With
+With ADMISSION
+Id=1887
+Nom=DIDIER
+Prenom=REGINA
+CodeDft=1887
+AdmissionDate=24/10/2013
+NoOrdre=605
+End With
+With ADMISSION
+Id=1890
+Nom=MASSA
+Prenom=BERNARD
+CodeDft=1890
+AdmissionDate=24/10/2013
+NoOrdre=606
+End With
+With ADMISSION
+Id=1892
+Nom=PONT
+Prenom=MARIE JEANNE
+CodeDft=1892
+AdmissionDate=25/10/2013
+NoOrdre=607
+End With
+With ADMISSION
+Id=1893
+Nom=VERNAZ
+Prenom=JOSEPH
+CodeDft=1893
+AdmissionDate=25/10/2013
+NoOrdre=609
+End With
+With ADMISSION
+Id=1894
+Nom=VIGUET-CARRIN
+Prenom=ALEXANDRE
+CodeDft=1894
+AdmissionDate=25/10/2013
+NoOrdre=610
+End With
+With ADMISSION
+Id=1895
+Nom=IDELON
+Prenom=SIMONE
+CodeDft=1895
+AdmissionDate=25/10/2013
+NoOrdre=608
+End With
+With ADMISSION
+Id=1896
+Nom=AGUETTAZ
+Prenom=SIMONE
+CodeDft=1896
+AdmissionDate=25/10/2013
+NoOrdre=611
+End With
+With ADMISSION
+Id=1897
+Nom=JOLY
+Prenom=PIERRE
+CodeDft=1897
+AdmissionDate=25/10/2013
+NoOrdre=612
+End With
+With ADMISSION
+Id=1900
+Nom=BERTHELEMOT
+Prenom=CHRISTIANE
+CodeDft=1900
+AdmissionDate=26/10/2013
+NoOrdre=614
+End With
+With ADMISSION
+Id=1902
+Nom=REGAIRAZ
+Prenom=MADELEINE
+CodeDft=1902
+AdmissionDate=26/10/2013
+NoOrdre=613
+End With
+With ADMISSION
+Id=1904
+Nom=PACHE
+Prenom=LOUISE
+CodeDft=1904
+AdmissionDate=26/10/2013
+NoOrdre=615
+End With
+With ADMISSION
+Id=1907
+Nom=CARRON
+Prenom=YVETTE
+CodeDft=1907
+AdmissionDate=26/10/2013
+NoOrdre=616
+End With
+With ADMISSION
+Id=1908
+Nom=ROUX
+Prenom=LUCIENNE
+CodeDft=1908
+AdmissionDate=27/10/2013
+NoOrdre=617
+End With
+With ADMISSION
+Id=1912
+Nom=PLASTINO PINO
+Prenom=ANTONIA
+CodeDft=1912
+AdmissionDate=27/10/2013
+NoOrdre=618
+End With
+With ADMISSION
+Id=1913
+Nom=BISVAL
+Prenom=RENEE
+CodeDft=1913
+AdmissionDate=28/10/2013
+NoOrdre=619
+End With
+With ADMISSION
+Id=1917
+Nom=POLLET
+Prenom=MARCEL
+CodeDft=1917
+AdmissionDate=28/10/2013
+NoOrdre=621
+End With
+With ADMISSION
+Id=1919
+Nom=TOZZO
+Prenom=LOUIS
+CodeDft=1919
+AdmissionDate=28/10/2013
+NoOrdre=620
+End With
+With ADMISSION
+Id=1924
+Nom=ROUBAUD
+Prenom=HENRI
+CodeDft=1924
+AdmissionDate=29/10/2013
+NoOrdre=622
+End With
+With ADMISSION
+Id=1925
+Nom=DUMONT
+Prenom=Claude
+CodeDft=1925
+AdmissionDate=29/10/2013
+NoOrdre=623
+End With
+With ADMISSION
+Id=1929
+Nom=MOLLARD
+Prenom=SERGE
+CodeDft=1929
+AdmissionDate=30/10/2013
+NoOrdre=624
+End With
+With ADMISSION
+Id=1930
+Nom=MATTE
+Prenom=JOSIANE
+CodeDft=1930
+AdmissionDate=30/10/2013
+NoOrdre=625
+End With
+With ADMISSION
+Id=1931
+Nom=MILLIET
+Prenom=Robert
+CodeDft=1931
+AdmissionDate=30/10/2013
+NoOrdre=626
+End With
+With ADMISSION
+Id=1935
+Nom=JACQUIN
+Prenom=MARIE
+CodeDft=1935
+AdmissionDate=31/10/2013
+NoOrdre=627
+End With
+With ADMISSION
+Id=1940
+Nom=BERTHIER
+Prenom=JEANNE
+CodeDft=1940
+AdmissionDate=31/10/2013
+NoOrdre=628
+End With
+With ADMISSION
+Id=1942
+Nom=DEKOUCHE
+Prenom=AICHA
+CodeDft=1942
+AdmissionDate=31/10/2013
+NoOrdre=629
+End With
+With ADMISSION
+Id=1944
+Nom=COISSON
+Prenom=MONIQUE
+CodeDft=1944
+AdmissionDate=01/11/2013
+NoOrdre=630
+End With
+With ADMISSION
+Id=1950
+Nom=GACHET
+Prenom=JOSEPHINE
+CodeDft=1950
+AdmissionDate=02/11/2013
+NoOrdre=632
+End With
+With ADMISSION
+Id=1952
+Nom=DUISIT
+Prenom=HENRI
+CodeDft=1952
+AdmissionDate=02/11/2013
+NoOrdre=631
+End With
+With ADMISSION
+Id=1953
+Nom=CANT
+Prenom=DANIEL
+CodeDft=1953
+AdmissionDate=02/11/2013
+NoOrdre=633
+End With
+With ADMISSION
+Id=1955
+Nom=PEREZ CANALES
+Prenom=ISABELLE
+CodeDft=1955
+AdmissionDate=03/11/2013
+NoOrdre=634
+End With
+With ADMISSION
+Id=1956
+Nom=MOREL
+Prenom=NICOLAS
+CodeDft=1956
+AdmissionDate=03/11/2013
+NoOrdre=635
+End With
+With ADMISSION
+Id=1958
+Nom=GENET
+Prenom=ROGER
+CodeDft=1958
+AdmissionDate=04/11/2013
+NoOrdre=636
+End With
+With ADMISSION
+Id=1959
+Nom=ANDRONICO
+Prenom=CARMELA
+CodeDft=1959
+AdmissionDate=04/11/2013
+NoOrdre=638
+End With
+With ADMISSION
+Id=1962
+Nom=TOURNOUX
+Prenom=YVONNE
+CodeDft=1962
+AdmissionDate=04/11/2013
+NoOrdre=639
+End With
+With ADMISSION
+Id=1965
+Nom=BOUVIER
+Prenom=Gaston
+CodeDft=1965
+AdmissionDate=04/11/2013
+NoOrdre=637
+End With
+With ADMISSION
+Id=1969
+Nom=BURDIN
+Prenom=MICHEL
+CodeDft=1969
+AdmissionDate=05/11/2013
+NoOrdre=640
+End With
+With ADMISSION
+Id=1971
+Nom=FAUCILLON
+Prenom=Elise
+CodeDft=1971
+AdmissionDate=05/11/2013
+NoOrdre=641
+End With
+With ADMISSION
+Id=1972
+Nom=LAFORGE
+Prenom=BRIGITTE
+CodeDft=1972
+AdmissionDate=06/11/2013
+NoOrdre=642
+End With
+With ADMISSION
+Id=1975
+Nom=SARTORI
+Prenom=Sidonie
+CodeDft=1975
+AdmissionDate=06/11/2013
+NoOrdre=643
+End With
+With ADMISSION
+Id=1978
+Nom=SYLLA
+Prenom=AWA
+CodeDft=1978
+AdmissionDate=07/08/2013
+NoOrdre=460
+End With
+With ADMISSION
+Id=1979
+Nom=GREGOIRE
+Prenom=CLAUDE
+CodeDft=1979
+AdmissionDate=06/11/2013
+NoOrdre=644
+End With
+With ADMISSION
+Id=1980
+Nom=DI FAZIO
+Prenom=Calogera
+CodeDft=1980
+AdmissionDate=07/11/2013
+NoOrdre=645
+End With
+With ADMISSION
+Id=1983
+Nom=DUPRAZ
+Prenom=ANNE-MARIE
+CodeDft=1983
+AdmissionDate=07/11/2013
+NoOrdre=646
+End With
+With ADMISSION
+Id=1987
+Nom=FROSSARD
+Prenom=MARGUERITE
+CodeDft=1987
+AdmissionDate=08/11/2013
+NoOrdre=650
+End With
+With ADMISSION
+Id=1988
+Nom=VASSEUR
+Prenom=Noel
+CodeDft=1988
+AdmissionDate=07/11/2013
+NoOrdre=647
+End With
+With ADMISSION
+Id=1989
+Nom=gombert
+Prenom=georges
+CodeDft=1989
+AdmissionDate=07/11/2013
+NoOrdre=648
+End With
+With ADMISSION
+Id=1992
+Nom=BUSEYNE
+Prenom=JEROME
+CodeDft=1992
+AdmissionDate=08/11/2013
+NoOrdre=649
+End With
+With ADMISSION
+Id=1993
+Nom=GUILHOT
+Prenom=RAYMOND
+CodeDft=1993
+AdmissionDate=08/11/2013
+NoOrdre=651
+End With
+With ADMISSION
+Id=2001
+Nom=CROZET
+Prenom=ANDREE
+CodeDft=2001
+AdmissionDate=09/11/2013
+NoOrdre=652
+End With
+With ADMISSION
+Id=2004
+Nom=CAPECCHI
+Prenom=LUCIENNE
+CodeDft=2004
+AdmissionDate=11/11/2013
+NoOrdre=653
+End With
+With ADMISSION
+Id=2007
+Nom=CACHERA
+Prenom=THERESE
+CodeDft=2007
+AdmissionDate=11/11/2013
+NoOrdre=654
+End With
+With ADMISSION
+Id=2008
+Nom=REAL
+Prenom=Francoise
+CodeDft=2008
+AdmissionDate=11/11/2013
+NoOrdre=655
+End With
+With ADMISSION
+Id=2009
+Nom=CAMBEL
+Prenom=CLAUDINE
+CodeDft=2009
+AdmissionDate=12/11/2013
+NoOrdre=656
+End With
+With ADMISSION
+Id=2011
+Nom=GAUDENZI
+Prenom=Paul
+CodeDft=2011
+AdmissionDate=12/11/2013
+NoOrdre=657
+End With
+With ADMISSION
+Id=2016
+Nom=CHARVOZ
+Prenom=Jeanne
+CodeDft=2016
+AdmissionDate=13/11/2013
+NoOrdre=658
+End With
+With ADMISSION
+Id=2020
+Nom=CALY
+Prenom=FAUSTA
+CodeDft=2020
+AdmissionDate=14/11/2013
+NoOrdre=659
+End With
+With ADMISSION
+Id=2024
+Nom=BABOULAZ
+Prenom=EMMA
+CodeDft=2024
+AdmissionDate=15/11/2013
+NoOrdre=660
+End With
+With ADMISSION
+Id=2030
+Nom=BLANC
+Prenom=LUCIEN
+CodeDft=2030
+AdmissionDate=16/11/2013
+NoOrdre=661
+End With
+With ADMISSION
+Id=2035
+Nom=MARCILLAC
+Prenom=ANNE MARIE
+CodeDft=2035
+AdmissionDate=16/11/2013
+NoOrdre=662
+End With
+With ADMISSION
+Id=2037
+Nom=GUICHON
+Prenom=DENISE
+CodeDft=2037
+AdmissionDate=17/11/2013
+NoOrdre=663
+End With
+With ADMISSION
+Id=2038
+Nom=RAMPAZZO
+Prenom=AGNES
+CodeDft=2038
+AdmissionDate=18/11/2013
+NoOrdre=664
+End With
+With ADMISSION
+Id=2049
+Nom=TROTEL
+Prenom=Joelle
+CodeDft=2049
+AdmissionDate=19/11/2013
+NoOrdre=665
+End With
+With ADMISSION
+Id=2052
+Nom=AMBERT
+Prenom=PHILIPPE
+CodeDft=2052
+AdmissionDate=20/11/2013
+NoOrdre=666
+End With
+With ADMISSION
+Id=2053
+Nom=CHAPPERON
+Prenom=LOUIS
+CodeDft=2053
+AdmissionDate=20/11/2013
+NoOrdre=667
+End With
+With ADMISSION
+Id=2057
+Nom=BLAIZE
+Prenom=Lucienne
+CodeDft=2057
+AdmissionDate=21/11/2013
+NoOrdre=668
+End With
+With ADMISSION
+Id=2059
+Nom=PELLIN
+Prenom=BLANCHE
+CodeDft=2059
+AdmissionDate=21/11/2013
+NoOrdre=669
+End With
+With ADMISSION
+Id=2060
+Nom=DUCERF
+Prenom=PHILIPPE
+CodeDft=2060
+AdmissionDate=21/11/2013
+NoOrdre=670
+End With
+With ADMISSION
+Id=2064
+Nom=GAGLIARDI
+Prenom=MARIE
+CodeDft=2064
+AdmissionDate=22/11/2013
+NoOrdre=671
+End With
+With ADMISSION
+Id=2066
+Nom=GENDRE
+Prenom=ANDRE
+CodeDft=2066
+AdmissionDate=22/11/2013
+NoOrdre=674
+End With
+With ADMISSION
+Id=2067
+Nom=STEVENIN
+Prenom=DENIS
+CodeDft=2067
+AdmissionDate=22/11/2013
+NoOrdre=672
+End With
+With ADMISSION
+Id=2069
+Nom=GIROUD
+Prenom=HENRI
+CodeDft=2069
+AdmissionDate=22/11/2013
+NoOrdre=674
+End With
+With ADMISSION
+Id=2071
+Nom=SASSONE
+Prenom=DOMINIQUE
+CodeDft=2071
+AdmissionDate=23/11/2013
+NoOrdre=676
+End With
+With ADMISSION
+Id=2073
+Nom=VADROT
+Prenom=EVELYNE
+CodeDft=2073
+AdmissionDate=22/11/2013
+NoOrdre=675
+End With
+With ADMISSION
+Id=2074
+Nom=CHASSY
+Prenom=PASCAL
+CodeDft=2074
+AdmissionDate=23/11/2013
+NoOrdre=677
+End With
+With ADMISSION
+Id=2078
+Nom=GANDELLI
+Prenom=ALAIN
+CodeDft=2078
+AdmissionDate=25/11/2013
+NoOrdre=678
+End With
+With ADMISSION
+Id=2083
+Nom=PENELLE
+Prenom=Marie
+CodeDft=2083
+AdmissionDate=25/11/2013
+NoOrdre=679
+End With
+With ADMISSION
+Id=2086
+Nom=LISSAC
+Prenom=GUY
+CodeDft=2086
+AdmissionDate=25/11/2013
+NoOrdre=680
+End With
+With ADMISSION
+Id=2091
+Nom=POCHAT
+Prenom=JEAN
+CodeDft=2091
+AdmissionDate=26/11/2013
+NoOrdre=681
+End With
+With ADMISSION
+Id=2096
+Nom=PITTET
+Prenom=SIMONE
+CodeDft=2096
+AdmissionDate=27/11/2013
+NoOrdre=682
+End With
+With ADMISSION
+Id=2097
+Nom=RICHARD
+Prenom=Solange
+CodeDft=2097
+AdmissionDate=27/11/2013
+NoOrdre=683
+End With
+With ADMISSION
+Id=2107
+Nom=GUISEPPIN
+Prenom=ALBERT
+CodeDft=2107
+AdmissionDate=29/11/2013
+NoOrdre=684
+End With
+With ADMISSION
+Id=2113
+Nom=DONATO
+Prenom=ALDO
+CodeDft=2113
+AdmissionDate=29/11/2013
+NoOrdre=685
+End With
+With ADMISSION
+Id=2121
+Nom=GIRARD
+Prenom=JOSEPH
+CodeDft=2121
+AdmissionDate=30/11/2013
+NoOrdre=686
+End With
+With ADMISSION
+Id=2123
+Nom=ROUSSAY
+Prenom=Patricia
+CodeDft=2123
+AdmissionDate=01/12/2013
+NoOrdre=687
+End With
+With ADMISSION
+Id=2124
+Nom=NIQUET
+Prenom=MARC
+CodeDft=2124
+AdmissionDate=01/12/2013
+NoOrdre=688
+End With
+With ADMISSION
+Id=2125
+Nom=LOMBARDI
+Prenom=Oto
+CodeDft=2125
+AdmissionDate=02/12/2013
+NoOrdre=689
+End With
+With ADMISSION
+Id=2126
+Nom=CARRON
+Prenom=GILBERTE
+CodeDft=2126
+AdmissionDate=02/12/2013
+NoOrdre=690
+End With
+With ADMISSION
+Id=2130
+Nom=RICHARD
+Prenom=CLAUDE
+CodeDft=2130
+AdmissionDate=02/12/2013
+NoOrdre=691
+End With
+With ADMISSION
+Id=2132
+Nom=MARECHAL
+Prenom=ELISE
+CodeDft=2132
+AdmissionDate=04/12/2013
+NoOrdre=692
+End With
+With ADMISSION
+Id=2141
+Nom=MATHIEU
+Prenom=Ginette
+CodeDft=2141
+AdmissionDate=04/12/2013
+NoOrdre=694
+End With
+With ADMISSION
+Id=2142
+Nom=RINCHET
+Prenom=GEORGETTE
+CodeDft=2142
+AdmissionDate=04/12/2013
+NoOrdre=693
+End With
+With ADMISSION
+Id=2143
+Nom=NORMAND
+Prenom=Michel
+CodeDft=2143
+AdmissionDate=05/12/2013
+NoOrdre=696
+End With
+With ADMISSION
+Id=2144
+Nom=VIALLET
+Prenom=JEAN CLAUDE
+CodeDft=2144
+AdmissionDate=04/12/2013
+NoOrdre=695
+End With
+With ADMISSION
+Id=2146
+Nom=COSTA
+Prenom=ATTILIO
+CodeDft=2146
+AdmissionDate=05/12/2013
+NoOrdre=697
+End With
+With ADMISSION
+Id=2152
+Nom=WENDLAND
+Prenom=HUGUETTE
+CodeDft=2152
+AdmissionDate=06/12/2013
+NoOrdre=698
+End With
+With ADMISSION
+Id=2153
+Nom=TOURT
+Prenom=PHILOMENE
+CodeDft=2153
+AdmissionDate=06/12/2013
+NoOrdre=699
+End With
+With ADMISSION
+Id=2155
+Nom=NEVEUX
+Prenom=GEORGES
+CodeDft=2155
+AdmissionDate=07/12/2013
+NoOrdre=699
+End With
+With ADMISSION
+Id=2157
+Nom=LOVET
+Prenom=JOSEPH
+CodeDft=2157
+AdmissionDate=07/12/2013
+NoOrdre=700
+End With
+With ADMISSION
+Id=2159
+Nom=RAVOIRE
+Prenom=JEAN MICHEL
+CodeDft=2159
+AdmissionDate=07/12/2013
+NoOrdre=701
+End With
+With ADMISSION
+Id=2160
+Nom=VALLET
+Prenom=PAULETTE
+CodeDft=2160
+AdmissionDate=08/12/2013
+NoOrdre=702
+End With
+With ADMISSION
+Id=2163
+Nom=DELGADO
+Prenom=MICHEL
+CodeDft=2163
+AdmissionDate=08/12/2013
+NoOrdre=703
+End With
+With ADMISSION
+Id=2164
+Nom=CROZILLARD
+Prenom=FRANCISQUE
+CodeDft=2164
+AdmissionDate=08/12/2013
+NoOrdre=704
+End With
+With ADMISSION
+Id=2168
+Nom=MILESI
+Prenom=ERNEST
+CodeDft=2168
+AdmissionDate=09/12/2013
+NoOrdre=706
+End With
+With ADMISSION
+Id=2169
+Nom=ROCHE GAILLON
+Prenom=FREDERIC
+CodeDft=2169
+AdmissionDate=09/12/2013
+NoOrdre=705
+End With
+With ADMISSION
+Id=2172
+Nom=CARUSO
+Prenom=MARIE TIZIANA
+CodeDft=2172
+AdmissionDate=09/12/2013
+NoOrdre=707
+End With
+With ADMISSION
+Id=2173
+Nom=PERRIER
+Prenom=LAURENCE
+CodeDft=2173
+AdmissionDate=09/12/2013
+NoOrdre=708
+End With
+With ADMISSION
+Id=2177
+Nom=MIEGE
+Prenom=EDMOND
+CodeDft=2177
+AdmissionDate=10/12/2013
+NoOrdre=709
+End With
+With ADMISSION
+Id=2185
+Nom=FOLLIET
+Prenom=JEAN
+CodeDft=2185
+AdmissionDate=11/12/2013
+NoOrdre=710
+End With
+With ADMISSION
+Id=2193
+Nom=KUNEJ
+Prenom=YVON
+CodeDft=2193
+AdmissionDate=12/12/2013
+NoOrdre=711
+End With
+With ADMISSION
+Id=2195
+Nom=BEL
+Prenom=MARIE-NOELLE
+CodeDft=2195
+AdmissionDate=12/12/2013
+NoOrdre=712
+End With
+With ADMISSION
+Id=2196
+Nom=CECON
+Prenom=ALBERT
+CodeDft=2196
+AdmissionDate=12/12/2013
+NoOrdre=713
+End With
+With ADMISSION
+Id=2200
+Nom=XAMIN
+Prenom=LOUIS
+CodeDft=2200
+AdmissionDate=12/12/2013
+NoOrdre=714
+End With
+With ADMISSION
+Id=2207
+Nom=GENOLI
+Prenom=MARIUS
+CodeDft=2207
+AdmissionDate=13/12/2013
+NoOrdre=715
+End With
+With ADMISSION
+Id=2209
+Nom=CATELLAT
+Prenom=PAUL
+CodeDft=2209
+AdmissionDate=13/12/2013
+NoOrdre=716
+End With
+With ADMISSION
+Id=2211
+Nom=GROPETTI
+Prenom=BRUNO
+CodeDft=2211
+AdmissionDate=14/12/2013
+NoOrdre=717
+End With
+With ADMISSION
+Id=2213
+Nom=GONTHIER
+Prenom=LEA
+CodeDft=2213
+AdmissionDate=16/12/2013
+NoOrdre=719
+End With
+With ADMISSION
+Id=2214
+Nom=CARPENTIER
+Prenom=Laurent
+CodeDft=2214
+AdmissionDate=15/12/2013
+NoOrdre=718
+End With
+With ADMISSION
+Id=2219
+Nom=SEGURA
+Prenom=Gisèle
+CodeDft=2219
+AdmissionDate=16/12/2013
+NoOrdre=720
+End With
+With ADMISSION
+Id=2224
+Nom=GUESNON
+Prenom=MARIE  ANTOINETTE
+CodeDft=2224
+AdmissionDate=16/12/2013
+NoOrdre=721
+End With
+With ADMISSION
+Id=2225
+Nom=X
+Prenom=X
+CodeDft=2225
+AdmissionDate=17/12/2013
+NoOrdre=722
+End With
+With ADMISSION
+Id=2226
+Nom=VIOLLET
+Prenom=Simone
+CodeDft=2226
+AdmissionDate=17/12/2013
+NoOrdre=724
+End With
+With ADMISSION
+Id=2228
+Nom=CHARRIERE 
+Prenom=MARIE LOUISE
+CodeDft=2228
+AdmissionDate=17/12/2013
+NoOrdre=723
+End With
+With ADMISSION
+Id=2231
+Nom=BURDIN
+Prenom=Andre
+CodeDft=2231
+AdmissionDate=17/12/2013
+NoOrdre=725
+End With
+With ADMISSION
+Id=2238
+Nom=TESSAROLO
+Prenom=Cesarina
+CodeDft=2238
+AdmissionDate=17/12/2013
+NoOrdre=726
+End With
+With ADMISSION
+Id=2239
+Nom=RIBAS
+Prenom=Eric
+CodeDft=2239
+AdmissionDate=17/12/2013
+NoOrdre=727
+End With
+With ADMISSION
+Id=2243
+Nom=TARDY
+Prenom=LOUIS
+CodeDft=2243
+AdmissionDate=18/12/2013
+NoOrdre=728
+End With
+With ADMISSION
+Id=2250
+Nom=LAROCHE
+Prenom=ERICK
+CodeDft=2250
+AdmissionDate=19/12/2013
+NoOrdre=729
+End With
+With ADMISSION
+Id=2254
+Nom=ALONSO
+Prenom=MARIE CLAUDE
+CodeDft=2254
+AdmissionDate=19/12/2013
+NoOrdre=730
+End With
+With ADMISSION
+Id=2256
+Nom=ROSAZ
+Prenom=MARIE
+CodeDft=2256
+AdmissionDate=20/12/2013
+NoOrdre=731
+End With
+With ADMISSION
+Id=2259
+Nom=PIGNIER
+Prenom=JEAN-PIERRE
+CodeDft=2259
+AdmissionDate=21/12/2013
+NoOrdre=733
+End With
+With ADMISSION
+Id=2260
+Nom=CURTELIN
+Prenom=ANDREE
+CodeDft=2260
+AdmissionDate=20/12/2013
+NoOrdre=732
+End With
+With ADMISSION
+Id=2264
+Nom=EL RHAZI
+Prenom=AHMED
+CodeDft=2264
+AdmissionDate=23/12/2013
+NoOrdre=734
+End With
+With ADMISSION
+Id=2271
+Nom=GUINET
+Prenom=LUCIE
+CodeDft=2271
+AdmissionDate=25/12/2013
+NoOrdre=736
+End With
+With ADMISSION
+Id=2273
+Nom=FUSIER
+Prenom=BLANCHE
+CodeDft=2273
+AdmissionDate=24/12/2013
+NoOrdre=735
+End With
+With ADMISSION
+Id=2279
+Nom=RASTELLO
+Prenom=VICTOR
+CodeDft=2279
+AdmissionDate=26/12/2013
+NoOrdre=737
+End With
+With ADMISSION
+Id=2281
+Nom=FLAMAND
+Prenom=ROGER
+CodeDft=2281
+AdmissionDate=26/12/2013
+NoOrdre=738
+End With
+With ADMISSION
+Id=2284
+Nom=GUIGUET-NAVETTAZ
+Prenom=HELENE
+CodeDft=2284
+AdmissionDate=26/12/2013
+NoOrdre=739
+End With
+With ADMISSION
+Id=2294
+Nom=FIARD
+Prenom=CHARLES
+CodeDft=2294
+AdmissionDate=27/12/2013
+NoOrdre=740
+End With
+With ADMISSION
+Id=2299
+Nom=FONTANA
+Prenom=RAYMOND
+CodeDft=2299
+AdmissionDate=28/12/2013
+NoOrdre=741
+End With
+With ADMISSION
+Id=2302
+Nom=CASTAGNOTTO
+Prenom=GIUSEPPINA
+CodeDft=2302
+AdmissionDate=28/12/2013
+NoOrdre=742
+End With
+With ADMISSION
+Id=2305
+Nom=JANIN
+Prenom=JULIETTE
+CodeDft=2305
+AdmissionDate=28/12/2013
+NoOrdre=743
+End With
+With ADMISSION
+Id=2307
+Nom=CHAPPIS
+Prenom=LAURENT
+CodeDft=2307
+AdmissionDate=28/12/2013
+NoOrdre=744
+End With
+With ADMISSION
+Id=2308
+Nom=MOUCHET
+Prenom=ALAIN
+CodeDft=2308
+AdmissionDate=29/12/2013
+NoOrdre=745
+End With
+With ADMISSION
+Id=2315
+Nom=GODIN
+Prenom=JACQUES
+CodeDft=2315
+AdmissionDate=30/12/2013
+NoOrdre=746
+End With
+With ADMISSION
+Id=2316
+Nom=CALY
+Prenom=FERNANDO
+CodeDft=2316
+AdmissionDate=30/12/2013
+NoOrdre=747
+End With
+With ADMISSION
+Id=2319
+Nom=MAZZONI
+Prenom=GERARD
+CodeDft=2319
+AdmissionDate=31/12/2013
+NoOrdre=749
+End With
+With ADMISSION
+Id=2321
+Nom=ZAMPIN
+Prenom=RENE
+CodeDft=2321
+AdmissionDate=31/12/2013
+NoOrdre=748
+End With
+With ADMISSION
+Id=2322
+Nom=HYVERT
+Prenom=SUZANNE
+CodeDft=2322
+AdmissionDate=31/12/2013
+NoOrdre=750
+End With

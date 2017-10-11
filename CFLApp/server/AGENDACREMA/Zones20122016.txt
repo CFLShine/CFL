@@ -1,0 +1,193 @@
+Id=20122016
+Jourdate=20/12/2016
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=9676
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=GIRARDIN
+Prenom_ceremonie=SUZANNE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=NE PAS SCELLER L'URNE   FAMILLE RECUPERE 
+CodeDft_cremation=9676
+Pf_cremation=PF BOUDRIER
+Nom_cremation=GIRARDIN
+Prenom_cremation=SUZANNE
+EvenementArrivee_cremation=Arrivée de MORESTEL
+FicheOccupe=Libre
+NoOrdre=1796
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=9694
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=MILESI
+Prenom_ceremonie=MARIE-FRANCE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CHENE - PF RECUPERENT
+CodeDft_cremation=9694
+Pf_cremation=PF POMMAT
+Nom_cremation=MILESI
+Prenom_cremation=MARIE-FRANCE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1793
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_ceremonie=9690
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=CHALVIN
+Prenom_ceremonie=ODETTE
+CodeDft_cremation=9690
+Pf_cremation=PF SEDRAN
+Nom_cremation=CHALVIN
+Prenom_cremation=ODETTE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1794
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft_ceremonie=9687
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=NOENS
+Prenom_ceremonie=RAYMOND
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CULOZ
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9687
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=NOENS
+Prenom_cremation=RAYMOND
+EvenementArrivee_cremation=Arrivée de CULOZ
+FicheOccupe=Libre
+NoOrdre=1795
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9689
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=FERRARI
+Prenom_ceremonie=STEPHANIE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9689
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=FERRARI
+Prenom_cremation=STEPHANIE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1798
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft_ceremonie=9686
+Pf_ceremonie=PFM
+Nom_ceremonie=BURDINAT
+Prenom_ceremonie=MONIQUE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9686
+Pf_cremation=PFM
+Nom_cremation=BURDINAT
+Prenom_cremation=MONIQUE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1799
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=9685
+Pf_ceremonie=PFM
+Nom_ceremonie=DUQUESNOY
+Prenom_ceremonie=ROGER
+CodeDft_cremation=9685
+Pf_cremation=PFM
+Nom_cremation=DUQUESNOY
+Prenom_cremation=ROGER
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1800
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

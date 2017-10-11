@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=700
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Cognin, Chamb\'e9ry.\f1\par<Ret>\f0 Il a lutt\'e9 avec courage, humour et avec l'espoir de vaincre sa maladie, \f1\par<Ret>\pard\qc\b\f0 Alain MONTAGNER \f1\par<Ret>\f0 Ancien proth\'e9siste dentaire\f1\par<Ret>\pard\b0\f0 Nous a quitt\'e9, entour\'e9 des siens \'e0 l'\'e2ge de 63 ans. \f1\par<Ret>\f0 Sylviane, son \'e9pouse; Julie, sa fille; Freddy, son fils et Alexia, Korentin, son petit fils ch\'e9ri; Lola et Lili, ses petites-filles ador\'e9es et leurs parents,\f1\par<Ret>\f0 vous informent qu'un recueillement aura lieu le Mercredi 20 Ao\'fbt 2014 \'e0 10h15 au cr\'e9matorium de Chamb\'e9ry, suivi selon la volont\'e9 du d\'e9funt de la cr\'e9mation dans l'intimit\'e9 familiale.\f1\par<Ret>\f0 La famille remercie les docteurs Roques, Cerveau, Mille et Thomas, le personnel du service m\'e9decine et du service de chimioth\'e9rapie du M\'e9dip\'f4le de Savoie, ainsi que les cabinets infirmiers de Yenne et de St Thibault de Couz pour leur \'e9coute et leur comp\'e9tence.\f1\par<Ret>\f0 Pas de fleurs, des urnes seront \'e0 disposition pour aider la recherche m\'e9dicale.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=3649
+Tarif=290
+NbLignes=33
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=16/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

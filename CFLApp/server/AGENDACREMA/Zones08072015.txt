@@ -1,0 +1,140 @@
+Id=8072015
+Jourdate=08/07/2015
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+HeuretArrivee_ceremonie=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5955
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=WIART
+Prenom_ceremonie=CLAUDE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de PONTCHARRA
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5955
+Pf_cremation=PF BAUDRION
+Nom_cremation=WIART
+Prenom_cremation=CLAUDE
+EvenementArrivee_cremation=Arrivée de PONTCHARRA
+NoOrdre=1022
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=5949
+Pf_ceremonie=PFM
+Nom_ceremonie=BELVILLE
+Prenom_ceremonie=JANE MARY
+CodeDft_cremation=5949
+Pf_cremation=PFM
+Nom_cremation=BELVILLE
+Prenom_cremation=JANE MARY
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1023
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=5953
+Pf_ceremonie=PF ALPES SAVOIE
+Nom_ceremonie=BRISON
+Prenom_ceremonie=ROGER
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5953
+Pf_cremation=PF ALPES SAVOIE
+Nom_cremation=BRISON
+Prenom_cremation=ROGER
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+NoOrdre=1024
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=NE PAS SCELLER L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=5956
+Pf_ceremonie=PF PECH
+Nom_ceremonie=CHAUDRON
+Prenom_ceremonie=SUZANNE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de FLUMET
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5956
+Pf_cremation=PF PECH
+Nom_cremation=CHAUDRON
+Prenom_cremation=SUZANNE
+EvenementArrivee_cremation=Arrivée de FLUMET
+NoOrdre=1025
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+End With

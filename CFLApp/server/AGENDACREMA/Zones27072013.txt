@@ -1,0 +1,177 @@
+Id=27072013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1344.txt
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=LEGARSON
+Prenom=SOLANGE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de AIX LES BAINS 
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=904
+Four=2
+CodeDft=1344
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1349.txt
+Pf=PFG CHAMBERY
+Conseiller=
+Nom=BERTHOUD
+Prenom=MARCELLE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=CEREMONIE RELIGIEUSE CF - PAS DE CREMATION
+CodeDft=1349
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1345.txt
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=DJIAN
+Prenom=COLETTE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de HOPITAL CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=905
+Four=2
+CodeDft=1345
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2010\1350.txt
+Pf=PF BOUDRIER
+Conseiller=Loïc TREVARAIN
+Nom=DEVAUX
+Prenom=VALENTINE
+HeureArrivee=
+EvenementArrivee=Arrivée de MORESTEL
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=906
+Four=1
+CodeDft=1350
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1352.txt
+Pf=PF DE SAVOIE
+Conseiller=Loïc TREVARAIN
+Nom=FLANDIN GRANGET
+Prenom=BERNARD
+HeureArrivee=
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=907
+Four=2
+CodeDft=1352
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1346.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=PILLET
+Prenom=GABRIELLE
+HeureArrivee=14:00
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:00
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE LES CEDRES 
+Police=True
+NoOrdre=908
+Four=2
+CodeDft=1346
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1353.txt
+Pf=PFG MONTMELIAN
+Conseiller=Loïc TREVARAIN
+Nom=COURLEUX
+Prenom=GEORGES
+HeureArrivee=
+EvenementArrivee=Arrivée de FRANCIN
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=VOIR ESSENCE CERCUEIL
+NoOrdre=909
+Four=1
+CodeDft=1353
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire= 
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1339.txt
+Pf=PF BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=MARTIN
+Prenom=ROBERT
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de BRON 
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=910
+Four=2
+CodeDft=1339
+End With

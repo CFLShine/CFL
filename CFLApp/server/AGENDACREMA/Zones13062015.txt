@@ -1,0 +1,237 @@
+Id=13062015
+Jourdate=13/06/2015
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=5753
+Pf_ceremonie=PFM
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+CodeDft_ceremonie=5757
+Pf_ceremonie=PFM
+Nom_ceremonie=
+Prenom_ceremonie=
+End With
+With ZONE
+Id=3
+EvenementCommentaire=CERCUEIL PIN
+SaisieOccupe=Libre
+CodeDft_ceremonie=5758
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=LORA RONCO
+Prenom_ceremonie=ANNIE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_crema=11:15
+EvenementArrivee_crema=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5758
+Pf_cremation=PFG AIX LES BAINS
+Nom_crema=LORA RONCO
+Prenom_crema=ANNIE
+NoOrdre=900
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=5761
+Pf_ceremonie=PFM
+Nom_ceremonie=PAGET
+Prenom_ceremonie=FRANCOISE  NICOLE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CULOZ
+HeureArrivee_crema=14:15
+EvenementArrivee_crema=Arrivée de CULOZ
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDO PFM  POURPF TONIN COIFFET RDV FAMILLE A 14H
+CodeDft_cremation=5761
+Pf_cremation=PF TONIN COIFFET
+Nom_crema=PAGET
+Prenom_crema=FRANCOISE
+Nom_cremation=PAGET
+Prenom_cremation=FRANCOISE
+HeureArrivee_cremation=14:15
+EvenementArrivee_cremation=Arrivée de CULOZ
+NoOrdre=902
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5766
+Pf_ceremonie=PFM
+Nom_ceremonie=DEVILLERS
+Prenom_ceremonie=ANDRE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5766
+Pf_cremation=PFM
+Nom_crema=DEVILLERS
+Prenom_crema=ANDRE
+NoOrdre=903
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_crema=16:15
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_crema=GONIN
+Prenom_crema=CHRISTIAN
+HeuretArrivee_ceremonie=
+Nom_cremation=
+Prenom_cremation=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=4
+EvenementCommentaire=PEUT ETRE PERSONNE A LA CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=5769
+Pf_ceremonie=PF BERGER
+Nom_ceremonie=ARTHAUD BERTHET
+Prenom_ceremonie=CHRISTIANE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST GENIX SUR GUIERS
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de ST GENIX SUR GUIERS
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5769
+Pf_cremation=PF BERGER
+Nom_crema=ARTHAUD BERTHET
+Prenom_crema=CHRISTIANE
+NoOrdre=901
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5770
+Pf_ceremonie=PFM
+Nom_ceremonie=BERGERON
+Prenom_ceremonie=NATHALIE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=08:15
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5770
+Pf_cremation=PFM
+Nom_crema=BERGERON
+Prenom_crema=NATHALIE
+FicheOccupe=Libre
+NoOrdre=899
+Four=1
+Police=False
+End With
+With ZONE
+Id=9
+End With
+With ZONE
+Id=10
+End With
+With ZONE
+Id=11
+End With
+With ZONE
+Id=12
+End With
+With ZONE
+Id=13
+End With
+With ZONE
+Id=14
+End With
+With ZONE
+Id=15
+End With
+With ZONE
+Id=16
+End With
+With ZONE
+Id=17
+End With
+With ZONE
+Id=18
+End With
+With ZONE
+Id=19
+End With
+With ZONE
+Id=0
+End With

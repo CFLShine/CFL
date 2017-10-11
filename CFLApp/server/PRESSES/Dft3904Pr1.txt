@@ -1,0 +1,22 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Aix-les-Bains, Annecy,\f1\par<Ret>\b0\f0 Philippe Martin, son fils;\f1\par<Ret>\f0 Andr\'e9, son compagnon;\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s dans sa 71\'e8me ann\'e9e de\f1\par<Ret>\pard\qc\b\f0 Christiane MARTIN\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie civile aura lieu le samedi 4 octobre 2014 \'e0 seize heures quinze au Centre Fun\'e9raire de Chamb\'e9ry, suivie de la cr\'e9mation.\par<Ret>}<Ret>
+CodeDft=3904
+Tarif=227,4
+NbLignes=12
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=03/10/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=7
+Name=HAUTE SAVOIE
+End With

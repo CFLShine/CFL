@@ -1,0 +1,14 @@
+Id=5656
+DefuntNom=THEVENOT
+DefuntPrenom=ROLAND
+DefuntDecesDate=26/05/2015
+ArriveeCommune=PONT DE BEAUVOISIN
+ArriveeDate=30/05/2015
+ArriveeHeure=16:15
+PfArrivee=PF BALDINI
+CeremonieCrematoriumDate=30/05/2015
+CeremonieCrematoriumHeure=16:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Geste d'adieu
+ReservCrema=Géorgie MORALES
+CodeDefunt=5656

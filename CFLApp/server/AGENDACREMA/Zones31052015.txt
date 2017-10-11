@@ -1,0 +1,119 @@
+Id=31052015
+Jourdate=31/05/2015
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=5606
+Pf_ceremonie=PFM
+Nom_ceremonie=AMER
+Prenom_ceremonie=MELODIE  MARIE
+CodeDft_cremation=5606
+Pf_cremation=PFM VOIRON
+Nom_crema=AMER
+Prenom_crema=MELODIE  MARIE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de VOIRON
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de VOIRON
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=08:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=BEBE 
+NoOrdre=807
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+CodeDft_cremation=
+Pf_cremation=
+Nom_crema=
+Prenom_crema=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+HeuretArrivee_ceremonie=
+Nom_cremation=
+Prenom=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=5660
+Pf_ceremonie=PF DES ALPES
+Nom_ceremonie=MAZZOLENI
+Prenom_ceremonie=NICOLE
+HeureArrivee_ceremonie=17:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=17:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=18:30
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5659
+Pf_cremation=PF DES ALPES
+Nom_crema=MAZZOLENI
+Prenom_crema=NICOLE
+HeuretArrivee_ceremonie=
+FicheOccupe=Libre
+NoOrdre=826
+Four=1
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=5608
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=NORD
+Prenom_ceremonie=EVELINE
+HeureArrivee_ceremonie=17:45
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de BELLEY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=18:30
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5608
+Pf_cremation=PFM
+Nom_crema=NORD
+Prenom_crema=EVELINE
+NoOrdre=814
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With

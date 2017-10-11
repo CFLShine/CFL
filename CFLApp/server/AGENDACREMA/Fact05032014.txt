@@ -1,0 +1,7 @@
+Id=-1
+FactureZone6=True
+FactureZone7=True
+FactureZone1=True
+FactureZone8=False
+FactureZone4=True
+FactureZone5=True

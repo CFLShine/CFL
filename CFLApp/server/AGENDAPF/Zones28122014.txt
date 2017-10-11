@@ -1,0 +1,42 @@
+Id=28122014
+JourDate=28/12/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=1
+CodeDft=4434
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=MAURIER
+DefuntPrenom=YVONNE
+Heure_0=12:08
+Ev_0=TAMB depuis LA TESSONNIERE LA MOTTE SX vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=AVERONE David
+Equipe_1=WALLYN Benoît
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=1
+DemiJour=1
+CodeDft=4435
+Pf=PFM
+Conseiller=
+DefuntNom=ARPIN
+DefuntPrenom=LEA
+Heure_0=13:24
+Ev_0=TAMB depuis MEDIPOLE SAVOIE vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=AVERONE David
+Equipe_1=WALLYN Benoît
+End With

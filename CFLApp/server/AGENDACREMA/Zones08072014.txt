@@ -1,0 +1,27 @@
+Id=8072014
+Jourdate=08/07/2014
+Version=NouveauFormat
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3429
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=GOULVEN
+Prenom=LAURENCE
+HeureArrivee=09:30
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:30
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=831
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+End With

@@ -1,0 +1,125 @@
+Id=8042014
+Jourdate=08/04/2014
+Version=NouveauFormat
+With ZONE
+Id=7
+EvenementCommentaire=PRENDRE CREMATION A 18H  ARRIVEE A 17H15 (PF déposent avant pas de famille) 
+SaisieOccupe=Libre
+CodeDft=2913
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=PERNET- DEMORET
+Prenom=THERESE
+HeureArrivee=17:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=17:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=18:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=446
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PRENDRE CREMATION A 14H  ARRIVEE A13H15
+SaisieOccupe=Libre
+CodeDft=2904
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=GIRERD-POTIN
+Prenom=PAUL
+HeureArrivee=13:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=444
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=NE PAS PRENDRE DE CREMATION CEREMONIE UNIQUEMENT
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION    POUR PFM
+SaisieOccupe=Libre
+CodeDft=2903
+Pf=
+Conseiller=Pascal MARIE
+Nom=FATTON
+Prenom=JEAN
+HeureArrivee=10:15
+EvenementArrivee=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=0
+EvenementCommentaire=PRENDRE CREMATION A 8H ARRIVEE 7H30
+End With
+With ZONE
+Id=6
+EvenementCommentaire=   FAMILLE RECUPERE       ARRRIVEE PF 15h30
+SaisieOccupe=Libre
+CodeDft=2909
+Pf=PFG MACHE
+Conseiller=Loïc TREVARAIN
+Nom=HIEST
+Prenom=GILLES
+HeureArrivee=
+EvenementArrivee=Arrivée de HOPITAL CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=445
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=2905
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=AUTINO
+Prenom=JEAN
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN PIN
+NoOrdre=443
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=INHUMATION PAS DE CREMATION   POUR PFM
+SaisieOccupe=Libre
+CodeDft=2906
+Pf=
+Conseiller=Nicola PACHOUD
+Nom=ARNOVI
+Prenom=JEAN PIERRE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With

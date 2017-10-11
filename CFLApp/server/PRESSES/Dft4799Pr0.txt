@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=760
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 La Ravoire, Chamb\'e9ry, Tignes.\par<Ret>\b0 Janine Mireille son \'e9pouse;\f1\par<Ret>\f0 Nadine sa fille et Ga\'ebl son compagnon; Thierry son fils et Claire sa compagne; Steeve son petit-fils; Josiane Barnaba et son fils Xavier Leroy; \f1\par<Ret>\f0 Tous ses parents et amis\f1\par<Ret>\f0 ont la tristesse de vous faire part\f1\par<Ret>\f0 du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Monsieur Ren\'e9 BERNARD\f1\par<Ret>\pard\b0\f0 survenu le 10 F\'e9vrier 2015 \'e0 l'\'e2ge de 76 ans des suites d'une longue maladie.\f1\par<Ret>\f0 La c\'e9l\'e9bration religieuse sera c\'e9l\'e9br\'e9e le mardi 17 F\'e9vrier 2015 \'e0 quatorze heures quinze au Centre Fun\'e9raire de Chamb\'e9ry suivie de la cr\'e9mation dans l'intimit\'e9 familiale.\f1\par<Ret>\f0 Ni fleurs, ni plaques.\f1\par<Ret>\f0 Condol\'e9ances sur registre.\f1\par<Ret>\f0 Merci au Dr Milin, au service du Dr Mille et \'e0 ceux du quatri\'e8me \'e9tage de M\'e9dipole pour leur gentillesse et leur d\'e9vouement.\f1\par<Ret>\f0 La famille rappelle \'e0 votre souvenir son fils\f1\par<Ret>\pard\qc\b\f0 Didier\f1\par<Ret>\pard\b0\f0 d\'e9c\'e9d\'e9 en 1997.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciements.\f1\par<Ret>\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=4799
+Tarif=379
+NbLignes=36
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=14/02/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

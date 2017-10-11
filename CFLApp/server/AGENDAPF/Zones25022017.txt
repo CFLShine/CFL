@@ -1,0 +1,104 @@
+Id=25022017
+JourDate=25/02/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10288
+Comment_0=LA FAMILLE RECUPERE L'URNE 
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=58
+EquipeId_1=17
+EquipeId_2=60
+EquipeId_3=26
+Ordo=KAELBERER Eric
+Equipe_0=MULDER Michaël
+Equipe_1=MEGHEZZI Marc
+Equipe_2=DUMAZ Rémy
+Equipe_3=WALLYN Benoît
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10295
+Comment_0=FAMILLE APPEL VENDREDI POUR ORGANISATION CEREMONIE
+Comment_1=METTRE TABLE A REGISTRE ET PREVOIR BOURSE A DONS :RECHERCHE CONTRE LE CANCER
+HeureComment=  :
+OrdoId=73
+EquipeId_0=26
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FRANZINI Karine
+Equipe_0=WALLYN Benoît
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10298
+Comment_0=ORDONNATEUR PFM 
+Comment_1=ACCUEIL DE LA FAMILLE
+HeureComment=  :
+OrdoId=73
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FRANZINI Karine
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10305
+Comment_0=LEUR RENDRE LE SAC
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+CodeDft=10314
+DemiJour=0
+Pos=1
+End With

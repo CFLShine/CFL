@@ -1,0 +1,165 @@
+Id=22072013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=FAMILLE RECUPERE URNE 
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1318.txt
+Pf=PF MERCIER
+Conseiller=Marie-Pierre PINET
+Nom=TAKIM
+Prenom=OSMAN
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de AVENIERES
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=878
+Four=1
+CodeDft=1318
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1315.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Loïc TREVARAIN
+Nom=MOTHION
+Prenom=ADELINE
+HeureArrivee=
+HeureCeremonie=
+HeureCremation=11:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de AIX LES BAINS
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=
+NoOrdre=879
+Four=2
+CodeDft=1315
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1302.txt
+Pf=PFM
+Conseiller=Maxime EHNY
+Nom=ALONZO
+Prenom=JEAN LUC
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=URNE EN DEPOT AU CF
+Police=True
+NoOrdre=880
+Four=1
+CodeDft=1302
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1310.txt
+Pf=PFG MOUTIER
+Conseiller=Loïc TREVARAIN
+Nom=ROUX-VOLLON
+Prenom=ALBERT
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=881
+Four=2
+CodeDft=1310
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1317.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=ACHARD
+Prenom=ALBERTINE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY 
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=882
+Four=2
+CodeDft=1317
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1308.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Marie-Pierre PINET
+Nom=HILLAIREAU
+Prenom=EMMANUEL
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS 
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE URNE 
+NoOrdre=883
+Four=1
+CodeDft=1308
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1320.txt
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=MEYER
+Prenom=LUC
+HeureArrivee=
+EvenementArrivee=Arrivée de SAINT JEAN DE MAURIENNE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=884
+Four=2
+CodeDft=1320
+End With

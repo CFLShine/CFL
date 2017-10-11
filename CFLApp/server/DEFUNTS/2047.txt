@@ -1,0 +1,17 @@
+Id=2047
+New=
+DefuntNom=BOULANGER
+DefuntPrenom=RICHARD
+DefuntDecesDate=09/11/2013
+CremationArriveeDe=LA MOTTE SERVOLEX
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationHeure=
+CremationCommune=
+PfCremation=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+PfArrivee=PFG CHAMBERY
+CodeDefunt=2047

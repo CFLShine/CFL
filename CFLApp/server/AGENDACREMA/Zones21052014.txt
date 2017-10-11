@@ -1,0 +1,126 @@
+Id=21052014
+Jourdate=21/05/2014
+Version=NouveauFormat
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3147
+Pf=PFM VOIRON
+Conseiller=Loïc TREVARAIN
+Nom=STRADA
+Prenom=ANTONINO
+HeureArrivee=
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire= BEBE SANS VIE PAS DE FAMILLE. ARRIVEE LA VEILLE. DISPERSION JDS PAR NOS SOINS
+NoOrdre=622
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3149
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=MORAT
+Prenom=MICHEL
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de chambery
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=626
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3148
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=BLARD
+Prenom=RENE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=625
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3151
+Pf=PFM VOIRON
+Conseiller=Loïc TREVARAIN
+Nom=PRAT
+Prenom=ALEXIS
+HeureArrivee=
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=09:15
+EvenementCeremonie=
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=BB SANS VIE ARRIVEE LA VEILLE. DISPERSION JDS PAR NOS SOINS
+NoOrdre=623
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3154
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=JEANTON
+Prenom=MICHELINE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION  INHUMATION CHARRIERE NEUVE   PFG  MACHE
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3155
+Pf=PFG BOURG ST MAURICE
+Conseiller=Marie-Pierre PINET
+Nom=BAVEREL
+Prenom=CLAUDE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=624
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+End With

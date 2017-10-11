@@ -1,0 +1,15 @@
+DefuntNom=ROSSAT
+DefuntPrenom=REMY
+DefuntDecesDate=  /  /
+ArriveeCommune=AIX LES BAINS
+ArriveeDate=17/05/2017
+ArriveeHeure=16:15
+PfArrivee=PF SEDRAN
+PfCeremonie=PF SEDRAN
+CeremonieCrematoriumDate=17/05/2017
+CeremonieCrematoriumHeure=16:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Civile
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=10817
+Id=10817

@@ -1,0 +1,8 @@
+Id=1986
+With DEFUNT
+Id=8372
+Nom=MOULIN
+Prenom=MARCEL
+DecesDate=03/07/1986
+CodeDft=8372
+End With

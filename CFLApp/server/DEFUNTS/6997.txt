@@ -1,0 +1,15 @@
+Id=6997
+DefuntNom=PEYLIN
+DefuntPrenom=BRUNO
+DefuntDecesDate=28/11/2015
+ArriveeCommune=SAINT LAURENT DU PONT
+ArriveeDate=01/12/2015
+ArriveeHeure=15:15
+PfArrivee=PF PENA
+PfCeremonie=PF PENA
+CeremonieCrematoriumDate=01/12/2015
+CeremonieCrematoriumHeure=15:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Geste d'adieu
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=6997

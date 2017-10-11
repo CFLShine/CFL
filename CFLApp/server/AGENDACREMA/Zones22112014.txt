@@ -1,0 +1,146 @@
+Id=22112014
+Jourdate=22/11/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4141
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=POUPART
+Prenom=JEROME
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION   PFM
+Police=True
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4170
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=CHASSAGNE
+Prenom=ARMELLE
+HeureArrivee=15:15
+HeureCeremonie=15:15
+HeureCremation=16:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de CHAMBERY
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=
+NoOrdre=1421
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4173
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=BESNIER
+Prenom=RENE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de REIGNIER
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 14H 30
+NoOrdre=1419
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4174
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=ROULIES
+Prenom=MARIE-JEANNINE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1422
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4182
+Pf=PF PENA
+Conseiller=Marie-Pierre PINET
+Nom=CORONET
+Prenom=HENRY
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1420
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4186
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=RICCI
+Prenom=JACQUES
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1418
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4191
+Pf=PFM
+Conseiller=
+Nom=HAU 
+Prenom=HANS PETER
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1417
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

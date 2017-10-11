@@ -1,0 +1,6 @@
+Id=2112016
+Agent=THOMAS
+Provenance=HOPITAL CHAMBERY
+Nature=1 FOETUS
+Four=1
+NoOrdre=1543

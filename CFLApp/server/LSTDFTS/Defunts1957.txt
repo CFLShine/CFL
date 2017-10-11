@@ -1,0 +1,8 @@
+Id=1957
+With DEFUNT
+Id=1755
+Nom=VALENTINI
+Prenom=CHARLES
+DecesDate=22/01/1957
+CodeDft=1755
+End With

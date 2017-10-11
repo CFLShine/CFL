@@ -1,0 +1,64 @@
+Id=3042017
+JourDate=03/04/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10524
+Comment_0=DEPART ALLEVARD
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10536
+Comment_0=INHUMATION DE L'URNE LE MERCREDI 05 AVRIL A 10H00
+Comment_1=INTIMITEE FAMILIALE 
+HeureComment=  :
+OrdoId=11
+EquipeId_0=14
+EquipeId_1=7
+EquipeId_2=5
+EquipeId_3=8
+Ordo=FAVRIN Thierry
+Equipe_0=KAELBERER Eric
+Equipe_1=JACQUIER Michel
+Equipe_2=MILLON Patrick
+Equipe_3=ESPINOZA François
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10540
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With

@@ -1,0 +1,142 @@
+Id=14042016
+Jourdate=14/04/2016
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8010
+Pf_ceremonie=PFM
+Nom_ceremonie=MENARD
+Prenom_ceremonie=CECILE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8010
+Pf_cremation=PFM
+Nom_cremation=MENARD
+Prenom_cremation=CECILE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=583
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8019
+Pf_ceremonie=PF PECH
+Nom_ceremonie=LECLAIR
+Prenom_ceremonie=PAULETTE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8019
+Pf_cremation=PF PECH
+Nom_cremation=LECLAIR
+Prenom_cremation=PAULETTE
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=580
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8015
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=BELLIN
+Prenom_ceremonie=ISABELLE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8015
+Pf_cremation=PF POMMAT
+Nom_cremation=BELLIN
+Prenom_cremation=ISABELLE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=581
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8014
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=POLAUD
+Prenom_ceremonie=MARIE-THERESE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8014
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=POLAUD
+Prenom_cremation=MARIE-THERESE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=582
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=CERCUEIL PIN - REMISE URNE PF
+SaisieOccupe=Libre
+CodeDft_ceremonie=8026
+Pf_ceremonie=FLORET
+Nom_ceremonie=LURIENNE
+Prenom_ceremonie=STEPHANE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8026
+Pf_cremation=FLORET
+Nom_cremation=LURIENNE
+Prenom_cremation=STEPHANE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=584
+Four=2
+End With
+With ZONE
+Id=7
+End With

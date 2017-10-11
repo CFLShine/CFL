@@ -1,0 +1,8 @@
+Id=216
+With DEFUNT
+Id=7560
+Nom=ROIG
+Prenom=BERTHE
+DecesDate=09/02/216
+CodeDft=7560
+End With

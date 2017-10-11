@@ -1,0 +1,14 @@
+Id=5513
+DefuntNom=LAMY
+DefuntPrenom=MARCELLE
+DefuntDecesDate=12/05/2015
+ArriveeCommune=MORESTEL
+ArriveeDate=18/05/2015
+ArriveeHeure=14:45
+PfArrivee=BOUDRIER
+CeremonieCrematoriumDate=18/05/2015
+CeremonieCrematoriumHeure=14:45
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Religieuse
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5513

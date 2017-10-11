@@ -1,0 +1,94 @@
+Id=18032014
+Version=NouveauFormat
+Jourdate=18/03/2014
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2766.txt
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=AGNES
+Prenom=BRUNO
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+NoOrdre=354
+Four=2
+FicheOccupe=Libre
+CodeDft=2766
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2773.txt
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=MITHIEUX
+Prenom=RAYMOND
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=353
+Four=1
+FicheOccupe=Libre
+CodeDft=2773
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2774.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=GAUTIER
+Prenom=MARION
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft=2774
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2778.txt
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=DECHAUX  BLANC
+Prenom=ODETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBREY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=INHUMATION CHARRIERE NEUVE    PAS DE CREMATION 
+CodeDft=2778
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=7
+End With

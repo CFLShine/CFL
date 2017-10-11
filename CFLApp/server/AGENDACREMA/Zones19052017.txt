@@ -1,0 +1,122 @@
+Id=19052017
+Jourdate=19/05/2017
+With ZONE
+Id=0
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=4
+EvenementCommentaire=PREVOIR ORDO PFM 
+SaisieOccupe=Libre
+CodeDft_ceremonie=10838
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=AUDRERIE
+Prenom_ceremonie=ALICE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10838
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=AUDRERIE
+Prenom_cremation=ALICE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=717
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=7
+EvenementCommentaire=PAS DE CREMATION  CREMATION                   POSSIBLE à 18h00 CEREMONIE 17h15
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+EvenementCommentaire=CERCUEIL EN CHENE
+CodeDft_ceremonie=10844
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=DEBISSCHOP
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10844
+Pf_cremation=PF POMMAT
+Nom_cremation=DEBISSCHOP
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=715
+Four=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft_ceremonie=10839
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=GUISOL
+Prenom_ceremonie=ETIENNE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10839
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=GUISOL
+Prenom_cremation=ETIENNE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=716
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 18H..
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de MONTALIEU VERCIEU
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_ceremonie=10829
+Pf_ceremonie=PF DOMBES DE VILLA
+Nom_ceremonie=BOUDOU
+Prenom_ceremonie=NANCY
+CodeDft_cremation=10829
+Pf_cremation=PF DOMBES DE VILLA
+Nom_cremation=BOUDOU
+Prenom_cremation=NANCY
+EvenementArrivee_cremation=Arrivée de MONTAGNEUX VERCIEU
+NoOrdre=718
+Four=
+FicheOccupe=Libre
+End With

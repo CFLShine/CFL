@@ -1,0 +1,130 @@
+Id=15062015
+Jourdate=15/06/2015
+With ZONE
+Id=2
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+CodeDft_ceremonie=5762
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=AVRIL
+Prenom_ceremonie=ANDRE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_crema=10:15
+EvenementArrivee_crema=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5762
+Pf_cremation=PFG AIX LES BAINS
+Nom_crema=AVRIL
+Prenom_crema=ANDRE
+NoOrdre=905
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5771
+Pf_ceremonie=PFM
+Nom_ceremonie=EMPTAZ
+Prenom_ceremonie=MAURICE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=11:15
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5771
+Pf_cremation=PFM
+Nom_crema=EMPTAZ
+Prenom_crema=MAURICE
+Police=True
+NoOrdre=906
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=5780
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=DUHAMEL
+Prenom_ceremonie=ANDREE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE
+CodeDft_cremation=5780
+Pf_cremation=PF BALDINI
+Nom_cremation=DUHAMEL
+Prenom_cremation=ANDREE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+NoOrdre=904
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=4
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With
+With ZONE
+Id=10
+End With
+With ZONE
+Id=11
+End With
+With ZONE
+Id=12
+End With
+With ZONE
+Id=13
+End With
+With ZONE
+Id=14
+End With
+With ZONE
+Id=15
+End With
+With ZONE
+Id=16
+End With
+With ZONE
+Id=17
+End With
+With ZONE
+Id=18
+End With
+With ZONE
+Id=0
+End With

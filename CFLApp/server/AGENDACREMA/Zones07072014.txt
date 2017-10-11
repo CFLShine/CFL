@@ -1,0 +1,146 @@
+Id=7072014
+Jourdate=07/07/2014
+Version=NouveauFormat
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3423
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=MARIN
+Prenom=RAYMOND
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL: CHENE  LA FAMILLE RECUPERE L'URNE
+NoOrdre=829
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3424
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=CHEVALIER
+Prenom=PAULETTE
+HeureArrivee=09:00
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=824
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3426
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=BAKANYI
+Prenom=THERESE
+HeureArrivee=14:30
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=828
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3425
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=SENIS
+Prenom=THIERRY
+HeureArrivee=10:00
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL: PIN
+NoOrdre=825
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3432
+Pf=POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=DEVILLE
+Prenom=ALBERT
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:30
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT LES CENDRES
+NoOrdre=827
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3427
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PIN
+Nom=GOTTELAND
+Prenom=FRANCOIS
+HeureArrivee=
+HeureCeremonie=16:15
+HeureCremation=17:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de CHAMBERY
+EvenementCeremonie=Cérémonie Religieuse Cf
+EvenementCremation=Crémation
+EvenementCommentaire=
+NoOrdre=830
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3430
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=LAGARDE
+Prenom=ANDRE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=826
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

@@ -1,0 +1,124 @@
+Id=12082016
+Jourdate=12/08/2016
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=8823
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=RAMBAUD
+Prenom_ceremonie=BERTHE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM, MUSIQUE ET DIAPO
+CodeDft_cremation=8823
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=RAMBAUD
+Prenom_cremation=BERTHE
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1184
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+EvenementCommentaire=LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=8833
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=LAOUAR
+Prenom_ceremonie=ABEL
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8833
+Pf_cremation=PF BALDINI
+Nom_cremation=LAOUAR
+Prenom_cremation=ABEL
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=1185
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=8831
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=GELAS 
+Prenom_ceremonie=GUY
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8831
+Pf_cremation=PFG MACHE
+Nom_cremation=GELAS 
+Prenom_cremation=GUY
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1186
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=8839
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=DEALESSANDRI
+Prenom_ceremonie=MARIUS
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8839
+Pf_cremation=PF POMMAT
+Nom_cremation=DEALESSANDRI
+Prenom_cremation=MARIUS
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1187
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

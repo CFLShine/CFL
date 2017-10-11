@@ -1,0 +1,31 @@
+Id=42
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=00:00
+EpargneesFC=00:00
+varHeuresSupAnDernier=00:00
+With LigneConges
+Id=0
+varPrisDu=05/09/16
+varPrisAu=18/09/16
+varDemandeDate=09/09/16
+varAnnuel=110:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=09/09/16
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=08/10/16
+varPrisAu=08/10/16
+varDemandeDate=08/10/16
+varAnnuel=08:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=08/10/16
+varRetourDate=
+End With

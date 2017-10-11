@@ -1,0 +1,294 @@
+Id=25032016
+JourDate=25/03/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=7859
+Comment_0=LA FAMILLE RECUPERE LES CENDRE 
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=60
+EquipeId_1=58
+EquipeId_2=8
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=DUMAZ Rémy
+Equipe_1=MULDER Michaël
+Equipe_2=ESPINOZA François
+Equipe_3=
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=7863
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=52
+EquipeId_1=16
+EquipeId_2=64
+EquipeId_3=58
+Ordo=KAELBERER Eric
+Equipe_0=SANCHEZ Dominique
+Equipe_1=MILESI Robert
+Equipe_2=DEMOUSSY Alain
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=7864
+Comment_0=CARRE B, LIGNE 4, EMPLACEMENT 13
+Comment_1=LEVAGE DE MONUMENT PAR NOS SERVICE 
+HeureComment=  :
+OrdoId=26
+EquipeId_0=52
+EquipeId_1=16
+EquipeId_2=64
+EquipeId_3=58
+Ordo=WALLYN Benoît
+Equipe_0=SANCHEZ Dominique
+Equipe_1=MILESI Robert
+Equipe_2=DEMOUSSY Alain
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=7865
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=17
+EquipeId_1=15
+EquipeId_2=60
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=MEGHEZZI Marc
+Equipe_1=BORG Roger
+Equipe_2=DUMAZ Rémy
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=7870
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=60
+EquipeId_1=58
+EquipeId_2=8
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=DUMAZ Rémy
+Equipe_1=MULDER Michaël
+Equipe_2=ESPINOZA François
+Equipe_3=
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7855
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=16
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=MILESI Robert
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=7872
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=17
+EquipeId_1=52
+EquipeId_2=64
+EquipeId_3=54
+Ordo=WALLYN Benoît
+Equipe_0=MEGHEZZI Marc
+Equipe_1=SANCHEZ Dominique
+Equipe_2=DEMOUSSY Alain
+Equipe_3=BRUN Tony
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7877
+Comment_0=PREVOIR ORDO PFM  CEREMONIE CIVILE  
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=8
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7878
+Comment_0=ORDO PFM POUR PF MOUCHE
+Comment_1=CEREMONIE CIVILE
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=9
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7857
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=10
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7890
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=11
+CodeDft=7889
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=12
+CodeDft=7900
+DemiJour=1
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=13
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7904
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With

@@ -1,0 +1,15 @@
+Id=1926
+With DEFUNT
+Id=8043
+Nom=DURBET
+Prenom=EVELYNE
+DecesDate=13/04/1926
+CodeDft=8043
+End With
+With DEFUNT
+Id=6816
+Nom=GIVONETTI
+Prenom=NICOLE
+DecesDate=01/11/1926
+CodeDft=6816
+End With

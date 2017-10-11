@@ -1,0 +1,46 @@
+Id=29052014
+JourDate=29/05/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+CodeDft=3225
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=POGNANT-GROS
+DefuntPrenom=GEORGES
+Heure_0=11:11
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=AVERONE David
+Equipe_1=WALLYN Benoît
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=1
+DemiJour=1
+CodeDft=3226
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=DA SILVA CORREIA
+DefuntPrenom=NELSO
+Heure_0=19:12
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=AVERONE David
+Equipe_1=WALLYN Benoît
+Comment_0=
+Comment_1=
+End With

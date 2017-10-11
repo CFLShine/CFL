@@ -1,0 +1,119 @@
+Id=17092013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1648.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=SIGOT
+Prenom=MARIE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION IHNUMATION  CHARRIERE-NEUVE
+NoOrdre=
+Four=
+CodeDft=1648
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1646.txt
+Pf=PFM
+Conseiller=Maxime EHNY
+Nom=BROLIS
+Prenom=PIERRE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1116
+Four=2
+CodeDft=1646
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=DISPERSION PAR NOS SOINS JDS AVEC FAMILLE A 15H
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1659.txt
+Pf=PF MERCIER
+Conseiller=Marie-Pierre PINET
+Nom=PLANET
+Prenom=GEORGES
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de DES AVENIERES
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=15:00
+NoOrdre=1117
+Four=1
+CodeDft=1659
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1643.txt
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=MONGENIE
+Prenom=MARTIAL
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+NoOrdre=1118
+Four=2
+CodeDft=1643
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With

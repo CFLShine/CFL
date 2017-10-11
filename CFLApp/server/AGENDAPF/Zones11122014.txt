@@ -1,0 +1,66 @@
+Id=11122014
+JourDate=11/12/2014
+With ZONE
+Id=0
+Saisie=Ceremonie
+Pos=0
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4285
+Pf=PFM
+Conseiller=L. TREVARAIN
+DefuntNom=CARAZZI
+DefuntPrenom=ANDREE
+Heure_0=14:15
+Ev_0=Cérémonie Civile Cf salle omnicultes
+Comment_0=ACCUEILLIR FAMILLE
+Comment_1=PFM POUR PF TONIN COIFFET
+Ordo=KAELBERER Eric
+OrdoId=14
+End With
+With ZONE
+Id=1
+Saisie=Exhumation
+Pos=0
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4273
+Pf=PFM
+Conseiller=Pascal MARIE
+DefuntNom=VIDAL
+DefuntPrenom=ANTOINE
+Heure_0=08:30
+Ev_0=Ehxumation  à CHALLES LES EAUX. 3 corps
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=2
+Saisie=Ceremonie
+Pos=1
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4298
+Pf=PFM
+Conseiller=Marie-Pierre PINET
+DefuntNom=PASQUIER
+DefuntPrenom=EMMANUEL
+Heure_0=15:15
+Ev_0=Cérémonie Civile Cf salle omnicultes
+Comment_0=ORDONNATEUR PFM POUR PF MAURIENNAISES
+Comment_1=
+Ordo=KAELBERER Eric
+OrdoId=14
+End With

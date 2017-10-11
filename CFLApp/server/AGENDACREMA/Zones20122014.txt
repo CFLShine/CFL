@@ -1,0 +1,166 @@
+Id=20122014
+Jourdate=20/12/2014
+Version=NouveauFormat
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4339
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=VIFFRAY
+Prenom=GILBERT
+HeureArrivee=08:15
+HeureCeremonie=
+HeureCremation=09:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de AIX LES BAINS
+EvenementCeremonie=
+EvenementCremation=Crémation
+FicheOccupe=Libre
+NoOrdre=1553
+Four=1
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=4359
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=GAY
+Prenom=YVONNE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1554
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4344
+Pf=PF BOUVIER
+Conseiller=Pascal MARIE
+Nom=BOURIN
+Prenom=ALAIN
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de RUMILLY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1556
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4348
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=LEMPEREUR
+Prenom=GERMAINE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1555
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4354
+Pf=PFG MOUTIERS
+Conseiller=Loïc TREVARAIN
+Nom=THOMAS
+Prenom=EMILE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=1558
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4355
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=POUCHOY
+Prenom=PAUL
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1559
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4361
+Pf=PF DU PLATEAU
+Conseiller=Marie-Pierre PINET
+Nom=PESENTI
+Prenom=LINE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de HAUTEVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1557
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4362
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=EXCOFFON
+Prenom=HELENE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1560
+Four=2
+FicheOccupe=Libre
+End With

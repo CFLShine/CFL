@@ -1,0 +1,26 @@
+Id=25042014
+JourDate=25/04/2014
+With ZONE
+Id=0
+UsedBy=Libre
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+End With

@@ -1,0 +1,256 @@
+Id=-1
+DefuntNationalite=Française
+DefuntTitre=Mademoiselle
+DefuntAdresse2=
+DefuntProfession=
+DefuntAdresseCommune=
+DefuntAdresseCodPost=
+DefuntAdresse=
+DefuntNaissancePays=FRANCE
+DefuntNaissanceDepartement=SAVOIE
+DefuntNaissanceCommune=CHAMBERY
+DefuntPrenoms=
+DefuntPrenom=STEPHANIE
+DefuntNomJF=
+DefuntNom=GRENCI
+DefuntNaissanceDate=12/08/1981
+DefuntDecesDate=13/07/2017
+DefuntDecesHeure=04:00
+DefuntDecesAdresse=Hôpital de Chambéry
+DefuntDecesMedecin=
+DefuntDecesPays=
+DefuntDecesCommune=
+DefuntMereDecede=False
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=
+DefuntMereNom=
+DefuntPereDecede=False
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=
+DefuntPereNom=
+DefuntMariageDate=/  /
+DefuntDivorseDate=/  /
+DefuntSituationDecesDate=/  /
+DefuntSituationNaissanceDate=/  /
+DefuntNbEnfantsVivants=
+DefuntNbEnfants=
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=
+DefuntSituationNom=
+DefuntSituation=Celibataire
+PouvQualiteAutre=
+PouvQualite=Conjoint
+PouvNom=
+PouvPrenom=
+PouvNomJF=
+PouvAdresse=
+PouvAdresse2=
+PouvCodePost=
+PouvCommune=
+PouvTel1=
+PouvTel2=
+PouvMail=
+CodeDefunt=11199
+SepultureCimetiere=
+SepultureCommune=SAINT ALBAN LEYSSE
+SepultureType=
+Concessionaire=True
+AyantDroit=False
+SepultureProvisoire=False
+ConcessionDPINom=GRENCI
+ConcessionDPINomJF=
+ConcessionDPIPrenom=VINCENT
+ConcessionDPIAnnee=2000
+ConcessionAquiseParNom=GRENCI
+ConcessionAquiseParPrenom=PASCALINE
+ConcessionAquiseDate=  /  /
+ConcessionDuree=
+ConcessionDesignation=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+SepultureDivision=
+SepultureSection=
+SepultureCarre=
+SepultureLigne=
+SepultureTombe=
+ReceptionDate=13/07/2017
+Conseiller=Sébastien CLANET
+TAMB1Vehicule=
+PfTAMB1=
+TAMB1ArriveeLieu=
+TAMB1DepartLieu=
+TAMB1Date=/  /
+TAMB1ArriveeHeure=:
+Requisition=False
+TAMB2Vehicule=
+PfTAMB2=
+TAMB2ArriveeLieu=
+TAMB2DepartLieu=
+TAMB2Date=/  /
+TAMB2ArriveeHeure=:
+PfMEB=PFM
+MEBCommune=
+ArriveeCommune=
+MEBDate=17/07/2017
+ArriveeDate=
+MEBHeure=08:30
+ArriveeHeure=
+MEBLieu=HOPITAL DE CHAMBERY
+ArriveeLieu=
+MEBDistanceCf=
+Salon=False
+SalonCase_Name=
+CeremonieDate=17/07/2017
+CeremonieHeure=10:00
+CeremonieLieu=EGLISE DE ST ALBAN LEYSSE
+CeremonieType=Religieuse
+PfCeremonie=PFM
+CeremonieDistanceCf=
+CeremonieRegistre=True
+Presse=True
+BourseADons=False
+PfTransport=
+TransportDate=  /  /
+TransportDepartLieu=
+TransportArriveeLieu=
+TransportDepartHeure=  :
+TransportArriveeHeure=  :
+TransportVehicule=
+TransportDistanceCf=
+PfInhumation=PFM
+InhumationDate=17/07/2017
+InhumationHeure=:
+InhumationSepulture=1
+PfInhumation2=
+Inhumation2Date=/  /
+Inhumation2Heure=:
+Inhumation2Sepulture=
+ExhumationSepulture=
+PfExhumation=
+ExhumationDate=/  /
+ExhumationHeure=:
+DispersionDate=  /  /
+DispersionHeure=  :
+DispersionLieu=
+DispersionCommune=
+PfDispersion=
+RDVOrdonnateurDate=
+RDVOrdonnateurHeure=
+SoinsDate=
+CremationDate=
+With A FAIRE
+Id=0
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=13/07/2017 14:46:18
+DateFait=13/07/2017 16:08:41
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul21]
+Fait=True
+Perso=False
+DateAFaire=13/07/2017 14:46:18
+DateFait=13/07/2017 17:17:19
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=2
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=13/07/2017 14:46:18
+DateFait=13/07/2017 16:08:42
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=3
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=13/07/2017 14:46:18
+DateFait=13/07/2017 16:08:45
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=4
+Intitule=[Intitul14]
+Fait=False
+Perso=False
+DateAFaire=13/07/2017 14:46:18
+DateFait=
+FaitPar=
+End With
+With A FAIRE
+Id=5
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=13/07/2017 14:46:18
+DateFait=13/07/2017 16:08:47
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=6
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=13/07/2017 14:46:18
+DateFait=13/07/2017 16:08:49
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=7
+Intitule=[Intitul3]
+Fait=True
+Perso=False
+DateAFaire=13/07/2017 14:46:18
+DateFait=13/07/2017 16:08:50
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=8
+Intitule=[Intitul16]
+Fait=True
+Perso=False
+DateAFaire=13/07/2017 14:46:18
+DateFait=13/07/2017 17:17:21
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=9
+Intitule=[Intitul10]
+Fait=True
+Perso=False
+DateAFaire=13/07/2017 14:46:18
+DateFait=13/07/2017 17:17:23
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=10
+Intitule=[Intitul11]
+Fait=True
+Perso=False
+DateAFaire=13/07/2017 14:46:18
+DateFait=13/07/2017 16:08:52
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=11
+Intitule=[Intitul4]
+Fait=True
+Perso=False
+DateAFaire=13/07/2017 16:08:33
+DateFait=13/07/2017 16:08:53
+FaitPar=Sébastien CLANET
+End With

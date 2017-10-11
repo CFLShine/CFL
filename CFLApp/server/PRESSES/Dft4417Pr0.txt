@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry,\b0\f1\par<Ret>\f0 Brigitte et Ahmed KHALIFA sa fille et son gendre,\f1\par<Ret>\f0 vous font part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Laure CASAMATTA\b0\f1\par<Ret>\pard\f0 Ses funerailles auront lieu mardi 30 d\'e9cembre 2014 \'e0 neuf heures quinze au centre fun\'e9raire de Chamb\'e9ry.\par<Ret>}<Ret>
+CodeDft=4417
+Tarif=118
+NbLignes=9
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=28/12/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

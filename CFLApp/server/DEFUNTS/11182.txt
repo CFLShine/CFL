@@ -1,0 +1,15 @@
+DefuntNom=ROUX
+DefuntPrenom=JEAN-PHILIPPE
+DefuntDecesDate=  /  /
+ArriveeCommune=BRON
+ArriveeDate=17/07/2017
+ArriveeHeure=15:15
+PfArrivee=PF CHAMBERIENNES
+PfCeremonie=PF CHAMBERIENNES
+CeremonieCrematoriumDate=17/07/2017
+CeremonieCrematoriumHeure=15:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Religieuse
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=11182
+Id=11182

@@ -1,0 +1,195 @@
+Id=29062017
+Jourdate=29/06/2017
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11075
+Pf_ceremonie=PFM
+Nom_ceremonie=MILLION-BRODAZ
+Prenom_ceremonie=LAURENT
+CodeDft_cremation=11075
+Pf_cremation=PFM
+Nom_cremation=MILLION-BRODAZ
+Prenom_cremation=LAURENT
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=894
+Four=FT3
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11089
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=VIANEY
+Prenom_ceremonie=CHRISTIAN
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11089
+Pf_cremation=PF FLORET
+Nom_cremation=VIANEY
+Prenom_cremation=CHRISTIAN
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=893
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11081
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=CLODONG
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL  CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11081
+Pf_cremation=PFG MACHE
+Nom_cremation=CLODONG
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de HOPITAL  CHAMBERY
+FicheOccupe=Libre
+NoOrdre=895
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 14H  
+SaisieOccupe=Libre
+CodeDft_ceremonie=11082
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=CHAPUZET
+Prenom_ceremonie=CHRISTIANE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11082
+Pf_cremation=PF MOUCHE
+Nom_cremation=CHAPUZET
+Prenom_cremation=CHRISTIANE
+EvenementArrivee_cremation=Arrivée de HOPITAL CHAMBERY
+FicheOccupe=Libre
+NoOrdre=896
+Four=FT3
+End With
+With ZONE
+Id=4
+EvenementCommentaire=ON CONSERVE L'URNE AU CREMATORIUM
+SaisieOccupe=Libre
+CodeDft_ceremonie=11084
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=COTE
+Prenom_ceremonie=DANIEL
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11084
+Pf_cremation=PF BALDINI
+Nom_cremation=COTE
+Prenom_cremation=DANIEL
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=897
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+End With
+With ZONE
+Id=6
+EvenementCommentaire=2 coeurs à la cremation 
+SaisieOccupe=Libre
+CodeDft_ceremonie=11085
+Pf_ceremonie=PFM
+Nom_ceremonie=CORDIER
+Prenom_ceremonie=CLAUDETE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11085
+Pf_cremation=PFM
+Nom_cremation=CORDIER
+Prenom_cremation=CLAUDETE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+Police=True
+FicheOccupe=Libre
+NoOrdre=898
+Four=FT3
+End With
+With ZONE
+Id=7
+EvenementCommentaire=3 coeur a la cremation
+SaisieOccupe=Libre
+CodeDft_ceremonie=11086
+Pf_ceremonie=PFM
+Nom_ceremonie=TRUCHET
+Prenom_ceremonie=HONORE
+CodeDft_cremation=11086
+Pf_cremation=PFM
+Nom_cremation=TRUCHET
+Prenom_cremation=HONORE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=899
+Four=FTX
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

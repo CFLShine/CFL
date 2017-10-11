@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, Apremont, La Motte Servolex, St Christophe sur Guiers\f1\par<Ret>\b0\f0 Serge et Nadine COLOMBO, Fran\'e7oise et Jean-Robert TURNAR, ses enfants; Alexandra, Julien et Olivier, ses petits-enfants; \f1\par<Ret>\f0 Les familles VOLTZENLOGEL et COLOMBO,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de Madame\f1\par<Ret>\pard\qc\b\f0 Madeleine COLOMBO\f1\par<Ret>\f0 N\'e9e VOLTZENLOGEL\b0\f1\par<Ret>\pard\f0\'e0 l'aube de ses 86 ans.\f1\par<Ret>\f0 Ses fun\'e9railles ont eu lieu dans l'intimit\'e9 familliale.\f1\par<Ret>\f0 Elle a rejoint son \'e9poux\par<Ret>\pard\qc\b Louis COLOMBO\f1\par<Ret>\pard\b0\f0 d\'e9c\'e9d\'e9 en 1994.\par<Ret>}<Ret>
+CodeDft=4619
+Tarif=208
+NbLignes=21
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=3
+Date=27/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

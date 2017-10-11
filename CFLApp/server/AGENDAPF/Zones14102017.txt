@@ -1,0 +1,16 @@
+Id=14102017
+JourDate=14/10/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11648
+Comment_0=l'urne sera déposé la veille dans nos bureaux
+Comment_1=
+HeureComment=  :
+End With

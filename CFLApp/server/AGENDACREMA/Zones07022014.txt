@@ -1,0 +1,154 @@
+Id=7022014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2521.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Marie-Pierre PINET
+Nom=CAPORALE
+Prenom=ELISABETH
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=175
+Four=2
+FicheOccupe=Libre
+CodeDft=2521
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2527.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Marie-Pierre PINET
+Nom=COTTON
+Prenom=HENRI
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de HOPITAL  CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=178
+Four=1
+CodeDft=2527
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2529.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=VENDRASCO
+Prenom=LINA
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=177
+Four=2
+CodeDft=2529
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2545.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=BLANC
+Prenom=RENE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMOUX 
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=174
+Four=1
+FicheOccupe=Libre
+CodeDft=2545
+End With
+With ZONE
+Id=7
+EvenementCommentaire=CERCEUIL CREMATION  PF RECUPERENT
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2541.txt
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=REVET
+Prenom=ROSE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=179
+Four=2
+FicheOccupe=Libre
+CodeDft=2541
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2535.txt
+Pf=PFG MOUTIERS
+Conseiller=Marie-Pierre PINET
+Nom=TARTARAT
+Prenom=SUZANNE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=176
+Four=1
+FicheOccupe=Libre
+CodeDft=2535
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2540.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=MORE
+Prenom=ROSE ALICE
+HeureArrivee=
+EvenementArrivee=Arrivée de CH CHAMBERY
+HeureCeremonie=09:00
+EvenementCeremonie=Cérémonie Civile HOPITAL 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL PRIOUL    FAMILLE RECUPERE
+Police=True
+NoOrdre=173
+Four=2
+FicheOccupe=Libre
+CodeDft=2540
+End With
+With ZONE
+Id=0
+End With

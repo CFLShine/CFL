@@ -1,0 +1,6 @@
+Id=14042014
+JourDate=14/04/2014
+With ZONE
+Id=1
+EtatCivilChecked=True
+End With

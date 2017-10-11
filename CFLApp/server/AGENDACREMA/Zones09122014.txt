@@ -1,0 +1,102 @@
+Id=9122014
+Jourdate=09/12/2014
+Version=NouveauFormat
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PAS DE CREMATION
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4280
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=MONIN
+Prenom=SIMONE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1496
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4281
+Pf=PF ALPES SAVOIE
+Conseiller=Marie-Pierre PINET
+Nom=GALLOIS
+Prenom=FREDERIQUE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ON GARDE L'URNE AU CREMATORIUM
+NoOrdre=1495
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4284
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=LAFARGUE
+Prenom=GERARD
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1497
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=INHUMATION LE LENDEMAIN à BISSY CASE COLOMBARIUM
+SaisieOccupe=Libre
+CodeDft=4286
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=BUSCAYLET
+Prenom=RENE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE BISSY
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=1498
+Four=1
+End With
+With ZONE
+Id=0
+End With

@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Bassens,\f1\par<Ret>\b0\f0 Agn\'e8s Caffoz, son \'e9pouse; Aur\'e9lie, C\'e9line, Laura, ses filles et leurs conjoints; Lila, sa petite-fille; Genevi\'e8ve, sa maman; ses soeurs et son fr\'e8re; ont la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Jean-Loup CAFFOZ\f1\par<Ret>\pard\b0\f0 survenu dans sa 65\'e8me ann\'e9e.\f1\par<Ret>\f0 La c\'e9r\'e9monie sera c\'e9l\'e9br\'e9e le lundi 24 novembre 2014 \'e0 quatorze heures en l'\'e9glise de Bassens.\f1\par<Ret>\f0 Cet avis tient lieu de faire part.\par<Ret>}<Ret>
+CodeDft=4188
+Tarif=165
+NbLignes=14
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=22/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

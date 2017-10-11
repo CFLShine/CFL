@@ -1,0 +1,17 @@
+Id=4463
+CodeDefunt=4463
+DefuntNom=VINCENT
+DefuntPrenom=YVETTE
+DefuntDecesDate=01/01/2015
+CremationArriveeDe=ORNEX
+ArriveeDate=06/01/2015
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationHeure=
+CremationCommune=
+PfCremation=PFG CHAMBERY
+ReservCrema=Marie-Pierre PINET
+PfArrivee=PFG CHAMBERY

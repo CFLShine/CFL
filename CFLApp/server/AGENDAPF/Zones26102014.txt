@@ -1,0 +1,42 @@
+Id=26102014
+JourDate=26/10/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+CodeDft=4055
+Pf=PFM
+Conseiller=Pascal MARIE
+DefuntNom=RINCHET
+DefuntPrenom=JULIETTE
+Heure_0=06:56
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=PINTOUT Bruno
+Equipe_1=WALLYN Benoît
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=1
+Saisie=Soins
+Pos=1
+DemiJour=0
+CodeDft=4055
+Pf=PFM
+Conseiller=Pascal MARIE
+DefuntNom=RINCHET
+DefuntPrenom=JULIETTE
+Heure_0=10:00
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+End With

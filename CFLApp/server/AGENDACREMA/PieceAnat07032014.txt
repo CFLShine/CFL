@@ -1,0 +1,6 @@
+Agent=averone
+Provenance=hopital chambery
+Nature=3 foetus ( 1 CERCUEIL)
+Four=1
+NoOrdre=307
+Id=-1

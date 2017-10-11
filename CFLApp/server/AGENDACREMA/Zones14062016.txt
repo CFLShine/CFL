@@ -1,0 +1,103 @@
+Id=14062016
+Jourdate=14/06/2016
+With ZONE
+Id=2
+SaisieOccupe=Libre
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+CodeDft_ceremonie=8428
+Pf_ceremonie=PFG MONTMELIAN
+Nom_ceremonie=MONTMAYEUL
+Prenom_ceremonie=HUGETTE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de LA MOTTE SERVOLEX
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8428
+Pf_cremation=PFG MONTMELIAN
+Nom_cremation=MONTMAYEUL
+Prenom_cremation=HUGETTE
+EvenementArrivee_cremation=Arrivée de LA MOTTE SERVOLEX
+FicheOccupe=Libre
+NoOrdre=894
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=8431
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=LAMBERT
+Prenom_ceremonie=LILIANE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+CodeDft_cremation=8431
+Pf_cremation=PF SEDRAN
+Nom_cremation=LAMBERT
+Prenom_cremation=LILIANE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=895
+Four=2
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8438
+Pf_ceremonie=PFM
+Nom_ceremonie=CLEMENT
+Prenom_ceremonie=NELLY
+CodeDft_cremation=8438
+Pf_cremation=PFM
+Nom_cremation=CLEMENT
+Prenom_cremation=NELLY
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=896
+Four=2
+End With
+With ZONE
+Id=6
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

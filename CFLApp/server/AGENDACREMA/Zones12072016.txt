@@ -1,0 +1,193 @@
+Id=12072016
+Jourdate=12/07/2016
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_ceremonie=8623
+Pf_ceremonie=PFM
+Nom_ceremonie=BERTOUT
+Prenom_ceremonie=ELISE
+CodeDft_cremation=8623
+Pf_cremation=PFM
+Nom_cremation=BERTOUT
+Prenom_cremation=ELISE
+FicheOccupe=Libre
+Police=True
+NoOrdre=1029
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8608
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=DUTEL
+Prenom_ceremonie=JACQUES
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8608
+Pf_cremation=PF SEDRAN
+Nom_cremation=DUTEL
+Prenom_cremation=JACQUES
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1028
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8617
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=LABOIS
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8617
+Pf_cremation=PFG MACHE
+Nom_cremation=LABOIS
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de HOPITAL CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1027
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8625
+Pf_ceremonie=PFM
+Nom_ceremonie=PELTIER
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8625
+Pf_cremation=PFM
+Nom_cremation=PELTIER
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1030
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PF RECUPERE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8620
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=CAGLIO
+Prenom_ceremonie=RENEE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8620
+Pf_cremation=PF BALDINI
+Nom_cremation=CAGLIO
+Prenom_cremation=RENEE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+NoOrdre=1031
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE    + TARD  
+SaisieOccupe=Libre
+CodeDft_ceremonie=8604
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=LEGRIS
+Prenom_ceremonie=FRANCIS
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8604
+Pf_cremation=PF BAUDRION
+Nom_cremation=LEGRIS
+Prenom_cremation=FRANCIS
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1032
+Four=1
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=8613
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=CHAMAND
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8613
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=CHAMAND
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1033
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

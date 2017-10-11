@@ -1,0 +1,6 @@
+Id=-1
+Version=1
+DroitCongesFC=00:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+varHeuresSupAnDernier=0:00

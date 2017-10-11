@@ -1,0 +1,172 @@
+Id=21012014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2419.txt
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=RAYNAUD
+Prenom=DANIEL
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=93
+Four=2
+CodeDft=2419
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2420.txt
+Pf=P F POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=GAMBINO
+Prenom=GUISEPPA
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=96
+Four=1
+FicheOccupe=Libre
+CodeDft=2420
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2422.txt
+Pf=PF BOUDRIER
+Conseiller=Marie-Pierre PINET
+Nom=JUBAN
+Prenom=ROBERT
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de MORESTEL
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 15H
+FicheOccupe=Libre
+NoOrdre=94
+Four=1
+CodeDft=2422
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2423.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=VOIRON
+Prenom=PAULETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=95
+Four=2
+FicheOccupe=Libre
+CodeDft=2423
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2425.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=DONZEL
+Prenom=ALBERT
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMOUX 
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM POUR PF MOUCHE
+NoOrdre=92
+Four=1
+FicheOccupe=Libre
+CodeDft=2425
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2428.txt
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=BOIS
+Prenom=HENRI
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=91
+Four=2
+FicheOccupe=Libre
+CodeDft=2428
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2432.txt
+Pf=POMMAT
+Conseiller=Loïc TREVARAIN
+Nom=BOISSIERE
+Prenom=GILBERTE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE
+FicheOccupe=Libre
+NoOrdre=97
+Four=2
+CodeDft=2432
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2434.txt
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=VIVES
+Prenom=ODETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  PAS DE FAMILLE  PF RECUPERENT
+NoOrdre=90
+Four=1
+FicheOccupe=Libre
+CodeDft=2434
+End With

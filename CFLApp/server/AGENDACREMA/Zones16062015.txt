@@ -1,0 +1,180 @@
+Id=16062015
+Jourdate=16/06/2015
+With ZONE
+Id=2
+EvenementCommentaire=
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5768
+Pf_ceremonie=AJEPI
+Nom_ceremonie=VON ZEPPELIN
+Prenom_ceremonie=HORST
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5768
+Pf_cremation=PF AJEPI
+Nom_crema=VON ZEPPELIN
+Prenom_crema=HORTS
+NoOrdre=912
+Four=2
+Nom_cremation=VON ZEPPELIN
+Prenom_cremation=HORST
+HeureArrivee_cremation=
+FicheOccupe=Libre
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+End With
+With ZONE
+Id=7
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=5774
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=CHABAUD
+Prenom_ceremonie=PHILIPPE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=11:15
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN PIN 
+CodeDft_cremation=5774
+Pf_cremation=PFG CHAMBERY
+Nom_crema=CHABAUD
+Prenom_crema=PHILIPPE
+NoOrdre=909
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=5777
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=BONNISSOL
+Prenom_ceremonie=LAURENCE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5777
+Pf_cremation=PF BOUDRIER
+Nom_cremation=BONNISSOL
+Prenom_cremation=LAURENCE
+EvenementArrivee_cremation=Arrivée de MORESTEL
+NoOrdre=910
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5776
+Pf_ceremonie=PFM
+Nom_ceremonie=MICHEL
+Prenom_ceremonie=REGINE
+CodeDft_cremation=5776
+Pf_cremation=PFM
+Nom_cremation=MICHEL
+Prenom_cremation=REGINE
+HeureArrivee_ceremonie=14:14
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:14
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+Police=True
+NoOrdre=911
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=5778
+Pf_ceremonie=PF AJEPI
+Nom_ceremonie=AUDARD
+Prenom_ceremonie=CORINNE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5778
+Pf_cremation=PF AJEPI
+Nom_cremation=AUDARD
+Prenom_cremation=CORINNE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=908
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With
+With ZONE
+Id=10
+End With
+With ZONE
+Id=11
+End With
+With ZONE
+Id=12
+End With
+With ZONE
+Id=13
+End With
+With ZONE
+Id=14
+End With
+With ZONE
+Id=15
+End With
+With ZONE
+Id=16
+End With
+With ZONE
+Id=17
+End With
+With ZONE
+Id=18
+End With
+With ZONE
+Id=0
+End With
