@@ -67,6 +67,8 @@ namespace ObjectEdit
         }
 
         private double __identation = 20;
+#pragma warning disable CS0414 // Le champ 'ObjectEditTreeVisualiser.__showHeaders' est assigné, mais sa valeur n'est jamais utilisée
         private bool __showHeaders = false;
+#pragma warning restore CS0414 // Le champ 'ObjectEditTreeVisualiser.__showHeaders' est assigné, mais sa valeur n'est jamais utilisée
     }
 }

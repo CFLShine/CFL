@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 using CFL_1.CFL_System.SqlServerOrm;
-using MSTD.ShBase;
+using MSTD;
 using Npgsql;
 
 namespace SqlOrm
@@ -83,7 +83,7 @@ namespace SqlOrm
             return "UPDATE " + _classAndProxy.TableName + 
                             " SET " + FieldsEqualValues(_fieldsValues, _classAndProxy) +
                              " WHERE " + _classAndProxy.TableName + ".id = " + 
-                             SqlCSharp.SqlValue(_classAndProxy.Entity, BaseHelper.Property(_classAndProxy.EntityType, "ID")) +
+                             SqlCSharp.SqlValue(_classAndProxy.Entity, PropertyHelper.Property(_classAndProxy.EntityType, "ID")) +
                              ";";
         }
 

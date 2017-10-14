@@ -257,6 +257,9 @@
     <Reference Include="Microsoft.Win32.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Win32.Primitives.4.3.0\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
     </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="Npgsql">
       <HintPath>..\..\..\..\c_sharp_libraries\Npgsql2.0.1-bin-ms.net3.5sp1\bin\Npgsql.dll</HintPath>
     </Reference>
@@ -752,6 +755,7 @@
     <Compile Include="CFL_Data\Planings\ZoneInfo.cs" />
     <Compile Include="CFL_Data\Planings\ZoneAction.cs" />
     <Compile Include="CFL_Data\Vehicule.cs" />
+    <Compile Include="CFL_System\MSTD\PropertyHelper.cs" />
     <Compile Include="CFL_System\MSTD\ShBase\ProxyHelper.cs" />
     <Compile Include="CFL_System\MSTD\ShBase\Base.cs" />
     <Compile Include="CFL_System\Compil and script\CodeCompiler.cs" />
@@ -764,7 +768,7 @@
     <Compile Include="CFL_System\DB\CFLDBConnection.cs" />
     <Compile Include="CFL_System\DB\DBContext_CFL.cs" />
     <Compile Include="CFL_System\MSTD\ShBase\BaseHelper.cs" />
-    <Compile Include="CFL_System\MSTD\BaseToJSON.cs" />
+    <Compile Include="CFL_System\MSTD\BaseProxyToJSON.cs" />
     <Compile Include="CFL_System\MSTD\DataDisplay.cs" />
     <Compile Include="CFL_System\MSTD\DoubleHelper.cs" />
     <Compile Include="CFL_System\MSTD\MemberPath.cs" />
@@ -776,6 +780,7 @@
     <Compile Include="CFL_System\MSTD\ShBase\Set.cs" />
     <Compile Include="CFL_System\MSTD\ShBase\ShContext.cs" />
     <Compile Include="CFL_System\MSTD\ShBase\PropertyProxy.cs" />
+    <Compile Include="CFL_System\MSTD\TypeHelper.cs" />
     <Compile Include="CFL_System\RuntimeExec\REAdd.cs" />
     <Compile Include="CFL_System\RuntimeExec\REAnd.cs" />
     <Compile Include="CFL_System\RuntimeExec\REAssign.cs" />
@@ -823,6 +828,7 @@
     <Compile Include="CFL_System\SqlOrm\SqlCSharp.cs" />
     <Compile Include="CFL_System\SqlOrm\Query.cs" />
     <Compile Include="CFL_System\SqlOrm\DBSelect.cs" />
+    <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="Resource1.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>

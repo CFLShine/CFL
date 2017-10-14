@@ -171,7 +171,6 @@ namespace CFL_1.CFL_System.SqlServerOrm
         }
 
         public string Notification
-        //{ get; private set; }
         {
             get
             {

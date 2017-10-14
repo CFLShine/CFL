@@ -1081,7 +1081,9 @@ namespace CFL_1.CFLGraphics.PM_grid
 
         double __defaultRowHeight;
         
+#pragma warning disable CS0169 // Le champ 'PM_Grid.__selectionMode' n'est jamais utilisé
         PM_GridSelectionModeType __selectionMode;
+#pragma warning restore CS0169 // Le champ 'PM_Grid.__selectionMode' n'est jamais utilisé
         PM_GridScrollBars __scrollBars;
 
         #endregion

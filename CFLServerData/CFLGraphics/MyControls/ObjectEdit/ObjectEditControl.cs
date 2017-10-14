@@ -5,6 +5,7 @@ using System.Reflection;
 using System.Windows.Controls;
 using System.Windows.Media;
 using BoxLayouts;
+using CFL_1.CFL_System.MSTD;
 using MSTD;
 using MSTD.ShBase;
 using RuntimeExec;
@@ -239,7 +240,7 @@ namespace ObjectEdit
 
         private string GetLabel(PropertyInfo prInfo)
         {
-            return BaseHelper.GetNameToDisplay(prInfo);
+            return PropertyHelper.GetNameToDisplay(prInfo);
         }
 
         private bool IsElligible(PropertyInfo prInfo)

@@ -1,6 +1,7 @@
 ﻿
 using System.Collections.Generic;
 using System.Reflection;
+using MSTD;
 using MSTD.ShBase;
 
 namespace SqlOrm
@@ -87,8 +88,8 @@ namespace SqlOrm
                     Include(_prInfo.Name);
                 else
                 if(_sqlType == SqlType.LIST 
-                    && BaseHelper.IsMappableProperty(_prInfo)
-                    && BaseHelper.IsListOf(_prInfo.PropertyType, typeof(Base)))
+                    && PropertyHelper.IsMappableProperty(_prInfo)
+                    && TypeHelper.IsListOf(_prInfo.PropertyType, typeof(Base)))
                         Include(_prInfo.Name);
             }
         }

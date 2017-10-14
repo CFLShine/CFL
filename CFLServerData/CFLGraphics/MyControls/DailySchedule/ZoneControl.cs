@@ -7,7 +7,7 @@ namespace DailySchedule
 {
     public class ZoneControl : HBoxLayout
     {
-        public void Clear()
+        public new void Clear()
         {
 
         }

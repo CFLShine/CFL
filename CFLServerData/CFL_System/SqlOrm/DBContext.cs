@@ -3,6 +3,8 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
+using CFL_1.CFL_System.MSTD;
+using MSTD;
 using MSTD.ShBase;
 
 namespace SqlOrm
@@ -176,7 +178,7 @@ namespace SqlOrm
 
                     foreach(PropertyInfo _pr in _entityType.GetProperties())
                     {
-                        if(BaseHelper.IsMappableProperty(_pr) && _pr.Name.Contains("_"))
+                        if(PropertyHelper.IsMappableProperty(_pr) && _pr.Name.Contains("_"))
                             throw new Exception("Le symbol '_' est présent dans le nom de la propriété " + _pr.Name + " de la classe " + _entityType.Name +
                                                 " ce qui est interdit pour une propriété représentée dans la db.");
                     }
@@ -240,14 +242,14 @@ namespace SqlOrm
         {
             foreach(PropertyInfo _prInfo in _proxy.Properties)
             {
-                if(BaseHelper.IsMappableProperty(_prInfo) && _prInfo.PropertyType.IsSubclassOf(typeof(Base)))
+                if(PropertyHelper.IsMappableProperty(_prInfo) && _prInfo.PropertyType.IsSubclassOf(typeof(Base)))
                 {
                     Base _classMember = (Base)_prInfo.GetValue(_proxy.Entity);
                     if(_classMember != null)
                         Attach(GetProxy(_classMember));
                 }
                 else
-                if(BaseHelper.IsMappableProperty(_prInfo) && BaseHelper.IsListOf(_prInfo.PropertyType, typeof(Base)))
+                if(PropertyHelper.IsMappableProperty(_prInfo) && TypeHelper.IsListOf(_prInfo.PropertyType, typeof(Base)))
                 {
                     IList _list = _prInfo.GetValue(_proxy.Entity) as IList;
                     foreach(object _entity in _list)

@@ -3,7 +3,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Reflection;
-using MSTD.ShBase;
 
 namespace MSTD
 {
@@ -147,7 +146,7 @@ namespace MSTD
 
             foreach(string _name in Names)
             {
-                PropertyInfo _prInfo = BaseHelper.Property(_current, _name);
+                PropertyInfo _prInfo = PropertyHelper.Property(_current, _name);
                 if(_prInfo == null)
                 {
                     throw new Exception("La propriété " + _name + " du chemin " + ExpressionString +" est introuvable dans le type " + _current.Name);

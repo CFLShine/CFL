@@ -398,7 +398,9 @@ namespace MyControls.Editor
         private ctrl_userCommunication __ctrl_userCommunication;
 
         private Hilighter __hilighter;
+#pragma warning disable CS0169 // Le champ 'ctrl_codeEditor.__hiLightTask' n'est jamais utilisé
         private Task __hiLightTask;
+#pragma warning restore CS0169 // Le champ 'ctrl_codeEditor.__hiLightTask' n'est jamais utilisé
     }
 
     

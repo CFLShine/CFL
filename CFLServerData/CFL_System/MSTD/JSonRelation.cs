@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Runtime.Serialization.Json;
 using System.Text;
@@ -16,12 +17,17 @@ namespace MSTD
         /// ou des membres collections d'objet de classe.
         /// Ce sont alors ces types de classe à passer dans _knownTypes.
         /// </summary>
-        public static string serialize(T _object, Type[] _knownTypes = null)
+        public static string serialize(T _object, params Type[] knownTypes)
         {
-            
-            DataContractJsonSerializer _serializer = new DataContractJsonSerializer(typeof(T));
+            List<Type> _knownTypes = new List<Type>();
+            foreach(Type _t in knownTypes)
+            {
+                _knownTypes.Add(_t);
+            }
+            DataContractJsonSerializer _serializer = new DataContractJsonSerializer(typeof(T), _knownTypes);
             MemoryStream _ms = new MemoryStream();
-
+            
+            
             _serializer.WriteObject(_ms, _object);
             byte[] _json = _ms.ToArray();
             _ms.Close();
@@ -34,9 +40,15 @@ namespace MSTD
         /// ou des membres collections d'objet de classe.
         /// Ce sont alors ces types de classe à passer dans _knownTypes
         /// </summary>
-        public static T deserialize(string _s, Type[] _knownTypes = null)
+        public static T deserialize(string _s, Type[] knownTypes = null)
         {
-            T _object = new T();
+            List<Type> _knownTypes = new List<Type>();
+            foreach(Type _t in knownTypes)
+            {
+                _knownTypes.Add(_t);
+            }
+
+            T _object = default(T);
             MemoryStream _ms = new MemoryStream(Encoding.UTF8.GetBytes(_s));
             DataContractJsonSerializer _serializer = new DataContractJsonSerializer(typeof(T));
             _object = (T)_serializer.ReadObject(_ms);

@@ -12,6 +12,10 @@ using CFL_1.CFL_Data.Communes;
 using CFL_1.CFL_System;
 using BoxLayouts;
 using MSTD.ShBase;
+using System.Reflection;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Converters;
+using CFL_1.CFL_System.MSTD;
 
 namespace CFL_1.CFLGraphics
 {
@@ -90,10 +94,13 @@ namespace CFL_1.CFLGraphics
             DEUX
         }
 
+        [JsonConverter(typeof(StringEnumConverter))]
+        MyEnum myEnum = MyEnum.DEUX;
+
         private void buttonB_Click(object sender, RoutedEventArgs e)
         {
-            MyEnum _myEnum = MyEnum.UN;
-            Type _t = _myEnum.GetType();
+            ClassProxy _proxy = new ClassProxy(typeof(Defunt));
+            string _json = BaseProxyToJson.ProduceJSon(_proxy);
         }
 
         void init()

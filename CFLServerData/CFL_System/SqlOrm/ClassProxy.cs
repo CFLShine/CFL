@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
+using MSTD;
 using MSTD.ShBase;
 
 namespace SqlOrm
@@ -114,7 +115,7 @@ namespace SqlOrm
             MemberId = Guid.Empty;
 
             string[] _elements = _columnName.Split('_');
-            Property = BaseHelper.Property(ClassProxy.Entity.GetType(), _elements[2]);
+            Property = PropertyHelper.Property(ClassProxy.Entity.GetType(), _elements[2]);
 
             DBSet = Context.GetDBSet(Property.PropertyType);
 
@@ -192,7 +193,7 @@ namespace SqlOrm
             Property = null;
 
             string[] _elements = _columnName.Split('_');
-            Property = BaseHelper.Property(ClassProxy.Entity.GetType(), _elements[2]);
+            Property = PropertyHelper.Property(ClassProxy.Entity.GetType(), _elements[2]);
             InitList((string)_row.GetValue(_columnName));
         }
 
@@ -343,9 +344,9 @@ namespace SqlOrm
 
             foreach(PropertyInfo _pr in EntityType.GetProperties())
             {
-                if(BaseHelper.IsMappableProperty(_pr))
+                if(PropertyHelper.IsMappableProperty(_pr))
                 {
-                    if(BaseHelper.IsListOf(_pr.PropertyType, typeof(Base)))
+                    if(TypeHelper.IsListOf(_pr.PropertyType, typeof(Base)))
                     {
                         List<object> _listProxy = new List<object>();
                         IList _list = _pr.GetValue(Entity) as IList;
@@ -408,7 +409,7 @@ namespace SqlOrm
         {
             Type _t = _prInfo.PropertyType;
 
-            if(BaseHelper.IsGenericList(_t))
+            if(TypeHelper.IsGenericList(_t))
             {
                 IEnumerable _entityEnumerable = (IEnumerable)_prInfo.GetValue(__entity);
                 IEnumerable _proxyEnumerable = (IEnumerable)__propertiesValues.GetValue(_prInfo);

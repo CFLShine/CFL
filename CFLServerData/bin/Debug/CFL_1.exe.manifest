@@ -132,14 +132,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CFL_1.exe" size="312744">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CFL_1.exe" size="318888">
       <assemblyIdentity name="CFL_1" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1CKw+SsaS6Psys1GRBYTNbidWJQqCjWGaC5H3mI8+kE=</dsig:DigestValue>
+        <dsig:DigestValue>5TGOJ4z4FwPI085XHbCXzB2yl5baSZ6H7WaL2wjGBIQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -192,530 +192,530 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="cs\Microsoft.Build.resources.dll" size="95464">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="cs\Microsoft.Build.resources.dll" size="95440">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="cs" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4xp/399kjI/niLBlQx1hIfbXjqX28HD2+wormsc/5qk=</dsig:DigestValue>
+        <dsig:DigestValue>96HjIZ7Ou19/PNWhBQHu9JAQplFqO4Lot+bTfVEjARE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Microsoft.Build.resources.dll" size="100232">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Microsoft.Build.resources.dll" size="100208">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="de" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YP24j4AsDncg9wL410M4ntdPIeYN8mDia38PHxKfoiA=</dsig:DigestValue>
+        <dsig:DigestValue>esu1hJNju7Ctv7fn3yrcWVT54yaH9Vyuyj3GmhnpYNo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\Microsoft.Build.resources.dll" size="92552">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\Microsoft.Build.resources.dll" size="92528">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="en" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>7WfoYhPzFzMDLbt0yIRQuIJb01NHtbBkXjXOzWinlVU=</dsig:DigestValue>
+        <dsig:DigestValue>ts+ET0wRgoGdUampzC61NMai81Vs/0oiKP6hcLm9zlo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.Build.resources.dll" size="98184">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.Build.resources.dll" size="98160">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="es" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>g6DNnHRUncYkx2LYA6p2gMdV/4XxEqVPN9/0CHSnXBo=</dsig:DigestValue>
+        <dsig:DigestValue>jKFEltRklLbdcc4oXxm+/lrqm1v9xSl4yPIdcALXe+E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\Microsoft.Build.resources.dll" size="99208">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\Microsoft.Build.resources.dll" size="99184">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="fr" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>J+Ny6Ja/IWlide2DpbuKEXcWhTma6WieO0xXz+plhZM=</dsig:DigestValue>
+        <dsig:DigestValue>lUMk4YjznfkeXSCXl9FQ/9ia5oXe6+M4bu0zleX7+Qs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="it\Microsoft.Build.resources.dll" size="99208">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="it\Microsoft.Build.resources.dll" size="99184">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="it" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>lCxvBX7dLXiScjzC69KvQa4k3Sib00vLeQQXn91xGkc=</dsig:DigestValue>
+        <dsig:DigestValue>J70TFJuXMtWVm037rBzeembIfewIIgXyH8L5G8wUkE0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ja\Microsoft.Build.resources.dll" size="109448">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ja\Microsoft.Build.resources.dll" size="109424">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="ja" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/fWtnQRxSDneGjINr8NX0Efie+UxA/W2TUPh2G2fSDY=</dsig:DigestValue>
+        <dsig:DigestValue>QiDhh75BCPP0V3A1srSBTXsKOHqtgjxPJNma2dZgbhY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ko\Microsoft.Build.resources.dll" size="100232">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ko\Microsoft.Build.resources.dll" size="100208">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="ko" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>qRHwzJ45CK0TC9Hn55Ka/4y9FNTNuxTOWw5cCwV7F2A=</dsig:DigestValue>
+        <dsig:DigestValue>+r2PczZcsK91KF80KejWEUzk2mEs27AVIbKj9VspGds=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pl\Microsoft.Build.resources.dll" size="101256">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pl\Microsoft.Build.resources.dll" size="101232">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="pl" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Z6gsJXSjxHCCLVlPwZRkBIMeXnbv8LicKa2MVBhHD2A=</dsig:DigestValue>
+        <dsig:DigestValue>YzPktV32MtDD5wdAfageTLIE01WHQWihmNL4whGWSe8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-BR\Microsoft.Build.resources.dll" size="96648">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-BR\Microsoft.Build.resources.dll" size="96624">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="pt-BR" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>VICjcVcmEUxWNVl0FzevtWJYXeZLdBd2nHl5ZVzjFe8=</dsig:DigestValue>
+        <dsig:DigestValue>/o2nqlKcIDRV1y0CT2mO6/9dyg5kcx3Rrtx95lwPx/o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru\Microsoft.Build.resources.dll" size="121736">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru\Microsoft.Build.resources.dll" size="121712">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="ru" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/NXzysFIlPaaG1oORJUhgxYyqwo0/d7Wed7SbL2ntFE=</dsig:DigestValue>
+        <dsig:DigestValue>FCay9G7sObWWovO6XjzRXj+tPk7EBE2xqDdFsUMubkA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr\Microsoft.Build.resources.dll" size="96136">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr\Microsoft.Build.resources.dll" size="96112">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="tr" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ubFJ1TXiPKAOhlb7jM1o7H8uLv7cypGPseoLTRq+GbU=</dsig:DigestValue>
+        <dsig:DigestValue>z6XrcEsNYQTr83vm4EXJagDpwv724g9zn7gbSoXpFcA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hans\Microsoft.Build.resources.dll" size="88968">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hans\Microsoft.Build.resources.dll" size="88944">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="zh-Hans" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jq9CA6JKbPPFlqxC7x9TICZhU3p+vvg8sdXGL3X4qzw=</dsig:DigestValue>
+        <dsig:DigestValue>7lnkSj8Pdomgl7zVIDI3FJ081+2wc35yc9u0iNRt+sk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hant\Microsoft.Build.resources.dll" size="87944">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hant\Microsoft.Build.resources.dll" size="87920">
       <assemblyIdentity name="Microsoft.Build.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="zh-Hant" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>nOP66ddgEN43buIlkHawNKc0Yv8GfuI12CPDHzekg3M=</dsig:DigestValue>
+        <dsig:DigestValue>4wbzj7GU4aCTItky3+AUsgqblIprxf4LepeiZ0BiI5Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Build.Tasks.Core.dll" size="1241832">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Build.Tasks.Core.dll" size="1242320">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>aBaGDelv9Vf3chihdnPGx2qUiArY0aYGmQZsSdZYzK4=</dsig:DigestValue>
+        <dsig:DigestValue>uzXgM6UsxaUI+cbmotTuWhVk0emSepjftrFKxmgAPwU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="cs\Microsoft.Build.Tasks.Core.resources.dll" size="152336">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="cs\Microsoft.Build.Tasks.Core.resources.dll" size="152312">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="cs" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>euKCDJC/AgSvntrSlGJ2ivPuug8OyxLXLDKf9fqkTDc=</dsig:DigestValue>
+        <dsig:DigestValue>9jlDW5kSjwWVoje+U5n5uP5phz6InV1kPfVwjlmvJ7w=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Microsoft.Build.Tasks.Core.resources.dll" size="157616">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Microsoft.Build.Tasks.Core.resources.dll" size="157592">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="de" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mLWsUT8sgLAKDNTfTM9DBqV0kC9CpiXVpylZpJnaFg0=</dsig:DigestValue>
+        <dsig:DigestValue>ldDD5blG2ixWJrm0TZij5rcXF0rhTNcOtKRzqmh2VKQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\Microsoft.Build.Tasks.Core.resources.dll" size="144816">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\Microsoft.Build.Tasks.Core.resources.dll" size="143904">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="en" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>0GEWH9yuCScNzIJW7LBr03hd0bxXX6jtaH8QMps2JUM=</dsig:DigestValue>
+        <dsig:DigestValue>o8Xi70+GjGxCXT8A5zpABg/zAXg2/Pd1+h0oeFh0dS8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.Build.Tasks.Core.resources.dll" size="154032">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.Build.Tasks.Core.resources.dll" size="154016">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="es" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fMzcII1lJNiwgaqy4iv4l3Fs8f+BvjdoTwkWz5nb3YE=</dsig:DigestValue>
+        <dsig:DigestValue>LQWdy/6qSvdn8fM0PXFhVyJM+q71e1rbjv+RnzIhwGY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\Microsoft.Build.Tasks.Core.resources.dll" size="157616">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\Microsoft.Build.Tasks.Core.resources.dll" size="157600">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="fr" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>e0USOC1ZsNAE01FJt0dMR05adz3syKVnNTU72SmSll8=</dsig:DigestValue>
+        <dsig:DigestValue>lRoZ0FrsWmH+pQ4NPtejKjBKAEdpYul0JSKoF5uW+M0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="it\Microsoft.Build.Tasks.Core.resources.dll" size="155568">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="it\Microsoft.Build.Tasks.Core.resources.dll" size="155552">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="it" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>haijwuEAYw1jQ6C+zfsE4TEWWpEnsiU2jWDk7nYhMJs=</dsig:DigestValue>
+        <dsig:DigestValue>etU4DND8Tj9sVGN66LPeONLZeBpneHeQICHXr+CZ8tk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ja\Microsoft.Build.Tasks.Core.resources.dll" size="172976">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ja\Microsoft.Build.Tasks.Core.resources.dll" size="172952">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="ja" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>dnChribp0Z77uX0Irf6kl7BHAsL8Iw4CQNeZtx9K28w=</dsig:DigestValue>
+        <dsig:DigestValue>PgDIujHnLixsxzZPGhS0UCk08/ZGwFcg+VfS3fPXb94=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ko\Microsoft.Build.Tasks.Core.resources.dll" size="160176">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ko\Microsoft.Build.Tasks.Core.resources.dll" size="160160">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="ko" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2CWyopmxVLxvxbG1l5LtnuJHtU+ScPC25h1j29AiI9I=</dsig:DigestValue>
+        <dsig:DigestValue>FTGwSClf2xy/Qwe/oUAHO24qfw2CRtk6XfHiw4Rgebg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pl\Microsoft.Build.Tasks.Core.resources.dll" size="158128">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pl\Microsoft.Build.Tasks.Core.resources.dll" size="158112">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="pl" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JkY81sws6ZjFfq5Gc7nNikrdRxEshblVKblQqA78nxE=</dsig:DigestValue>
+        <dsig:DigestValue>s9WaPOEn7CdasxORT7R3nN7K5KfXSlyWckExuBU9eRg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-BR\Microsoft.Build.Tasks.Core.resources.dll" size="153008">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-BR\Microsoft.Build.Tasks.Core.resources.dll" size="152992">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="pt-BR" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>kqmTT0E35ITPXjeLs+N6frHhi1Ic9IfLFlwW4HUsMvY=</dsig:DigestValue>
+        <dsig:DigestValue>74Q4mlIn36tz+G6/FYJawl/JhdnoW+RJY23NstWacO8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru\Microsoft.Build.Tasks.Core.resources.dll" size="193968">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru\Microsoft.Build.Tasks.Core.resources.dll" size="193952">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="ru" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BW4BpUZdVEe8ViRbVd0bmkuh91tF5znJFOOjJOAq36A=</dsig:DigestValue>
+        <dsig:DigestValue>+XpvBnvDv5v3A360hdGm9oM8S0kDyoRMi6faR2YbAlY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr\Microsoft.Build.Tasks.Core.resources.dll" size="151472">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr\Microsoft.Build.Tasks.Core.resources.dll" size="151456">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="tr" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mmoPPMsnUDMX4bX8TsUj7Jm5VjH5tFMFBLcybiPha3w=</dsig:DigestValue>
+        <dsig:DigestValue>dVgTPtEjlHKqiDYhfrx5d0UIc+wGBvQBY4ML/2MfBx4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hans\Microsoft.Build.Tasks.Core.resources.dll" size="140720">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hans\Microsoft.Build.Tasks.Core.resources.dll" size="140696">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="zh-Hans" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OsH459dLZn6MM30AcHm9QG5WaR8zFJsohbiV0iKwYmM=</dsig:DigestValue>
+        <dsig:DigestValue>vEF2lcb6HOSYvns6e0Ubb/xTkR9ZKc5vkhlXME093VQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hant\Microsoft.Build.Tasks.Core.resources.dll" size="138672">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hant\Microsoft.Build.Tasks.Core.resources.dll" size="137760">
       <assemblyIdentity name="Microsoft.Build.Tasks.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="zh-Hant" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DUaXBVKAK5+iuc3zCYc/YzDbmzK0jJfSKZri5VIFqnU=</dsig:DigestValue>
+        <dsig:DigestValue>RW/GdXFGWswag+sTnVmV4ipVsLBswnW5D/0gkrKQcUk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Build.Utilities.Core.dll" size="364792">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.Build.Utilities.Core.dll" size="365288">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>aUFTya0a8casYfru28OFhdKFQbwMRJSMLDsOH6r1KIw=</dsig:DigestValue>
+        <dsig:DigestValue>abloT/g1eqD3jakA/DpFGJaMjCKj6qC8fcLaWxyqP9Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="cs\Microsoft.Build.Utilities.Core.resources.dll" size="39208">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="cs\Microsoft.Build.Utilities.Core.resources.dll" size="39184">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="cs" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ozj+xpFeDw0BgrgSs5ImzEd8tlmCiLNHlA+xb+jETZw=</dsig:DigestValue>
+        <dsig:DigestValue>5NiHajK6u8nX9VZu7e0P7sJIUggxggX04wbEHkM9Jd0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Microsoft.Build.Utilities.Core.resources.dll" size="39872">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Microsoft.Build.Utilities.Core.resources.dll" size="38960">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="de" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XxXDiJNd2ieGh+I6RSpaBWeUux7UnpM7VIyExJjHIRM=</dsig:DigestValue>
+        <dsig:DigestValue>1xf20vp+92HRX7mmt42zZUE8asdLi5oTiiTvYPDMhYg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\Microsoft.Build.Utilities.Core.resources.dll" size="38336">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="en\Microsoft.Build.Utilities.Core.resources.dll" size="38320">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="en" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>m7k+IqTWFNwV+nEiH9W8Y6TEGG1r4RHJevH9PnMax38=</dsig:DigestValue>
+        <dsig:DigestValue>oTWkuMV8y70koBr+Vpw9LWs/LmrdX9LWqYfbAqFLoZk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.Build.Utilities.Core.resources.dll" size="39872">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Microsoft.Build.Utilities.Core.resources.dll" size="39848">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="es" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>CluUuD8HhLV5lfzLlnbF24BBngkGNnjoTgj5y+vOVRE=</dsig:DigestValue>
+        <dsig:DigestValue>7YA5fz3/EWo6DY33mC44+ZSdlVMVgo1bkn36g3mBeDg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\Microsoft.Build.Utilities.Core.resources.dll" size="40384">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\Microsoft.Build.Utilities.Core.resources.dll" size="40368">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="fr" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>78mKLOhqhkD3N+mzLDEo2sOefqRYy5ghXDczeJ8RISE=</dsig:DigestValue>
+        <dsig:DigestValue>Sm2wwbQJyKWTNxEMp8MRu4cZZrIcoXnvUIgdsdlNMXo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="it\Microsoft.Build.Utilities.Core.resources.dll" size="39872">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="it\Microsoft.Build.Utilities.Core.resources.dll" size="39848">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="it" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>TyaVUUoGzkmgtLSr2Ls2c3PScut5V9g6D6t01Z4pVT0=</dsig:DigestValue>
+        <dsig:DigestValue>PgSDXJFY/aHvViOMKi3TjSpUGi5y/oUPqDAm7q0FGOs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ja\Microsoft.Build.Utilities.Core.resources.dll" size="42432">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ja\Microsoft.Build.Utilities.Core.resources.dll" size="42408">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="ja" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eOFh87G9XuFxNdyA3craH2jyuC1eQgo/BrsDzshk/C4=</dsig:DigestValue>
+        <dsig:DigestValue>FmtReo4T+7UjDdtHcP+qufV6LrEASZeH8VzxoYOMMhg=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ko\Microsoft.Build.Utilities.Core.resources.dll" size="40384">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ko\Microsoft.Build.Utilities.Core.resources.dll" size="40368">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="ko" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZlLiaoCUusGEErX6MusRVESUxgjMJaSe+5W2LQ0V6u8=</dsig:DigestValue>
+        <dsig:DigestValue>CYqDdPIK7rlqKsNfppcZhpirv+lnDSy9UEwrS8JEAFY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pl\Microsoft.Build.Utilities.Core.resources.dll" size="40384">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pl\Microsoft.Build.Utilities.Core.resources.dll" size="40368">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="pl" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1yd4hQwhiYVUN6Oh67u5yWGUw/Sm1rbysJs1KokgrUQ=</dsig:DigestValue>
+        <dsig:DigestValue>bBJRCEscQg/ejlrwYCAOReyjsGRy/rgrgf/DXtFc0Gk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-BR\Microsoft.Build.Utilities.Core.resources.dll" size="39360">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="pt-BR\Microsoft.Build.Utilities.Core.resources.dll" size="39344">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="pt-BR" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>gJEAfzLRWLqn9KW1r8VABw1kpi7yvh0eY80EWY1qQF8=</dsig:DigestValue>
+        <dsig:DigestValue>rwT2Z0wIXdMFFCqZQR0ijIIvdGfaeRd/SbYvnpczyvo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru\Microsoft.Build.Utilities.Core.resources.dll" size="45504">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ru\Microsoft.Build.Utilities.Core.resources.dll" size="45488">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="ru" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ss4N6KGKUQlHYOhxBXKp2Fe42IUwvTNHMoCA8wcwnO0=</dsig:DigestValue>
+        <dsig:DigestValue>hmQQAuU61qwruuRE10d1Hr8f5LcYlm6tUk9J2Vzjuqc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr\Microsoft.Build.Utilities.Core.resources.dll" size="39360">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr\Microsoft.Build.Utilities.Core.resources.dll" size="39344">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="tr" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>/VgyekuB3lyUwmKjAmr18MscUCPW/kYKtktd35sNFlM=</dsig:DigestValue>
+        <dsig:DigestValue>FztPC+/6usL8rkWT3/RS2dkowiq9pfCEdfMZ4qrfdFE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hans\Microsoft.Build.Utilities.Core.resources.dll" size="37312">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hans\Microsoft.Build.Utilities.Core.resources.dll" size="37288">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="zh-Hans" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>grJd4Iqpn9zWoIrGT8mblJupm0M3+S2o41PenTFnO8Q=</dsig:DigestValue>
+        <dsig:DigestValue>03wCjMR1x3nxQSnKqgC6ywZkNLq73bBgFmoxxNehWak=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hant\Microsoft.Build.Utilities.Core.resources.dll" size="37312">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="zh-Hant\Microsoft.Build.Utilities.Core.resources.dll" size="37288">
       <assemblyIdentity name="Microsoft.Build.Utilities.Core.resources" version="15.1.0.0" publicKeyToken="B03F5F7F11D50A3A" language="zh-Hant" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>J/mPFV8zguHXsHKgOBcrNJX1gDyLkyN4l2TtbYxQ2WI=</dsig:DigestValue>
+        <dsig:DigestValue>3oBAns54ERitlxGTzVGtPCpDeVKofAmqOQ0/xaKZhuo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1044,50 +1044,50 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualStudio.ImageCatalog.dll" size="8938928">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualStudio.ImageCatalog.dll" size="8938744">
       <assemblyIdentity name="Microsoft.VisualStudio.ImageCatalog" version="15.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>XIvvvVgfN146CdUryix92LVEm3l/ddoTUbdV910x/Jw=</dsig:DigestValue>
+        <dsig:DigestValue>aIdb6mKt4W9M3IlQ0KUXxJAGr8s96Z/jwNU6No7yNsk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualStudio.Imaging.dll" size="248576">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualStudio.Imaging.dll" size="248552">
       <assemblyIdentity name="Microsoft.VisualStudio.Imaging" version="15.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>2mYjf0o8A/bDpwJbAhgQS47GztIkqXSSQ72rhv4Lan4=</dsig:DigestValue>
+        <dsig:DigestValue>CM+D3Tl5UobO5YPJrv33MDXbg7Oopa6H0HcTz5IrsBQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualStudio.Language.Intellisense.dll" size="113464">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualStudio.Language.Intellisense.dll" size="108832">
       <assemblyIdentity name="Microsoft.VisualStudio.Language.Intellisense" version="15.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>DLfWxyFu7eXJWaEP4IY8DuxdcY1n1pYudS4cfdjEwvs=</dsig:DigestValue>
+        <dsig:DigestValue>afZucAI0Jyvc070w0o+PFBQznGxhPIp9+nf7AbEsGyk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll" size="48992">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll" size="48968">
       <assemblyIdentity name="Microsoft.VisualStudio.Language.NavigateTo.Interfaces" version="15.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1528wwlPQpeE681AF9/qiSxaSr88zeW5aBGVMGEqwmQ=</dsig:DigestValue>
+        <dsig:DigestValue>nTYmKbdPN1f4YXxpoUf/U0UQmMJ8Uu5pBRbtgw9uHJI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1099,19 +1099,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>T9dXOrENbXUznJvLhpjKOG+RB6GBendq2J5COjhAq20=</dsig:DigestValue>
+        <dsig:DigestValue>uKUIyP8qAn6LbYY/WMODUrG2ms6LLWVr95la1IISQ4k=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualStudio.Utilities.dll" size="422664">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Microsoft.VisualStudio.Utilities.dll" size="422120">
       <assemblyIdentity name="Microsoft.VisualStudio.Utilities" version="15.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>q665ZWMox+Ds+l4wKNDdsQTjF1do7r0vlaD0doC70OQ=</dsig:DigestValue>
+        <dsig:DigestValue>lvXE5fGHvBrpiZpJUE/od9iueJpPznz9UmD9Bq2dtfM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1136,6 +1136,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>4oHQTTURi386JAYBQzPgWBt06kti9PI4itOtizIiPIM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="653824">
+      <assemblyIdentity name="Newtonsoft.Json" version="10.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>lz/XDOSOWsQzoQG0KHFoDFHi/roq7sPUAN6kEVrzong=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1988,78 +2000,6 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>aBW9h0CTS6UEKV1KyqvIlrt+17QN68ZA6oEmj7mUtKs=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="de\Telerik.Windows.Controls.resources.dll" size="364544">
-      <assemblyIdentity name="Telerik.Windows.Controls.resources" version="2017.2.503.45" publicKeyToken="5803CFA389C90CE7" language="de" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GYrnhK2Ol2MnViECaLKvmiHsl+21saFUQSus43GhLfo=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="es\Telerik.Windows.Controls.resources.dll" size="363520">
-      <assemblyIdentity name="Telerik.Windows.Controls.resources" version="2017.2.503.45" publicKeyToken="5803CFA389C90CE7" language="es" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fhi0phrVaRS51OHwMQzF3g13jcrqFdLXM1P/GuCoVZw=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="fr\Telerik.Windows.Controls.resources.dll" size="363520">
-      <assemblyIdentity name="Telerik.Windows.Controls.resources" version="2017.2.503.45" publicKeyToken="5803CFA389C90CE7" language="fr" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>49hhlDO5sLMJzpLjaNQG5B8prNBXtMlziyfWLE0riL8=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="it\Telerik.Windows.Controls.resources.dll" size="360448">
-      <assemblyIdentity name="Telerik.Windows.Controls.resources" version="2017.2.503.45" publicKeyToken="5803CFA389C90CE7" language="it" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Gu/uMjcUNksCRHuuFoxzt7YCBWd/ZQCno99PkYYefYs=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="nl\Telerik.Windows.Controls.resources.dll" size="358912">
-      <assemblyIdentity name="Telerik.Windows.Controls.resources" version="2017.2.503.45" publicKeyToken="5803CFA389C90CE7" language="nl" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>RJ9L0FwacMl2uavSnvL9ktvKGTK9Qu5oc0TOsQk7V88=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="tr\Telerik.Windows.Controls.resources.dll" size="362496">
-      <assemblyIdentity name="Telerik.Windows.Controls.resources" version="2017.2.503.45" publicKeyToken="5803CFA389C90CE7" language="tr" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bxnfqpseLs/ko5JEihSHxJ/jqoXTlhh+0RnA77MRTUU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -1,11 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Runtime.Serialization;
-using System.Runtime.Serialization.Json;
 
 namespace MSTD.ShBase
 {
-    [DataContract]
     public class ClassProxy
     {
         #region Constructors
@@ -20,22 +17,19 @@ namespace MSTD.ShBase
 
         public ClassProxy(Base _object)
         {
-            Object = _object ??throw new ArgumentNullException("_object");
-
             ClassProxy _proxy = this;
             ProxyHelper.ClassProxyFactory(ref _proxy, _object.GetType());
+            Entity = _object ??throw new ArgumentNullException("_object");
         }
 
         #endregion Constructors
 
-        public Base Object { get; private set; }
+        public Base Entity { get; private set; }
 
         public ShContext Context{ get; set; }
 
-        [DataMember]
         public Guid ID{ get; set; } = Guid.Empty;
 
-        [DataMember]
         /// <summary>
         /// Le nom du type de la classe sur laquelle ce <see cref="ClassProxy"/> est construit.
         /// </summary>
@@ -45,12 +39,11 @@ namespace MSTD.ShBase
             set;
         }
 
-        [DataMember]
-        public List<PropertyProxy> Members
+        public Dictionary<string, PropertyProxy> Properties
         {
             get;
             set;
-        } = new List<PropertyProxy>();
+        } = new Dictionary<string, PropertyProxy>();
 
         public void UpdateProxyValues()
         {
@@ -69,8 +62,8 @@ namespace MSTD.ShBase
         public void Clear()
         {
             ID = Guid.Empty;
-            if(Members != null)
-                Members.Clear();
+            if(Properties != null)
+                Properties.Clear();
         }
 
     }

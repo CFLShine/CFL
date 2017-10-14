@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Reflection;
 using MSTD;
 using MSTD.ShBase;
-using Npgsql;
 
 namespace SqlOrm
 {
@@ -44,7 +43,7 @@ namespace SqlOrm
         public X LoadMother<X>() where X : Base, new()
         {
             T _child = First();
-            string _memberName = BaseHelper.Property(typeof(T), typeof(X)).Name.ToLower();
+            string _memberName = PropertyHelper.Property(typeof(T), typeof(X)).Name.ToLower();
             string _fieldName = 
                 "class_" + typeof(T).Name.ToLower() + "_" + _memberName;
             DBSelect<X> _select = new DBSelect<X>(DbContext);
@@ -216,7 +215,7 @@ namespace SqlOrm
             for (int _i = 0; _i < _row.Count; _i++)
             {
                 string _fieldName = _row.GetFieldName(_i);
-                PropertyInfo _propertyInfo = BaseHelper.Property(_proxy.Entity.GetType(), _fieldName);
+                PropertyInfo _propertyInfo = PropertyHelper.Property(_proxy.Entity.GetType(), _fieldName);
                 if(_propertyInfo != null)
                 {
                     object _value = _row.GetValue(_i);

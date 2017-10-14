@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Globalization;
 using System.Reflection;
+using CFL_1.CFL_System.MSTD;
 using MSTD;
 using MSTD.ShBase;
 
@@ -55,7 +56,7 @@ namespace SqlOrm
                 return SqlType.TIME;
             if(_t.IsEnum)
                 return SqlType.ENUM;
-            if(BaseHelper.IsGenericList(_t))
+            if(TypeHelper.IsGenericList(_t))
                 return SqlType.LIST;
             if(_t.IsSubclassOf(typeof(Base)))
                 return SqlType.CLASS;
@@ -112,7 +113,7 @@ namespace SqlOrm
         /// </summary>
         public static string ColumnName(PropertyInfo _prInfo)
         {
-            if(!BaseHelper.IsMappableProperty(_prInfo))
+            if(!PropertyHelper.IsMappableProperty(_prInfo))
                 return "";
 
             switch (GetSqlType(_prInfo.PropertyType))
@@ -129,7 +130,7 @@ namespace SqlOrm
                     return ("enum_" + _prInfo.PropertyType.Name + "_" + _prInfo.Name).ToLower();
                 
                 case SqlType.LIST:
-                    return ("list_" + BaseHelper.ListItemsType(_prInfo.PropertyType).Name + "_" + _prInfo.Name).ToLower();
+                    return ("list_" + TypeHelper.ListItemsType(_prInfo.PropertyType).Name + "_" + _prInfo.Name).ToLower();
                     
                 default:
                     return _prInfo.Name.ToLower();

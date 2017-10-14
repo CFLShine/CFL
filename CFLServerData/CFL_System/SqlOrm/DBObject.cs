@@ -3,7 +3,6 @@ using System.Runtime.Serialization;
 
 namespace CFL_1.CFL_System.SqlServerOrm
 {
-    [DataContract]
     public class DBObject
     {
         public DBObject(){}

@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
+using CFL_1.CFL_System.MSTD;
 using CFL_1.CFLGraphics.MyControls.GraphEditor;
+using MSTD;
 using MSTD.ShBase;
 using RuntimeExec;
 
@@ -58,7 +60,7 @@ namespace CFL_1.CFLGraphics.GraphEditor
             
             foreach(Base _component in  _type.EditableComponents)
             {
-                _new.AddEditableComponent(BaseHelper.NewInstance(_component));
+                _new.AddEditableComponent((Base)(TypeHelper.NewInstance(_component)));
             }
             CompleteShapeTypeInfo(_new);
             return new GraphShape(_new);

@@ -81,7 +81,9 @@ namespace CFL_1.CFLGraphics
             
         }
 
+#pragma warning disable CS0414 // Le champ 'Form_planing_journalier.__page' est assigné, mais sa valeur n'est jamais utilisée
         private PageJour __page = null;
+#pragma warning restore CS0414 // Le champ 'Form_planing_journalier.__page' est assigné, mais sa valeur n'est jamais utilisée
 
         private void init()
         {
