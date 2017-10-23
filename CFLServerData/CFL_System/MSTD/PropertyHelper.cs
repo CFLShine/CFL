@@ -72,5 +72,9 @@ namespace MSTD
             return null;
         }
 
+        public static T GetAttribute<T>(PropertyInfo prInfo) where T : Attribute
+        {
+            return prInfo.GetCustomAttribute<T>();
+        }
     }
 }

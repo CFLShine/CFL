@@ -1,6 +1,5 @@
 ﻿
 
-using CFL_1.CFL_Data;
 using SqlOrm;
 
 namespace CFL_1.CFL_System.DB

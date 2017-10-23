@@ -3,37 +3,43 @@ using System.Collections.Generic;
 using System.Reflection;
 using CFL_1.CFL_System.SqlServerOrm;
 using MSTD;
+using MSTD.ShBase;
 using Npgsql;
 
 namespace SqlOrm
 {
     public class DBSaveChanges
     {
-        public DBSaveChanges(DBContext _context)
+        public DBSaveChanges(ShContext context, DBConnection connection)
         {
-            __context = _context?? throw new ArgumentNullException("_context");
+            __context = context?? throw new ArgumentNullException("context");
+            __connection = connection?? throw new ArgumentNullException("connection");
         }
         
+        /// <summary>
+        /// Effectue la sauvegarde des proipriétés modifiées des objets représentés
+        /// dans le <see cref="ShContext"/>.
+        /// </summary>
         public bool Exe()
         {
             string _saveChangesQuery = SaveChangesQuery();
 
-            if(__context.Connection.ExecuteNonQuery(new NpgsqlCommand(_saveChangesQuery)))
+            if(__connection.ExecuteNonQuery(new NpgsqlCommand(_saveChangesQuery)))
             {
                 foreach(KeyValuePair<Guid, ClassProxy> _kvp in __inserteds)
-                    _kvp.Value.ToBeInserted = false;
+                    _kvp.Value.IsNew = false;
                 foreach(KeyValuePair<Guid, ClassProxy> _kvp in __updateds)
-                    _kvp.Value.CancelChanges();
+                    _kvp.Value.UpdateProxyValues();// suprime le fait qu'un PropertyProxy se dise changé.
 
-                if(__context.Connection.NotifyChanges &&
+                if(__connection.NotifyChanges &&
                   (__inserteds.Count != 0 || __updateds.Count != 0))
                 {
                     DBNotification _notification = new DBNotification();
                     foreach(KeyValuePair<Guid, ClassProxy> _kvp in __inserteds)
-                        _notification.AddEntity(_kvp.Value.TableName, _kvp.Key);
+                        _notification.AddEntity(_kvp.Value.TypeName.ToLower(), _kvp.Key);
                     foreach(KeyValuePair<Guid, ClassProxy> _kvp in __updateds)
-                        _notification.AddEntity(_kvp.Value.TableName, _kvp.Key);
-                    __context.Connection.Notify(_notification);
+                        _notification.AddEntity(_kvp.Value.TypeName.ToLower(), _kvp.Key);
+                    __connection.Notify(_notification);
                 }
 
                 return true;
@@ -41,59 +47,61 @@ namespace SqlOrm
             return false;
         }
 
+        /// <summary>
+        /// Construit la requête de sauvegarde et classe les proxy
+        /// dans __inserteds ou __updateds.
+        /// </summary>
         private string SaveChangesQuery()
         {
             string _saveChangesQuery = "";
-
-            foreach(DBSet _dbset in __context.GetDbSets())
+            
+            foreach(ClassProxy _proxy in __context.GetProxies())
             {
-                foreach(ClassProxy _proxy in _dbset.ClassProxies)
+                if(_proxy.IsNew)
                 {
-                    if(_proxy.ToBeInserted)
+                    _saveChangesQuery += InsertQuery(_proxy);
+                    __inserteds[_proxy.ID] = _proxy;
+                }
+                else
+                {
+                    List<PropertyProxy> _changes = _proxy.ChangedProperties();
+                    if(_changes.Count != 0)
                     {
-                        _saveChangesQuery += InsertQuery(_proxy);
-                        __inserteds[_proxy.EntityId] = _proxy;
-                    }
-                    else
-                    {
-                        List<PropertyInfo> _changes = _proxy.ChangedProperties();
-                        if(_changes.Count != 0)
-                        {
-                            _saveChangesQuery += UpdateQuery(_changes, _proxy);
-                            __updateds[_proxy.EntityId] = _proxy;
-                        }
+                        _saveChangesQuery += UpdateQuery(_changes, _proxy);
+                        __updateds[_proxy.ID] = _proxy;
                     }
                 }
             }
+            
             return _saveChangesQuery;
         }
 
-        private string InsertQuery(ClassProxy _classAndProxy)
+        private string InsertQuery(ClassProxy _proxy)
         {
-            List<FieldValue> _fieldsValues = FieldsValues(_classAndProxy.Properties, _classAndProxy);
-            string _query = "INSERT INTO " + _classAndProxy.TableName +
+            List<FieldValue> _fieldsValues = FieldsValues(_proxy.Properties(), _proxy);
+            string _query = "INSERT INTO " + _proxy.TypeName.ToLower() +
                               "(tablename," + Fields(_fieldsValues) + ") " + 
-                              "VALUES (" + "'" + _classAndProxy.TableName + "'" + "," + Values(_fieldsValues) + ");";
+                              "VALUES (" + "'" + _proxy.TypeName.ToLower() + "'" + "," + Values(_fieldsValues) + ");";
             return _query;
         }
 
-        private string UpdateQuery(IEnumerable<PropertyInfo> _changes, ClassProxy _classAndProxy)
+        private string UpdateQuery(IEnumerable<PropertyProxy> _changes, ClassProxy _classAndProxy)
         {
             List<FieldValue> _fieldsValues = FieldsValues(_changes, _classAndProxy);
-            return "UPDATE " + _classAndProxy.TableName + 
+            return "UPDATE " + _classAndProxy.TypeName.ToLower() + 
                             " SET " + FieldsEqualValues(_fieldsValues, _classAndProxy) +
-                             " WHERE " + _classAndProxy.TableName + ".id = " + 
-                             SqlCSharp.SqlValue(_classAndProxy.Entity, PropertyHelper.Property(_classAndProxy.EntityType, "ID")) +
+                             " WHERE " + _classAndProxy.TypeName.ToLower() + ".id = " + 
+                             SqlCSharp.SqlValue(_classAndProxy.Entity, PropertyHelper.Property(_classAndProxy.Entity.GetType(), "ID")) +
                              ";";
         }
 
-        private List<FieldValue> FieldsValues(IEnumerable<PropertyInfo> _changes, ClassProxy _classAndProxy)
+        private List<FieldValue> FieldsValues(IEnumerable<PropertyProxy> _changes, ClassProxy _classAndProxy)
         {
             List<FieldValue> _fieldsValues = new List<FieldValue>();
             
-            foreach(PropertyInfo _prInfo in _changes)
+            foreach(PropertyProxy _prProxy in _changes)
             {
-                _fieldsValues.Add(new FieldValue(_classAndProxy.Entity, _prInfo));
+                _fieldsValues.Add(new FieldValue(_classAndProxy.Entity, _prProxy.PropertyInfo));
             }
             return _fieldsValues;
         }
@@ -145,7 +153,8 @@ namespace SqlOrm
             return _fieldsEqualValues;
         }
 
-        private DBContext __context = null;
+        private ShContext __context = null;
+        private DBConnection __connection = null;
         private Dictionary<Guid, ClassProxy> __inserteds = new Dictionary<Guid, ClassProxy>();
         private Dictionary<Guid, ClassProxy> __updateds = new Dictionary<Guid, ClassProxy>();
 

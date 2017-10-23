@@ -45,35 +45,18 @@ namespace MSTD
             return (T) NewInstance(typeof(T));
         }
 
+        public static object GetDefaultValue(Type t)
+        {
+            if(t != null)
+            {
+                if (t.IsValueType && Nullable.GetUnderlyingType(t) == null)
+                    return Activator.CreateInstance(t);
+            }
+            return null;
+        }
+
         #endregion Instance
 
-        public static TypeEnum TYPE(Type t)
-        {
-            if(t == typeof(string))
-                return TypeEnum.STRING;
-            if(t == typeof(Base))
-                return TypeEnum.BASE;
-            if(t.IsEnum)
-                return TypeEnum.ENUM;
-            if(t == typeof(bool) || t ==typeof(bool?))
-                return TypeEnum.BOOL;
-            if(t == typeof(int) || t ==typeof(int?))
-                return TypeEnum.INT;
-            if(t == typeof(char) || t == typeof(char?))
-                return TypeEnum.CHAR;
-            if(t == typeof(long) || t == typeof(long?))
-                return TypeEnum.LONG;
-            if(t == typeof(double) || t == typeof(double?))
-                return TypeEnum.DOUBLE;
-            if(t == typeof(decimal) || t == typeof(decimal?))
-                return TypeEnum.DECIMAL;
-            if(t == typeof(DateTime) || t == typeof(DateTime?))
-                return TypeEnum.DATETIME;
-            if(t == typeof(TimeSpan) || t == typeof(TimeSpan?))
-                return TypeEnum.TIMESPAN;
-
-            return TypeEnum.UNKNOWN;
-        }
 
         /// <summary>
         /// Retourne true si le type est primitif : 

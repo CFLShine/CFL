@@ -1,25 +1,27 @@
 ﻿
+using MSTD.ShBase;
+
 namespace SqlOrm
 {
     public abstract class Query
     {
-        public Query(DBContext _dbContext)
+        public Query(ShContext _dbContext, DBConnection connection)
         {
-            DbContext = _dbContext;
+            Context = _dbContext;
+            Connection = connection;
         }
 
-        public DBContext DbContext
+        public ShContext Context
         { 
             get; 
-            protected set; 
+            private set; 
         }
 
         public DBConnection Connection
         {
-            get
-            {
-                return DbContext.Connection;
-            }
+            get;
+            private set;
         }
+
     }
 }

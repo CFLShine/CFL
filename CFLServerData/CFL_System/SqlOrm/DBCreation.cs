@@ -1,7 +1,7 @@
 ﻿
 using System;
 using System.Reflection;
-using System.Windows;
+using MSTD.ShBase;
 using Npgsql;
 
 namespace SqlOrm
@@ -9,7 +9,7 @@ namespace SqlOrm
     public class DBCreation
     {
         public DBCreation(DBConnection _connection,
-                          DBContext _context)
+                          ShContext _context)
         {
             __connection = _connection;
             __context = _context;
@@ -18,7 +18,7 @@ namespace SqlOrm
         /// <summary>
         /// Crée la db si elle n'existe pas,
         /// puis chaque table représentée par un <see cref="DBSet"/> du <see cref="DBContext"/> si elle n'existe pas.
-        /// Ne renvoie pas la connection ouverte.
+        /// La connection est retournée fermée.
         /// </summary>
         public bool CreateOrCompleteDataBase()
         {
@@ -74,18 +74,18 @@ namespace SqlOrm
 
         private bool CreateTablesIfNotExist()
         {
-            foreach(DBSet _dbset in __context.GetDbSets())
+            foreach(Set _set in __context.GetSets())
             {
-                if(!CreateTableIfNotExists(_dbset))
+                if(!CreateTableIfNotExists(_set))
                     return false;
             }
             return true;
         }
 
-        private bool CreateTableIfNotExists(DBSet _dbset)
+        private bool CreateTableIfNotExists(Set _set)
         {
-            string _tableName = _dbset.EntitiesTypeName.ToLower();
-            string _columnNames_types = ColumnNames_types(_dbset.EntitiesType);
+            string _tableName = _set.Type.Name.ToLower();
+            string _columnNames_types = ColumnNames_types(_set.Type);
 
             if(!string.IsNullOrWhiteSpace(_columnNames_types))
                 _columnNames_types = "," + _columnNames_types;
@@ -163,6 +163,6 @@ namespace SqlOrm
         }
 
         private DBConnection __connection = null;
-        private DBContext __context = null;
+        private ShContext __context = null;
     }
 }

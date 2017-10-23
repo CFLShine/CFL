@@ -755,8 +755,9 @@
     <Compile Include="CFL_Data\Planings\ZoneInfo.cs" />
     <Compile Include="CFL_Data\Planings\ZoneAction.cs" />
     <Compile Include="CFL_Data\Vehicule.cs" />
+    <Compile Include="CFL_System\MSTD\AttributeSelected.cs" />
     <Compile Include="CFL_System\MSTD\PropertyHelper.cs" />
-    <Compile Include="CFL_System\MSTD\ShBase\ProxyHelper.cs" />
+    <Compile Include="CFL_System\MSTD\ShBase\ProxyFactory.cs" />
     <Compile Include="CFL_System\MSTD\ShBase\Base.cs" />
     <Compile Include="CFL_System\Compil and script\CodeCompiler.cs" />
     <Compile Include="CFL_System\Compil and script\Compiler.cs" />
@@ -768,7 +769,7 @@
     <Compile Include="CFL_System\DB\CFLDBConnection.cs" />
     <Compile Include="CFL_System\DB\DBContext_CFL.cs" />
     <Compile Include="CFL_System\MSTD\ShBase\BaseHelper.cs" />
-    <Compile Include="CFL_System\MSTD\BaseProxyToJSON.cs" />
+    <Compile Include="CFL_System\MSTD\ShBase\BaseProxyToJSON.cs" />
     <Compile Include="CFL_System\MSTD\DataDisplay.cs" />
     <Compile Include="CFL_System\MSTD\DoubleHelper.cs" />
     <Compile Include="CFL_System\MSTD\MemberPath.cs" />
@@ -814,8 +815,6 @@
     <Compile Include="CFL_System\RuntimeExec\REUnaryOperator.cs" />
     <Compile Include="CFL_System\RuntimeExec\REWhile.cs" />
     <Compile Include="CFL_System\SolutionClasses.cs" />
-    <Compile Include="CFL_System\SqlOrm\ClassProxy.cs" />
-    <Compile Include="CFL_System\SqlOrm\DBContext.cs" />
     <Compile Include="CFL_System\SqlOrm\DBConnection.cs" />
     <Compile Include="CFL_System\SqlOrm\DBCreation.cs" />
     <Compile Include="CFL_System\SqlOrm\DBLoader.cs" />
@@ -823,7 +822,6 @@
     <Compile Include="CFL_System\SqlOrm\DBObject.cs" />
     <Compile Include="CFL_System\SqlOrm\DBReader.cs" />
     <Compile Include="CFL_System\SqlOrm\DBSaveChanges.cs" />
-    <Compile Include="CFL_System\SqlOrm\DBSet.cs" />
     <Compile Include="CFL_System\SqlOrm\FieldValue.cs" />
     <Compile Include="CFL_System\SqlOrm\SqlCSharp.cs" />
     <Compile Include="CFL_System\SqlOrm\Query.cs" />

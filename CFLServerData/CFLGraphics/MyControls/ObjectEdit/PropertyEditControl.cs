@@ -618,7 +618,7 @@ namespace ObjectEdit
                 foreach(Base _base in _config.ObjectsToDisplay)
                 {
                     _config.DataDisplay.Update(_base);
-                    string _item = _config.DataDisplay.Display;
+                    string _item = _config.DataDisplay.Display();
                     __items[_base] = _item;
                 }
             }

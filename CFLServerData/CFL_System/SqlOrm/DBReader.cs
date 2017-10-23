@@ -17,38 +17,56 @@ namespace SqlOrm
             get;
             set;
         } = null;
+
+        public string PropertyName
+        {
+            get
+            {
+                if(Name.Contains("_"))
+                {
+                    string[] _elements = Name.Split('_');
+                    return _elements[_elements.Length -1];
+                }
+                return Name;
+            }
+        }
     }
 
     public class DBRow : List<DBField>
     {
-        public object GetValue(int _i)
+        public DBField GetField(int index)
         {
-            return this[_i].Value;
+            return this[index];
         }
 
-        public object GetValue(string _fieldName)
+        public DBField GetField(string propertyName)
         {
-            for(int _i = 0 ; _i < this.Count; _i++)
+            foreach(DBField _field in this)
             {
-                if (this[_i].Name == _fieldName)
-                    return this[_i].Value;
+                if(_field.PropertyName == propertyName.ToLower())
+                    return _field;
             }
             return null;
         }
 
-        public string GetFieldName(int _index)
+        public string GetFieldName(int index)
         {
-            return this[_index].Name;
+            return this[index].Name;
+        }
+
+        public string GetPropertyName(int index)
+        {
+            return this[index].PropertyName;
         }
 
         public Guid GetId()
         {
-            return (Guid)GetValue("id");
+            return (Guid)GetField("id").Value;
         }
 
         public string GetTableName()
         {
-            return (string)GetValue("tablename");
+            return (string)GetField("tablename").Value;
         }
     }
 

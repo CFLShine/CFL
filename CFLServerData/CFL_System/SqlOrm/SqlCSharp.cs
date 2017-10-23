@@ -102,44 +102,97 @@ namespace SqlOrm
 
         #endregion types
 
-        #region Sql values
+        #region Column name
 
         /// <summary>
         /// Retourne un nom de colone pour cette propriété si cette propriété peut être mappée
         /// dans la db, sinon retourne une chaine vide.
-        /// Pour une classe : class_type_classmembername
-        /// Pour une List{T} : list_itemstype_listmembername
-        /// Pour une Enum : enum_enumtype_enummembername
+        /// Pour une classe : class_typename_membername
+        /// Pour une List{T} : list_itemstype_membername
+        /// Pour une Enum : enum_enumtype_membername
+        /// Provoque une exception si membreName null ou vide.
         /// </summary>
         public static string ColumnName(PropertyInfo _prInfo)
         {
             if(!PropertyHelper.IsMappableProperty(_prInfo))
                 return "";
 
-            switch (GetSqlType(_prInfo.PropertyType))
+            return ColumnName(_prInfo.PropertyType, _prInfo.Name);
+        }
+
+        /// <summary>
+        /// Retourne un nom de colone pour un membre de type type et nomé memberName.
+        /// Pour une classe : class_typename_membername
+        /// Pour une List{T} : list_itemstype_membername
+        /// Pour une Enum : enum_enumtype_membername
+        /// Provoque une exception si membreName null ou vide.
+        /// </summary>
+        public static string ColumnName(Type type, string memberName)
+        {
+            switch (GetSqlType(type))
             {
                 case SqlType.NOTMAPPED:
                     return "";
 
                 case SqlType.CLASS:
-                {
-                    return ("class_"+ _prInfo.PropertyType.Name + "_" + _prInfo.Name).ToLower();
-                }
+                    return ClassObjectMemberColumnName(type, memberName);
                     
                 case SqlType.ENUM:
-                    return ("enum_" + _prInfo.PropertyType.Name + "_" + _prInfo.Name).ToLower();
+                    return EnumMemberColumnName(type, memberName);
                 
                 case SqlType.LIST:
-                    return ("list_" + TypeHelper.ListItemsType(_prInfo.PropertyType).Name + "_" + _prInfo.Name).ToLower();
+                    return ListMemberColumnName(type, memberName);
                     
                 default:
-                    return _prInfo.Name.ToLower();
+                    if(string.IsNullOrWhiteSpace(memberName))
+                        throw new Exception("memberName non valide");
+                    return memberName.ToLower();
             }
         }
 
         /// <summary>
+        /// Retourne un nom de colone pour un membre objet de classe et nomé memberName,
+        /// sous la forme class_typename_membername.
+        /// Provoque une exception si membreName null ou vide.
+        /// </summary>
+        public static string ClassObjectMemberColumnName(Type type, string memberName)
+        {
+            if(string.IsNullOrWhiteSpace(memberName))
+                throw new Exception("memberName non valide");
+            return ("class_"+ type.Name + "_" + memberName).ToLower();
+        }
+
+        /// <summary>
+        /// Retourne un nom de colone pour un membre list et nomé memberName,
+        /// sous la forme list_itemstype_membername.
+        /// Provoque une exception si membreName null ou vide. 
+        /// </summary>
+        public static string ListMemberColumnName(Type type, string memberName)
+        {
+            if(string.IsNullOrWhiteSpace(memberName))
+                throw new Exception("memberName non valide");
+            return ("list_" + TypeHelper.ListItemsType(type).Name + "_" + memberName).ToLower();
+        }
+
+        /// <summary>
+        /// Retourne un nom de colone pour un membre Enum et nomé memberName,
+        /// sous la forme enum_enumtype_membername.
+        /// Provoque une exception si membreName null ou vide. 
+        /// </summary>
+        public static string EnumMemberColumnName(Type type, string memberName)
+        {
+            if(string.IsNullOrWhiteSpace(memberName))
+                throw new Exception("memberName non valide");
+            return ("enum_" + type.Name + "_" + memberName).ToLower();
+        }
+
+        #endregion Column name
+
+        #region Sql values
+
+        /// <summary>
         /// Retourne une chaine qui représentera la valeur de la propriété dans la db.
-        /// Si la propriété est un objet de classe, retourne l'id de l'objet.
+        /// Si la propriété est un objet de classe, la forme est typename_id.
         /// </summary>
         public static string SqlValue(object _class, PropertyInfo _prInfo)
         {
@@ -151,7 +204,7 @@ namespace SqlOrm
 
         /// <summary>
         /// Retourne une chaine qui représentera la valeur de la propriété dans la db.
-        /// Si la propriété est un objet de classe, retourne l'id de l'objet.
+        /// Si la propriété est un objet de classe, la forme est typename_id.
         /// </summary>
         public static string SqlValue(object _value, SqlType _sqlType, bool _inList)
         {
@@ -216,6 +269,8 @@ namespace SqlOrm
         /// <summary>
         /// Retourne une chaine qui représentera les valeurs de la propriété List dans la db,
         /// sous la forme val1,val2,...
+        /// Si les valeurs sont des objets de classe, elles sont représentée sous la forme
+        /// typename_id.
         /// </summary>
         public static string ListValueStr(object _list)
         {
@@ -237,6 +292,18 @@ namespace SqlOrm
         #endregion Sql values
 
         #region value from sql
+
+        public static void UpdateClassProxyMembers(ClassProxy proxy, DBRow row)
+        {
+            foreach(DBField _field in row)
+            {
+                PropertyProxy _prProxy = proxy.Property(_field.Name);
+                if(_prProxy != null)// des colones dans la tables servent
+                                    // au fonctionnement de l'orm et correspondent
+                                    // pas à des propriétés d'une entité.
+                    _prProxy.Value = _field.Value;
+            }
+        }
 
         public static object ValueFromSql(string _sqlValue, SqlType _sqlType)
         {

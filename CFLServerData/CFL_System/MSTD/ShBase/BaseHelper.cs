@@ -114,9 +114,9 @@ namespace MSTD.ShBase
             foreach(PropertyInfo _pr in _parent.GetType().GetProperties())
             {
                 Type _propertyType = _pr.PropertyType;
-                if(_propertyType.IsPublic)
+                if(_propertyType.IsPublic && _pr.CanRead)
                 {
-                    if(_propertyType.IsPublic && _propertyType.IsSubclassOf(typeof(Base)))
+                    if(_propertyType.IsSubclassOf(typeof(Base)))
                     { 
                         Base _value = (Base)(_pr.GetValue(_parent));
                         if(_value.ID == _id)
@@ -137,6 +137,19 @@ namespace MSTD.ShBase
             return null;
         }
 
+        public static Base Component(Base parent, string name)
+        {
+            string _name = name.ToLower();
+            foreach(PropertyInfo _pr in parent.GetType().GetProperties())
+            {
+                if(_pr.PropertyType.IsPublic && _pr.CanRead && _pr.Name.ToLower() == _name)
+                {
+                    return _pr.GetValue(parent) as Base;
+                }
+            }
+            return null;
+        }
+
         #endregion Components
 
         #region Property exposition
@@ -152,6 +165,5 @@ namespace MSTD.ShBase
 
         #endregion Property exposition
 
-        
     }
 }

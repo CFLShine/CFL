@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
-using SqlOrm;
+using System.Runtime.Remoting.Contexts;
 
 namespace DailySchedule
 {
     public class DaylyScheduleInfo
     {
-        public DaylyScheduleInfo(DBContext _dbcontext)
+        public DaylyScheduleInfo(Context context)
         {
-            DBContext = _dbcontext;
+            Context = context;
         }
 
         public ZonePatern ZonePatern { get; set; } = null;
@@ -26,7 +26,7 @@ namespace DailySchedule
             }
         }
 
-        public DBContext DBContext { get; private set ; }
+        public Context Context { get; private set ; }
 
         private void DisplayCurrentDay()
         {

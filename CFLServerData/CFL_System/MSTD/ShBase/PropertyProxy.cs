@@ -5,16 +5,20 @@ using System.Reflection;
 
 namespace MSTD.ShBase
 {
-    public abstract class PropertyProxy
+    public abstract class PropertyProxy : Proxy
     {
-        public PropertyProxy()
+        public PropertyProxy(ShContext context)
+            :base(context)
         { }
 
-        public PropertyProxy(PropertyInfo prInfo, ClassProxy parent)
+        public PropertyProxy(ShContext context, PropertyInfo prInfo, ClassProxy parent)
+            :base(context)
         {
             PropertyInfo = prInfo;
             Parent = parent;
         }
+
+        public ClassProxy Parent { get; set; }
 
         /// <summary>
         /// Chaque classe fille surcharge PropertyInfo pour renseigner
@@ -25,22 +29,6 @@ namespace MSTD.ShBase
         /// le type des items, ou des clés et valeurs.
         /// </summary>
         public abstract PropertyInfo PropertyInfo { get; set; }
-
-        /// <summary>
-        /// La classe proxy dont fait partie ce membre
-        /// </summary>
-        public ClassProxy Parent
-        {
-            get;
-            set;
-        }
-
-        /// <summary>
-        /// Dans le cas d'une propriété object, il s'agit de <see cref="Base.ID"/>,
-        /// autrement, un nouveau Guid est attribué à cette propriété, ce qui peut 
-        /// permettre, par ex., de la retrouver lors d'échanges avec un système non c#.
-        /// </summary>
-        public Guid PropertyGuid{ get; set; } = Guid.NewGuid();
 
         /// <summary>
         /// Le nom qui devra être affiché à l'utilisateur final
@@ -54,13 +42,40 @@ namespace MSTD.ShBase
         }
 
         /// <summary>
-        /// Le type CSharp du membre représenté par ce <see cref="PropertyProxy"/>.
+        /// Le type c# du membre représenté par ce <see cref="PropertyProxy"/>.
         /// Il est automatiquement renseigné lorsque PropertyInfo est donné dans une classe fille.
         /// Dans le cas d'une liste, <see cref="TypeName"/> == "List", un dictionnaire <see cref="TypeName"/> == "Dictionary",
         /// un DateTime ou DateTime?, un TimeSpan ou TimeSpan?, "Date" et "Time",
         /// pour un type primitif ou object (<see cref="Base"/>), le type c#.
         /// </summary>
         public string TypeName { get; protected set; }
+
+        /// <summary>
+        /// Le type c# du membre représenté par ce <see cref="PropertyProxy"/>.
+        /// </summary>
+        public virtual Type Type
+        {
+            get
+            {
+                if(__type == null)
+                {
+                    if(PropertyInfo != null)
+                        __type = PropertyInfo.PropertyType;
+                    else if(!string.IsNullOrWhiteSpace(TypeName))
+                    {
+                        foreach(Type t in Assembly.GetExecutingAssembly().GetTypes())
+                        {
+                            if(t.Name == TypeName)
+                            {
+                                __type = t;
+                                break;
+                            }
+                        }
+                    }
+                }
+                return __type;
+            }
+        }
 
         /// <summary>
         /// Le nom du membre, dans la classe CSharp.
@@ -71,11 +86,11 @@ namespace MSTD.ShBase
             set
             {
                 __name = value;
-                if(Parent != null 
-                && Parent.Entity != null)
+                if(Parent is ClassProxy _parent 
+                && _parent.Entity != null)
                 {
-                    PropertyInfo _prInfo = PropertyHelper.Property(Parent.Entity.GetType(), value);
-                    PropertyInfo = _prInfo??throw new Exception("La propriété " + value + " n'existe pas dans le type " + Parent.Entity.GetType().Name);
+                    PropertyInfo _prInfo = PropertyHelper.Property(_parent.Entity.GetType(), value);
+                    PropertyInfo = _prInfo??throw new Exception("La propriété " + value + " n'existe pas dans le type " + _parent.Entity.GetType().Name);
                 }
             }
         }
@@ -112,20 +127,27 @@ namespace MSTD.ShBase
         /// Affecte <see cref="Value"/> à la propriété 
         /// </summary>
         public abstract void GiveValueToEntity();
+
+        /// <summary>
+        /// Permet de savoir si l'entité a été modifiée depuis que ses valeurs ont été copiées dans un <see cref="ClassProxy"/>"/>.
+        /// </summary>
+        public abstract bool IsSameAsEntityValue();
         
         protected PropertyInfo __prInfo = null;
-        private string __name = "";
+        protected string __name = "";
 
         protected object __value = null;
+        protected Type __type = null;
     }
 
     public class PropertyPrimitiveProxy : PropertyProxy
     {
-        public PropertyPrimitiveProxy()
+        public PropertyPrimitiveProxy(ShContext context)
+            :base(context)
         { }
 
-        public  PropertyPrimitiveProxy(PropertyInfo prInfo, ClassProxy parent)
-            :base(prInfo, parent)
+        public  PropertyPrimitiveProxy(ShContext context, PropertyInfo prInfo, ClassProxy parent)
+            :base(context, prInfo, parent)
         { }
 
         public override PropertyInfo PropertyInfo
@@ -151,26 +173,78 @@ namespace MSTD.ShBase
             if(Parent == null)
                 throw new Exception("Parent ne peut pas être null");
             if(Parent.Entity == null)
-                throw new Exception("Parent.Object ne peut pas être null");
+                throw new Exception("Parent.Entity ne peut pas être null");
             if(PropertyInfo == null)
                 throw new Exception("PropertyInfo ne peut pas être null.");
+            
+            if(Value == null)
+                Value = TypeHelper.GetDefaultValue(PropertyInfo.PropertyType);
+
             PropertyInfo.SetValue(Parent.Entity, Value);
         }
 
         public override void CopyValueFromEntity()
         {
-            throw new NotImplementedException();
+            if(Parent == null)
+                throw new Exception("Parent ne peut pas être null");
+            if(Parent.Entity == null)
+                throw new Exception("Parent.Entity ne peut pas être null");
+            if(PropertyInfo == null)
+                throw new Exception("PropertyInfo ne peut pas être null.");
+
+            Value = PropertyInfo.GetValue(Parent.Entity);
+        }
+
+        public override bool IsSameAsEntityValue()
+        {
+            if(Parent == null)
+                throw new Exception("Parent ne peut pas être null");
+            if(Parent.Entity == null)
+                throw new Exception("Parent.Entity ne peut pas être null");
+            if(PropertyInfo == null)
+                throw new Exception("PropertyInfo ne peut pas être null.");
+            return Value == PropertyInfo.GetValue(Parent.Entity);
         }
     }
 
     public class PropertyObjectProxy : PropertyProxy
     {
-        public PropertyObjectProxy()
+        public PropertyObjectProxy(ShContext context)
+            :base(context)
         { }
 
-        public PropertyObjectProxy(PropertyInfo prInfo, ClassProxy parent)
-            :base(prInfo, parent)
+        public PropertyObjectProxy(ShContext context, PropertyInfo prInfo, ClassProxy parent)
+            :base(context, prInfo, parent)
         { }
+
+        public override object Value 
+        { 
+            get => base.Value; 
+            set
+            {
+                if(string.IsNullOrWhiteSpace((string)value) || (string)value == "null")
+                {
+                    base.Value = "null";
+                    ID = Guid.Empty;
+                }
+                else
+                {
+                    base.Value = value;
+                    Tuple<Type, Guid> _t = BaseObjectRepresentation(Context, (string)value);
+                    ID = _t.Item2;
+                }
+            }
+        }
+
+        public Base Entity
+        {
+            get
+            {
+                if(Parent == null || Parent.Entity == null)
+                    return null;
+                return (Base) PropertyInfo.GetValue(Parent.Entity);
+            }
+        }
 
         public override PropertyInfo PropertyInfo
         {
@@ -178,52 +252,69 @@ namespace MSTD.ShBase
             set
             {
                 __prInfo = value;
-                Name = __prInfo.Name;
+                __name = __prInfo.Name;
                 TypeName = __prInfo.PropertyType.Name;
-            }
-        }
-
-        public override object Value
-        {
-            get
-            {
-                if(__value == null)
-                {
-                    if(PropertyInfo == null)
-                        throw new Exception("Cette propriété doit retourner un ClassProxy.Impossible de retourner une valeur car PropertyInfo est null.");
-                    __value = new ClassProxy(PropertyInfo.PropertyType);
-                }
-                
-                return __value;
             }
         }
 
         public override void GiveValueToEntity()
         {
-            throw new NotImplementedException();
+            if(Parent == null)
+                throw new Exception("Parent ne peut pas être null");
+            if(Parent.Entity == null)
+                throw new Exception("Parent.Entity ne peut pas être null");
+            if(PropertyInfo == null)
+                throw new Exception("PropertyInfo ne peut pas être null.");
+
+            if(Value != null)
+            {
+                if((string)Value == "null")
+                    PropertyInfo.SetValue(Parent.Entity, null);
+                else
+                {
+                    ClassProxy _proxy = GetProxy(Context, (string)Value);
+                    PropertyInfo.SetValue(Parent.Entity, _proxy.Entity);
+                }
+            }
         }
 
         public override void CopyValueFromEntity()
         {
+            if(Parent == null)
+                throw new Exception("Parent ne peut pas être null");
+            if(Parent.Entity == null)
+                throw new Exception("Parent.Entity ne peut pas être null");
             if(PropertyInfo == null)
-            {
+                throw new Exception("PropertyInfo ne peut pas être null.");
 
-            }
-            else
-            {
-
-            }
+            Base _childEntity = PropertyInfo.GetValue(Parent.Entity) as Base;
+            
+            Value = BaseObjectRepresentation(_childEntity);
         }
 
+        public override bool IsSameAsEntityValue()
+        {
+            if(Parent == null)
+                throw new Exception("Parent ne peut pas être null");
+            if(Parent.Entity == null)
+                throw new Exception("Parent.Entity ne peut pas être null");
+            if(PropertyInfo == null)
+                throw new Exception("PropertyInfo ne peut pas être null.");
+
+            Base _childEntity = PropertyInfo.GetValue(Parent.Entity) as Base;
+            
+            return (string)Value == BaseObjectRepresentation(_childEntity);
+        }
     }
 
     public class PropertyListProxy : PropertyProxy
     {
-        public PropertyListProxy()
+        public PropertyListProxy(ShContext context)
+            :base(context)
         { }
 
-        public PropertyListProxy(PropertyInfo prInfo, ClassProxy parent)
-            :base(prInfo, parent)
+        public PropertyListProxy(ShContext context, PropertyInfo prInfo, ClassProxy parent)
+            :base(context, prInfo, parent)
         { }
 
         public Type ItemsType { get; private set; }
@@ -236,23 +327,69 @@ namespace MSTD.ShBase
             set
             {
                 __prInfo = value;
-                Name = __prInfo.Name;
+                __name = __prInfo.Name;
                 TypeName = "list";
                 ItemsType = TypeHelper.ListItemsType(__prInfo.PropertyType);
                 ItemsTypeName = ItemsType.Name;
             }
         }
 
-        public override void GiveValueToEntity()
+        public IEnumerable<Base> Entities()
         {
-            throw new NotImplementedException();
+            if(Parent == null || Parent.Entity == null)
+                yield  return null;
+            IList _list = PropertyInfo.GetValue(Parent.Entity) as IList;
+            if(_list == null)
+                yield return null;
+            foreach(object _o in _list)
+                yield return (Base)_o;
         }
 
+        public override void GiveValueToEntity()
+        {
+            if(Parent == null)
+                throw new Exception("Parent ne peut pas être null");
+            if(Parent.Entity == null)
+                throw new Exception("Parent.Object ne peut pas être null");
+            if(PropertyInfo == null)
+                throw new Exception("PropertyInfo ne peut pas être null.");
+            // inutile de tester ItemsType qui est automatiquement renseigné 
+            // lorsque PropertyInfo est donné.
+
+            if(Value != null)
+            {
+                IList _list = PropertyInfo.GetValue(Parent.Entity) as IList;
+                if(_list == null)
+                    _list = (IList)TypeHelper.NewInstance(PropertyInfo.PropertyType.MakeGenericType());
+                
+                List<object> _value = Value as List<object>;
+                _list.Clear();
+
+                //list<Base> ou List<BaseDerived>
+                if(ItemsType == typeof(Base) 
+                || ItemsType.IsSubclassOf(typeof(Base)))
+                {
+                    foreach(object _o in _value)
+                    {
+                        ClassProxy _proxy = GetProxy(Context, (string)_o);
+                        _list.Add(_proxy.Entity);
+                    }
+                }
+                else
+                {
+                    foreach(object _o in _value)
+                        _list.Add(_o);
+                }
+
+                PropertyInfo.SetValue(Parent.Entity, _list);
+            }
+        }
+        
         /// <summary>
         /// Si les items de la liste sont de type primitif, 
         /// ils sont copiés dans la liste proxy,
-        /// si ils sont de type dérivé de <see cref="Base"/>,
-        /// leurs ID est copié.
+        /// si ils sont de type <see cref="Base"/> ou dérivé de <see cref="Base"/>,
+        /// ils sont enregistrés sous la forme string typename_id.
         /// </summary>
         public override void CopyValueFromEntity()
         {
@@ -262,40 +399,127 @@ namespace MSTD.ShBase
                 throw new Exception("Parent.Object ne peut pas être null");
             if(PropertyInfo == null)
                 throw new Exception("PropertyInfo ne peut pas être null.");
+            // inutile de tester ItemsType qui est automatiquement renseigné 
+            // lorsque PropertyInfo est donné.
             
             List<object> _copy = new List<object>();
 
-            IEnumerable enumerable = PropertyInfo.GetValue(Parent.Entity) as IEnumerable;
-            if(enumerable != null)
+            IList _list = PropertyInfo.GetValue(Parent.Entity) as IList;
+            if(_list != null)
             {
-                if(TypeHelper.IsPrimitiveOrAlike(ItemsType))
+                if(ItemsType == typeof(Base)
+                || ItemsType.IsSubclassOf(typeof(Base)))
                 {
-                    foreach (object item in enumerable)
+                    foreach(object _o in _list)
                     {
-                        _copy.Add(item);
+                        if(_o != null)
+                            _copy.Add(BaseObjectRepresentation((Base)_o));
                     }
                 }
                 else
-                if(ItemsType.IsSubclassOf(typeof(Base)))
                 {
-                    foreach(object item in enumerable)
-                    {
-                        if(item != null)
-                            _copy.Add(((Base)item).ID);
-                    }
+                    foreach(object _o in _list)
+                        _copy.Add(_o);
                 }
             }
             Value = _copy;
+        }
+
+        /// <summary>
+        /// Construit sa liste depuis une string sous la forme
+        /// val1,val2,... ou {val1,val2,...}
+        /// N'utiliser que pour les listes d'objets de <see cref="Base"/> ou dérivés,
+        /// sinon, provoque une exception.
+        /// </summary>
+        public void Parse(string s)
+        {
+            if(ItemsType != typeof(Base) && !ItemsType.IsSubclassOf(typeof(Base)))
+                throw new Exception("Cette fonction n'est utilisable que pour les types Base ou dérivés.");
+
+            if(s.StartsWith("{") && s.EndsWith("}"))
+            {
+                s = s.Substring(1,s.Length - 2);
+            }
+
+            Value = new List<object>();
+            if(!string.IsNullOrWhiteSpace(s))
+            {
+                if(s.Contains(","))
+                {
+                    foreach(string _val in s.Split(','))
+                        ((List<object>)Value).Add(_val);
+                }
+                else
+                    ((List<object>)Value).Add(s);
+            }
+        }
+
+        /// <summary>
+        /// Si ce <see cref="PropertyListProxy"/> représente une liste
+        /// d'objets de <see cref="Base"/> ou dérivés, retourne une liste
+        /// de représentation de ces objets, sinon provoque une exception.
+        /// </summary>
+        public List<Tuple<Type, Guid>> ObjectsRepresentations()
+        {
+            List<Tuple<Type, Guid>> _values = new List<Tuple<Type, Guid>>();
+            
+            if(Value == null)
+                return _values;
+
+            List<object> _value = (List<object>)Value;
+
+            string _s = "";
+
+            foreach(object _o in _value)
+            {
+                _s = (string)_o;
+                Tuple<Type, Guid> _objectRepresentation = BaseObjectRepresentation(Context, _s);
+                _values.Add(_objectRepresentation);
+            }
+            return _values;
+        }
+
+        public override bool IsSameAsEntityValue()
+        {
+            List<object> _proxyValue = Value as List<object>;
+            IList _entityValue = PropertyInfo.GetValue(Parent.Entity) as IList;
+
+            if((_entityValue == null) != (_proxyValue == null))
+                return false;
+            if(_entityValue != null)
+            {
+                if(_entityValue.Count != _proxyValue.Count)
+                    return false;
+                if(ItemsType == typeof(Base) || ItemsType.IsSubclassOf(typeof(Base)))
+                {
+                    for(int _i = 0; _i < _entityValue.Count; _i++)
+                    {
+                        Base _base = _entityValue[_i] as Base;
+                        if(BaseObjectRepresentation(_base) != (string)_proxyValue[_i])
+                            return false;
+                    }
+                }
+                else
+                {
+                    for(int _i = 0; _i < _entityValue.Count; _i++)
+                    {
+                        if(_entityValue[_i] != _proxyValue[_i])
+                            return false;
+                    }
+                }
+            }
+            return true;
         }
     }
 
     public class PropertyDictionaryProxy : PropertyProxy
     {
-        public PropertyDictionaryProxy()
+        public PropertyDictionaryProxy(ShContext context)
+            :base(context)
         { }
 
-        public PropertyDictionaryProxy(PropertyInfo prInfo, ClassProxy parent)
-            :base(prInfo, parent)
+        public PropertyDictionaryProxy(ShContext context, PropertyInfo prInfo, ClassProxy parent)
+            :base(context, prInfo, parent)
         { }
 
         public Type KeysType { get; private set; }
@@ -311,7 +535,7 @@ namespace MSTD.ShBase
             set
             {
                 __prInfo = value;
-                Name = __prInfo.Name;
+                __name = __prInfo.Name;
                 Tuple<Type, Type> _keyValueTypes = TypeHelper.DictionaryKeysValuesTypes(__prInfo.PropertyType);
                 KeysType = _keyValueTypes.Item1;
                 ValuesType = _keyValueTypes.Item2;
@@ -322,28 +546,111 @@ namespace MSTD.ShBase
 
         public override void GiveValueToEntity()
         {
-            throw new NotImplementedException();
+            if(Parent == null)
+                throw new Exception("Parent ne peut pas être null");
+            if(Parent.Entity == null)
+                throw new Exception("Parent.Object ne peut pas être null");
+            if(PropertyInfo == null)
+                throw new Exception("PropertyInfo ne peut pas être null.");
+            // inutile de tester KeysType et ValuesType qui sont automatiquement
+            // renseignés lorsque PropertyType est donné.
+            
+            if(Value != null)
+            {
+                IDictionary _dictionary = PropertyInfo.GetValue(Parent.Entity) as IDictionary;
+                if(_dictionary == null)
+                    _dictionary = (IDictionary)TypeHelper.NewInstance(PropertyInfo.PropertyType.MakeGenericType());
+                
+                Dictionary<object, object> _proxyValue = Value as Dictionary<object, object>;
+                _dictionary.Clear();
+
+                foreach(KeyValuePair<object, object> _kvp in _proxyValue)
+                {
+                    object _key = null;
+                    object _value = null;
+
+                    if(KeysType == typeof(Base)
+                    || KeysType.IsSubclassOf(typeof(Base)))
+                    { 
+                        _key = GetProxy(Context, (string)_kvp.Key).Entity;
+                    }
+                    else 
+                        _key = _kvp.Key;
+
+                    if(ValuesType == typeof(Base)
+                    || ValuesType.IsSubclassOf(typeof(Base)))
+                    {
+                        _value = GetProxy(Context, (string)_kvp.Value).Entity;
+                    }
+                    else
+                        _value = _kvp.Value;
+
+                    _dictionary[_key] = _value;
+                }
+
+                PropertyInfo.SetValue(Parent.Entity, _dictionary);
+            }
         }
 
         /// <summary>
         /// Si les clés ou les valeurs sont de type primitif, 
         /// elles sont copiées dans de dictionaire proxy,
-        /// si elles sont de type dérivé de <see cref="Base"/>,
-        /// c'est leur ID qui est copié.
+        /// si elles sont de type <see cref="Base"/> ou dérivées de <see cref="Base"/>,
+        /// elles sont enregistrées sous la forme typename_id.
         /// </summary>
         public override void CopyValueFromEntity()
+        {
+            if(Parent == null)
+                throw new Exception("Parent ne peut pas être null");
+            if(Parent.Entity == null)
+                throw new Exception("Parent.Object ne peut pas être null");
+            if(PropertyInfo == null)
+                throw new Exception("PropertyInfo ne peut pas être null.");
+            // inutile de tester KeysType et ValuesType qui sont automatiquement
+            // renseignés lorsque PropertyType est donné.
+
+            Dictionary<object, object> _copy = new Dictionary<object, object>();
+
+            IDictionary _dictionary = PropertyInfo.GetValue(Parent.Entity) as IDictionary;
+            if(_dictionary != null)
+            {
+                object _key = null;
+                object _value = null;
+
+                foreach(KeyValuePair<object, object> _kvp in _dictionary)
+                {
+                    _key = _kvp.Key as Base;
+                    if(_key != null)
+                        _key = _key.GetType().Name.ToLower() + "_" + ((Base) _key).ID.ToString();
+                    else
+                        _key = _kvp.Key;
+
+                    _value = _kvp.Value as Base;
+                    if(_value != null)
+                        _value = _value.GetType().Name.ToLower() + "_" + ((Base) _value).ID.ToString();
+                    else
+                        _value = _kvp.Value;
+
+                    _copy[_key] = _value;
+                }
+            }
+            Value = _copy;
+        }
+
+        public override bool IsSameAsEntityValue()
         {
             throw new NotImplementedException();
         }
     }
 
-    public class PropertyEnumProxy : PropertyProxy
+    public class PropertyEnumProxy : PropertyPrimitiveProxy
     {
-        public PropertyEnumProxy()
+        public PropertyEnumProxy(ShContext context)
+            :base(context)
         { }
 
-        public  PropertyEnumProxy(PropertyInfo prInfo, ClassProxy parent)
-            :base(prInfo, parent)
+        public  PropertyEnumProxy(ShContext context, PropertyInfo prInfo, ClassProxy parent)
+            :base(context, prInfo, parent)
         { }
 
         public override PropertyInfo PropertyInfo
@@ -352,7 +659,7 @@ namespace MSTD.ShBase
             set
             {
                 __prInfo = value;
-                Name = __prInfo.Name;
+                __name = __prInfo.Name;
                 TypeName = __prInfo.PropertyType.Name;
                 
                 foreach(var v in Enum.GetNames(__prInfo.PropertyType))
@@ -362,14 +669,5 @@ namespace MSTD.ShBase
             }
         }
 
-        public override void CopyValueFromEntity()
-        {
-            throw new NotImplementedException();
-        }
-
-        public override void GiveValueToEntity()
-        {
-            throw new NotImplementedException();
-        }
     }
 }

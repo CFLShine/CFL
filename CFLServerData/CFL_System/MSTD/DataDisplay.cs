@@ -121,13 +121,10 @@ namespace MSTD
         /// Appelle <see cref="Invoke"/> puis
         /// retourne (string)<see cref="CValue"/> une string, concaténation des éléments tenant compte des formats pourvus.
         /// </summary>
-        public string Display
+        public override string Display()
         {
-            get
-            {
-                Invoke();
-                return (string)CValue;
-            }
+            Invoke();
+            return (string)CValue;
         }
 
         public override REBase ReValue 

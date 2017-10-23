@@ -88,8 +88,6 @@ namespace CFL_1.CFL_System
                 }
                 return true;
             }
-
-            
         } 
 
         public static class save

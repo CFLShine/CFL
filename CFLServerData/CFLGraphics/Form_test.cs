@@ -94,13 +94,9 @@ namespace CFL_1.CFLGraphics
             DEUX
         }
 
-        [JsonConverter(typeof(StringEnumConverter))]
-        MyEnum myEnum = MyEnum.DEUX;
 
         private void buttonB_Click(object sender, RoutedEventArgs e)
         {
-            ClassProxy _proxy = new ClassProxy(typeof(Defunt));
-            string _json = BaseProxyToJson.ProduceJSon(_proxy);
         }
 
         void init()

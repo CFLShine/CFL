@@ -63,7 +63,7 @@ namespace CFL_1.CFLGraphics.MyControls.GraphEditor
                 if(_base.GetType().Name == _memberExpression.ParentTypeName)
                     _component = _base;
             }
-            PropertyHoldersForToolTip.Add(new REMemberExpression(new REClassObject(_component), _memberExpression.Display));
+            PropertyHoldersForToolTip.Add(new REMemberExpression(new REClassObject(_component), _memberExpression.Display()));
         }
 
         public string ToolTip

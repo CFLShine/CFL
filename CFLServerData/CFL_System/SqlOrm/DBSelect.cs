@@ -8,21 +8,26 @@ namespace SqlOrm
 {
     public class DBSelect<T> : Query where T : Base, new()
     {
-        public DBSelect(DBContext _dbContext)
-            : base(_dbContext)
+        public DBSelect(ShContext _context, DBConnection connection)
+            : base(_context, connection)
         {}
 
         public DBSelect<T> Select(params string[] _members)
         {
-            SelectedMembers = _members;
+            if(_members != null)
+            {
+                foreach(string _member in _members)
+                    SelectedMembers.Add(_member);
+            }
+
             return this;
         }
 
-        public string[] SelectedMembers
+        public List<string> SelectedMembers
         {
             get;
             private set;
-        } 
+        } = new List<string>();
 
         public List<T> ToList() 
         {
@@ -55,7 +60,6 @@ namespace SqlOrm
             return _loader.LoadMother<X>();
         }
 
-
         /// <summary>
         /// Inclu un membre de type class ou list de class.
         /// Pour inclure tous les membres de type class ou list de class,
@@ -65,11 +69,14 @@ namespace SqlOrm
         public DBSelect<T> Include(string _memberName)
         {
             if(_memberName.ToLower() == "all" || _memberName == "*")
-                IncludeAll();
+                IncludeAll(); // IncludeAll appèle Include(string _memberName)
+                              // sur chaque membre de type Base ou dérivé ou List<Base ou dérivé>
             else
             {
                 if(!Includeds.Contains(_memberName))
                     Includeds.Add(_memberName);
+                if(!SelectedMembers.Contains(_memberName))
+                    SelectedMembers.Add(_memberName);
             }
             return this;
         }
@@ -84,15 +91,12 @@ namespace SqlOrm
             foreach(PropertyInfo _prInfo in typeof(T).GetProperties())
             {
                 SqlType _sqlType = SqlCSharp.GetSqlType(_prInfo.PropertyType);
-                if(_sqlType == SqlType.CLASS)
-                    Include(_prInfo.Name);
-                else
-                if(_sqlType == SqlType.LIST 
+                if(_sqlType == SqlType.CLASS
+                || (_sqlType == SqlType.LIST 
                     && PropertyHelper.IsMappableProperty(_prInfo)
-                    && TypeHelper.IsListOf(_prInfo.PropertyType, typeof(Base)))
+                    && TypeHelper.IsListOf(_prInfo.PropertyType, typeof(Base))))
                         Include(_prInfo.Name);
             }
         }
-
     }
 }

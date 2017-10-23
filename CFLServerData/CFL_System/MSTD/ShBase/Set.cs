@@ -5,6 +5,12 @@ namespace MSTD.ShBase
 {
     public class Set
     {
+        /// <summary>
+        /// Ce constructeur est utile pour utiliser le <see cref="Set"/> comme une collection
+        /// de <see cref="ClassProxy"/> de types non imposés.
+        /// </summary>
+        public Set(){ }
+
         public Set(Type type)
         {
             Type = type?? throw new ArgumentNullException("type");
@@ -24,7 +30,7 @@ namespace MSTD.ShBase
         public ClassProxy Factory()
         {
             Base _entity = (Activator.CreateInstance(Type)) as Base;
-            ClassProxy _proxy = new ClassProxy(_entity)
+            ClassProxy _proxy = new ClassProxy(Context, _entity)
             {
                 Context = Context
             };
@@ -35,31 +41,80 @@ namespace MSTD.ShBase
         /// Trouve ou ajoute au <see cref="Set"/> le <see cref="ClassProxy"/> construit
         /// sur entity.
         /// </summary>
-        public ClassProxy Attach(Base entity)
+        public ClassProxy GetOrAttachProxy(Base entity)
         {
-            ClassProxy _proxy = Proxy(entity);
+            ClassProxy _proxy = GetProxy(entity);
             if(_proxy == null)
             {
-                _proxy = new ClassProxy(entity)
+                _proxy = new ClassProxy(Context, entity)
                 {
                     Context = Context
                 };
+                AddProxy(_proxy);
             }
+
             return _proxy;
         }
 
-        private ClassProxy Proxy(Base _entity)
+        /// <summary>
+        /// Ajoute un <see cref="ClassProxy"/> à ce <see cref="Set"/>.
+        /// Ne vérifie pas qu'il n'y soit déja.
+        /// </summary>
+        public void AddProxy(ClassProxy proxy)
         {
-            ClassProxy _proxy = null;
+            __proxies.Add(proxy);
+        }
 
-            foreach(WeakReference<ClassProxy> _ref in __proxies)
+        public bool IsAttached(Base entity)
+        {
+            return GetProxy(entity) != null;
+        }
+
+        /// <summary>
+        /// Retourne la <see cref="ClassProxy"/> de entity, 
+        /// ou null si non trouvé.
+        /// </summary>
+        public ClassProxy GetProxy(Base entity)
+        {
+            if(entity == null)
+                return null;
+            return GetProxy(entity.ID);
+        }
+
+        public ClassProxy GetProxy(Guid id)
+        {
+            foreach( ClassProxy _proxy in __proxies)
             {
-                if(_ref.TryGetTarget(out _proxy) && _proxy != null && _proxy.ID == _entity.ID)
+                if(_proxy != null && _proxy.ID == id)
                     return _proxy;
             }
             return null;
         }
 
-        private List<WeakReference<ClassProxy>> __proxies = new List<WeakReference<ClassProxy>>();
+        public IEnumerable<ClassProxy> ClassProxies()
+        {
+            foreach(ClassProxy _proxy in __proxies)
+            {
+                yield return _proxy;
+            }
+        }
+
+        public void UpdateEntities()
+        {
+            foreach(ClassProxy _proxy in __proxies)
+            {
+                if(_proxy != null)
+                    _proxy.UpdateEntityValues();
+            }
+        }
+
+        private List<ClassProxy> __proxies = new List<ClassProxy>();
+    }
+
+    public class Set<T> : Set where T : class
+    {
+        public Set()
+            :base(typeof(T))
+        { }
     }
 }

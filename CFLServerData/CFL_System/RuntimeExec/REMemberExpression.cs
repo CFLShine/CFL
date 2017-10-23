@@ -170,22 +170,19 @@ namespace RuntimeExec
         /// <summary>
         /// Retourne l'expression représentée par une string ( ex. "a.b.c")
         /// </summary>
-        public string Display
+        public override string Display()
         {
-            get
+            string _expression = "";
+            if(Names != null)
             {
-                string _expression = "";
-                if(Names != null)
+                foreach(string _name in Names)
                 {
-                    foreach(string _name in Names)
-                    {
-                        if(_expression != "")
-                            _expression += ".";
-                        _expression += _name;
-                    }
+                    if(_expression != "")
+                        _expression += ".";
+                    _expression += _name;
                 }
-                return _expression;
             }
+            return _expression;
         }
 
         public REExpression Expression { get; set; } = null;

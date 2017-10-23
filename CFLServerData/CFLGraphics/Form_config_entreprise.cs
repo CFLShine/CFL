@@ -26,7 +26,7 @@ namespace CFL_1.CFLGraphics
         public override void BecomeCurrent()
         {
             if(__graphControl.Project == null)
-                loadProject();
+                LoadProject();
             if(__graphControl.Project == null)
                 NewOne();
         }
@@ -60,17 +60,17 @@ namespace CFL_1.CFLGraphics
 
         public override bool Save()
         {
-            DBContext_CFL.instance.Attach(__graphControl.Project);
+            DBContext_CFL.instance.GetOrAttach(__graphControl.Project);
             return DBContext_CFL.instance.SaveChanges();
         }
 
-        private void loadProject()
+        private void LoadProject()
         {
             GraphProject _project = null;
 
-            DBContext_CFL _db = DBContext_CFL.instance;
+            DBContext_CFL dbContext = DBContext_CFL.instance;
             
-            _project = _db.Select<GraphProject>("*").Where("ProjectName = 'Configuration entreprise'").Include("ALL").First();
+            _project = dbContext.Select<GraphProject>("*").Where("ProjectName = 'Configuration entreprise'").Include("ALL").First();
 
             if(_project != null)
             {

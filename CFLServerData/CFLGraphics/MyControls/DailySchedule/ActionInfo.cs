@@ -17,8 +17,8 @@ namespace DailySchedule
 
         public void Display()
         {
-            Control.TextBoxHeure.Text = HeureDisplay.Display;
-            Control.TextBoxAction.Text = ActionDisplay.Display;
+            Control.TextBoxHeure.Text = HeureDisplay.Display();
+            Control.TextBoxAction.Text = ActionDisplay.Display();
         }
 
         public DataDisplay HeureDisplay { get; set; }
