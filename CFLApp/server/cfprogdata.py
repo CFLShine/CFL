@@ -5,23 +5,24 @@ from flask_restful import Api, Resource
 app = Flask(__name__)
 api = Api(app)
 
+servpath = "E:/dev/CFL/CFLApp/server/"
 
 @app.route('/data/<path:filepath>')
 def getData(filepath):
     try:
-        return CfProgData("E:/dev/CFLApp/server/" + filepath).parse_data().toJSON()
+        return CfProgData(servpath + filepath).parse_data().toJSON()
     except Exception as e:
         return "{\"err\": \"" + str(e) + "\"}"
 
 
 @app.route('/data/users')
 def getUsers():
-    return open('E:/dev/CFLApp/server/users.json').read()
+    return open(servpath + 'users.json').read()
 
 
 @app.route('/connect/<username>/<password>')
 def connect(username, password):
-    users = json.loads(open('E:/dev/CFLApp/server/users.json'), 'utf-8')
+    users = json.loads(open(servpath + 'users.json'), 'utf-8')
     if users[username]["password"] == password:
         return '{"connect_accepted": true}';
     return '{"connect_accepted": false}';
