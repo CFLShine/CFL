@@ -1,5 +1,0 @@
-Agent=BOULET
-Provenance=HOPITAL DE CHAMBERY
-Nature=PIECES ANATOMIQUES
-Four=1
-NoOrdre=1335

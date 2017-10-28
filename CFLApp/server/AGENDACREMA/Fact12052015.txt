@@ -1,7 +1,0 @@
-Id=12052015
-Jourdate=12/05/2015
-FactureZone_cremation2=True
-FactureZone_ceremonie6=True
-FactureZone_ceremonie3=True
-FactureZone_ceremonie5=True
-FactureZone_ceremonie1=True

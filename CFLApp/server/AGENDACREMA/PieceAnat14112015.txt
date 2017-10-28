@@ -1,6 +1,0 @@
-Id=14112015
-Agent=AVERONE
-Provenance=HOPITAL CHAMBERY
-Nature=1 FOETUS
-Four=1
-NoOrdre=1629

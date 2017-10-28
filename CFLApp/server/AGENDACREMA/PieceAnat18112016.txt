@@ -1,6 +1,0 @@
-Id=18112016
-Agent=AVERONE
-Provenance=MEDIPOLE
-Nature=PIECES ANATOMIQUES
-Four=1
-NoOrdre=1636

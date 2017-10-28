@@ -1,6 +1,0 @@
-Id=25022015
-Agent=NANTOIS
-Provenance=HOPITAL DE CHAMBERY
-Nature=1 FOETUS
-Four=1
-NoOrdre=344

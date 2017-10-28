@@ -1,6 +1,0 @@
-Id=21052015
-Agent=AVERONE
-Provenance=HIOPITAL CHAMBERY
-Nature=1 FOETUS
-Four=1
-NoOrdre=791

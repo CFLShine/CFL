@@ -1,7 +1,0 @@
-Id=-1
-With ZONE
-Id=0
-CodeDft=7143
-DemiJour=0
-Pos=1
-End With

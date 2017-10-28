@@ -1,8 +1,0 @@
-Id=1989
-With DEFUNT
-Id=1127
-Nom=PALAIS
-Prenom=ERIC
-DecesDate=24/01/1989
-CodeDft=1127
-End With

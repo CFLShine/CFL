@@ -1,6 +1,0 @@
-Id=30102014
-JourDate=30/10/2014
-With ZONE
-Id=0
-UsedBy=Libre
-End With

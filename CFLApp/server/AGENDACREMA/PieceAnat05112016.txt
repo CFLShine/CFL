@@ -1,6 +1,0 @@
-Id=5112016
-Agent=RIVIERE
-Provenance=GENDARMERIE
-Nature=PIECES ANATOMIQUES
-Four=1
-NoOrdre=1564

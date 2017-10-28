@@ -1,6 +1,0 @@
-Id=14092017
-Agent=MULDER
-Provenance=HOPITAL DE CHAMBERY
-Nature=2 FOETUS N° 24 ET N°25
-Four=FTX
-NoOrdre=1270

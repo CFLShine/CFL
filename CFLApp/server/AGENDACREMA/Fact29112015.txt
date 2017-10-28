@@ -1,3 +1,0 @@
-Id=29112015
-Jourdate=29/11/2015
-FactureZone4=true

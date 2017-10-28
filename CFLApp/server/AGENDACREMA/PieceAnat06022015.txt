@@ -1,6 +1,0 @@
-Id=6022015
-Agent=AVERONE
-Provenance=HOPITAL BELLEY
-Nature=PIECES ANATOMIQUES
-Four=2
-NoOrdre=216

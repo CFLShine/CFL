@@ -1,4 +1,0 @@
-Id=16082014
-Jourdate=16/08/2014
-FactureZone2=True
-FactureZone5=True

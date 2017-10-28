@@ -1,6 +1,0 @@
-Id=10072017
-Agent=MULDER
-Provenance=HOPITAL DE CHAMBERY
-Nature=FOETUS
-Four=FT3
-NoOrdre=951

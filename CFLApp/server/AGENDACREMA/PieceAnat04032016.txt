@@ -1,6 +1,0 @@
-Id=4032016
-Agent=AVERONE
-Provenance=MEDIPOLE
-Nature=pièce anatomique
-Four=1
-NoOrdre=354

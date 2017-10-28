@@ -1,6 +1,0 @@
-Id=29052015
-Agent=averone
-Provenance=MEDIPOLE
-Nature=PIECES ANATOMIQUES
-Four=1
-NoOrdre=831

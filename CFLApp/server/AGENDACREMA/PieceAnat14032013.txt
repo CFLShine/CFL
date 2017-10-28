@@ -1,5 +1,0 @@
-Agent=averone
-Provenance=hopital chambery + MEDIPOLES (CHALLES LES EAUX)
-Nature=pieces anatomiques
-Four=1
-NoOrdre=345

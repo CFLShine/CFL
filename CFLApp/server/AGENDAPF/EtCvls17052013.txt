@@ -1,9 +1,0 @@
-Id=17052013
-With ZONE
-Id=13
-EtatCivilChecked=True
-End With
-With ZONE
-Id=14
-EtatCivilChecked=True
-End With

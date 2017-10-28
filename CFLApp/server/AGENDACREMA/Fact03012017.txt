@@ -1,8 +1,0 @@
-Id=3012017
-Jourdate=03/01/2017
-FactureZone7=true
-FactureZone2=true
-FactureZone6=true
-FactureZone4=true
-FactureZone5=true
-FactureZone1=true

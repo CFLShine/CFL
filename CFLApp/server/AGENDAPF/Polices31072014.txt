@@ -1,6 +1,0 @@
-Id=31072014
-JourDate=31/07/2014
-With ZONE
-Id=0
-PoliceChecked=True
-End With

@@ -1,6 +1,0 @@
-Id=10122014
-JourDate=10/12/2014
-With ZONE
-Id=6
-PoliceChecked=True
-End With

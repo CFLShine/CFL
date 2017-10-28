@@ -1,5 +1,0 @@
-Agent=BOULET
-Provenance=MEDIPOLES
-Nature=PIECES ANATOMIQUES
-Four=1
-NoOrdre=650

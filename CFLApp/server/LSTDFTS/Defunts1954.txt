@@ -1,8 +1,0 @@
-Id=1954
-With DEFUNT
-Id=6366
-Nom=BABOULAZ
-Prenom=JEAN PIERRE
-DecesDate=31/08/1954
-CodeDft=6366
-End With

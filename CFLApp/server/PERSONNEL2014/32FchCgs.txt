@@ -1,8 +1,0 @@
-Id=-1
-Version=1
-DroitCongesFC=243:00
-CongesRestantsFC=00:00
-EpargneFC=00:00
-CongesAnPrecFC=127:00
-EpargneesFC=00:00
-varHeuresSupAnDernier=00:00

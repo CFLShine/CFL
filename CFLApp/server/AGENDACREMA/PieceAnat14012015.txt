@@ -1,6 +1,0 @@
-Id=14012015
-Agent=BOULET
-Provenance=HOPITAL DE CHAMBERY
-Nature=FOETUS  2
-Four=1
-NoOrdre=80

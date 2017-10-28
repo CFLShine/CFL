@@ -1,5 +1,0 @@
-Agent=boulet
-Provenance=hospital chambery
-Nature=2 foetus
-Four=1
-NoOrdre=984

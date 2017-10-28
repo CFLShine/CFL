@@ -1,5 +1,0 @@
-Id=28012016
-Jourdate=28/01/2016
-FactureZone1=true
-FactureZone5=true
-FactureZone6=true

@@ -1,6 +1,0 @@
-Id=28112014
-Agent=avérone
-Provenance=hopital chambéry
-Nature=1 foetus
-Four=2
-NoOrdre=1453

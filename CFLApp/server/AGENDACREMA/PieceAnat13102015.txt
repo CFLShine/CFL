@@ -1,6 +1,0 @@
-Id=13102015
-Agent=LOIC
-Provenance=HOPITAL DE CHAMBERY
-Nature=FOETUS
-Four=2
-NoOrdre=1469

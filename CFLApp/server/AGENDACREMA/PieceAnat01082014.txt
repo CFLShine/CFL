@@ -1,6 +1,0 @@
-Id=1082014
-Agent=averone
-Provenance=hopital chambery
-Nature=pieces anatomiques
-Four=1
-NoOrdre=943

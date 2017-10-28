@@ -1,5 +1,0 @@
-Id=6281
-DefuntNom=CHEVALLIER
-DefuntPrenom=PAULE
-DefuntDecesDate=  /  /
-CodeDefunt=6281

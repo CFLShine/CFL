@@ -1,6 +1,0 @@
-Id=8082017
-Agent=MULDER
-Provenance=HOPITAL DE CHAMBERY
-Nature=FOETUS 17 ANA 20
-Four=FTX
-NoOrdre=1100

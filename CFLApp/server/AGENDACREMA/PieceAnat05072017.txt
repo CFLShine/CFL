@@ -1,6 +1,0 @@
-Id=5072017
-Agent=THOMAS
-Provenance=CHAMBERY
-Nature=PIECES ANATOMIQUE
-Four=FTX
-NoOrdre=928

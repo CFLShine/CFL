@@ -1,6 +1,0 @@
-Id=12112014
-JourDate=12/11/2014
-With ZONE
-Id=1
-EtatCivilChecked=True
-End With

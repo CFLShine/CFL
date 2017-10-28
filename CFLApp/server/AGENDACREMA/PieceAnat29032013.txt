@@ -1,5 +1,0 @@
-Agent=averone
-Provenance=medipoles challes les eaux
-Nature=pieces anatomiques
-Four=1
-NoOrdre=413

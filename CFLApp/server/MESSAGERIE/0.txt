@@ -1,5 +1,0 @@
-Id=-1
-With CONVERSATION
-Id=18
-conversation=[enter]-----------------------[enter]PACHOUD Nicolas[enter][enter]ALERTE VOTRE ORDINATEUR EST SOUS SURVEILLANC[enter]
-End With

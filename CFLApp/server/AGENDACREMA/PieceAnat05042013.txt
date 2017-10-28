@@ -1,5 +1,0 @@
-Agent=averone
-Provenance=hopital chambery
-Nature=pieces anatomiques
-Four=2
-NoOrdre=442

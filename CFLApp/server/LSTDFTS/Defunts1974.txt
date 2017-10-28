@@ -1,8 +1,0 @@
-Id=1974
-With DEFUNT
-Id=1970
-Nom=PERRIER-GROS-CLAUDE
-Prenom=MARCEL
-DecesDate=19/11/1974
-CodeDft=1970
-End With

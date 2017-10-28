@@ -1,3 +1,0 @@
-Id=25092016
-Jourdate=25/09/2016
-FactureZone4=true

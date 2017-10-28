@@ -1,6 +1,0 @@
-Id=29042014
-Agent=BOULET
-Provenance=HOPITAL DE CHAMBERY
-Nature=FOETUS
-Four=1
-NoOrdre=540

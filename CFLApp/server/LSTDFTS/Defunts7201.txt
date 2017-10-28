@@ -1,8 +1,0 @@
-Id=7201
-With DEFUNT
-Id=10057
-Nom=DURAND
-Prenom=CELINE
-DecesDate=22/01/7201
-CodeDft=10057
-End With

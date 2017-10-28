@@ -1,5 +1,0 @@
-Id=24122012
-With ZONE
-Id=13
-PoliceChecked=True
-End With

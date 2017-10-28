@@ -1,6 +1,0 @@
-Id=12042014
-Agent=AVERONE
-Provenance=MEDIPOLE
-Nature=PIECES ANATOMIQUES ( 2 CARTONS )
-Four=1
-NoOrdre=466

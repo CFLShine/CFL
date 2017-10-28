@@ -1,9 +1,0 @@
-Id=18042014
-Jourdate=18/04/2014
-FactureZone0=True
-FactureZone1=True
-FactureZone3=True
-FactureZone4=True
-FactureZone2=True
-FactureZone8=True
-FactureZone5=True

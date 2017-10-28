@@ -1,6 +1,0 @@
-Id=29022016
-Jourdate=29/02/2016
-FactureZone4=true
-FactureZone5=true
-FactureZone2=true
-FactureZone8=False

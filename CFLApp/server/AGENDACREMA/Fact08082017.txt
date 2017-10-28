@@ -1,6 +1,0 @@
-Id=8082017
-Jourdate=08/08/2017
-FactureZone3=true
-FactureZone9=true
-FactureZone4=true
-FactureZone8=True

@@ -1,6 +1,0 @@
-Id=2052014
-Agent=BOULET
-Provenance=MEDIPOLE
-Nature=PIECES ANATOMIQUES
-Four=1
-NoOrdre=556

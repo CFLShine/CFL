@@ -1,6 +1,0 @@
-Id=22012015
-Agent=averone
-Provenance=medipole
-Nature=1 piece anatomique
-Four=1
-NoOrdre=129

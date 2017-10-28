@@ -1,6 +1,0 @@
-Id=1122015
-Agent=
-Provenance=
-Nature=
-Four=
-NoOrdre=

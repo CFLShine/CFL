@@ -1,5 +1,0 @@
-Agent=NANTOIS
-Provenance=PFM VOIRON                         HOPITAL CHAMBERY      
-Nature=PIECES ANATOMIQUES     +   2 FOETUS 
-Four=1
-NoOrdre=844

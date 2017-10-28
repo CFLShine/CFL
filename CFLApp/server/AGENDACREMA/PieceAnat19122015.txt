@@ -1,6 +1,0 @@
-Id=19122015
-Agent=THOMAS
-Provenance=MEDIPOLE
-Nature=PIECE ANATOMIQUE
-Four=1
-NoOrdre=1786

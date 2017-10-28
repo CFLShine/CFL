@@ -1,8 +1,0 @@
-Id=1997
-With DEFUNT
-Id=8765
-Nom=GERVAISE
-Prenom=SERGE
-DecesDate=14/07/1997
-CodeDft=8765
-End With

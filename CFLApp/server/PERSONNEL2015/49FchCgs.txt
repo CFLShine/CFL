@@ -1,4 +1,0 @@
-Id=49
-DroitCongesFC=00:00
-CongesRestantsFC=00:00
-EpargneFC=00:00

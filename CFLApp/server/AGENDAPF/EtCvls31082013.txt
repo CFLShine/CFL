@@ -1,5 +1,0 @@
-Id=31082013
-With ZONE
-Id=0
-EtatCivilChecked=False
-End With

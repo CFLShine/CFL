@@ -1,4 +1,0 @@
-"proxies": [{
-    "path": "/api",
-    "proxyUrl": "http://176.129.40.225:5003"
-  }]

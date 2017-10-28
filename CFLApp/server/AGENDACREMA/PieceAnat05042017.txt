@@ -1,6 +1,0 @@
-Id=5042017
-Agent=THOMAS
-Provenance=HOPITAL CHAMBERY
-Nature=PIECES ANATOMIQUE
-Four=1
-NoOrdre=527

@@ -1,6 +1,0 @@
-Id=18102016
-Agent=NANTOIS
-Provenance=HOPITAL DE CHAMBERY
-Nature=2 FOETUS
-Four=1
-NoOrdre=1463

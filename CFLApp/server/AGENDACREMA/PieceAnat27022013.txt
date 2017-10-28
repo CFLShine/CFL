@@ -1,5 +1,0 @@
-Agent=boulet
-Provenance=HOPITAL DE CHAMBERY
-Nature=FOETUS 4 CORPS
-Four=2
-NoOrdre=269

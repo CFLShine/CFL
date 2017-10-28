@@ -1,8 +1,0 @@
-Id=2122015
-Jourdate=02/12/2015
-FactureZone7=true
-FactureZone2=true
-FactureZone0=true
-FactureZone8=True
-FactureZone1=true
-FactureZone6=true

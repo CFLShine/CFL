@@ -1,6 +1,0 @@
-Id=4102016
-Agent=THOMAS
-Provenance=HOPITAL
-Nature=PIECES ANATOMIQUE
-Four=1
-NoOrdre=1413

@@ -1,6 +1,0 @@
-Id=4052016
-Agent=LOIC
-Provenance=HOPITAL DE CHAMBERY
-Nature=1FOETUS 18h00 + 1 FOETUS 18h30
-Four=1
-NoOrdre=698

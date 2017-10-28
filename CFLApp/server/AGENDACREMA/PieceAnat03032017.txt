@@ -1,6 +1,0 @@
-Id=3032017
-Agent=THOMAS
-Provenance=CHAMBERY
-Nature=PIECES ANATOMIQUE
-Four=1
-NoOrdre=383

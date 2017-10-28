@@ -1,8 +1,0 @@
-Id=1967
-With DEFUNT
-Id=5399
-Nom=FURLANO
-Prenom=MARIA
-DecesDate=11/01/1967
-CodeDft=5399
-End With

@@ -1,6 +1,0 @@
-Id=3112016
-Agent=DAVID
-Provenance=HOPITAL CHAMBERY
-Nature=1 FOETUS
-Four=
-NoOrdre=1550

@@ -1,8 +1,0 @@
-Id=1975
-With DEFUNT
-Id=3019
-Nom=BILLET
-Prenom=MARIO
-DecesDate=20/10/1975
-CodeDft=3019
-End With

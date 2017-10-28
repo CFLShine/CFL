@@ -1,6 +1,0 @@
-Id=29062015
-Agent=NANTOIS
-Provenance=HOPITAL CHAMBERY
-Nature=1 FOETUS
-Four=2
-NoOrdre=983

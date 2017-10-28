@@ -1,5 +1,0 @@
-Agent=NANTOIS
-Provenance=CH DE CHAMBERY          MEDIPOLE
-Nature=  4  FOETUS          +PIECES ANATOMIQUES
-Four=1
-NoOrdre=887

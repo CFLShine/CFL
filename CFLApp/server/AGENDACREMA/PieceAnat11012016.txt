@@ -1,6 +1,0 @@
-Id=11012016
-Agent=AVERONE
-Provenance=1 FOETUS
-Nature=HOPITAL CHAMBERY
-Four=2
-NoOrdre=65

@@ -1,7 +1,0 @@
-Id=9112015
-Jourdate=09/11/2015
-FactureZone2=true
-FactureZone8=False
-FactureZone5=true
-FactureZone6=true
-FactureZone3=true

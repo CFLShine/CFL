@@ -1,5 +1,0 @@
-Agent=NANTOIS
-Provenance=CENTRE HOPITALIER DE CHAMBERY
-Nature=1  FOETUS
-Four=1
-NoOrdre=1305

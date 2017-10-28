@@ -1,3 +1,0 @@
-Id=24062017
-Jourdate=24/06/2017
-FactureZone6=true

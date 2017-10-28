@@ -1,8 +1,0 @@
-Id=1950
-With DEFUNT
-Id=3807
-Nom=MERMOZ
-Prenom=ANGELE
-DecesDate=01/01/1950
-CodeDft=3807
-End With

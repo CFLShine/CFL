@@ -1,4 +1,0 @@
-Id=24012016
-Jourdate=24/01/2016
-FactureZone4=true
-FactureZone8=False

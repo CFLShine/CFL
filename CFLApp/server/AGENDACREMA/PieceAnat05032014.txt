@@ -1,6 +1,0 @@
-Agent=NANTOIS
-Provenance=PF FLORET ALBERTVILLE
-Nature= 1 FOETUS
-Four=1
-NoOrdre=296
-Id=-1

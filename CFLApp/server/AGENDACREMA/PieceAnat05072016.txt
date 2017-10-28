@@ -1,6 +1,0 @@
-Id=5072016
-Agent=LOIC
-Provenance=HOPITAL DE CHAMBERY
-Nature=PIECES ANTOMIQUES
-Four=1
-NoOrdre=990

@@ -1,6 +1,0 @@
-Id=23012015
-Agent=averone
-Provenance=ALBERTVILLE PF FLORET
-Nature=ENFANT NE  SANS VIE   ETHAN ELIOT-DEBRA
-Four=1
-NoOrdre=137

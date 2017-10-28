@@ -1,7 +1,0 @@
-Id=23062017
-Jourdate=23/06/2017
-FactureZone6=true
-FactureZone5=true
-FactureZone4=true
-FactureZone2=true
-FactureZone1=true

@@ -1,6 +1,0 @@
-Id=2092017
-Agent=AVERONE
-Provenance=HOPITAL CHAMBERY
-Nature=3 FOETUS
-Four=
-NoOrdre=1213

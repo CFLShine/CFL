@@ -1,5 +1,0 @@
-Agent=boulet
-Provenance=hopital chambery
-Nature=2 foetus 13 ANA 08   13 ANA 09
-Four=1
-NoOrdre=303 b

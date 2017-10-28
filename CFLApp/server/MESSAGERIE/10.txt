@@ -1,9 +1,0 @@
-Id=-1
-With CONVERSATION
-Id=18
-conversation=[enter]-----------------------[enter]BASSY Martyne - 03/03/2016 14:07:48[enter][enter]Re-bonjour [enter][enter]-----------------------[enter]BASSY Martyne - 03/03/2016 14:08:23[enter][enter]comme je te l'ai indiqué c'est bien la marbrerie YENNOISE qui assure l'ouverture et la fermeture du caveau de MADAME CURTELIN[enter][enter]-----------------------[enter]PACHOUD Nicolas - 05/07/2016 08:29:27[enter][enter]salut martine, j'ai décalé l'inhumation de l'urne pour marion qui était à 12h15 à 11h45... c'est pas un horaire fabuleux mais sa fera toujour moins tard pour les gars, j'ai pas pu faire mieu que 30 min plus tot [enter]
-End With
-With CONVERSATION
-Id=20
-conversation=[enter]-----------------------[enter]BRUN Michaël - 23/06/2016 16:15:32[enter][enter]Je t'ai fais suivre le plan de Chindrieux sur ta boite mail, peux juste me dire si tu as bien recu et le donner à Véro, il doit aller vérifier s'il y'a une dalle en début d'après-midi normalement.Merci[enter][enter]-----------------------[enter]BRUN Michaël - 23/06/2016 16:15:32[enter][enter]Je te faxe bassens et marion devrait avoir barby assez rapidement[enter][enter]-----------------------[enter]BASSY Martine - 23/06/2016 16:17:23[enter][enter]michael pour chambery le vieux après info c'est un caveau devant[enter]
-End With

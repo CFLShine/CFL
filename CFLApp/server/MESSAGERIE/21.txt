@@ -1,5 +1,0 @@
-Id=-1
-With CONVERSATION
-Id=4
-conversation=[enter]-----------------------[enter]EHNY Maxime - 19/11/2015 15:27:29[enter][enter]Sébastien viendra vous remplacer pour 15h50.[enter]
-End With

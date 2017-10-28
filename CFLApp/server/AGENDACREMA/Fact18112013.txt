@@ -1,3 +1,0 @@
-FactureZone5=True
-FactureZone7=True
-FactureZone8=False

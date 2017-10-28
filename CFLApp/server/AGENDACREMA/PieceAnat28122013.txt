@@ -1,5 +1,0 @@
-Agent=averone
-Provenance=HOPITAL CHAMBERY
-Nature=3 FOETUS
-Four=2
-NoOrdre=1573

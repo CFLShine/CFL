@@ -1,6 +1,0 @@
-Id=20022016
-Agent=AVERONE
-Provenance=HOPITAL DE CHAMBERY
-Nature=1 FOETUS
-Four=1
-NoOrdre=296

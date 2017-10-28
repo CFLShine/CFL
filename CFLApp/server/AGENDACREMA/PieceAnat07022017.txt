@@ -1,6 +1,0 @@
-Id=7022017
-Agent=THOMAS
-Provenance=VOIRON
-Nature=PIECE ANATOMIQUE
-Four=1
-NoOrdre=252
