@@ -3,7 +3,7 @@ from src.client.start import start
 from mongoengine import *
 from src.settings import Config
 import devpy.develop as log
-from src.server.import_models import *
+from src.cflserver.import_models import *
 
 # Connexion à la Database
 log.info(f"Connecting to database [{Config.db_name}@{Config.db_host}:{Config.db_port}]")
