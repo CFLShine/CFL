@@ -7,6 +7,3 @@ class Deces(Document):
     heure = DateTimeField(default=None)
     medecin = StringField(default="")
 
-
-if (__name__ == "__main__"):
-    print ('fuck')
