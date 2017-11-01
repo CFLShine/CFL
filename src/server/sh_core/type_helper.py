@@ -1,6 +1,3 @@
-import builtins
-
-
 def isPrimitive(object):
     return isinstance(object, (bool, int, float, complex,  str))
 

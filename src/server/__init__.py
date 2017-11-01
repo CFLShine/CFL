@@ -1,9 +1,9 @@
-from flask import Flask, render_template
-from src.client.start import start
+from flask import Flask
 from mongoengine import *
+
+from src.client.start import start
+from src.server.import_models import *
 from src.settings import Config
-import devpy.develop as log
-from src.cflserver.import_models import *
 
 # Connexion à la Database
 log.info(f"Connecting to database [{Config.db_name}@{Config.db_host}:{Config.db_port}]")

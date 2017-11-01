@@ -1,6 +1,7 @@
 from mongoengine import *
 
-from src.cflserver.cfl_data.coordonnees.commune import Commune
+from src.server.cfl_data.coordonnees.commune import Commune
+
 
 class Adresse(Document):
     adresse1 = StringField(default = "")

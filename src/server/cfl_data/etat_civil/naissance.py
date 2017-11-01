@@ -1,7 +1,6 @@
 from mongoengine import *
 
-
-from src.cflserver.cfl_data.coordonnees.lieu import Lieu
+from src.server.cfl_data.coordonnees.lieu import Lieu
 
 
 class Naissance(Document):
