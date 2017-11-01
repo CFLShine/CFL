@@ -1,11 +1,13 @@
-from src.settings import Config
-import json
 import importlib
+import json
+
 import devpy.develop as log
+
+from src.settings import Config
 
 
 def start(app):
-    packages = json.load(open('../client/blueprints.json'))
+    packages = json.load(open('./blueprints.json'))
 
     for package in packages:
         log.info(f"Registering blueprint {package}")
