@@ -1,9 +1,16 @@
 from mongoengine import *
 
-from src.server.cfl_data.etat_civil.identite import Identite
-from src.server.cfl_data.etat_civil.naissance import Naissance
-
 
 class Personne(Document):
-    identite = ReferenceField(Identite, default = None)
-    naissance = ReferenceField(Naissance, default = None)
+    meta = {'allow_inheritance': True}
+
+    identite = ReferenceField('Identite', default=None)
+    naissance = ReferenceField('Naissance', default=None)
+    deces = ReferenceField('Deces', default = None)
+
+    situation = StringField(default="") # enumSituation
+    situation_avec = ReferenceField('Personne', default=None)
+
+    pere = ReferenceField('Personne', default=None)
+    mere = ReferenceField('Personne', default=None)
+
