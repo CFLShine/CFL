@@ -3,7 +3,8 @@ from mongoengine import *
 import src.server.cfl_data.etat_civil.personne as personne
 
 class Defunt(Document):
-    personne = ReferenceField(personne.Personne, default=None, reverse_delete_rule=CASCADE)
+    personne = ReferenceField('Personne', default=None, reverse_delete_rule=CASCADE)
+    pouvoir = ReferenceField('Personne', default=None)
     operations = ListField(ReferenceField('OperationFune'), default=list)
 
 if __name__ == '__main__':
@@ -12,6 +13,7 @@ if __name__ == '__main__':
     import src.server.cfl_data.etat_civil.naissance as naissance
     import src.server.cfl_data.coordonnees.lieu as lieu
     import src.server.cfl_data.coordonnees.adresse as adresse
+    import src.server.cfl_data.defunt.inhumation as inhumation
     from src.settings import Config
 
     connect(Config.db_name, host=Config.db_host, port=Config.db_port)
@@ -47,13 +49,34 @@ if __name__ == '__main__':
 
     print("try to find back defunt Michel DUPONT")
 
+    #    defunt.personne.identite.nom == 'DUPONT'
+    # && defunt.personne.identite.prenom == 'Michel'
+    #
+    #    defunt.personne.identite {nom='DUPONT'
+
     from mongoengine.queryset.visitor import Q
 
-    identites = identite.Identite.objects(Q(nom='DUPONT')&Q(prenom='Michel'))
+    #identites = identite.Identite.objects(Q(nom='DUPONT')&Q(prenom='Michel'))
+    identites = identite.Identite.objects(__raw__={'$and':[{'nom':'DUPONT'},{'prenom':'Michel'}]})
     print(identites[0].nom + ' ' + identites[0].prenom)
 
     personnes = personne.Personne.objects(identite=identites[0].id)
     print(personnes[0].id)
 
-    defunt = Defunt.objects(personne=personnes[0].id)[0]
+    id = personnes[0].id
+
+    #defunt = Defunt.objects(__raw__={'personne': id})[0]
+    defunt = Defunt.objects(personne=id)[0]
     print(defunt.id)
+
+    """
+    operation_fune = inhumation.Inhumation()
+    operation_fune.enveloppe = "cercueil"
+    operation_fune.commentaire = "un commentaire"
+    operation_fune.defunt = defunt
+
+    operation_fune.save(cascade = True)
+
+    defunt.operations.append(operation_fune)
+    defunt.save(cascade = True)
+    #"""
