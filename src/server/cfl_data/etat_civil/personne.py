@@ -1,5 +1,6 @@
 from mongoengine import *
 
+print("importing personne")
 
 class Personne(Document):
     meta = {'allow_inheritance': True}

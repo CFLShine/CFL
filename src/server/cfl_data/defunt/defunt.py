@@ -1,6 +1,5 @@
 from mongoengine import *
 
-
 class Defunt(Document):
     personne = ReferenceField('Personne', default=None, reverse_delete_rule=CASCADE)
     pouvoir = ReferenceField('Personne', default=None)
