@@ -1,6 +1,5 @@
 from mongoengine import *
 
-import src.server.cfl_data.etat_civil.personne as personne
 
 class Defunt(Document):
     personne = ReferenceField('Personne', default=None, reverse_delete_rule=CASCADE)
@@ -8,12 +7,6 @@ class Defunt(Document):
     operations = ListField(ReferenceField('OperationFune'), default=list)
 
 if __name__ == '__main__':
-    import src.server.cfl_data.etat_civil.personne as personne
-    import src.server.cfl_data.etat_civil.identite as identite
-    import src.server.cfl_data.etat_civil.naissance as naissance
-    import src.server.cfl_data.coordonnees.lieu as lieu
-    import src.server.cfl_data.coordonnees.adresse as adresse
-    import src.server.cfl_data.defunt.inhumation as inhumation
     from src.settings import Config
 
     connect(Config.db_name, host=Config.db_host, port=Config.db_port)
@@ -49,25 +42,18 @@ if __name__ == '__main__':
 
     print("try to find back defunt Michel DUPONT")
 
-    #    defunt.personne.identite.nom == 'DUPONT'
-    # && defunt.personne.identite.prenom == 'Michel'
-    #
-    #    defunt.personne.identite {nom='DUPONT'
-
     from mongoengine.queryset.visitor import Q
+    import src.server.sh_core.db_helper.dbobjectsprovider as objectsprovider
 
-    #identites = identite.Identite.objects(Q(nom='DUPONT')&Q(prenom='Michel'))
-    identites = identite.Identite.objects(__raw__={'$and':[{'nom':'DUPONT'},{'prenom':'Michel'}]})
-    print(identites[0].nom + ' ' + identites[0].prenom)
+    defunt = objectsprovider.getDefunt_searchIn_Identite({'$and': [{'nom': 'DUPONT'}, {'prenom': 'Michel'}]})[0]
 
-    personnes = personne.Personne.objects(identite=identites[0].id)
-    print(personnes[0].id)
-
-    id = personnes[0].id
-
-    #defunt = Defunt.objects(__raw__={'personne': id})[0]
-    defunt = Defunt.objects(personne=id)[0]
     print(defunt.id)
+    print(defunt.personne.identite.nom)
+    exec(
+        """
+        defunt.personne.identite.nom = 'Machin'
+        """)
+    print(defunt.personne.identite.nom)
 
     """
     operation_fune = inhumation.Inhumation()
