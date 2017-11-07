@@ -1,9 +1,8 @@
 from mongoengine import *
 
-import src.server.cfl_data.defunt.operation_fune as operationFune
 
-
-class Ceremonie(operationFune.OperationFune):
+class Ceremonie(Document):
+    operation = EmbeddedDocumentField('OperationFune', default=None)
     genre = StringField(default="") #civile, religieuse, etc
     registreCondoleances = BooleanField(default=False)
     bourseDons = BooleanField(default=False)

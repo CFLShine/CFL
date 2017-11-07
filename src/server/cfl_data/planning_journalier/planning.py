@@ -5,6 +5,8 @@ class Planning(Document):
     intitule = StringField(default="")
 
     """
-    Le code qui sera éxécuté pour afficher le contenu d'une zone
+    Un ActionLogic contient heureCode et actionCode,
+    le code qui sera executé pour afficher l'eure et l'action
+    correspondants à une opération.
     """
-    zonesLogic = StringField(default="")
+    zonesLogic = ListField('ActionLogic', default=list())

@@ -1,9 +1,8 @@
 from mongoengine import *
 
-import src.server.cfl_data.defunt.operation_fune as operationFune
 
-class Inhumation(operationFune.OperationFune):
-
+class Inhumation(Document):
+    operation = EmbeddedDocumentField('OperationFune', default=None)
     enveloppe = StringField(default="") # EnumEnveloppe
     sepulture = ReferenceField('Sepulture', default=None)
     scellementUrne = BooleanField(default=False)

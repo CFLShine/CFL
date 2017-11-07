@@ -1,10 +1,7 @@
 from mongoengine import *
 
-print("importing personne")
 
 class Personne(Document):
-    meta = {'allow_inheritance': True}
-
     identite = ReferenceField('Identite', default=None)
     naissance = ReferenceField('Naissance', default=None)
     deces = ReferenceField('Deces', default = None)

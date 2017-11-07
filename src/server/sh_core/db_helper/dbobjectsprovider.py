@@ -5,8 +5,21 @@ from src.settings import Config
 connect(Config.db_name, host=Config.db_host, port=Config.db_port)
 
 def getDocuments(classtype, members, conditions):
+    """
+    utilisation  : nous voulons les objets de la classe Personne répondants à\n
+    Personne.identite.nom == 'DUPONT' and Personne.identite.prenom == 'Michel' : \n
+    getDocuments(Persone, (identite,), {'$and': [{'nom': 'DUPONT'}, {'prenom': 'Michel'}]})\n
+
+    classtype le type racine qui sera retourné dans une liste<classtype>\n
+    members : tuple de strings\n
+
+    conditions : les conditions qui seront appliquées pour le tri sur le dernier\n
+    membre de members sous le format \n
+    {'$operator': [ {'member1': value1}, {'member2': value2},...]}
+    """
+
     if len(members) == 0:
-        return classtype.objects(__raw__=conditions)
+        return classtype.objects(__raw__=conditions).select_related(10)
 
     def search(resultlist, classt, field):
         lst = list()
@@ -33,11 +46,8 @@ def getDocuments(classtype, members, conditions):
 
     if len(members_types) > 1:
         for m_t in members_types[1:]:
-            print("m_t[1], m_t[0] : ", m_t[1], ",", m_t[0])
-            print("currentMember : ", currentMember)
             currentResult = search(currentResult, m_t[1], currentMember)
             currentMember = m_t[0]
-            print(currentResult[0])
 
     return search(currentResult, classtype, currentMember)
 
