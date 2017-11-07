@@ -157,9 +157,9 @@ def Zone():
 
 
 def ActionLogic():
-    import src.server.cfl_data.planning_journalier.ActionLogic as actioLogic
+    import src.server.cfl_data.planning_journalier.actioncode as actioLogic
 
-    return actioLogic.ActionLogic()
+    return actioLogic.ActionCode()
 
 
 ############# entreprise ##############

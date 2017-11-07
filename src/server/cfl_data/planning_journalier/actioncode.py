@@ -1,7 +1,7 @@
 from mongoengine import *
 
 
-class ActionLogic(EmbeddedDocument):
+class ActionCode(EmbeddedDocument):
     """
 
     """
