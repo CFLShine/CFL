@@ -133,7 +133,7 @@ def Equipe():
 def Page():
     """
     Retourne un objet de Page\n
-    zonesMatin instancié (= list())
+    zonesMatin instancié (= list())\n
     zonesApresMidi instancié (= list())
     """
 

@@ -1,10 +1,14 @@
+import typing
+from typing import Tuple
+
 from mongoengine import *
 
 from src.settings import Config
 
 connect(Config.db_name, host=Config.db_host, port=Config.db_port)
 
-def getDocuments(classtype, members, conditions):
+
+def getDocuments(classtype: typing.Type[Document], members: Tuple[str, ...] = None, conditions=None):
     """
     utilisation  : nous voulons les objets de la classe Personne répondants à\n
     Personne.identite.nom == 'DUPONT' and Personne.identite.prenom == 'Michel' : \n
