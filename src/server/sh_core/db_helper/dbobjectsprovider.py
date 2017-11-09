@@ -20,6 +20,7 @@ def getDocuments(classtype: typing.Type[Document], members: Tuple[str, ...] = No
     conditions : les conditions qui seront appliquées pour le tri sur le dernier\n
     membre de members sous le format \n
     {'$operator': [ {'member1': value1}, {'member2': value2},...]}
+    :rtype:
     """
 
     if len(members) == 0:

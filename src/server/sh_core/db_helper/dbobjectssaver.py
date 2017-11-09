@@ -5,16 +5,16 @@ class DocumentSaver:
     def __init__(self):
         self._proceededs = list()
 
-    def saveDocumentAndSubDocuments(self, document):
+    def save_document_and_subdocuments(self, doc):
         if not isinstance(document, Document
-        or document in self._proceededs):
+                        or doc in self._proceededs):
             return
-        for attrname, attr in document._data.items():
+        for attrname, attr in doc._data.items():
             if isinstance(attr, Document):
                 self._proceededs.append(attr)
-                self.saveDocumentAndSubDocuments(attr)
+                self.save_document_and_subdocuments(attr)
             else:
                 if isinstance(attr, list):
                     for item in attr:
-                        self.saveDocumentAndSubDocuments(item)
+                        self.save_document_and_subdocuments(item)
         document.save()

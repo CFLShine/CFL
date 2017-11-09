@@ -6,7 +6,6 @@ from datetime import date
 class ZoneManager:
     def __init__(self, zone: Zone, date_: date, matin: bool):
         self.zone = zone
-        self.actions = None  # type: list[ActionManager]
         self.date = date_
         self.matin = matin  # type : bool
 
@@ -21,16 +20,14 @@ class ZoneManager:
         Chaque ActionManager est ajouté à cette liste si ses membres heure et action ont
         été pourvu d'une valeur (string non vide) par ActionManager.exe().
         """
-        self.actions = list()
         planning = self.zone.page.planning
 
         assert planning
 
         for actioncode in planning.zonesModel:  # planning.zonesModel est une liste<str>
-            actionmanager = ActionManager(actioncode, self.date, self.matin, self.subject)
+            actionmanager = ActionManager(actioncode, self.date, self.matin, self.zone.subject)
             actionmanager.exe()
-            if (actionmanager.heure and
-                    actionmanager.action):
+            if actionmanager.heure and actionmanager.action:
                 yield actionmanager
 
     def showequipiers_byrole(self, role: str):

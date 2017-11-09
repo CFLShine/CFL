@@ -7,5 +7,5 @@ class Planning(Document):
     zonesModel = ListField(str, default=list())
     """
     liste de code.\n
-    
+    Voir explications dans ZoneManager et ActionManager.
     """
