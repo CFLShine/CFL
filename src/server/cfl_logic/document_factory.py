@@ -1,38 +1,45 @@
-def Lieu():
+
+
+class LieuFactory:
     """
     Retourne un objet de Lieu\n
     lieu instancié\
     adresse instancié
     """
-    import src.server.cfl_data.coordonnees.lieu as lieu
-    import src.server.cfl_data.coordonnees.adresse as adresse
+    @staticmethod
+    def new():
+        import src.server.cfl_data.coordonnees.lieu as lieu
+        import src.server.cfl_data.coordonnees.adresse as adresse
 
-    l = lieu.Lieu()
-    l.adresse = adresse.Adresse()
+        l = lieu.Lieu()
+        l.adresse = adresse.Adresse()
 
-    return l
-
-
-def Identite():
-    import src.server.cfl_data.etat_civil.identite as identite
-
-    return identite.Identite()
+        return l
 
 
-def Naissnce():
+class IdentiteFactory:
+    @staticmethod
+    def new():
+        import src.server.cfl_data.etat_civil.identite as identite
+
+        return identite.Identite()
+
+
+class NaissanceFactory:
     """
-    Retourne un objet de Naissance\n
-    naissance instancié\n
-    lieu instancié
+        Retourne un objet de Naissance\n
+        naissance instancié\n
+        lieu instancié
     """
-    import src.server.cfl_data.etat_civil.naissance as naissance
+    @staticmethod
+    def new():
+        import src.server.cfl_data.etat_civil.naissance as naissance
 
-    n = naissance.Naissance()
-    n.lieu = Lieu()
-    return n
+        n = naissance.Naissance()
+        n.lieu = LieuFactory.new()
+        return n
 
-
-def Personne():
+class PersonneFactory:
     """
     Retourne un objet de Personne\n
     identite instancié\n
@@ -42,250 +49,290 @@ def Personne():
     pere = None
     mere = None
     """
-    import src.server.cfl_data.etat_civil.personne as personne
-    p = personne.Personne()
-    p.identite = Identite()
-    p.naissance = Naissnce()
+    @staticmethod
+    def new():
+        import src.server.cfl_data.etat_civil.personne as personne
+        p = personne.Personne()
+        p.identite = IdentiteFactory.new()
+        p.naissance = NaissanceFactory.new()
 
-    return p
+        return p
 
 
-def Qualite():
+class QualiteFactory:
     """
     Retourne un objet de Pouvoir\n
     personne = None
     """
+    @staticmethod
+    def new():
+        import src.server.cfl_data.etat_civil.pouvoir as pouvoir
 
-    import src.server.cfl_data.etat_civil.pouvoir as pouvoir
-
-    return pouvoir.Pouvoir()
+        return pouvoir.Pouvoir()
 
 
-############# utilisateur #############
+# *************** utilisateur ******************
 
-def Utilisateur():
+class UtilisateurFactory:
     """
     Retourne un objet de Utilisateur\n
     personne instancié\n
     login instancié\n
     autorisations instancié (= list())
     """
+    @staticmethod
+    def new():
+        import src.server.cfl_data.utilisateur.utilisateur as utilisateur
 
-    import src.server.cfl_data.utilisateur.utilisateur as utilisateur
-
-    u = utilisateur.Utilisateur()
-    u.personne = Personne()
-    u.login = Login()
-    u.autorisations = list()
-
-
-def Login():
-    import src.server.cfl_data.utilisateur.login as login
-
-    return login.Login()
+        u = utilisateur.Utilisateur()
+        u.personne = PersonneFactory.new()
+        u.login = LoginFactory.new()
+        u.autorisations = list()
 
 
-def Autorisation():
-    import src.server.cfl_data.utilisateur.autorisation as autorisation
+class LoginFactory:
+    @staticmethod
+    def new():
+        import src.server.cfl_data.utilisateur.login as login
 
-    return autorisation.Autorisation()
+        return login.Login()
 
 
-############# planing #################
+class AutorisationFactory:
+    @staticmethod
+    def new():
+        import src.server.cfl_data.utilisateur.autorisation as autorisation
 
-def Planning():
+        return autorisation.Autorisation()
+
+
+# ***************** planing ******************
+
+class PlanningFactory:
     """
     Retourne un objet de Planning()\n
     zonesLogic instancié (= list())
     """
+    @staticmethod
+    def new():
+        import src.server.cfl_data.planning_journalier.planning as planning
 
-    import src.server.cfl_data.planning_journalier.planning as planning
-
-    p = planning.Planning()
-    p.zonesLogic = list()
-    return p
+        p = planning.Planning()
+        p.zonesLogic = list()
+        return p
 
 
-def Equipier():
+class EquipierFactory:
     """
     Retourne un objet de Equipier\n
     personne = None
     """
+    @staticmethod
+    def new():
+        import src.server.cfl_data.planning_journalier.equipe as equipier
 
-    import src.server.cfl_data.planning_journalier.equipe as equipier
-
-    return equipier.Equipier()
+        return equipier.Equipier()
 
 
-def Equipe():
+class EquipeFactory:
     """
     Retourne un objet de Equipe\n
     equipiers instancié (= list())
-
     """
-    import src.server.cfl_data.planning_journalier.equipe as equipe
+    @staticmethod
+    def new():
+        import src.server.cfl_data.planning_journalier.equipe as equipe
 
-    e = equipe.Equipe()
-    e.equipiers = list()
-    return e
+        e = equipe.Equipe()
+        e.equipiers = list()
+        return e
 
 
-def Page():
+class PageFactory:
     """
     Retourne un objet de Page\n
     zonesMatin instancié (= list())\n
     zonesApresMidi instancié (= list())
     """
+    @staticmethod
+    def new():
+        import src.server.cfl_data.planning_journalier.page as page
 
-    import src.server.cfl_data.planning_journalier.page as page
+        p = page.Page()
+        p.zonesMatin = list()
+        p.zonesApresMidi = list()
+        return p
 
-    p = page.Page()
-    p.zonesMatin = list()
-    p.zonesApresMidi = list()
-
-
-def Zone():
+class ZoneFactory:
     """
     Retourne un objet de Zone()\n
     page = None
     subject = None
     equipe = None
     """
-    import src.server.cfl_data.planning_journalier.zone as zone
+    @staticmethod
+    def new():
+        import src.server.cfl_data.planning_journalier.zone as zone
 
-    return zone.Zone()
+        return zone.Zone()
 
-############# entreprise ##############
+# ****************** entreprise ********************
 
-def Entreprise():
+
+class EntrepriseFactory:
     """
     Retourne un objet de Entreprise\n
     lieu = None\n
     elements instancié (= list())
     """
+    @staticmethod
+    def new():
+        import src.server.cfl_data.entreprise.entreprise as entreprise
 
-    import src.server.cfl_data.entreprise.entreprise as entreprise
+        e = entreprise.Entreprise()
+        e.elements = list()
+        return e
 
-    e = entreprise.Entreprise()
-    e.elements = list()
 
-
-def ChambreFuneraire():
+class ChambreFuneraireFactory:
     """
     Retourne un objet de ChambreFuneraire\n
     lieu = None\n
     casee instancié (= list())\n
     salon instancié (= list())
     """
+    @staticmethod
+    def new():
+        import src.server.cfl_data.chambre_funeraire.chambre_funeraire as chambrefune
 
-    import src.server.cfl_data.chambre_funeraire.chambre_funeraire as chambrefune
-
-    c = chambrefune.ChambreFuneraire()
-    c.cases = list()
-    c.salons = list()
-
-
-def Salon():
-    import src.server.cfl_data.chambre_funeraire.salon as salon
-
-    return salon.Salon()
+        c = chambrefune.ChambreFuneraire()
+        c.cases = list()
+        c.salons = list()
+        return c
 
 
-def Case():
-    import src.server.cfl_data.chambre_funeraire.case as case
+class SalonFactory:
+    @staticmethod
+    def new():
+        import src.server.cfl_data.chambre_funeraire.salon as salon
 
-    return case.Case()
+        return salon.Salon()
 
 
-def Crematorium():
+class CaseFactory:
+    @staticmethod
+    def new():
+        import src.server.cfl_data.chambre_funeraire.case as case
+
+        return case.Case()
+
+
+class CrematoriumFactory:
     """
     Retourne un objet de Crematorium\n
     lieu = None\n
     fours instancié (= list())
     """
+    @staticmethod
+    def new():
+        import src.server.cfl_data.crematorium.crematorium as crema
 
-    import src.server.cfl_data.crematorium.crematorium as crema
-
-    c = crema.Crematorium()
-    c.fours = list()
-    return c
-
-
-def Four():
-    import src.server.cfl_data.crematorium.four as four
-
-    return four.Four()
+        c = crema.Crematorium()
+        c.fours = list()
+        return c
 
 
-############# defunt ###################
+class FourFactory:
+    @staticmethod
+    def new():
+        import src.server.cfl_data.crematorium.four as four
 
-def Defunt():
+        return four.Four()
+
+
+# **************** defunt *********************
+
+
+class DefuntFactory:
     """
     Retourne un objet de Defunt\n
     Defunt.personne instancié avec tous ses membres instanciés\n
     Defunt.operation instancié (=list())
     """
-    import src.server.cfl_data.defunt.defunt as defunt
-    import src.server.cfl_data.etat_civil.deces as deces
+    @staticmethod
+    def new():
+        import src.server.cfl_data.defunt.defunt as defunt
+        import src.server.cfl_data.etat_civil.deces as deces
 
-    dft = defunt.Defunt()
-    dft.personne = Personne()
-    dft.personne.deces = deces.Deces()
-    dft.operations = list()
+        d = defunt.Defunt()
+        d.personne = PersonneFactory.new()
+        d.personne.deces = deces.Deces()
+        d.operations = list()
+        return d
 
-    return dft
 
-
-def OperationFune():
+class OperationFune:
     """
+    Préférer utiliser directement CeremonieFactory, MEBFactory, etc.
     Retourne un objet de OperationFune\
     lieu = None
     """
+    @staticmethod
+    def new():
+        import src.server.cfl_data.defunt.operation_fune as operation
 
-    import src.server.cfl_data.defunt.operation_fune as operation
-
-    return operation.OperationFune()
+        return operation.OperationFune()
 
 
-def Transport():
+class TransportFactory:
     """
     Retourne un objet de Transport\
     operation instancié\n
     lieuArrivee = None
     """
+    @staticmethod
+    def new():
+        import src.server.cfl_data.defunt.transport as transport
 
-    import src.server.cfl_data.defunt.transport as transport
+        t = transport.Transport()
+        t.operation = OperationFune()
+        return t
 
-    t = transport.Transport()
-    t.operation = OperationFune()
 
-
-def MEB():
+class MEBFactory:
     """
     Retourne un objet de MEB\n
     operation instancié
     """
+    @staticmethod
+    def new():
+        import src.server.cfl_data.defunt.meb as meb
 
-    import src.server.cfl_data.defunt.meb as meb
-
-    m = meb.MEB()
-    m.operation = OperationFune()
-    return m
-
-
-def Ceremonie():
-    import src.server.cfl_data.defunt.ceremonie as ceremonie
-
-    c = ceremonie.Ceremonie()
-    c.operation = OperationFune()
+        m = meb.MEB()
+        m.operation = OperationFune()
+        return m
 
 
-def Inhumation():
+class CeremonieFactory:
+    @staticmethod
+    def new():
+        import src.server.cfl_data.defunt.ceremonie as ceremonie
+
+        c = ceremonie.Ceremonie()
+        c.operation = OperationFune()
+        return c
+
+
+class InhumationFactory:
     """
     Retourne un objet de Inhumation\n
     Tous ses mebres instanciés sauf sepulture
     """
-    import src.server.cfl_data.defunt.inhumation as inhumation
+    @staticmethod
+    def new():
+        import src.server.cfl_data.defunt.inhumation as inhumation
 
-    i = inhumation.Inhumation()
-    i.operation = OperationFune()
+        i = inhumation.Inhumation()
+        i.operation = OperationFune()
+        return i
+

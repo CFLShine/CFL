@@ -3,9 +3,9 @@ from datetime import date
 
 class ActionManager:
     def __init__(self, actioncode: str, date_: date, matin: bool,  subject):
-        self.actioncode = actioncode
+        self.actioncode = actioncode  # :type: str
         self.subject = subject
-        self.matin = matin
+        self.matin = matin  # :type : bool
         self.date = date_  # :type : datetime
 
         self.heure = ""
@@ -26,4 +26,4 @@ class ActionManager:
         '
         """
 
-        exec(self.actioncode)
+        exec(self.actioncode)  # builtins.exe(str)

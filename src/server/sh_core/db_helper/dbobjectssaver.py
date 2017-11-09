@@ -1,12 +1,17 @@
 from mongoengine import *
 
+from src.settings import Config
+
+
+connect(Config.db_name, host=Config.db_host, port=Config.db_port)
+
 
 class DocumentSaver:
     def __init__(self):
         self._proceededs = list()
 
     def save_document_and_subdocuments(self, doc):
-        if not isinstance(document, Document
+        if not isinstance(doc, Document
                         or doc in self._proceededs):
             return
         for attrname, attr in doc._data.items():
@@ -17,4 +22,4 @@ class DocumentSaver:
                 if isinstance(attr, list):
                     for item in attr:
                         self.save_document_and_subdocuments(item)
-        document.save()
+        doc.save()

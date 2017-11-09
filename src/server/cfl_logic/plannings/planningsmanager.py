@@ -9,13 +9,13 @@ class PlanningsManager():
     def __init__(self):
         self.plannings = list()  # :type : List[pl.Planning]
 
-    def loadPlannings(self):
+    def load_plannings(self):
         plannings = objectsprovider.getDocuments(pl.Planning)
         self.plannings = list()
         for planninginfo in plannings:
             self.plannings.append(planningmanager.PlanningManager(planninginfo))
 
-    def getPlanningManager(self, intitule: str) -> typing.Union[planningmanager.PlanningManager, None]:
+    def get_planningmanager(self, intitule: str) -> typing.Union[planningmanager.PlanningManager, None]:
         for plManager in self.plannings:
             if plManager.planning.intitule == intitule:
                 return plManager
