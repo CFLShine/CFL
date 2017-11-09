@@ -6,11 +6,7 @@
 {% include('nav.html') %}
 
 <section class="body">
-    {% for dft in dfts %}
-    <div>
-        {{ dft.nom }} {{ dft.prenom }}
-    </div>
-    {% endfor %}
+    <h1>{{ dft.personne.identite.civilite }}.{{ dft.personne.identite.nom }} {{ dft.personne.identite.prenom }}</h1>
 </section>
 
 {% include('footer.html') %}
