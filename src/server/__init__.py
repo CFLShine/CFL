@@ -2,6 +2,7 @@ from flask import Flask
 from mongoengine import *
 
 from src.client.start import start
+from src.server.import_models import *
 from src.settings import Config
 
 if __name__ == '__main__':
