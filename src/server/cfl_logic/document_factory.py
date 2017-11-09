@@ -155,13 +155,6 @@ def Zone():
 
     return zone.Zone()
 
-
-def ActionLogic():
-    import src.server.cfl_data.planning_journalier.actioncode as actioLogic
-
-    return actioLogic.ActionCode()
-
-
 ############# entreprise ##############
 
 def Entreprise():

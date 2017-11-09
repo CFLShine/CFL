@@ -48,7 +48,7 @@ class PlanningManager:
         assert self.currentPage
 
         if (not self.isZoneApresMidi(zone)
-            and not self.isZoneMatin(zone)):
+                and not self.isZoneMatin(zone)):
             raise Exception("zone ne fait pas partie de la page en cours.")
 
         self.currentZone = zone
