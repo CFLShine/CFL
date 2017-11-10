@@ -1,4 +1,5 @@
 if __name__ == '__main__':
+    import src.server.import_models
     import src.server.cfl_logic.document_factory as docs
     from datetime import datetime
 
@@ -8,22 +9,22 @@ if __name__ == '__main__':
     actioncode = docs.ActionCodeFactory.new()
     actioncode.classname = "Inhumation"
     actioncode.code = \
-        """
-        inhumation = self.operation
-        sepulture = inhumation.sepulture
-        cimetiere = None
-        if sepulture:
-            cimetiere = sepulture.cimetiere
-            
-        display = 'inhumation'
-        
-        if sepulture:
-            display += ' ' + sepulture.sepulture_type
-        if cimetiere:
-            display += ' cimetière ' + cimetiere.lieu.nom + ' de ' + cimetiere.lieu.adresse.commune.nom
-        
-        self.action = display
-        """
+"""
+inhumation = self.operation
+sepulture = inhumation.sepulture
+cimetiere = None
+if sepulture:
+    cimetiere = sepulture.cimetiere
+    
+display = 'inhumation'
+
+if sepulture:
+    display += ' ' + sepulture.sepulture_type
+if cimetiere:
+    display += ' cimetière ' + cimetiere.lieu.nom + ' de ' + cimetiere.lieu.adresse.commune.nom
+
+self.action = display
+"""
 
     defunt = docs.DefuntFactory.new()
     defunt.personne.identite.nom = "DURAND"

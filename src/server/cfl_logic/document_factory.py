@@ -29,6 +29,7 @@ class ContactFactory:
         c = contacts.Contacts()
         return c
 
+
 class LieuFactory:
     """
     Retourne un objet de Lieu\n

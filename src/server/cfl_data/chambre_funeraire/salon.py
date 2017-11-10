@@ -1,6 +1,7 @@
+from mongoengine import *
 
 
-class Salon:
-    def __init__(self):
-        self.nom = ""
-        self.code = ""
+class Salon(Document):
+    nom = StringField(default="")
+    code = StringField(default="")
+    defunt = ReferenceField('Defunt', default=None)
