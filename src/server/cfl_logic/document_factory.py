@@ -1,4 +1,33 @@
+# *************** coordonnees *****************
 
+
+class AdresseFactory:
+    """
+    Retourne un objet de Adresse\n
+    commune = None
+    """
+
+    @staticmethod
+    def new():
+        import src.server.cfl_data.coordonnees.adresse as adresse
+        a = adresse.Adresse()
+        return a
+
+
+class CommuneFactory:
+    @staticmethod
+    def new():
+        import src.server.cfl_data.coordonnees.commune as commune
+        c = commune.Commune()
+        return c
+
+
+class ContactFactory:
+    @staticmethod
+    def new():
+        import src.server.cfl_data.coordonnees.contacts as contacts
+        c = contacts.Contacts()
+        return c
 
 class LieuFactory:
     """
@@ -9,13 +38,14 @@ class LieuFactory:
     @staticmethod
     def new():
         import src.server.cfl_data.coordonnees.lieu as lieu
-        import src.server.cfl_data.coordonnees.adresse as adresse
+
 
         l = lieu.Lieu()
-        l.adresse = adresse.Adresse()
-
+        l.adresse = AdresseFactory.new()
         return l
 
+
+# ***************etat civil ********************
 
 class IdentiteFactory:
     @staticmethod
@@ -38,6 +68,7 @@ class NaissanceFactory:
         n = naissance.Naissance()
         n.lieu = LieuFactory.new()
         return n
+
 
 class PersonneFactory:
     """
@@ -122,6 +153,15 @@ class PlanningFactory:
         return p
 
 
+class ActionCodeFactory:
+    @staticmethod
+    def new():
+        import src.server.cfl_data.planning_journalier.actioncode as actioncode
+
+        ac = actioncode.ActionCode()
+        return ac
+
+
 class EquipierFactory:
     """
     Retourne un objet de Equipier\n
@@ -162,6 +202,7 @@ class PageFactory:
         p.zonesMatin = list()
         p.zonesApresMidi = list()
         return p
+
 
 class ZoneFactory:
     """
@@ -271,7 +312,7 @@ class DefuntFactory:
         return d
 
 
-class OperationFune:
+class OperationFuneFactory:
     """
     Préférer utiliser directement CeremonieFactory, MEBFactory, etc.
     Retourne un objet de OperationFune\
@@ -333,6 +374,36 @@ class InhumationFactory:
         import src.server.cfl_data.defunt.inhumation as inhumation
 
         i = inhumation.Inhumation()
-        i.operation = OperationFune()
+        i.operation = OperationFuneFactory()
         return i
 
+
+# **************** cimetiere *******************
+
+class CimetiereFactory:
+    """
+    Retourne un objet de Cimetiere\
+    lieu instancié\
+    sepultures instancié (= list())
+    """
+
+    @staticmethod
+    def new():
+        import src.server.cfl_data.cimetiere.cimetiere as cimetiere
+        c = cimetiere.Cimetiere()
+        c.lieu = LieuFactory.new()
+        c.sepultures = list()
+        return c
+
+
+class SepultureFactory:
+    """
+    Retourne un objet de Sepulture\n
+    cimetiere = None
+    """
+
+    @staticmethod
+    def new():
+        import src.server.cfl_data.cimetiere.sepulture as sepulture
+        s = sepulture.Sepulture()
+        return s

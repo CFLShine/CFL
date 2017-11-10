@@ -1,6 +1,7 @@
+from datetime import date
+
 from src.server.cfl_data.planning_journalier.zone import Zone
 from src.server.cfl_logic.plannings.actionmanager import ActionManager
-from datetime import date
 
 
 class ZoneManager:
@@ -14,21 +15,29 @@ class ZoneManager:
         Construit la liste self.actions d'ActionManager.
 
         Le document Planning contient l'attribut zonesModel,
-        une liste de str, chaque item étant du code à executer dans l'objet de classe ActionManager.exe().\n
-        Ce code utilise ActionManager.subject pour retirer les données
-        dont il a besoin pour assigner une valeur à ActionManager.heure et ActionManager.action.\n
+        une liste de ActionCode
+        Un actionCode cotient du code (str) à executer dans l'objet de classe ActionManager.exe(),\n
+        et un nom de classe, le type de l'opération concerné par ce code.\n
+        Ce code doit assigner une valeur à ActionManager.heure et ActionManager.action.\n
         Chaque ActionManager est ajouté à cette liste si ses membres heure et action ont
         été pourvu d'une valeur (string non vide) par ActionManager.exe().
         """
-        planning = self.zone.page.planning
 
+        subject = self.zone.subject
+        if not subject:
+            yield
+
+        planning = self.zone.page.planning
         assert planning
 
-        for actioncode in planning.zonesModel:  # planning.zonesModel est une liste<str>
-            actionmanager = ActionManager(actioncode, self.date, self.matin, self.zone.subject)
-            actionmanager.exe()
-            if actionmanager.heure and actionmanager.action:
-                yield actionmanager
+        for operation in subject.operations:
+            for actioncode in planning.zonesModel:
+                if actioncode.classname == operation.__class__.__name__:
+                    actionmanager = ActionManager(actioncode.code, self.date, self.matin, operation)
+                    actionmanager.exe()
+                    if actionmanager.heure and actionmanager.action:
+                        yield actionmanager
+
 
     def showequipiers_byrole(self, role: str):
         if self.zone.equipe:

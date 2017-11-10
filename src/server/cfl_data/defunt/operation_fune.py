@@ -9,6 +9,5 @@ class OperationFune(EmbeddedDocument):
     """
 
     defunt = ReferenceField('Defunt', default=None)
-    date = DateTimeField(default=None)
-    heure = DateTimeField(default=None)
+    datetime = DateTimeField(default=None)
     commentaire = StringField(default="")

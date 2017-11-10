@@ -1,27 +1,27 @@
-from datetime import date
+from datetime import datetime
 
 
 class ActionManager:
-    def __init__(self, actioncode: str, date_: date, matin: bool,  subject):
+    def __init__(self, actioncode: str, date: datetime, matin: bool, operation):
         self.actioncode = actioncode  # :type: str
-        self.subject = subject
+        self.operation = operation
         self.matin = matin  # :type : bool
-        self.date = date_  # :type : datetime
+        self.date = date  # :type : datetime
 
-        self.heure = ""
-        self.action = ""
+        self.heure = ...  # :type : datetime
+        self.action = ""  # :type : str
 
     def exe(self):
         """
         Le code contenu dans actioncode
-        doit utiliser self.subject, self.date, self.matin
+        doit utiliser self.operation, self.date, self.matin
         et assigner une valeur str aux variables self.heure et self.action.
         ex :
         '
-        if (self.subject.uneaction and self.subject.uneaction.date == date and
-                self.matin == True and
-                self.subject.uneaction.heure <= time(12, 00)):
-            self.heure = self.subject.uneaction.heure
+        if (self.operation.operation.date == self.date and       # les operations n'héritent pas d'une classe operation
+                self.matin == True and                           # mais ont un composant operation
+                self.operation.operation.datetime.time() <= time(12, 00)):
+            self.heure = self.operation.operation.datetime.time()
             self.action = 'cette action a lieu'
         '
         """

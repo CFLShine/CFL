@@ -1,11 +1,10 @@
 from mongoengine import *
 
-import src.server.cfl_data.cimetiere.cimetiere as cimetiere
 
 class Sepulture(Document):
-    cimetiere = ReferenceField(cimetiere.Cimetiere, default=None)
+    cimetiere = ReferenceField('Cimetiere', default=None)
 
-    sepultureType = StringField(default="")
+    sepulture_type = StringField(default="")
 
     division = StringField(default = "")
     carre = StringField(default = "")
