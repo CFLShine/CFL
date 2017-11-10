@@ -1,13 +1,13 @@
-from datetime import date
+from datetime import datetime
 
 from src.server.cfl_data.planning_journalier.zone import Zone
 from src.server.cfl_logic.plannings.actionmanager import ActionManager
 from datetime import *
 
 class ZoneManager:
-    def __init__(self, zone: Zone, date_: date, matin: bool):
+    def __init__(self, zone: Zone, date: datetime, matin: bool):
         self.zone = zone
-        self.date = date_
+        self.date = date
         self.matin = matin  # type : bool
 
     def showactions(self):
