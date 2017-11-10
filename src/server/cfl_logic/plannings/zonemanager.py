@@ -2,7 +2,7 @@ from datetime import date
 
 from src.server.cfl_data.planning_journalier.zone import Zone
 from src.server.cfl_logic.plannings.actionmanager import ActionManager
-
+from datetime import *
 
 class ZoneManager:
     def __init__(self, zone: Zone, date_: date, matin: bool):
@@ -23,6 +23,14 @@ class ZoneManager:
         été pourvu d'une valeur (string non vide) par ActionManager.exe().
         """
 
+        def is_elligible(operation):
+            if operation.operation.datetime.date() != self.date:
+                return False
+            if self.matin:
+                return operation.operation.datetime.time <= time(hour=12)
+            else:
+                return operation.operation.datetime.time > time(hour=12)
+
         subject = self.zone.subject
         if not subject:
             yield
@@ -31,12 +39,13 @@ class ZoneManager:
         assert planning
 
         for operation in subject.operations:
-            for actioncode in planning.zonesModel:
-                if actioncode.classname == operation.__class__.__name__:
-                    actionmanager = ActionManager(actioncode.code, self.date, self.matin, operation)
-                    actionmanager.exe()
-                    if actionmanager.heure and actionmanager.action:
-                        yield actionmanager
+            if is_elligible(operation):
+                for actioncode in planning.zonesModel:
+                    if actioncode.classname == operation.__class__.__name__:
+                        actionmanager = ActionManager(actioncode.code, self.date, self.matin, operation)
+                        actionmanager.exe()
+                        if actionmanager.heure and actionmanager.action:
+                            yield actionmanager
 
 
     def showequipiers_byrole(self, role: str):

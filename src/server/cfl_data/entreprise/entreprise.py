@@ -11,5 +11,6 @@ class Entreprise(Document):
     ChambreFuneraire,
     Crematorium,
     PompeFunebre,
-    Salle 
+    Salle, etc
+    Ils contiennent tous un lieu (Lieu)
     """
