@@ -1,5 +1,5 @@
 from datetime import datetime
-
+import src.server.sh_core.code_helper.code_helper as codehelper
 
 class ActionManager:
     def __init__(self, actioncode: str, date: datetime, matin: bool, operation):
@@ -25,5 +25,7 @@ class ActionManager:
             self.action = 'cette action a lieu'
         '
         """
-
-        exec(self.actioncode)  # builtins.exe(str)
+        rewritten = codehelper.CodeBuilder( self.actioncode).rewritten()
+        print(self.__dict__)
+        print('will be executed : \n' + rewritten)
+        exec(rewritten, locals())# builtins.exe(str)

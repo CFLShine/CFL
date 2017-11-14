@@ -1,3 +1,4 @@
+
 if __name__ == '__main__':
     import src.server.import_models
     import src.server.cfl_logic.document_factory as docs
@@ -10,18 +11,11 @@ if __name__ == '__main__':
     actioncode.classname = "Inhumation"
     actioncode.code = \
 """
-inhumation = self.operation
-sepulture = inhumation.sepulture
-cimetiere = None
-if sepulture:
-    cimetiere = sepulture.cimetiere
-    
-display = 'inhumation'
+display = 'inhumation ' + STRING(self, 'operation.sepulture.sepulture_type')
 
-if sepulture:
-    display += ' ' + sepulture.sepulture_type
-if cimetiere:
-    display += ' cimetière ' + cimetiere.lieu.nom + ' de ' + cimetiere.lieu.adresse.commune.nom
+inhumation = self.operation # juste pour l'exemple
+if MEMBER(inhumation, 'sepulture.cimetiere.lieu.nom'):
+    display += ' cimetière ' + STRING(self, 'operation.sepulture.cimetiere.lieu.nom') + ' de ' + STRING(self, 'operation.sepulture.cimetiere.lieu.adresse.commune.nom')
 
 self.action = display
 """
@@ -31,7 +25,7 @@ self.action = display
     defunt.personne.identite.prenom = "Marcel"
 
     inhumation = docs.InhumationFactory.new()
-    inhumation.operation.date = datetime(year=2017, month=11, day=10, hour=11, minute=00)
+    inhumation.operation.date = datetime(year=2017, month=11, day=14, hour=11, minute=00)
 
     commune = docs.CommuneFactory.new()
     commune.nom = "Chambéry"
@@ -57,3 +51,4 @@ self.action = display
     action_manager.exe()
     actiondisplay = action_manager.action
     print(actiondisplay)
+
