@@ -2,11 +2,13 @@
 *.user
 *.pfx
 *.dll
-.vs/*
+*.vs/*
 *bin/*
 *obj/*
-packages/*
-.idea/*
+*packages/*
+*node_modules/*
+CFLApp/server
+*.idea/*
 /CFLServer/bin/Debug/Telerik.Windows.Controls.Diagrams.Extensions.xml
 /CFLServer/bin/Debug/Telerik.Windows.Controls.Diagrams.xml
 /CFLServer/bin/Debug/Telerik.Windows.Controls.Data.xml
