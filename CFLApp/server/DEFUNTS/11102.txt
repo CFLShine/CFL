@@ -1,0 +1,381 @@
+Id=11102
+CodeDefunt=11102
+SepultureCimetiere=CHARRIERE NEUVE
+SepultureCommune=CHAMBERY
+SepultureType=Caveau ouverture devant
+Concessionaire=False
+AyantDroit=False
+SepultureProvisoire=False
+ConcessionDPINom=EXCOFFIER
+ConcessionDPINomJF=
+ConcessionDPIPrenom=MARTHE
+ConcessionDPIAnnee=1986
+ConcessionAquiseParNom=
+ConcessionAquiseParPrenom=
+ConcessionAquiseDate=  /  /
+ConcessionDuree=
+ConcessionDesignation=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+SepultureDivision=
+SepultureSection=
+SepultureCarre=
+SepultureLigne=
+SepultureTombe=
+DefuntNationalite=
+DefuntTitre=Madame
+DefuntAdresse2=
+DefuntProfession=
+DefuntAdresseCommune=
+DefuntAdresseCodPost=
+DefuntAdresse=
+DefuntNaissancePays=
+DefuntNaissanceDepartement=
+DefuntNaissanceCommune=
+DefuntPrenoms=
+DefuntPrenom=MARTHE
+DefuntNomJF=REBECCHI
+DefuntNom=EXCOFFIER
+DefuntNaissanceDate=03/05/1914
+DefuntDecesDate=29/06/2017
+DefuntDecesHeure=01:00
+DefuntDecesAdresse=AGELIA
+DefuntDecesMedecin=
+DefuntDecesPays=
+DefuntDecesCommune=CHAMBERY
+DefuntMereDecede=False
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=
+DefuntMereNom=
+DefuntPereDecede=False
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=
+DefuntPereNom=
+DefuntMariageDate=/  /
+DefuntDivorseDate=/  /
+DefuntSituationDecesDate=/  /
+DefuntSituationNaissanceDate=/  /
+DefuntNbEnfantsVivants=
+DefuntNbEnfants=
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=
+DefuntSituationNom=
+PouvQualite=Conjoint
+PouvNom=
+PouvPrenom=
+PouvNomJF=
+PouvAdresse=
+PouvAdresse2=
+PouvCodePost=
+PouvCommune=
+PouvTel1=
+PouvTel2=
+PouvMail=
+ReceptionDate=29/06/2017
+Conseiller=Laurie KOBRAL
+TAMB1Vehicule=
+PfTAMB1=
+TAMB1ArriveeLieu=
+TAMB1DepartLieu=
+TAMB1Date=/  /
+TAMB1ArriveeHeure=:
+Requisition=False
+TAMB2Vehicule=
+PfTAMB2=
+TAMB2ArriveeLieu=
+TAMB2DepartLieu=
+TAMB2Date=/  /
+TAMB2ArriveeHeure=:
+PfMEB=PFM
+MEBCommune=CHAMBERY
+ArriveeCommune=CHAMBERY
+MEBDate=01/07/2017
+ArriveeDate=01/07/2017
+MEBHeure=13:45
+ArriveeHeure=14:15
+MEBLieu=CF
+ArriveeLieu=
+MEBDistanceCf=
+Salon=False
+SalonCase_Name=Case
+CeremonieDate=01/07/2017
+CeremonieHeure=14:15
+CeremonieLieu=Centre funéraire
+CeremonieType=Religieuse
+PfCeremonie=PFM
+CeremonieDistanceCf=
+CeremonieRegistre=False
+Presse=True
+BourseADons=False
+PfTransport=
+TransportDate=  /  /
+TransportDepartLieu=
+TransportArriveeLieu=
+TransportDepartHeure=  :
+TransportArriveeHeure=  :
+TransportVehicule=
+TransportDistanceCf=
+PfInhumation=PFM
+InhumationDate=01/07/2017
+InhumationHeure=:
+InhumationSepulture=1
+PfInhumation2=
+Inhumation2Date=/  /
+Inhumation2Heure=:
+Inhumation2Sepulture=
+ExhumationSepulture=1
+PfExhumation=PFM
+ExhumationDate=29/06/2017
+ExhumationHeure=16:00
+DispersionDate=  /  /
+DispersionHeure=  :
+DispersionLieu=
+DispersionCommune=
+PfDispersion=
+RDVOrdonnateurDate=
+RDVOrdonnateurHeure=
+PfArrivee=PFM
+AdmissionDate=29/06/2017
+AdmissionHeure=09:10
+AdmissionAgent1=KAELBERER Eric
+AdmissionAgent2=MULDER Michaël
+AdmissionOrdreNo=517
+AdmissionArriveeDe=AGELIA
+AdmissionTaille=170/55
+AdmissionDepartDate=01/07/2017
+AdmissionDepartHeure=13:45
+AdmissionCorpsArriveHabille=True
+AdmissionVetementsArrivesAvecDefunt=True
+AdmissionHabillageParNous=False
+AdmissionChaussures=False
+AdmissionCorpsPresentable=True
+AdmissionObstacleJudiciaire=False
+AdmissionHousseRequis=False
+PaceMaker=False
+AdmissionValeur1=
+AdmissionValeur2=
+AdmissionValeur3=
+AdmissionValeur4=
+AdmissionValeur5=
+AdmissionValeur6=
+AdmissionValeur7=
+AdmissionValeur8=
+AdmissionValeur9=
+AdmissionValeur10=
+AdmissionValeur11=
+AdmissionValeur12=
+AdmissionValeur13=
+AdmissionValeur14=
+AdmissionValeurAutre1=
+AdmissionValeurAutre2=
+AdmissionValeursRemisesANomPrenom=
+AdmissionValeursRemisesAAdresse=
+AdmissionValeursRemisesAQualite=
+AdmissionValeursRemisesDate=
+AdmissionCommentaire=
+CeremonieCrematoriumDate=01/07/2017
+CeremonieCrematoriumHeure=14:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Religieuse
+ReservCrema=Marie-Pierre PINET
+CremationDate=
+CremationHeure=
+CremationArriveeDe=
+CremationCommune=
+SoinsDate=29/06/2017
+SoinsSavedByThanato=True
+SoinsThanatoNom=GONDIN
+SoinsThanatoPrenom=Jean-Claude
+SoinsThanatoSociete=PFM
+SoinsThanatoCode=0
+SoinsThanatoStagiaires=FELARD_ALEXIA_2017;
+SoinsHeure=13:45
+SoinsType=Normal
+SoinsCommentaire=aucun objet de valeur
+SoinsLieu=Centre funéraire
+PfSoins=PFM
+With A FAIRE
+Id=0
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=29/06/2017 11:14:13
+DateFait=29/06/2017 11:14:21
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul21]
+Fait=True
+Perso=False
+DateAFaire=29/06/2017 11:14:13
+DateFait=30/06/2017 09:40:03
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=2
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=29/06/2017 11:14:13
+DateFait=29/06/2017 11:14:23
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=3
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=29/06/2017 11:14:13
+DateFait=29/06/2017 11:14:24
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=4
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=29/06/2017 11:14:13
+DateFait=29/06/2017 14:18:54
+FaitPar=Laurie KOBRAL
+End With
+With A FAIRE
+Id=5
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=29/06/2017 11:14:13
+DateFait=29/06/2017 11:14:28
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=6
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=29/06/2017 11:14:13
+DateFait=29/06/2017 11:14:27
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=7
+Intitule=[Intitul4]
+Fait=True
+Perso=False
+DateAFaire=29/06/2017 11:14:13
+DateFait=29/06/2017 11:14:29
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=8
+Intitule=[Intitul3]
+Fait=True
+Perso=False
+DateAFaire=29/06/2017 11:14:13
+DateFait=29/06/2017 11:14:32
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=9
+Intitule=[Intitul16]
+Fait=True
+Perso=False
+DateAFaire=29/06/2017 11:14:13
+DateFait=30/06/2017 09:40:09
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=10
+Intitule=[Intitul10]
+Fait=True
+Perso=False
+DateAFaire=29/06/2017 11:14:13
+DateFait=29/06/2017 11:14:33
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=11
+Intitule=[Intitul7]
+Fait=True
+Perso=False
+DateAFaire=30/06/2017 09:39:59
+DateFait=30/06/2017 09:45:05
+FaitPar=Sébastien CLANET
+End With
+With A FAIRE
+Id=12
+Intitule=[Intitul15]
+Fait=True
+Perso=False
+DateAFaire=30/06/2017 09:39:59
+DateFait=30/06/2017 09:45:06
+FaitPar=Sébastien CLANET
+End With
+With EXHUM
+Id=0
+Nom=EXCOFFIER
+NomJF=BRENET
+Prenom=FERNANDE
+NaissanceAnnee=
+DecesAnnee=1932
+ExhumationDate=01/07/2017
+Sepulture=
+End With
+With EXHUM
+Id=1
+Nom=EXCOFFIER
+NomJF=
+Prenom=MAXIME
+NaissanceAnnee=
+DecesAnnee=1949
+ExhumationDate=01/07/2017
+Sepulture=
+End With
+With EXHUM
+Id=2
+Nom=EXCOFFIER
+NomJF=
+Prenom=MARCEL
+NaissanceAnnee=
+DecesAnnee=1987
+ExhumationDate=01/07/2017
+Sepulture=
+End With
+With EXHUM
+Id=3
+Nom=EXCOFFIER
+NomJF=BRENET
+Prenom=FERNANDE
+NaissanceAnnee=
+DecesAnnee=1932
+ExhumationDate=29/06/2017
+Sepulture=
+End With
+With EXHUM
+Id=4
+Nom=EXCOFFIER
+NomJF=
+Prenom=MAXIME
+NaissanceAnnee=
+DecesAnnee=1949
+ExhumationDate=29/06/2017
+Sepulture=
+End With
+With EXHUM
+Id=5
+Nom=EXCOFFIER
+NomJF=
+Prenom=MARCEL
+NaissanceAnnee=
+DecesAnnee=1987
+ExhumationDate=29/06/2017
+Sepulture=
+End With

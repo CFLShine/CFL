@@ -1,0 +1,94 @@
+Id=24082016
+Jourdate=24/08/2016
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8899
+Pf_ceremonie=PFM
+Nom_ceremonie=GIOVANNACCI
+Prenom_ceremonie=ROMEO
+CodeDft_cremation=8899
+Pf_cremation=PFM
+Nom_cremation=GIOVANNACCI
+Prenom_cremation=ROMEO
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1232
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+HeuretArrivee_ceremonie=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8902
+Pf_ceremonie=PFM
+Nom_ceremonie=RUFFIEUX
+Prenom_ceremonie=HELENE
+CodeDft_cremation=8902
+Pf_cremation=PFM
+Nom_cremation=RUFFIEUX
+Prenom_cremation=HELENE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=16:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=1233
+Four=2
+End With

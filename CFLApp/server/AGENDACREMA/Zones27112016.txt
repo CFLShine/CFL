@@ -1,0 +1,100 @@
+Id=27112016
+Jourdate=27/11/2016
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=9485
+Pf_ceremonie=PF PENA
+Nom_ceremonie=SADIN
+Prenom_ceremonie=LAURE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=9485
+Pf_cremation=PF PENA
+Nom_cremation=SADIN
+Prenom_cremation=LAURE
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=1648
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+NoOrdre=1695
+Four=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=9553
+Pf_ceremonie=ALBANAIS
+Nom_ceremonie=PERUCCA
+Prenom_ceremonie=ANNIE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de RUMILLY
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDO PFM URNE SERA INHUME A CHAMBERY VENDREDI MATIN
+CodeDft_cremation=9553
+Pf_cremation=ALBANAIS
+Nom_cremation=PERUCCA
+Prenom_cremation=ANNIE
+EvenementArrivee_cremation=Arrivée de RUMILLY
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=9541
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=LEDARD
+Prenom_ceremonie=CHRISTIAN
+CodeDft_cremation=9541
+Pf_cremation=PF FLORET
+Nom_cremation=LEDARD
+Prenom_cremation=CHRISTIAN
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT
+FicheOccupe=Libre
+NoOrdre=1682
+Four=2
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

@@ -1,0 +1,164 @@
+Id=29122014
+Jourdate=29/12/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4418
+Pf=PF DE SAVOY
+Conseiller=
+Nom=RULLIER
+Prenom=CLEMENT
+HeureArrivee=
+EvenementArrivee=Arrivée de BOURG SAINT MAURICE
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=SALLE DE CEREMONIE OCCUPEE PAR PFG CEREMONIE DEVANT L'URNE  M.BOUTERE
+NoOrdre=1599
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4405
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=GOUTTE
+Prenom=MARIA
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 13H30 
+FicheOccupe=Libre
+NoOrdre=1596
+Four=1
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4411
+Pf=PFG MOUTIERS
+Conseiller=Marie-Pierre PINET
+Nom=LIMACH
+Prenom=AGATHE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1600
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=4406
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=GONNOT
+Prenom=YVETTE
+HeureArrivee=08:15
+HeureCeremonie=
+HeureCremation=09:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de BELLEY
+EvenementCeremonie=
+EvenementCremation=Crémation
+EvenementCommentaire=PAS DE FAMILLE 
+NoOrdre=1594
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4413
+Pf=PF BERGER
+Conseiller=Marie-Pierre PINET
+Nom=MALOSSE
+Prenom=PIERRE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ST GENIX SUR GUIERS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1597
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4415
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=BRUN
+Prenom=JEANNOT
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1601
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4419
+Pf=PF MOUCHE
+Conseiller=Marion TREBOUTE
+Nom=CREUX
+Prenom=NORBERT
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de AITON
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1598
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=4420
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=VERON
+Prenom=HENRI
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1595
+Four=2
+FicheOccupe=Libre
+End With

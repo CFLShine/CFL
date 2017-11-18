@@ -1,0 +1,107 @@
+Id=9082014
+Jourdate=09/08/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3602
+Pf=BALDINI
+Conseiller=Loïc TREVARAIN
+Nom=SANCHEZ
+Prenom=JENNIFER
+HeureArrivee=11:15
+HeureCeremonie=11:15
+HeureCremation=12:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=LA FAMILLE RECUPERE LES CENDRES CERCUEIL EN PIN
+NoOrdre=677
+Four=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3601
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=TATON
+Prenom=ODETTE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=676
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3610
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=SERRES HUGUET
+Prenom=JUAN
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION   PF RECUPERENT
+NoOrdre=675
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3613
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=PAJEAN
+Prenom=HENRI
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION - INHUMATION SAINT JEAN DE LA PORTE
+End With
+With ZONE
+Id=7
+EvenementCommentaire=PAS DE CREMATION - INHUMATION COGNIN
+SaisieOccupe=Libre
+CodeDft=3614
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=JALLAT
+Prenom=JORIS
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=6
+End With

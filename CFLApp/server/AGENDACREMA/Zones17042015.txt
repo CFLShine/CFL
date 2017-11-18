@@ -1,0 +1,147 @@
+Id=17042015
+Jourdate=17/04/2015
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=5271
+Pf=POMMAT
+Conseiller=Loïc TREVARAIN
+Nom=DURAND
+Prenom=ROBERT
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+NoOrdre=617
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=5274
+Pf=PFG CHAMBERY
+Conseiller=MP PINET
+Nom=CUZIN
+Prenom=ARMAND
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEL EN CHENE
+FicheOccupe=Libre
+NoOrdre=616
+Four=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=5277
+Pf=PFM
+Conseiller=MICHAEL
+Nom=MONTAGNE
+Prenom=FRANCIS
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE CHALLES LES EAUX
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=618
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5285
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=PAUMIER
+Prenom=CLARA
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Centre funéraire
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=620
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=5289
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=HARMAND
+Prenom=GEORGETTE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=ATTENTION CREMATION 16h00 PFG BOURG M. JOSEPH MAITRE SALON ANCOLIE  
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=5288
+Pf=POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=GERVASONI
+Prenom=ANDRE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION     PF RECUERENT
+NoOrdre=619
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5297
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=DERUPT
+Prenom=SUZANNE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Centre funéraire
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=622
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

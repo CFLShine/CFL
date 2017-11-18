@@ -1,0 +1,22 @@
+Id=11112014
+JourDate=11/11/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=1
+CodeDft=4129
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=FONTAINE
+DefuntPrenom=RENE
+Heure_0=12:56
+Ev_0=TAMB depuis  vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=
+Equipe_1=
+End With

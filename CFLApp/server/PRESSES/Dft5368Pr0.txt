@@ -1,0 +1,22 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry,\f1\par<Ret>\f0 Cressin-Rochefort.\f1\par<Ret>\b0\f0 Michel et Isabelle, ses enfants et leurs conjoints;\f1\par<Ret>\f0 Magali, Maud, Lara, Jonas, ses petits-enfants;\f1\par<Ret>\f0 Elsa, Tess et Joshua, ses arri\'e8res petits-enfants;\f1\par<Ret>\f0 vous font part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Madame Germaine RIVARD\f1\par<Ret>\f0 n\'e9e CLERC\f1\par<Ret>\pard\b0\f0 survenu dans sa 94eme ann\'e9e.\f1\par<Ret>\f0 La c\'e9r\'e9monie civile aura lieu au Centre Fun\'e9raire de Chamb\'e9ry dans l'intimit\'e9 familiale, le Mercredi 29 Avril 2015 \'e0 onze heures quinze.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciements.\par<Ret>}<Ret>
+CodeDft=5368
+Tarif=351,8
+NbLignes=19
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=27/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=1
+Name=AIN
+End With

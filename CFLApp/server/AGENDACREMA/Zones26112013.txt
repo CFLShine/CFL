@@ -1,0 +1,163 @@
+Id=26112013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2074.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=CHASSY
+Prenom=PASCAL
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE POUR DISPERSION ( AUCUNE VISITE SE RAPPROCHER DE L'EPOUSE)
+Police=True
+NoOrdre=1423
+Four=2
+CodeDft=2074
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2064.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=GAGLIARDI
+Prenom=MARIE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION  INHUMATION CHARRIERE NEUVE
+CodeDft=2064
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2051.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Marie-Pierre PINET
+Nom=BOULANGER
+Prenom=RICHARD
+HeureArrivee=
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL PIN   CEREMONIE CF  PF RECUPERENT 
+NoOrdre=1424
+Four=2
+CodeDft=2051
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2081.txt
+Pf=PF MERCIER
+Conseiller=Marie-Pierre PINET
+Nom=PASQUIER
+Prenom=GERARD
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de DES AVENIERES
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION PAR NOS SOINS A 15H30 AVEC FAMILLE
+NoOrdre=1425
+Four=1
+CodeDft=2081
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2063.txt
+Pf=PF ALPES SAVOIE
+Conseiller=Marie-Pierre PINET
+Nom=JORAND
+Prenom=MARCEL
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+NoOrdre=1426
+Four=2
+CodeDft=2063
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2067.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=STEVENIN
+Prenom=DENIS
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE POUR DISPERSION
+Police=True
+NoOrdre=1427
+Four=1
+CodeDft=2067
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2076.txt
+Pf=PFG MOUTIERS
+Conseiller=Loïc TREVARAIN
+Nom=PERRET
+Prenom=MARIE ANGE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1428
+Four=2
+CodeDft=2076
+End With

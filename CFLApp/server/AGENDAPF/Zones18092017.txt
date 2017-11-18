@@ -1,0 +1,50 @@
+Id=18092017
+JourDate=18/09/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11606
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=78
+EquipeId_0=60
+EquipeId_1=5
+EquipeId_2=6
+EquipeId_3=14
+Ordo=CLANET Sébastien
+Equipe_0=DUMAZ Rémy
+Equipe_1=MILLON Patrick
+Equipe_2=PINTOUT Bruno
+Equipe_3=KAELBERER Eric
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11610
+Comment_0=3 COEURS A LA CREMATION
+Comment_1=
+HeureComment=  :
+OrdoId=78
+EquipeId_0=60
+EquipeId_1=5
+EquipeId_2=6
+EquipeId_3=14
+Ordo=CLANET Sébastien
+Equipe_0=DUMAZ Rémy
+Equipe_1=MILLON Patrick
+Equipe_2=PINTOUT Bruno
+Equipe_3=KAELBERER Eric
+End With

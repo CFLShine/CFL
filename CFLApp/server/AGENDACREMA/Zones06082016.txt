@@ -1,0 +1,102 @@
+Id=6082016
+Jourdate=06/08/2016
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8797
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=BALAVOINE
+Prenom_ceremonie=OLIVIER
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8797
+Pf_cremation=PF BALDINI
+Nom_cremation=BALAVOINE
+Prenom_cremation=OLIVIER
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=1163
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8809
+Pf_ceremonie=PFM
+Nom_ceremonie=BRETON
+Prenom_ceremonie=FRANCOISE
+CodeDft_cremation=8809
+Pf_cremation=PFM
+Nom_cremation=BRETON
+Prenom_cremation=FRANCOISE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1162
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+EvenementCommentaire=ORDONNATEUR PFM POUR CIVILE, NOUS CONSERVONS L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8802
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=VILLARD, 
+Prenom_ceremonie=MARC
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8802
+Pf_cremation=PF MOUCHE
+Nom_cremation=VILLARD
+Prenom_cremation=MARC
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+NoOrdre=1164
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

@@ -1,0 +1,15 @@
+Id=2002
+With DEFUNT
+Id=9414
+Nom=FERNANDEZ
+Prenom=ANTOINE+ MANUELA
+DecesDate=08/01/2002
+CodeDft=9414
+End With
+With DEFUNT
+Id=3797
+Nom=MENGOLLI
+Prenom=ROMANE
+DecesDate=06/08/2002
+CodeDft=3797
+End With

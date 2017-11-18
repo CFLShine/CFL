@@ -1,0 +1,159 @@
+Id=12022013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\318.txt
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=NOVEL-CATIN
+Prenom=LUCAS
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=BÉBÉ
+NoOrdre=204
+Four=1
+CodeDft=318
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\320.txt
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=PAQUET
+Prenom=CLOTILDE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=Les PF récupèrent l'urne
+NoOrdre=205
+Four=2
+CodeDft=320
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\308.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Marie-Pierre PINET
+Nom=GUALA
+Prenom=CLAUDE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=206
+Four=1
+CodeDft=308
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\312.txt
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=HUGENIN
+Prenom=ADRIEN
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=207
+Four=2
+CodeDft=312
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\300.txt
+Pf=PFM
+Conseiller=Maxime EHNY
+Nom=RUSE
+Prenom=HUGUETTE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+CodeDft=300
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\306.txt
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=JANIN
+Prenom=SUZANNE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=208
+Four=
+CodeDft=306
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With

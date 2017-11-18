@@ -1,0 +1,188 @@
+Id=30092016
+Jourdate=30/09/2016
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=9132
+Pf_ceremonie=MAURIENNAISES
+Nom_ceremonie=CHAIX
+Prenom_ceremonie=SABINE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR  PFM  ACCUEIL
+CodeDft_cremation=9132
+Pf_cremation=MAURIENNAISES
+Nom_cremation=CHAIX
+Prenom_cremation=SABINE
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1394
+Four=2
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=9146
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=LEAUTIER
+Prenom_ceremonie=ALPHONSE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de PONT-DE-BEAUVOISIN
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 11H
+CodeDft_cremation=9146
+Pf_cremation=PF BALDINI
+Nom_cremation=LEAUTIER
+Prenom_cremation=ALPHONSE
+EvenementArrivee_cremation=Arrivée de PONT-DE-BEAUVOISIN
+NoOrdre=1391
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=9137
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=PLASSE
+Prenom_ceremonie=GERARD
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=9137
+Pf_cremation=PF SEDRAN
+Nom_cremation=PLASSE
+Prenom_cremation=GERARD
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1392
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9140
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=ANDRE
+Prenom_ceremonie=RENE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9140
+Pf_cremation=PFG CHAMBERY
+Nom_cremation=ANDRE
+Prenom_cremation=RENE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1393
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=8860
+Pf_ceremonie=PFM
+Nom_ceremonie=VITTET
+Prenom_ceremonie=JACQUES
+CodeDft_cremation=8860
+Pf_cremation=PFM
+Nom_cremation=VITTET
+Prenom_cremation=JACQUES
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie PAS DE CEREMONIE Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CREMATION DIRECT PAS DE CEREMONIE  
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1396
+Four=2
+Police=True
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+HeuretArrivee_ceremonie=
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=9142
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=TISSERAND
+Prenom_ceremonie=SUZANNE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=9142
+Pf_cremation=PF FLORET
+Nom_cremation=TISSERAND
+Prenom_cremation=SUZANNE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1397
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

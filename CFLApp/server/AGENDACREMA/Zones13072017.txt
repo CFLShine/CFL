@@ -1,0 +1,217 @@
+Id=13072017
+Jourdate=13/07/2017
+With ZONE
+Id=7
+EvenementCommentaire=ORDONNATEUR PFCCA
+SaisieOccupe=Libre
+CodeDft_ceremonie=11159
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=MAZUYT
+Prenom_ceremonie=GAELLE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11159
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=MAZUYT
+Prenom_cremation=GAELLE
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=971
+Four=FTX
+End With
+With ZONE
+Id=0
+EvenementCommentaire=PAS DE FAMILLE A LA CREMATION   DEPOT DU CERCUEIL LE 12 JUILLET AU SOIR
+SaisieOccupe=Libre
+CodeDft_ceremonie=11183
+Pf_ceremonie=PF PECH
+Nom_ceremonie=REROLLE
+Prenom_ceremonie=YVES
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=08:00
+EvenementCeremonie=Cérémonie 
+HeureCremation=08:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11183
+Pf_cremation=PF PECH
+Nom_cremation=REROLLE
+Prenom_cremation=YVES
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=966
+Four=FT3
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=11188
+Pf_ceremonie=PFM
+Nom_ceremonie=DANIELCZAK
+Prenom_ceremonie=GENEVIEVE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=11188
+Pf_cremation=PFM
+Nom_cremation=DANIELCZAK
+Prenom_cremation=GENEVIEVE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+NoOrdre=967
+Four=FTX
+End With
+With ZONE
+Id=3
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE 
+SaisieOccupe=Libre
+CodeDft_ceremonie=11185
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=LIONEL
+Prenom_ceremonie=BACQUET
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11185
+Pf_cremation=PF SEDRAN
+Nom_cremation=LIONEL
+Prenom_cremation=BACQUET
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=968
+Four=FT3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11186
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=ROGER
+Prenom_ceremonie=PIERRE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11186
+Pf_cremation=PF DE SAVOY
+Nom_cremation=ROGER
+Prenom_cremation=PIERRE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=969
+Four=FTX
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11180
+Pf_ceremonie=PF PECH
+Nom_ceremonie=EITENSCHENCK
+Prenom_ceremonie=RAYMOND
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11180
+Pf_cremation=PF PECH
+Nom_cremation=EITENSCHENCK
+Prenom_cremation=RAYMOND
+EvenementArrivee_cremation=Arrivée de UGINE
+NoOrdre=970
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+EvenementCommentaire=LES PF RECUPERENT L'URNE  PAS DE FAMILLE A LA CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=11175
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=DESCHAMPS
+Prenom_ceremonie=GERARD
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11175
+Pf_cremation=PF DE SAVOY
+Nom_cremation=DESCHAMPS
+Prenom_cremation=GERARD
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=972
+Four=FT3
+End With
+With ZONE
+Id=9
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11178
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=PAJEAN
+Prenom_ceremonie=MARIE-MICHELLE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11178
+Pf_cremation=PF MOUCHE
+Nom_cremation=PAJEAN
+Prenom_cremation=MARIE-MICHELLE
+EvenementArrivee_cremation=Arrivée de CHAMOUX
+FicheOccupe=Libre
+NoOrdre=973
+Four=FTX
+End With

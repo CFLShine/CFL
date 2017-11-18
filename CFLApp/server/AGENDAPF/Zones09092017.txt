@@ -1,0 +1,105 @@
+Id=9092017
+JourDate=09/09/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11552
+Comment_0=OUVERTURE DU CAVEAU PAR NOS SERVICES 
+Comment_1=
+HeureComment=  :
+OrdoId=73
+EquipeId_0=17
+EquipeId_1=76
+EquipeId_2=60
+EquipeId_3=50
+Ordo=FRANZINI Karine
+Equipe_0=MEGHEZZI Marc
+Equipe_1=PIERRE Hugo
+Equipe_2=DUMAZ Rémy
+Equipe_3=MARIE Tristan
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11558
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=17
+EquipeId_1=76
+EquipeId_2=60
+EquipeId_3=50
+Ordo=WALLYN Benoît
+Equipe_0=MEGHEZZI Marc
+Equipe_1=PIERRE Hugo
+Equipe_2=DUMAZ Rémy
+Equipe_3=MARIE Tristan
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11558
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11568
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+CodeDft=11568
+DemiJour=0
+Pos=1
+UsedBy=
+End With

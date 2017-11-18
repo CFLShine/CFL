@@ -1,0 +1,163 @@
+Id=8112014
+Jourdate=08/11/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4101
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=CALLU
+Prenom=REGINE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1365
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=4102
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=HOIRET
+Prenom=SERGE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM    DISPERSION A 14H PAR NOS SOINS JDS AVEC FAMILLE
+FicheOccupe=Libre
+NoOrdre=1364
+Four=2
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4104
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=ZANARDI
+Prenom=MAURICE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1367
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4108
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=DIDIER
+Prenom=GILLES
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNES
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=VU AVEC M . PACHOUD  ORDONNATEUR LOIC  LES PF RECUPERENT A 18H00
+NoOrdre=1368
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4110
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=BONNEFOY-CUDRAZ
+Prenom=JOSEPH
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de HOPITAL CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION      PF  CHAMBERIENNES  INHUMATION CHARRIERE NEUVE
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4111
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=BRESSAN
+Prenom=JOEL
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1369
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 15H30
+SaisieOccupe=Libre
+CodeDft=4114
+Pf=PF BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=GRENAUD
+Prenom=GERMAINE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1366
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=4113
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=RENAUD
+Prenom=CHRISTIAN
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PFG RECUPERENT L'URNE
+FicheOccupe=Libre
+NoOrdre=1363
+Four=1
+End With

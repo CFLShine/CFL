@@ -1,0 +1,110 @@
+Id=4092014
+Jourdate=04/09/2014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3733
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BIEULAC
+Prenom=CHRISTIANE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION      INHUMATION LA RAVOIRE   PFM
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3738
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=OLAGNON
+Prenom=CLAUDINE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE  CERCUEIL EN CHENE
+NoOrdre=1065
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3748
+Pf=PF BALDINI
+Conseiller=Loïc TREVARAIN
+Nom=BERTRAND
+Prenom=GERARD
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION PF RECUPERENT
+NoOrdre=1067
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3745
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=DALLA RIBERA
+Prenom=JACQUES
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1066
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=ORDONNATEUR PFM POUR RECEVOIR LA FAMILLE
+SaisieOccupe=Libre
+CodeDft=3744
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=MONET
+Prenom=LOUISETTE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1068
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=7
+End With

@@ -1,0 +1,14 @@
+Id=13012015
+JourDate=13/01/2015
+With ZONE
+Id=2
+EtatCivilChecked=True
+End With
+With ZONE
+Id=0
+EtatCivilChecked=True
+End With
+With ZONE
+Id=5
+EtatCivilChecked=True
+End With

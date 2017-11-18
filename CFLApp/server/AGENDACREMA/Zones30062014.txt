@@ -1,0 +1,93 @@
+Id=30062014
+Jourdate=30/06/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3385
+Pf=PF BOUDRIER
+Conseiller=Marie-Pierre PINET
+Nom=TROLLIET
+Prenom=CHARLES
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de MORESTEL
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 14H00
+FicheOccupe=Libre
+NoOrdre=803
+Four=2
+End With
+With ZONE
+Id=1
+EvenementCommentaire=  PAS DE CREMATION     PFM
+SaisieOccupe=Libre
+CodeDft=3387
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=OLIVIERI
+Prenom=JEAN-PIERRE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3388
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=QUAY
+Prenom=MARIE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=802
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3389
+Pf=PF BOUDRIER
+Conseiller=Marie-Pierre PINET
+Nom=DURAND
+Prenom=MURIEL
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de MORESTEL
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=804
+Four=1
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With

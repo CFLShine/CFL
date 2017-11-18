@@ -1,0 +1,29 @@
+Id=2011
+With DEFUNT
+Id=4235
+Nom=CHAUMONTET
+Prenom=LEON
+DecesDate=08/11/2011
+CodeDft=4235
+End With
+With DEFUNT
+Id=24
+Nom=MACHIN
+Prenom=TRUC
+DecesDate=31/12/2011
+CodeDft=24
+End With
+With DEFUNT
+Id=7825
+Nom=NGOMA BUR
+Prenom=JEMINA / KETIA
+DecesDate=03/06/2011
+CodeDft=7825
+End With
+With DEFUNT
+Id=8319
+Nom=RAFFATELLI
+Prenom=CLAUDE
+DecesDate=13/04/2011
+CodeDft=8319
+End With

@@ -1,0 +1,12 @@
+Id=8662
+DefuntNom=TRONCY
+DefuntPrenom=MARCEL
+DefuntDecesDate=14/07/2016
+CremationDate=
+CremationHeure=
+CremationCommune=
+PfCremation=MAURIENNAISES
+ArriveeHeure=  :
+CremationArriveeDe=
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=8662

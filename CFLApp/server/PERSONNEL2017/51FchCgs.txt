@@ -1,0 +1,31 @@
+Id=51
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=00:00
+EpargneesFC=00:00
+varHeuresSupAnDernier=00:00
+With LigneConges
+Id=0
+varPrisDu=05/02/17
+varPrisAu=12/02/17
+varDemandeDate=08/02/17
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=04/02/17
+varVisaDirecteur=04/02/17
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=12/06/17
+varPrisAu=18/06/17
+varDemandeDate=09/06/17
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=09/06/17
+varRetourDate=
+End With

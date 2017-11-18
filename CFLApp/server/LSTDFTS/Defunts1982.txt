@@ -1,0 +1,36 @@
+Id=1982
+With DEFUNT
+Id=3839
+Nom=CAIRE
+Prenom=LOUISE
+DecesDate=01/01/1982
+CodeDft=3839
+End With
+With DEFUNT
+Id=6525
+Nom=FAUCHER
+Prenom=FREDERIC ET JULIE HENRIETTE
+DecesDate=27/02/1982
+CodeDft=6525
+End With
+With DEFUNT
+Id=4561
+Nom=LECLERC
+Prenom=JACQUES et DANIEL
+DecesDate=01/01/1982
+CodeDft=4561
+End With
+With DEFUNT
+Id=6663
+Nom=MONTAGNER
+Prenom=
+DecesDate=01/01/1982
+CodeDft=6663
+End With
+With DEFUNT
+Id=1647
+Nom=SAISSY
+Prenom=ANTOINE
+DecesDate=21/07/1982
+CodeDft=1647
+End With

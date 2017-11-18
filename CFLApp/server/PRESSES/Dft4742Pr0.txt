@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Bissy, La Ravoire, Haguenau, Djerba, Bordeau\f1\par<Ret>\b0\f0 Maguy, Jacques, Jean-Marc, Bernard et Catherine ses enfants, leurs conjoints; ses petits-enfants et arri\'e8re petits-enfants; \f1\par<Ret>\f0 toute sa famille et ses proches,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Madame Lucie CABOT\f1\par<Ret>\f0 n\'e9e ALLEMOZ\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 92 ans.\f1\par<Ret>\f0 Selon ses volont\'e9s, ses fun\'e9railles ont eu lieu dans l'intimit\'e9.\f1\par<Ret>\f0 Sa famille remercie chaleureusement tout le personnel des charmilles.\f1\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=4742
+Tarif=208
+NbLignes=21
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=5
+Date=11/02/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

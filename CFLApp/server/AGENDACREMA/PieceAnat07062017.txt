@@ -1,0 +1,6 @@
+Id=7062017
+Agent=THOMAS
+Provenance=CHAMBERY
+Nature=FOETUS
+Four=
+NoOrdre=795

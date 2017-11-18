@@ -1,0 +1,166 @@
+Id=13022015
+Jourdate=13/02/2015
+Version=NouveauFormat
+With ZONE
+Id=3
+EvenementCommentaire=cercueil en chene
+SaisieOccupe=Libre
+CodeDft=4754
+Pf=PFG CHAMBERY
+Conseiller=MP PINET
+Nom=D AGOSTIN
+Prenom=BERNARD
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=258
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4772
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=ZULIAN
+Prenom=ROGER
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=257
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE FAMILLE   CEREMONIE A 9H15 PFM TRIVERO J NOEL
+SaisieOccupe=Libre
+CodeDft=4807
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=MERMOZ
+Prenom=JOSETTE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=09:15
+EvenementCeremonie=
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=256
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4771
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=BURDIN
+Prenom=JOSEPH
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=261
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4776
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=BERGER
+Prenom=RICHARD
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Centre funéraire
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=260
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4780
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=DRUOT
+Prenom=JEAN
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=259
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4778
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=GIRERD
+Prenom=PIERRE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=255
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4769
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=VIAND
+Prenom=MARCEL
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie  Centre funéraire
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=262
+Four=
+FicheOccupe=Libre
+End With

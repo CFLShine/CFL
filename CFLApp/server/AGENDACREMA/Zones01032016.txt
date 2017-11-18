@@ -1,0 +1,145 @@
+Id=1032016
+Jourdate=01/03/2016
+With ZONE
+Id=2
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft_ceremonie=7675
+Pf_ceremonie=PFM
+Nom_ceremonie=BURDIN
+Prenom_ceremonie=MATHILDE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7675
+Pf_cremation=PFM
+Nom_cremation=BURDIN
+Prenom_cremation=MATHILDE
+FicheOccupe=Libre
+Police=True
+NoOrdre=331
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=NORMALEMENT PAS DE FAMILLE
+SaisieOccupe=Libre
+CodeDft_ceremonie=7687
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=TAFI
+Prenom_ceremonie=REMY
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7687
+Pf_cremation=PF DE SAVOY
+Nom_cremation=TAFI
+Prenom_cremation=REMY
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=332
+Four=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+HeuretArrivee_ceremonie=
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+EvenementCommentaire=NE DONNER AUCUNE INFORMATION  STRICTE INTIMITE
+SaisieOccupe=Libre
+CodeDft_ceremonie=7693
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=RAFFIN
+Prenom_ceremonie=DANIELLE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7693
+Pf_cremation=PF SEDRAN
+Nom_cremation=RAFFIN
+Prenom_cremation=DANIELLE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=333
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=CERCUEIL EN CHENE   LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=7676
+Pf_ceremonie=PFG YENNE
+Nom_ceremonie=CHAPON
+Prenom_ceremonie=DENISE
+HeureArrivee_ceremonie=16:30
+EvenementArrivee_ceremonie=Arrivée de YENNE
+HeureArrivee_cremation=16:30
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7676
+Pf_cremation=PFG YENNE
+Nom_cremation=CHAPON
+Prenom_cremation=DENISE
+EvenementArrivee_cremation=Arrivée de YENNE
+FicheOccupe=Libre
+NoOrdre=334
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

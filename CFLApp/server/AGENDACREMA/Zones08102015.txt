@@ -1,0 +1,145 @@
+Id=8102015
+Jourdate=08/10/2015
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6598
+Pf_ceremonie=PFM
+Nom_ceremonie=MARTINEZ
+Prenom_ceremonie=MARIA
+CodeDft_cremation=6598
+Pf_cremation=PFM
+Nom_cremation=MARTINEZ
+Prenom_cremation=MARIA
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1445
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=6618
+Pf_ceremonie=POMMAT
+Nom_ceremonie=AUBE
+Prenom_ceremonie=GAEL
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  FAMILLE RECUPERE
+CodeDft_cremation=6618
+Pf_cremation=POMMAT
+Nom_cremation=AUBE
+Prenom_cremation=GAEL
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+NoOrdre=1444
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PREVOIR ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft_ceremonie=6616
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=SLADOJEVIC
+Prenom_ceremonie=DANICA
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX-LES-BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6616
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=SLADOJEVIC
+Prenom_cremation=DANICA
+EvenementArrivee_cremation=Arrivée de AIX-LES-BAINS
+NoOrdre=1446
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6609
+Pf_ceremonie=PFM
+Nom_ceremonie=LORENZI
+Prenom_ceremonie=ADELE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6609
+Pf_cremation=PFM
+Nom_cremation=LORENZI
+Prenom_cremation=ADELE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1447
+Four=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=6613
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=MENU
+Prenom_ceremonie=DOMINIQUE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6613
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=MENU
+Prenom_cremation=DOMINIQUE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1448
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+NoOrdre=
+Four=
+End With

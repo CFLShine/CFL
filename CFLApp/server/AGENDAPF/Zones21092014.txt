@@ -1,0 +1,65 @@
+Id=21092014
+JourDate=21/09/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+CodeDft=3866
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=MIEGE
+DefuntPrenom=FRANCOIS
+Heure_0=11:36
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=WALLYN Benoît
+Equipe_1=
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=1
+DemiJour=1
+CodeDft=3869
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=POLLIER
+DefuntPrenom=SIMONE
+Heure_0=14:05
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=WALLYN Benoît
+Equipe_1=JACQUIER Michel
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=2
+Saisie=TAMB
+Pos=1
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3868
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+DefuntNom=FAVRE
+DefuntPrenom=MARCEL
+Ev_0=TAMB depuis HOPITAL vers Centre funéraire
+Comment_0=
+Comment_1=
+End With

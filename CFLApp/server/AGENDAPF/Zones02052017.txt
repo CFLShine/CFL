@@ -1,0 +1,216 @@
+Id=2052017
+JourDate=02/05/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10555
+Comment_0=ENVOYER TOUS LES PAPIERS : DEMANDE INHUMATION POUR CIMETIERE ETC
+Comment_1=VOIR PLANNING AU 5 MAI
+HeureComment=  :
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10705
+Comment_0=SALON BUSSEROLE
+Comment_1=DEPART
+HeureComment=  :
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10709
+Comment_0=ORDO AMENE URNE
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Green
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10712
+Comment_0=NE PAS HESITER A DONNER LE CODE DU SALON DAUPHINELLE SI DES PERSONNES 
+Comment_1=VEULENT VENIR SE RECUEILLIR DIMANCHE OU LUNDI
+HeureComment=  :
+OrdoId=11
+EquipeId_0=6
+EquipeId_1=16
+EquipeId_2=60
+EquipeId_3=17
+Ordo=FAVRIN Thierry
+Equipe_0=PINTOUT Bruno
+Equipe_1=MILESI Robert
+Equipe_2=DUMAZ Rémy
+Equipe_3=MEGHEZZI Marc
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=10713
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=7
+EquipeId_1=26
+EquipeId_2=76
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=JACQUIER Michel
+Equipe_1=WALLYN Benoît
+Equipe_2=PIERRE Hugo
+Equipe_3=
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10717
+Comment_0=INTIMITE PAS DE REGISTRE
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=6
+EquipeId_1=7
+EquipeId_2=17
+EquipeId_3=60
+Ordo=FAVRIN Thierry
+Equipe_0=PINTOUT Bruno
+Equipe_1=JACQUIER Michel
+Equipe_2=MEGHEZZI Marc
+Equipe_3=DUMAZ Rémy
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10717
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10731
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=73
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FRANZINI Karine
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=8
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10721
+Comment_0=DEPART CHARRIERE NEUVE
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=9
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10742
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=10
+CodeDft=10741
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=11
+CodeDft=10732
+DemiJour=1
+Pos=1
+UsedBy=
+End With

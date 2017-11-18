@@ -1,0 +1,18 @@
+Id=-1
+Type=Remerciements
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Maguy Moyne et ses enfants vous remercient de votre pr\'e9sence lors de la c\'e9l\'e9bration religieuse des obs\'e8ques de\f1\par<Ret>\pard\qc\b\f0 Fred MOYNE\f1\par<Ret>\pard\b0\f0 ce mardi 30 septembre en l'\'e9glise de St Baldoph.\par<Ret>}<Ret>
+CodeDft=3896
+Tarif=55
+NbLignes=7
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=02/10/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

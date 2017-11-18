@@ -1,0 +1,370 @@
+Version=1
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=12:00
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=
+varNbHeuresSup=7:15
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=18/02/13
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=2
+varDateHeuresSup=20/04/13
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=3
+varDateHeuresSup=23/04/13
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=4
+varDateHeuresSup=29/10/13
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=5
+varDateHeuresSup=30/10/13
+varNbHeuresSup=8:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=6
+varDateHeuresSup=01/11/13
+varNbHeuresSup=7:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=7
+varDateHeuresSup=29/10/13
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=8
+varDateHeuresSup=30/10/13
+varNbHeuresSup=8:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=9
+varDateHeuresSup=01/11/13
+varNbHeuresSup=7:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=10
+varDateHeuresSup=
+varNbHeuresSup=
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneConges
+Id=0
+varPrisDu=02/04/13
+varPrisAu=03/04/13
+varAnnuel=12:00
+varRecup=
+varEpargne=
+varDemandeDate=02/04/13
+varVisaChef=29/03/13
+varVisaDirecteur=13/04/13
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=15/04/13
+varPrisAu=16/04/13
+varAnnuel=12:00
+varRecup=
+varEpargne=
+varDemandeDate=12/04/13
+varVisaChef=12/04/13
+varVisaDirecteur=13/04/13
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=17/06/13
+varPrisAu=17/06/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varDemandeDate=14/06/13
+varVisaChef=14/06/13
+varVisaDirecteur=14/06/13
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=29/06/13
+varPrisAu=29/06/13
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varDemandeDate=02/07/13
+varVisaChef=27/06/13
+varVisaDirecteur=27/06/13
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=06/07/13
+varPrisAu=06/07/13
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varDemandeDate=08/07/13
+varVisaChef=08/07/13
+varVisaDirecteur=8/07/13
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=13/07/13
+varPrisAu=13/07/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=15/07/13
+varVisaChef=13/07/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=03/08/13
+varPrisAu=24/08/13
+varAnnuel=108:00
+varRecup=
+varEpargne=
+varDemandeDate=31/07/13
+varVisaChef=31/07/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=07/09/13
+varPrisAu=07/09/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=09/09/13
+varVisaChef=06/09/13
+varVisaDirecteur=6/09/13
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=17/09/13
+varPrisAu=17/09/13
+varAnnuel=
+varRecup=2:00
+varEpargne=
+varDemandeDate=19/09/13
+varVisaChef=19/09/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=9
+varPrisDu=19/09/13
+varPrisAu=19/09/13
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varDemandeDate=19/09/13
+varVisaChef=19/09/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=10
+varPrisDu=20/09/13
+varPrisAu=20/09/13
+varAnnuel=
+varRecup=2:00
+varEpargne=
+varDemandeDate=23/09/13
+varVisaChef=23/09/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=11
+varPrisDu=28/09/13
+varPrisAu=28/09/13
+varAnnuel=
+varRecup=8:00
+varEpargne=
+varDemandeDate=30/09/13
+varVisaChef=30/09/13
+varVisaDirecteur=30/09/13
+varRetourDate=
+End With
+With LigneConges
+Id=12
+varPrisDu=
+varPrisAu=
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=13
+varPrisDu=07/11/13
+varPrisAu=07/11/13
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varDemandeDate=18/11/13
+varVisaChef=07/11/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=14
+varPrisDu=
+varPrisAu=
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=15
+varPrisDu=12/11/13
+varPrisAu=12/11/13
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varDemandeDate=18/11/13
+varVisaChef=12/11/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=16
+varPrisDu=
+varPrisAu=
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=17
+varPrisDu=19/11/13
+varPrisAu=19/11/13
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varDemandeDate=18/11/13
+varVisaChef=18/11/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=18
+varPrisDu=29/11/13
+varPrisAu=29/11/13
+varDemandeDate=16/12/13
+varAnnuel=1:00
+varRecup=
+varEpargne=
+varVisaChef=16/12/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=19
+varPrisDu=30/11/13
+varPrisAu=30/11/13
+varDemandeDate=16/12/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=16/12/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=20
+varPrisDu=03/12/13
+varPrisAu=03/12/13
+varDemandeDate=16/12/13
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=16/12/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=21
+varPrisDu=07/12/13
+varPrisAu=07/12/13
+varDemandeDate=16/12/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=16/12/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=22
+varPrisDu=14/12/13
+varPrisAu=14/12/13
+varDemandeDate=16/12/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=16/12/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=23
+varPrisDu=28/12/13
+varPrisAu=31/12/13
+varDemandeDate=31/12/13
+varAnnuel=20:00
+varRecup=
+varEpargne=
+varVisaChef=31/12/13
+varVisaDirecteur=
+varRetourDate=
+End With

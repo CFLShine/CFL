@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Bassens, St Baldoph.\f1\par<Ret>\f0 Edith Chirpaz, Daniel Caffoz et Sylvie Caffoz-Demeure, ses enfants et leurs conjoints;\f1\par<Ret>\f0 Ses petits enfants et arri\'e8re petits enfants;\f1\par<Ret>\f0 Marie-Jeanne Richel, sa soeur;\f1\par<Ret>\f0 parents et amis;\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Madame \f1\par<Ret>\f0 Genevieve CAFFOZ\f1\par<Ret>\f0 N\'e9e JACOMET\f1\par<Ret>\f0\'e0 l'\'e2ge de 93 ans\f1\par<Ret>\pard\b0\f0 La famille remercie chaleureusement le personnel de la maison St Benoit pour son Accompagnement.\f1\par<Ret>\f0 Les fun\'e9railles ont eu lieu dans l'intimit\'e9 familiale.\f1\par<Ret>\pard\f0\par<Ret>}<Ret>
+CodeDft=8643
+Tarif=208
+NbLignes=20
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=18/07/2016
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

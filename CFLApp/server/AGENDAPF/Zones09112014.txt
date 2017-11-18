@@ -1,0 +1,40 @@
+Id=9112014
+JourDate=09/11/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+CodeDft=4127
+Pf=PFM
+Conseiller=Pascal MARIE
+DefuntNom=GOUSSET
+DefuntPrenom=PAULETTE
+Heure_0=11:06
+Ev_0=TAMB depuis ST BENOIS vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=AVERONE David
+Equipe_1=WALLYN Benoît
+End With
+With ZONE
+Id=1
+Saisie=Soins
+Pos=1
+DemiJour=1
+CodeDft=4127
+Pf=PFM
+Conseiller=Pascal MARIE
+DefuntNom=GOUSSET
+DefuntPrenom=PAULETTE
+Heure_0=13:30
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+End With

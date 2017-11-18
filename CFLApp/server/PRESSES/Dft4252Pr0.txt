@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Bassens, Vimines, Curiennes,\f1\par<Ret>\f0 G\'e9rard et Jacqueline, Claude et Claire Rastello, ses enfants,\f1\par<Ret>\f0 Virginie, Charlotte, Justine, Perrine, ses petites filles et leurs conjoints,\f1\par<Ret>\f0 ses arri\'e8res petits enfants,\f1\par<Ret>\f0 parents et proches,\f1\par<Ret>\f0 vous font part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Madame Edwige RASTELLO\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie sera c\'e9l\'e9br\'e9e en l'eglise de bassens le Jeudi 4 D\'e9cembre 2014 \'e0 quinze heures, \f1\par<Ret>\f0 La famille remercie le personnel du Laurier pour sa gentillesse et son d\'e9vouement,\f1\par<Ret>\f0 cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4252
+Tarif=208
+NbLignes=18
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=02/12/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

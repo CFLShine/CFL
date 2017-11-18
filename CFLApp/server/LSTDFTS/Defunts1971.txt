@@ -1,0 +1,15 @@
+Id=1971
+With DEFUNT
+Id=1996
+Nom=BERTRAND
+Prenom=LEON
+DecesDate=01/01/1971
+CodeDft=1996
+End With
+With DEFUNT
+Id=3831
+Nom=SOLLIMA
+Prenom=ADELINE
+DecesDate=19/12/1971
+CodeDft=3831
+End With

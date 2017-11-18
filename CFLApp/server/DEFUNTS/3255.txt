@@ -1,0 +1,223 @@
+Id=3255
+CodeDefunt=3255
+DefuntNom=MONIN
+DefuntPrenom=JOSEPH
+DefuntDecesDate=03/06/2014
+DefuntNationalite=Française
+DefuntTitre=Monsieur
+DefuntAdresse2=
+DefuntProfession=AGRICULTEUR
+DefuntAdresseCommune=ENTREMONT LE VIEUX
+DefuntAdresseCodPost=73670
+DefuntAdresse=LA PLAGNE
+DefuntNaissancePays=
+DefuntNaissanceDepartement=SAVOIE
+DefuntNaissanceCommune=ENTREMONT LE VIEUX
+DefuntPrenoms=JOSEPH
+DefuntNomJF=
+DefuntNaissanceDate=08/09/1926
+DefuntDecesHeure=14:15
+DefuntDecesAdresse=Hôpital de Chambéry
+DefuntDecesMedecin=
+DefuntDecesPays=
+DefuntDecesCommune=CHAMBERY
+DefuntMereDecede=True
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=AMELIE
+DefuntMereNom=TILLOT
+DefuntPereDecede=True
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=SERAPHIN
+DefuntPereNom=MONIN
+DefuntMariageDate=25/04/1969
+DefuntDivorseDate=  /  /
+DefuntSituationDecesDate=  /  /
+DefuntSituationNaissanceDate=  /  /
+DefuntNbEnfantsVivants=3
+DefuntNbEnfants=3
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=SUZANNE
+DefuntSituationNom=LEVROT
+DefuntSituation=Marie
+PouvQualite=Conjoint
+PouvNom=
+PouvPrenom=
+PouvNomJF=
+PouvAdresse=
+PouvAdresse2=
+PouvCodePost=
+PouvCommune=
+PouvTel1=
+PouvTel2=
+PouvMail=
+ReceptionDate=04/06/2014
+Conseiller=Ginette GAYRAUD
+PfMEB=PFM
+MEBCommune=
+ArriveeCommune=
+MEBDate=07/06/2014
+ArriveeDate=
+MEBHeure=10:30
+ArriveeHeure=
+MEBLieu=HOPITAL DE CHAMBERY
+ArriveeLieu=
+Salon=False
+SalonCase_Name=
+DispersionDate=  /  /
+DispersionHeure=  :
+DispersionLieu=
+DispersionCommune=
+PfDispersion=
+PfInhumation=PFM
+InhumationDate=07/06/2014
+InhumationHeure=16:00
+InhumationSepulture=1
+CodeConvoit=07/06/2014_1_1
+CodeMEB=07/06/2014_0_0
+PfCeremonie=PFM
+CeremonieLieu=EGLISE D'ENTREMONT LE VIEUX
+CeremonieDate=07/06/2014
+CeremonieRegistre=True
+CeremonieHeure=15:00
+CeremonieType=Religieuse
+SepultureCimetiere=
+SepultureCommune=ENTREMONT LE VIEUX
+SepultureType=Pleine terre
+Concessionaire=False
+AyantDroit=False
+SepultureProvisoire=False
+ConcessionDPINom=
+ConcessionDPINomJF=
+ConcessionDPIPrenom=
+ConcessionDPIAnnee=
+ConcessionAquiseParNom=
+ConcessionAquiseParPrenom=
+ConcessionAquiseDate=  /  /
+ConcessionDuree=
+ConcessionDesignation=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+SepultureDivision=
+SepultureSection=
+SepultureCarre=
+SepultureLigne=
+SepultureTombe=
+Presse=True
+BourseADons=False
+CeremonieDistanceCf=
+MEBDistanceCf=
+PfTransport=
+TransportDate=  /  /
+TransportDepartLieu=
+TransportArriveeLieu=
+TransportDepartHeure=  :
+TransportArriveeHeure=  :
+TransportVehicule=
+TransportDistanceCf=
+With A FAIRE
+Id=0
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=04/06/2014 10:43:26
+DateFait=04/06/2014 15:56:35
+FaitPar=Ginette GAYRAUD
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul3]
+Fait=True
+Perso=False
+DateAFaire=04/06/2014 10:43:26
+DateFait=04/06/2014 15:56:38
+FaitPar=Ginette GAYRAUD
+End With
+With A FAIRE
+Id=2
+Intitule=[Intitul16]
+Fait=True
+Perso=False
+DateAFaire=04/06/2014 10:43:26
+DateFait=05/06/2014 09:31:46
+FaitPar=Jean-Luc PEYREDIEU
+End With
+With A FAIRE
+Id=7
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=04/06/2014 10:43:26
+DateFait=04/06/2014 15:56:41
+FaitPar=Ginette GAYRAUD
+End With
+With A FAIRE
+Id=8
+Intitule=[Intitul4]
+Fait=True
+Perso=False
+DateAFaire=04/06/2014 10:46:34
+DateFait=04/06/2014 15:56:43
+FaitPar=Ginette GAYRAUD
+End With
+With A FAIRE
+Id=9
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=04/06/2014 10:46:34
+DateFait=04/06/2014 15:56:45
+FaitPar=Ginette GAYRAUD
+End With
+With A FAIRE
+Id=10
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=04/06/2014 10:46:34
+DateFait=05/06/2014 14:23:16
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=11
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=04/06/2014 10:46:34
+DateFait=04/06/2014 15:56:49
+FaitPar=Ginette GAYRAUD
+End With
+With A FAIRE
+Id=12
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=04/06/2014 10:46:34
+DateFait=04/06/2014 15:56:50
+FaitPar=Ginette GAYRAUD
+End With
+With A FAIRE
+Id=13
+Intitule=[Intitul10]
+Fait=True
+Perso=False
+DateAFaire=04/06/2014 10:46:34
+DateFait=04/06/2014 15:57:01
+FaitPar=Ginette GAYRAUD
+End With
+With A FAIRE
+Id=14
+Intitule=[Intitul11]
+Fait=True
+Perso=False
+DateAFaire=04/06/2014 10:46:34
+DateFait=04/06/2014 15:57:02
+FaitPar=Ginette GAYRAUD
+End With

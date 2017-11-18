@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, Drumettaz-Clarafond, Pey (Landes),\f1\par<Ret>\b0\f0 Rose-Marie et Serge Dunand, Michel et Barbara Ann\'e9, Colette et Mathias Ann\'e9 Borer, ses enfants et leurs conjoints; ses sept petits-enfants et ses trois arri\'e8re-petits-enfants; Mme Germaine Ann\'e9, Mme Annie Salles, M. Dominique Milesi, ont la douleur de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Jean Lucien ANN\'e9\f1\par<Ret>\pard\b0\f0 survenu dans sa 89\'e8me ann\'e9e.\f1\par<Ret>\f0 La c\'e9r\'e9monie civile aura lieu le samedi 10 janvier 2015 \'e0 seize heures quinze au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4505
+Tarif=208
+NbLignes=20
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=08/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

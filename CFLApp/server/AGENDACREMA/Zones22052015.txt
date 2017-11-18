@@ -1,0 +1,165 @@
+Id=22052015
+Jourdate=22/05/2015
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION REVISION FOUR
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PAS DE CREMATION REVISION FOUR
+SaisieOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 18H
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=14:45
+EvenementArrivee_ceremonie=Arrivée de MARVEJOLS
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de MARVEJOLS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=15:30
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_ceremonie=5580
+Pf_ceremonie=PF CAVALIER
+Nom_ceremonie=EYDT
+Prenom_ceremonie=DANIEL
+CodeDft_cremation=5580
+Pf_cremation=PF CAVALIER
+Nom_crema=EYDT
+Prenom_crema=DANIEL
+FicheOccupe=Libre
+NoOrdre=797
+Four=1
+HeuretArrivee_ceremonie=
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=08:45
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de ALBERTVILLE
+HeureCeremonie=08:45
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=5579
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=BODEVIN
+Prenom_ceremonie=EVA
+CodeDft_cremation=5579
+Pf_cremation=PF POMMAT
+Nom_crema=BODEVIN
+Prenom_crema=EVA
+NoOrdre=793
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=5574
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=DENIS
+Prenom_ceremonie=MADELEINE
+HeuretArrivee_ceremonie=
+CodeDft_cremation=5574
+Pf_cremation=PFG MACHE
+Nom_crema=DENIS
+Prenom_crema=MADELEINE
+NoOrdre=794
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de BELLEY
+HeureCeremonie=11:45
+EvenementCeremonie=Cérémonie 
+HeureCremation=12:30
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM  POUR TONIN  COIFFET
+CodeDft_ceremonie=5592
+Pf_ceremonie=
+Nom_ceremonie=BAUDET
+Prenom_ceremonie=BIANCA
+CodeDft_cremation=5592
+Pf_cremation=PF TONIN COIFFET
+Nom_crema=BAUDET
+Prenom_crema=BIANCA
+HeuretArrivee_ceremonie=
+NoOrdre=795
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de MORESTEL
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION JDS PAR NOS SOINS   SANS FAMILLE A 16H30
+CodeDft_ceremonie=5583
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=DELMONT
+Prenom_ceremonie=PAUL
+CodeDft_cremation=5583
+Pf_cremation=PF BOUDRIER
+Nom_crema=DELMONT
+Prenom_crema=PAUL
+NoOrdre=796
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=5582
+Pf_ceremonie=PFM
+Nom_ceremonie=COLLOMB
+Prenom_ceremonie=GERMAINE 
+Police=True
+CodeDft_cremation=5582
+Pf_cremation=PFM
+Nom_crema=COLLOMB
+Prenom_crema=GERMAINE 
+NoOrdre=798
+Four=
+FicheOccupe=Libre
+End With

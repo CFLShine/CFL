@@ -1,0 +1,10 @@
+Id=19012015
+JourDate=19/01/2015
+With ZONE
+Id=0
+UsedBy=Libre
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+End With

@@ -1,0 +1,50 @@
+Id=-1
+With ZONE
+Id=8
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11762
+Pf_ceremonie=PFCCA
+Nom_ceremonie=SONNEFRAUD
+Prenom_ceremonie=PAUL
+CodeDft_cremation=11762
+Pf_cremation=PFCCA
+Nom_cremation=SONNEFRAUD
+Prenom_cremation=PAUL
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=9
+End With

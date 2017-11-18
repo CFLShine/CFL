@@ -1,0 +1,146 @@
+Id=26072014
+Jourdate=26/07/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3529
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=PUTELLI
+Prenom=VIOLETTE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=915
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=DEPOT DU CERCUEIL VENDREDI 25 JUILLET   PAS DE FAMILLE  
+SaisieOccupe=Libre
+CodeDft=3540
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=PERRIER
+Prenom=MARIE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=12:15
+EvenementCeremonie=
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=916
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft=3542
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=HAZUCKA
+Prenom=EUGENE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=919
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE LA SEMAINE PROCHAINE
+SaisieOccupe=Libre
+CodeDft=3543
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=BLEUSE
+Prenom=BRUNO
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=918
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3537
+Pf=PF BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=PETRAZ
+Prenom=AIME
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=914
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3538
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=CARABELOS
+Prenom=NATHALIE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=913
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3545
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=ARNAUD
+Prenom=CHRISTIAN
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de ST JEAN 
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 17H00
+NoOrdre=917
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

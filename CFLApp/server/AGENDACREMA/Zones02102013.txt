@@ -1,0 +1,146 @@
+Id=2102013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1740.txt
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=LACRUZ
+Prenom=ALBINA
+HeureArrivee=
+EvenementArrivee=Arrivée de PONT DE BAUVOISIN
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1188
+Four=1
+CodeDft=1740
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION   IHNUMATION CHARRIERE-NEUVE
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1741.txt
+Pf=PF AJEPI  SAVOIE
+Conseiller=Marie-Pierre PINET
+Nom=BARLET
+Prenom=JEANNINE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft=1741
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1731.txt
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=MENEGAUT
+Prenom=MARIE-PIERRE
+HeureArrivee=
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDO PFM / URNE EN DEPOT
+NoOrdre=1189
+Four=1
+CodeDft=1731
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1732.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=SCHROEDER
+Prenom=GEORGES
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY 
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE /SALON BUSSEROLE
+NoOrdre=1190
+Four=2
+CodeDft=1732
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1736.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=COCHET
+Prenom=DENYS
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+NoOrdre=
+Four=
+CodeDft=1736
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1737.txt
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=DULAC
+Prenom=GEORGES
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY 
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1191
+Four=2
+CodeDft=1737
+End With

@@ -1,0 +1,164 @@
+Id=15012015
+Jourdate=15/01/2015
+Version=NouveauFormat
+With ZONE
+Id=1
+EvenementCommentaire= 
+SaisieOccupe=Libre
+CodeDft=4542
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=GEORGES CREVATIN
+Prenom=HENRI
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=82
+Four=2
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=4533
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=DECOTTIGNIES
+Prenom=GINETTE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DEPOT LA VEILLE  ERIC
+NoOrdre=81
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4532
+Pf=PF MOUCHE
+Conseiller=Loïc TREVARAIN
+Nom=DROUX
+Prenom=MICHEL
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMOUX
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ARRIVEE VERS 11 H 30... FAMILLE RECUPERE - NE PAS SCELLER
+NoOrdre=84
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4535
+Pf=PF CARTIER LANGE
+Conseiller=Loïc TREVARAIN
+Nom=COLLOMB
+Prenom=ELIANE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de SAINT ETIENNE DE CUINES
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+FicheOccupe=Libre
+NoOrdre=85
+Four=1
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4539
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=BERGOUGNOUX
+Prenom=PAULETTE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de ST JEAN
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM
+NoOrdre=86
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+CodeDft=4540
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=BONVIN
+Prenom=RENE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=83
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4552
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=KERKHOVE
+Prenom=MARIE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:00
+EvenementCeremonie=Cérémonie Religieuse LA MOTTE SERVOLEX
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=87
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4557
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=CUSIN-MERMET
+Prenom=RENE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=88
+Four=2
+End With

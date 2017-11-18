@@ -1,0 +1,17 @@
+Id=4291
+CodeDefunt=4291
+DefuntNom=TABORINO
+DefuntPrenom=FRANCASCO
+DefuntDecesDate=07/12/2014
+CremationArriveeDe=BOURG ST MAURICE
+ArriveeDate=10/12/2014
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationHeure=
+CremationCommune=
+PfCremation=PF DE SAVOY
+ReservCrema=Marie-Pierre PINET
+PfArrivee=PF DE SAVOY

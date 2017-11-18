@@ -1,0 +1,22 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Viviers du Lac, Gr\'e9sy sur Aix,\f1\par<Ret>\b0\f0 Marie-Pierre et Jean Scalia, Christelle Lacroix et Pierre-Yves Duhail, ses enfants; St\'e9phanie, Jessica, Mathis, ses petits-enfants; Ses fr\'e8res et soeurs, beaux-fr\'e8res et belles-soeurs; Les familles Lacroix et Berthet, ont le regret de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Monsieur Louis LACROIX\b0\f1\par<Ret>\b\f0 retrait\'e9 exploitant forestier\b0\par<Ret>\pard survenu \'e0 l'\'e2ge de 75 ans.\par<Ret>La c\'e9r\'e9monie religieuse aura lieu le samedi 29 novembre 2014 \'e0 dix heures en l'\'e9glise du Viviers du Lac, suivie de l'inhumation \'e0 Ayn.\f1\par<Ret>\f0 Condol\'e9ances sur registres.\f1\par<Ret>\f0 La famille rappelle \'e0 votre souvenir son \'e9pouse\f1\par<Ret>\pard\qc\b\f0 Andr\'e9e\f1\par<Ret>\pard\b0\f0 d\'e9c\'e9d\'e9e en 1998.\par<Ret>}<Ret>
+CodeDft=4231
+Tarif=351,8
+NbLignes=22
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=27/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=1
+Name=AIN
+End With

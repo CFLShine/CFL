@@ -1,0 +1,150 @@
+Id=17082013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1478.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=BEYLIER
+Prenom=ROGER
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=SALON DAUPHINELLE
+NoOrdre=991
+Four=1
+CodeDft=1478
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1477.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=BUTTIN
+Prenom=ANDRE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=INTIMITE FAMILIALE - Se renseigner auprès de la famille
+NoOrdre=992
+Four=2
+CodeDft=1477
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1472.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=SERENO
+Prenom=CELINE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE COGNIN
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=993
+Four=1
+CodeDft=1472
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1473.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=TEISSIER
+Prenom=MARIE HELENE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=994
+Four=2
+CodeDft=1473
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1476.txt
+Pf=PF BERGER
+Conseiller=Marie-Pierre PINET
+Nom=MASSENOT
+Prenom=PHILIPPE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de ST GENIX SUR GUIERS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=995
+Four=1
+CodeDft=1476
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1469.txt
+Pf=PFG GRENOBLE
+Conseiller=Marie-Pierre PINET
+Nom=BERNAT
+Prenom=JEAN LUC
+HeureArrivee=
+EvenementArrivee=Arrivée de LA MOTTE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE
+NoOrdre=996
+Four=2
+CodeDft=1469
+End With

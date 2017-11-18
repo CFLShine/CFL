@@ -1,0 +1,150 @@
+Id=29072014
+Jourdate=29/07/2014
+Version=NouveauFormat
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3539
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=MEMETEAU
+Prenom=JACQUELINE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=926
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3549
+Pf=AJEPI
+Conseiller=Marie-Pierre PINET
+Nom=NGUYEN
+Prenom=KIM
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=928
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3552
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=VATTIER
+Prenom=RAYMONDE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=923
+Four=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3553
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=BERNARD
+Prenom=MARGUERITE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=925
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3554
+Pf=PF BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=GRANGER
+Prenom=GEORGES
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=924
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3556
+Pf=PFG AIX LES BAINS
+Conseiller=Loïc TREVARAIN
+Nom=DEBARD
+Prenom=CHARLES
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT 
+NoOrdre=927
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

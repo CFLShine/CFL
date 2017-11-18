@@ -1,0 +1,6 @@
+Id=17062015
+Agent=NANTOIS
+Provenance=HOPITAL DE CHAMBERY
+Nature=1 FOETUS 15 ANA 17
+Four=1
+NoOrdre=919

@@ -1,0 +1,84 @@
+Id=10032014
+Version=NouveauFormat
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2711.txt
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=GALLOIS
+Prenom=ANNIE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=313
+Four=1
+FicheOccupe=Libre
+CodeDft=2711
+End With
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2715.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=CLEYET MERLE
+Prenom=ANGELE
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+FicheOccupe=Libre
+CodeDft=2715
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2729.txt
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=DELANOUE
+Prenom=CONSTANCE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ENFANT NEE SANS VIE PAS DE FAMILLE
+NoOrdre=311
+Four=1
+FicheOccupe=Libre
+CodeDft=2729
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2736.txt
+Pf=PF BALDINI
+Conseiller=Loïc TREVARAIN
+Nom=FRICHET
+Prenom=GERMAINE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISOIN
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=312
+Four=1
+FicheOccupe=Libre
+CodeDft=2736
+End With

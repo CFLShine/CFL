@@ -1,0 +1,6 @@
+Id=1042014
+Agent=NANTOIS
+Provenance=MEDIPOLE DE SAVOIE
+Nature=PIECE ANATOMIQUE
+Four=1
+NoOrdre=414

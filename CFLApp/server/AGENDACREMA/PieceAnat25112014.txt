@@ -1,0 +1,6 @@
+Id=25112014
+Agent=BOULET
+Provenance=HOPITAL DE CHAMBERY
+Nature=3 FOETUS
+Four=1
+NoOrdre=1433

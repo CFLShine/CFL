@@ -1,0 +1,170 @@
+Id=28122012
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=2
+NoZONE=2
+AdresseFicheDefunt=\DONNEES\DONNEES2012\11.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=GAYRAUD Ginette
+Pf=
+Nom=RIVOLIER
+Prenom=CLAUDIA
+NoOrdre=
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=11
+End With
+With ZONE
+Id=3
+NoZONE=3
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=4
+NoZONE=4
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=6
+NoZONE=6
+AdresseFicheDefunt=\DONNEES\DONNEES2012\21.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=TONIN COIFFET
+Nom=POZZOBON
+Prenom=ARLETTE
+NoOrdre=
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=21
+End With
+With ZONE
+Id=7
+NoZONE=7
+AdresseFicheDefunt=\DONNEES\DONNEES2012\1.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=GAYRAUD Ginette
+Pf=PFM
+Nom=BATAILLARD
+Prenom=SOLANGE
+NoOrdre=
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY VIA CHAPAREILLAN
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Religieuse CHAPAREILLAN
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=15:15
+EvenementCommentaire=
+CodeDft=1
+End With

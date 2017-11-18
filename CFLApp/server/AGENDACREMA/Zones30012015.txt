@@ -1,0 +1,143 @@
+Id=30012015
+Jourdate=30/01/2015
+Version=NouveauFormat
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION   INHUMATION CHARRIERE NEUVE  PFM 
+SaisieOccupe=Libre
+CodeDft=4661
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=DYEN
+Prenom=GERMAINE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=(CERC. C. SALON ANCOLIE)  SALLE CEREMONIE OCCUPE MR. DELENCRE DANIEL PFM
+SaisieOccupe=Libre
+CodeDft=4641
+Pf=FLORET
+Conseiller=Pascal MARIE
+Nom=VAN DEN BERCH
+Prenom=MARIE MADELEINE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=179
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4652
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=DUCROS
+Prenom=ROGER
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=180
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4666
+Pf=PF MERCIER
+Conseiller=Loïc TREVARAIN
+Nom=SYLVESTRE
+Prenom=ANNE SOPHIE
+HeureArrivee=
+EvenementArrivee=Arrivée de LES AVENIERES
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  FAMILLE RECUPERE à 17h00
+NoOrdre=182
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4664
+Pf=PF VAISON LA ROMAINE
+Conseiller=Marion TREBOUTE
+Nom=FERRAND
+Prenom=JOCELYN
+HeureArrivee=14:30
+EvenementArrivee=Arrivée de VAISON LA ROMAINE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=INHUMATION CHARRIERE NEUVE   PAS DE CREMATION
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4674
+Pf=PFG MACHE
+Conseiller=Loïc TREVARAIN
+Nom=VOLTOLIN
+Prenom=MARYSE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIML CREMATION   PF RECUPERENT
+FicheOccupe=Libre
+NoOrdre=181
+Four=1
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4677
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=GOULAS
+Prenom=GIOVANNINA
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=08:30
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=178
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+End With

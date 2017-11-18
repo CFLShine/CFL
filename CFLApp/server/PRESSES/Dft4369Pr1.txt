@@ -1,0 +1,18 @@
+Id=-1
+Type=Remerciements
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Les familles CHRISTIN Philippe et EVRARD Jean,\f1\par<Ret>\f0 remercient vivement toutes les personnes qui ont pris part \'e0 leur peine par leurs pr\'e9sences, m\'e9ssages, fleurs ou pens\'e9es lors de d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 EVRARD Andr\'e9\b0\par<Ret>}<Ret>
+CodeDft=4369
+Tarif=84
+NbLignes=8
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=30/12/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

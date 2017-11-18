@@ -1,0 +1,162 @@
+Id=25042015
+Jourdate=25/04/2015
+Version=NouveauFormat
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=5351
+Pf_ceremonie=PFM
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=5343
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=AMBROSINI
+Prenom_ceremonie=GILBERT
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE  PF RECUPERENT
+CodeDft_cremation=5343
+Pf_crema=
+Nom_crema=AMBROSINI
+Prenom_crema=GILBERT
+Pf_cremation=PFG CHAMBERY
+NoOrdre=663
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=5345
+Pf_ceremonie=PF ALPES SAVOIE
+Nom_ceremonie=RUFFIER
+Prenom_ceremonie=ANDREE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_crema=15:15
+EvenementArrivee_crema=Arrivée de ALBERTVILLE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5345
+Pf_cremation=PF ALPES SAVOIE
+Nom_crema=RUFFIER
+Prenom_crema=ANDREE
+FicheOccupe=Libre
+NoOrdre=664
+Four=2
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=5346
+Pf_ceremonie=PF  BOUVIER  
+Nom_ceremonie=KARBOWSKI
+Prenom_ceremonie=YVONNE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF BOUVIER  
+CodeDft_cremation=5347
+Pf_cremation=PF BOUVIER
+Nom_crema=KARBOWSKI
+Prenom_crema=YVONNE
+NoOrdre=662
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=5349
+Pf_ceremonie=PFM
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeuretArrivee_ceremonie=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom=
+HeureArrivee_cremation=
+HeureCremation=
+EvenementArrivee_cremation=
+EvenementCremation=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=14:15
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCommentaire=
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5350
+Pf_ceremonie=PFM
+Nom_ceremonie=SEYDOUX
+Prenom_ceremonie=CHRISTIAN
+CodeDft_cremation=5350
+Pf_cremation=PFM
+Nom_crema=SEYDOUX
+Prenom_crema=CHRISTIAN
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=661
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=4
+End With

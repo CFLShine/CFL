@@ -1,0 +1,214 @@
+Id=21072017
+Jourdate=21/07/2017
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=9831
+Pf_ceremonie=PFM
+Nom_ceremonie=NOYER
+Prenom_ceremonie=HENRI
+CodeDft_cremation=9831
+Pf_cremation=PFM
+Nom_cremation=NOYER
+Prenom_cremation=HENRI
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu SALON ANCOLIE Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=1 COEUR A LA CREMATION exhumation
+Police=True
+FicheOccupe=Libre
+NoOrdre=1009
+Four=FT3
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=ORDONNATEUR PFCCA
+SaisieOccupe=Libre
+CodeDft_ceremonie=11222
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=NORD
+Prenom_ceremonie=ROBERT
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11222
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=NORD
+Prenom_cremation=ROBERT
+EvenementArrivee_cremation=Arrivée de BELLEY
+NoOrdre=1008
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=PREVOIR ORDONNATEUR PFCCA - FAMILLE RECUPERE   SORTIR TABLE A REGISTRE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11232
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=POTIGNON
+Prenom_ceremonie=RAYMOND
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX-SUR-GELON
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11232
+Pf_cremation=PF MOUCHE
+Nom_cremation=POTIGNON
+Prenom_cremation=RAYMOND
+EvenementArrivee_cremation=Arrivée de CHAMOUX-SUR-GELON
+NoOrdre=1010
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11229
+Pf_ceremonie=PF DES DOMBES
+Nom_ceremonie=CHOL
+Prenom_ceremonie=SERGE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de MONTALIEU VERCIEU
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11229
+Pf_cremation=PF DES DOMBES
+Nom_cremation=CHOL
+Prenom_cremation=SERGE
+EvenementArrivee_cremation=Arrivée de MONTALIEU VERCIEU
+NoOrdre=1011
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=11235
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=MIEGE
+Prenom_ceremonie=JEAN LOUIS
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS DE FAMILLE A LA CREMATION
+CodeDft_cremation=11235
+Pf_cremation=PF FLORET
+Nom_cremation=MIEGE
+Prenom_cremation=JEAN LOUIS
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1012
+Four=FTX
+End With
+With ZONE
+Id=7
+EvenementCommentaire=PREVOIR ORDONNATEUR PFCCA  
+SaisieOccupe=Libre
+CodeDft_ceremonie=11231
+Pf_ceremonie=PF PENA
+Nom_ceremonie=CAPELLI
+Prenom_ceremonie=GERARD
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de SAINT-LAURENT-DU-PONT
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11231
+Pf_cremation=PF PENA
+Nom_cremation=CAPELLI
+Prenom_cremation=GERARD
+EvenementArrivee_cremation=Arrivée de SAINT-LAURENT-DU-PONT
+NoOrdre=1013
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+HeuretArrivee_ceremonie=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=9
+SaisieOccupe=Libre
+CodeDft_ceremonie=11230
+Pf_ceremonie=DE SAVOY
+Nom_ceremonie=GOMBERT
+Prenom_ceremonie=ADRIEN
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=11230
+Pf_cremation=DE SAVOY
+Nom_cremation=GONDERT
+Prenom_cremation=ADRIEN
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+NoOrdre=1014
+Four=FTX
+FicheOccupe=Libre
+End With

@@ -1,0 +1,136 @@
+Id=1092014
+Jourdate=01/09/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3712
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=RICHARD
+Prenom=CHRISTIAN
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=  PF RECUPERENT
+NoOrdre=1053
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3722
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=PACHOUD
+Prenom=MARIE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1054
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3724
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+Nom=KRYKWINSKI
+Prenom=CATHERINE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1052
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3728
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=HURGUES
+Prenom=JEAN
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1055
+Four=2
+Police=True
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3732
+Pf=PF MAURIENNAISES
+Conseiller=
+Nom=GAGNIERE
+Prenom=PATRICK
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de SAINT JEAN DE MAURIENNNE
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1056
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

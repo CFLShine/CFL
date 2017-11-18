@@ -1,0 +1,132 @@
+Id=27052015
+JourDate=27/05/2015
+With ZONE
+Id=0
+Pos=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5593
+Comment_0=FAMILLE GEORGIE EXUMATION DESCHAMPS OCEANE 08H15 CHARRIERE NEUVE ET RETOUR C
+Comment_1=F CREMATION 18H00
+HeureComment=  :
+OrdoId=6
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=PINTOUT Bruno
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+Pos=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5612
+Comment_0=ORDONNATEUR PFM POUR RECEVOIR LA FAMILLE
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+Pos=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5617
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+Pos=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5637
+Comment_0=RDV FAMILLE PF MOUCHE POUR CEREMONIE CF LE LENDEMAIN à 8h45 ORDO PFM
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+Pos=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5625
+Comment_0=SOINS ET RETOUR EN CASE
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=5
+Pos=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5613
+Comment_0=CREMATION 11H
+Comment_1=
+HeureComment=  :
+End With

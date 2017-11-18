@@ -1,0 +1,170 @@
+Id=19012016
+Jourdate=19/01/2016
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=7351
+Pf_ceremonie=PFM
+Nom_ceremonie=BENINCA
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7351
+Pf_cremation=PFM
+Nom_cremation=BENINCA
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=118
+Four=2
+End With
+With ZONE
+Id=0
+EvenementCommentaire=NEE SANS VIE
+SaisieOccupe=Libre
+CodeDft_ceremonie=7356
+Pf_ceremonie=PFM
+Nom_ceremonie=VEYRON LONGERE
+Prenom_ceremonie=ATHENAIS
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY  HOPITAL
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=08:45
+EvenementCeremonie=Cérémonie SIMPLE RECUEILLEMENT  Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7356
+Pf_cremation=PFM
+Nom_cremation=VEYRON LONGERE
+Prenom_cremation=ATHENAIS
+EvenementArrivee_cremation=Arrivée de CHAMBERY  HOPITAL
+FicheOccupe=Libre
+Police=True
+NoOrdre=115
+Four=1
+End With
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE FAMILLE A LA CREMATION  DEPOT DU CERCUEIL 
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=  :
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7378
+Pf_cremation=PF PENA
+Nom_cremation=SASLISKOWACKA
+Prenom_cremation=KRISTYNA
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+NoOrdre=116
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7360
+Pf_ceremonie=PFM
+Nom_ceremonie=BOCH
+Prenom_ceremonie=SIMONE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7360
+Pf_cremation=PFM
+Nom_cremation=BOCH
+Prenom_cremation=SIMONE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=117
+Four=1
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=7365
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=DUCHENE
+Prenom_ceremonie=SUZANNE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7365
+Pf_cremation=PF POMMAT
+Nom_cremation=DUCHENE
+Prenom_cremation=SUZANNE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=119
+Four=1
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=7368
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=ASTIER-PERRET
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de BOURG ST MAURICE
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7368
+Pf_cremation=PF DE SAVOY
+Nom_cremation=ASTIER-PERRET
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de BOURG ST MAURICE
+FicheOccupe=Libre
+NoOrdre=120
+Four=2
+End With
+With ZONE
+Id=7
+NoOrdre=
+Four=
+End With

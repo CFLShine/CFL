@@ -1,0 +1,42 @@
+Id=11012015
+JourDate=11/01/2015
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+CodeDft=4536
+Pf=PFM
+Conseiller=
+DefuntNom=PËROTTO
+DefuntPrenom=CHRISTIANE
+Heure_0=08:48
+Ev_0=TAMB depuis COGNIN vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=KAELBERER
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=1
+DemiJour=1
+CodeDft=4538
+Pf=PFM
+Conseiller=
+DefuntNom=LONGERET
+DefuntPrenom=FRANCIA
+Heure_0=12:10
+Ev_0=TAMB depuis JACOB BELLECOMBETTE vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=KAELBERER
+End With

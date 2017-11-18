@@ -1,0 +1,167 @@
+Id=16062016
+Jourdate=16/06/2016
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8434
+Pf_ceremonie=PFM
+Nom_ceremonie=NAVAY
+Prenom_ceremonie=PAUL
+CodeDft_cremation=8434
+Pf_cremation=PFM
+Nom_cremation=NAVAY
+Prenom_cremation=PAUL
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=906
+Four=2
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=  :
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=BB NE SANS VIE   DISPERSION PAR NOS SOINS   PAS DE FAMILLE
+CodeDft_cremation=8451
+Pf_cremation=PFM VOIRON
+Nom_cremation=VINCENT
+Prenom_cremation=LUCAS
+EvenementArrivee_cremation=Arrivée de VOIRON
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+NoOrdre=904
+Four=1
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=ORDO PFM  LA FAMILLE RECUPERE L'URNE DEPOT CERCUEIL LE 15 JUIN AVANT 18H
+SaisieOccupe=Libre
+CodeDft_ceremonie=8443
+Pf_ceremonie=PF DE LA VANOISE
+Nom_ceremonie=RICHARD
+Prenom_ceremonie=NOEL
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de MODANE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8443
+Pf_cremation=PF DE LA VANOISE
+Nom_cremation=RICHARD
+Prenom_cremation=NOEL
+EvenementArrivee_cremation=Arrivée de MODANE
+FicheOccupe=Libre
+NoOrdre=905
+Four=1
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=8442
+Pf_ceremonie=PF MERCIER
+Nom_ceremonie=GUILLAUD
+Prenom_ceremonie=MICHELLE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de AVENIERES
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8442
+Pf_cremation=PF MERCIER
+Nom_cremation=GUILLAUD
+Prenom_cremation=MICHELLE
+EvenementArrivee_cremation=Arrivée de AVENIERES
+FicheOccupe=Libre
+NoOrdre=907
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_ceremonie=8449
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=PAYOT
+Prenom_ceremonie=GILBERT
+CodeDft_cremation=8449
+Pf_cremation=PF FLORET
+Nom_cremation=PAYOT
+Prenom_cremation=GILBERT
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=908
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8447
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=DALLA COSTA
+Prenom_ceremonie=JACQUES
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8447
+Pf_cremation=PF BAUDRION
+Nom_cremation=DALLA COSTA
+Prenom_cremation=JACQUES
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=909
+Four=1
+End With
+With ZONE
+Id=7
+NoOrdre=
+Four=
+End With

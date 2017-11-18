@@ -1,0 +1,191 @@
+Id=8072017
+Jourdate=08/07/2017
+With ZONE
+Id=7
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=11138
+Pf_ceremonie=PFM
+Nom_ceremonie=MICHELON
+Prenom_ceremonie=ALAIN
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementArrivee_crema=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11153
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=DELATTRE
+Prenom_ceremonie=FERDINAND
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11153
+Pf_cremation=PF BALDINI
+Nom_cremation=DELATTRE
+Prenom_cremation=FERDINAND
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=942
+Four=FTX
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11145
+Pf_ceremonie=PFCCA
+Nom_ceremonie=FOURNIER
+Prenom_ceremonie=ELISABETH
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11145
+Pf_cremation=PFCCA
+Nom_cremation=FOURNIER
+Prenom_cremation=ELISABETH
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=943
+Four=FT3
+End With
+With ZONE
+Id=4
+EvenementCommentaire=ORDONNATEUR PFCCA  LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11155
+Pf_ceremonie=PF PECH
+Nom_ceremonie=DUPOUY
+Prenom_ceremonie=CLAUDE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11155
+Pf_cremation=PF PECH
+Nom_cremation=DUPOUY
+Prenom_cremation=CLAUDE
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=944
+Four=FTX
+End With
+With ZONE
+Id=5
+EvenementCommentaire=5 COEURS A LA CREMATION ACHETES PAR LA FAMILLE AU PFCCA  ORDO. PFCCA
+SaisieOccupe=Libre
+CodeDft_ceremonie=11149
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=FOURNIER
+Prenom_ceremonie=RENE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN 
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11149
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=FOURNIER
+Prenom_cremation=RENE
+EvenementArrivee_cremation=Arrivée de ST JEAN 
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+NoOrdre=945
+Four=FT3
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=11143
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=RUSPINI
+Prenom_ceremonie=LOUIS
+CodeDft_cremation=11143
+Pf_cremation=PF MOUCHE
+Nom_cremation=RUSPINI
+Prenom_cremation=LOUIS
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX
+HeureArrivee_cremation=13:15
+EvenementArrivee_cremation=Arrivée de CHAMOUX
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+NoOrdre=946
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+EvenementCommentaire=ORDONNATEUR PFCCA  LA FAMILLLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11147
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=PERRET
+Prenom_ceremonie=ARMAND
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11147
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=PERRET
+Prenom_cremation=ARMAND
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=947
+Four=FT3
+End With
+With ZONE
+Id=9
+EvenementCommentaire=
+End With

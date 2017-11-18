@@ -1,0 +1,170 @@
+Id=29032016
+Jourdate=29/03/2016
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=7885
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=ROLLET
+Prenom_ceremonie=MARCELLE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7885
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=ROLLET
+Prenom_cremation=MARCELLE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=488
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=7897
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=CRINEL
+Prenom_ceremonie=ALICE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNES
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ON CONSERVE L'URNE AU CREMATORIUN QUELQUES MOIS
+CodeDft_cremation=7897
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=CRINEL
+Prenom_cremation=ALICE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNES
+FicheOccupe=Libre
+NoOrdre=487
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7887
+Pf_ceremonie=PFM
+Nom_ceremonie=CRESSENT BAL
+Prenom_ceremonie=LUC
+CodeDft_cremation=7887
+Pf_cremation=PFM
+Nom_cremation=CRESSENT BAL
+Prenom_cremation=LUC
+HeureArrivee_ceremonie=13:00
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=13:00
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:30
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=489
+Four=1
+Police=True
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7894
+Pf_ceremonie=PFM
+Nom_ceremonie=CRESSENT-BAL
+Prenom_ceremonie=REJANE
+CodeDft_cremation=7894
+Pf_cremation=PFM
+Nom_cremation=CRESSENT-BAL
+Prenom_cremation=REJANE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=13:00
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:30
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=490
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PEUT ETRE PAS DE FAMILLE
+SaisieOccupe=Libre
+CodeDft_ceremonie=7890
+Pf_ceremonie=PFM
+Nom_ceremonie=MERELLE
+Prenom_ceremonie=JOCELYNE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7907
+Pf_cremation=PECH
+Nom_cremation=BONVIN
+Prenom_cremation=GEORGETTE
+EvenementArrivee_cremation=Arrivée de UGINE
+NoOrdre=491
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7891
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=SOUÈRES
+Prenom_ceremonie=LUCIENNE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7891
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=SOUÈRES
+Prenom_cremation=LUCIENNE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=492
+Four=1
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

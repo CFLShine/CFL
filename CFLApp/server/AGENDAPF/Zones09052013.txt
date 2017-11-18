@@ -1,0 +1,27 @@
+Id=9052013
+With ZONE
+Id=5
+CodeZone=5
+Pos=0
+DemiJour=0
+AdressDft=\DONNEES\DONNEES2013\919.txt
+Ordo=
+OrdoOk=white
+Equipe_0=TREVARIN Loïc
+Equipe_1=KAELBERER Eric
+Equipe_2=
+Equipe_3=
+EquipeOk_0=red
+EquipeOk_1=red
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Marion TREBOUTE
+Pf=PFM
+DefuntNom=MARZIN
+DefuntPrenom=MONIQUE
+Saisie=TAMB1
+Heure_0=12:00
+Ev_0=TAMB depuis MEDIPOLE SAVOIE vers Centre funéraire
+Comment_0=
+CodeDft=919
+End With

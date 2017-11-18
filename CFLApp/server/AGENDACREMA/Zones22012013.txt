@@ -1,0 +1,170 @@
+Id=22012013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+AdresseFicheDefunt=\DONNEES\DONNEES2013\176.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=TREBOUTE Marion
+Pf=PF MOUCHE
+Nom=CHRISTIN
+Prenom=René
+NoOrdre=
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie GESTE D'ADIEU 
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=Les PF MOUCHE récupèrent l'urne
+CodeDft=176
+End With
+With ZONE
+Id=1
+NoZONE=1
+AdresseFicheDefunt=\DONNEES\DONNEES2013\172.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PF BOUVIER
+Nom=BEGUIN
+Prenom=PIERRE
+NoOrdre=
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie GESTE  D'ADIEU 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERE L'URNE DEPOT DU CERCUEIL LUNDI 21 JANVIER EN SOIREE
+CodeDft=172
+End With
+With ZONE
+Id=2
+NoZONE=2
+AdresseFicheDefunt=\DONNEES\DONNEES2013\167.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PF CHAMBERIENNES
+Nom=ROBERT
+Prenom=MICHEL
+NoOrdre=
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=167
+End With
+With ZONE
+Id=3
+NoZONE=3
+AdresseFicheDefunt=\DONNEES\DONNEES2013\166.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PFG MOUTIERS
+Nom=HULLIER
+Prenom=JEANNE
+NoOrdre=
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie GESTE D'ADIEU 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=166
+End With
+With ZONE
+Id=4
+NoZONE=4
+AdresseFicheDefunt=\DONNEES\DONNEES2013\169.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PF TONIN COIFFET
+Nom=CHOLEWA
+Prenom=EUGENIE
+NoOrdre=
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie GESTE D'ADIEU 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=15:30
+EvenementCommentaire=DISPERSION JDS PAR NOS SOINS A 15H30 AVEC LA FAMILLE
+CodeDft=169
+End With
+With ZONE
+Id=5
+NoZONE=5
+AdresseFicheDefunt=\DONNEES\DONNEES2013\173.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PF SEDRAN
+Nom=TRUCHE
+Prenom=MARIE
+NoOrdre=
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie GESTE D'ADIEU 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=173
+End With
+With ZONE
+Id=6
+NoZONE=6
+AdresseFicheDefunt=\DONNEES\DONNEES2013\171.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PF TONIN COIFFET
+Nom=LE MOLAIRE
+Prenom=LUCIE
+NoOrdre=
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie GESTE D'ADIEU 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=171
+End With
+With ZONE
+Id=7
+NoZONE=7
+AdresseFicheDefunt=\DONNEES\DONNEES2013\180.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=DE SAVOY
+Nom=PERRAUDAT
+Prenom=NOEL
+NoOrdre=
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie GESTE D'ADIEU 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=180
+End With

@@ -1,0 +1,143 @@
+Id=8012015
+Jourdate=08/01/2015
+Version=NouveauFormat
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4472
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=COTAZ-BERTHOLET
+Prenom=GILLES
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=35
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PAS DE CREMATION   
+SaisieOccupe=Libre
+CodeDft=4483
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=FERRERO
+Prenom=HUGUETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4484
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=CATALA NAVARRO
+Prenom=PATRICK
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de ST JEAN
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM
+FicheOccupe=Libre
+NoOrdre=36
+Four=2
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=4485
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+Nom=COMBETTO
+Prenom=FREDERIC
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de HOPITAL CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION    PF SAVOYARDE  INHUMATION CHARRIERE NEUVE
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4486
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=POIRAUD
+Prenom=GINETTE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=37
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4491
+Pf=PF BAUDRION
+Conseiller=Marie-Pierre PINET
+Nom=BRIARD
+Prenom=CHRISTIANE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de PONTCHARRA
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=38
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 14H00
+SaisieOccupe=Libre
+CodeDft=4489
+Pf=PF ALPES SAVOIE
+Conseiller=Marie-Pierre PINET
+Nom=RIBATTO
+Prenom=HELENE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=34
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

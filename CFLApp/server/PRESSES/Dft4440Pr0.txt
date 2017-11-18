@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Virignin (01), Vichy (03),\f1\par<Ret>\b0\par<Ret>\pard\qc\b\f0 Jacques DEFOIN\f1\par<Ret>\pard\b0\f0 s'est \'e9teint au CHU de Chamb\'e9ry le 27 d\'e9cembre 2014 entour\'e9 de ses proches.\f1\par<Ret>\f0 Selon sa volont\'e9 ses obs\'e8ques ont eu lieu dans la plus stricte intimit\'e9.\f1\par<Ret>\f0 De la part de Christiane, son \'e9pouse; Gilles, son fils; Ma\'eblle, sa belle-fille; ainsi que Morgane, Florian, Cl\'e9ment, ses petits-enfants.\f1\par<Ret>\f0 Cet avis tient lieu de faire part.\par<Ret>}<Ret>
+CodeDft=4440
+Tarif=179
+NbLignes=15
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=02/01/2015
+End With
+With DEPARTEMENT
+Id=1
+Name=AIN
+End With

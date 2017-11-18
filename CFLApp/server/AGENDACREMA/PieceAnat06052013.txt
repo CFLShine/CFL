@@ -1,0 +1,5 @@
+Agent=NANTOIS
+Provenance=C H DE BELLEY
+Nature=PIECES ANATOMIQUES
+Four=1
+NoOrdre=575

@@ -1,0 +1,15 @@
+Id=1979
+With DEFUNT
+Id=3832
+Nom=BERLIAT
+Prenom=LAURE
+DecesDate=01/01/1979
+CodeDft=3832
+End With
+With DEFUNT
+Id=1889
+Nom=VIOLLET
+Prenom=Exhumations
+DecesDate=01/01/1979
+CodeDft=1889
+End With

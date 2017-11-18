@@ -1,0 +1,48 @@
+Id=-1
+With TIERS
+Id=3
+Code=3
+Name=CATHEDRALE METROPOLE
+Var1=
+Var2=
+Var3=CHAMBERY
+Var4=
+Var5=
+Var6=
+Var7=0
+End With
+With TIERS
+Id=4
+Code=4
+Name=CLOS ST JOSEPH
+Var1=
+Var2=
+Var3=JACOB BELLECOMBETTE
+Var4=
+Var5=
+Var6=
+End With
+With TIERS
+Id=5
+Code=5
+Name=EGLISE DE LA MOTTE SERVOLEX
+Var1=
+Var2=
+Var3=
+Var4=
+Var5=
+Var6=
+Var7=
+End With
+With TIERS
+Id=6
+Code=0
+Name=Centre funéraire
+Var1=
+Var2=
+Var3=
+Var4=
+Var5=
+Var6=
+Var7=
+End With

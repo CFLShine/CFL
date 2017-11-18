@@ -1,0 +1,114 @@
+Id=3022015
+Jourdate=03/02/2015
+Version=NouveauFormat
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=4687
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=VALENTE
+Prenom=MARIA
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de ST JEAN 
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=194
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft=4696
+Pf=SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=WYPLATA
+Prenom=GERARD
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=195
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4691
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=GALERNE
+Prenom=MARIE CLAIRE
+HeureArrivee=10:45
+EvenementArrivee=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=196
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4694
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=SEMILLON
+Prenom=DENISE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS DE FAMILLE
+NoOrdre=197
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4699
+Pf=SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=MANGIN
+Prenom=JACQUELINE
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION   PF RECUPERENT
+NoOrdre=198
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=5
+End With

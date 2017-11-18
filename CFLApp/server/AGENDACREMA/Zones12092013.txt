@@ -1,0 +1,163 @@
+Id=12092013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1618.txt
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=GLISE
+Prenom=GINETTE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1095
+Four=2
+CodeDft=1618
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1626.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=AGUETTAZ
+Prenom=HENRIETTE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMOUX
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION
+NoOrdre=1096
+Four=1
+CodeDft=1626
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1630.txt
+Pf=PF SAVOYARDES
+Conseiller=Loïc TREVARAIN
+Nom=DELMON
+Prenom=GEORGETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft=1630
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1606.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=FREYCON
+Prenom=FRANCOIS
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE LA RAVOIRE
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1097
+Four=1
+CodeDft=1606
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1604.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=CONSTANTIN
+Prenom=BLANCHE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1098
+Four=2
+CodeDft=1604
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION   INHUMATION CHARRIERE-NEUVE
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1611.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=HYVON
+Prenom=RICHARD
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+NoOrdre=
+Four=
+CodeDft=1611
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=CERCUEIL EN  PIN
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1613.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=LEBLOND
+Prenom=ROLAND
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1099
+Four=2
+CodeDft=1613
+End With

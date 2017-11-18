@@ -1,0 +1,10 @@
+Id=7102014
+JourDate=07/10/2014
+With ZONE
+Id=1
+PoliceChecked=True
+End With
+With ZONE
+Id=0
+PoliceChecked=True
+End With

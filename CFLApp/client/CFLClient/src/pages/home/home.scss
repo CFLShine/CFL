@@ -1,0 +1,138 @@
+page-home {
+  .police-true {
+    background: green;
+  }
+
+  .police-false {
+    background: red;
+  }
+
+  .expand {
+    background: lightsteelblue;
+    width: 24px;
+    height: 24px;
+  }
+
+  .item-inner {
+    padding: 0 !important;
+  }
+
+  .zone {
+    border: 1px color($colors, light) solid !important;
+    border-top: none !important;
+    padding: 0 0 0 8px;
+  }
+
+  .zone:first-child {
+    border-top: 1px color($colors, light) solid !important;
+  }
+
+  .zoneHeader {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    white-space: normal;
+
+    color: color($colors, font-color);
+  }
+
+  .zoneHeader div {
+    max-width: 50%;
+    overflow: visible;
+    overflow-wrap: break-word;
+    font-size: 90%;
+  }
+
+  .zoneItem {
+    text-align: left;
+  }
+
+  .infosZone {
+    display: flex;
+    flex-direction: column;
+    padding: 0!important;
+    margin: 0!important;
+  }
+
+  .infosZone * {
+    font-size: 12px !important;
+  }
+
+  .defunt {
+
+  }
+
+  .ordo {
+    color: color($colors, font-color-light);
+  }
+
+  .comment {
+    overflow: visible;
+    overflow-wrap: break-word;
+    white-space: normal;
+    font-size: 80%;
+  }
+
+  .Red {
+    background-color: lightcoral;
+  }
+
+  .While {
+    background-color: green;
+  }
+
+  .zoneItemContainer:nth-child(1) {
+    background: color($colors, secondary-light);
+  }
+
+  .zoneItemContainer:nth-child(2) {
+    background: color($colors, light);
+  }
+
+  h1 {
+    font-size: 120%;
+  }
+
+  .datePicker  {
+    display: flex;
+    flex-direction: row;
+
+    align-items: center;
+    justify-content: center;
+
+    background: color($colors, secondary);
+
+    padding: 4px;
+  }
+
+  .datePicker span {
+    font-size: 130%;
+  }
+
+  .datePicker input {
+    border: 1px solid color($colors, light);
+    width: 150px;
+  }
+
+  .undertakers {
+    display: flex;
+    flex-flow: row wrap !important;
+  }
+
+  .undertakers * {
+    width: calc(25% - 2px);
+    white-space: normal;
+    margin: 0 1px;
+    padding: 0!important;
+  }
+
+  .undertaker {
+    border-right: 1px solid black !important;
+    text-align: center;
+    font-size: 0.5em;
+  }
+
+  .undertakers *:last-child {
+    border: none!important;
+  }
+}

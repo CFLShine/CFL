@@ -1,0 +1,167 @@
+Id=24052014
+Jourdate=24/05/2014
+Version=NouveauFormat
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3164
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=DERODIT
+Prenom=MICHEL
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=645
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3165
+Pf=PF BOUVIER
+Conseiller=Loïc TREVARAIN
+Nom=ARELLANO
+Prenom=LILIANE
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ARRIVEE VERS 10H30/10H45 CEREMONIE EN AMONT RIEN AU CF PF RECUPERENT
+Police=True
+NoOrdre=641
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3167
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=BRUN
+Prenom=JEAN PIERRE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE ST ALBAN LEYSSE
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=646
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3170
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=ROUX
+Prenom=MARIE -ELISABETH
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=639
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3174
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=DE TAUZIA
+Prenom=SIMONE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=640
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3146
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=CRISTINELLI
+Prenom=RENE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=642
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3176
+Pf=PF MERCIER
+Conseiller=Marie-Pierre PINET
+Nom=DI CREDICO
+Prenom=ENZO
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de DES AVENIERES
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=643
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft=3177
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=ARNAUD
+Prenom=PIERRE
+HeureArrivee=14:15
+HeureCeremonie=
+HeureCremation=15:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de CHAMBERY
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+EvenementCremation=Crémation
+NoOrdre=644
+Four=2
+FicheOccupe=Libre
+End With

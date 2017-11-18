@@ -1,0 +1,155 @@
+Id=19052014
+JourDate=19/05/2014
+With ZONE
+Id=0
+Saisie=Convoi
+Pos=0
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+Heure_0=10:45
+Heure_1=11:15
+Heure_2=12:00
+Heure_3=
+Ev_0=Mise en bière Centre funéraire salon Anémone
+Ev_1=Cérémonie Religieuse Cf salle omnicultes
+Ev_2=Crémation  au crématorium de Chambéry
+Ev_3=
+DefuntNom=DAVOINE
+DefuntPrenom=PIERRE
+Conseiller=Ginette GAYRAUD
+Pf=PFM
+Comment_0=DISPERSION JARDIN DU SOUVENIR A 16H00
+CodeDft=3136
+Ordo=JACQUIER Michel
+OrdoId=7
+Equipe_0=PINTOUT Bruno
+EquipeId_0=PINTOUT Bruno
+Equipe_1=MILLON Patrick
+EquipeId_1=MILLON Patrick
+Equipe_2=ESPINOZA François
+EquipeId_2=ESPINOZA François
+End With
+With ZONE
+Id=1
+Saisie=Inhumation
+Pos=0
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3136
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=DAVOINE
+DefuntPrenom=PIERRE
+Heure_0=16:00
+Ev_0=
+Comment_0=DISPERSION AU JARDIN DU SOUVENIR CHARRIERE NEUVE
+Comment_1=LA FAMILLE ATTEND DEVANT LE CIMETIERE
+Ordo=JACQUIER Michel
+OrdoId=7
+End With
+With ZONE
+Id=2
+Saisie=TAMB
+Pos=1
+DemiJour=0
+CodeDft=3156
+Pf=PFM
+Conseiller=
+DefuntNom=BERGER
+DefuntPrenom=LOUIS
+Heure_0=10:21
+Ev_0=TAMB depuis MEDIPOLE SAVOIE vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=PINTOUT Bruno
+End With
+With ZONE
+Id=3
+Saisie=TAMB
+Pos=2
+DemiJour=1
+CodeDft=3158
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=GNJEC
+DefuntPrenom=JURE
+Heure_0=16:22
+Ev_0=TAMB depuis  vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=
+End With
+With ZONE
+Id=4
+Saisie=Soins
+Pos=3
+DemiJour=0
+CodeDft=3156
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=BERGER
+DefuntPrenom=LOUIS
+Heure_0=12:00
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+End With
+With ZONE
+Id=5
+Saisie=TAMB
+Pos=4
+DemiJour=1
+CodeDft=3161
+Pf=PFM
+Conseiller=Pascal MARIE
+DefuntNom=BURDET
+DefuntPrenom=DENIS
+Heure_0=16:46
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=AVERONE David
+Equipe_1=MILLON Patrick
+End With
+With ZONE
+Id=6
+Saisie=TAMB
+Pos=5
+DemiJour=1
+CodeDft=3162
+Pf=PFM
+Conseiller=
+DefuntNom=FRAIX FALLON
+DefuntPrenom=MIREILLE
+Heure_0=20:09
+Ev_0=TAMB depuis CHALLES LES EAUX vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=KALBERER ERIC
+Equipe_1=PACHOUD NICOLAS
+End With

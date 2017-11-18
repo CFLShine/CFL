@@ -1,0 +1,144 @@
+Id=27082016
+Jourdate=27/08/2016
+With ZONE
+Id=2
+EvenementCommentaire=CEREMONIE   RELIGIEUSE   DIDIER LUCIENNE A 10H15 PFM  PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=8923
+Pf_ceremonie=PFM
+Nom_ceremonie=SZABO
+Prenom_ceremonie=GEORGES
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8923
+Pf_cremation=PFM
+Nom_cremation=SZABO
+Prenom_cremation=GEORGES
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+Police=True
+NoOrdre=1248
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire= la famille recupere L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8915
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=ETELIN
+Prenom_ceremonie=JEAN_MICHEL
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8915
+Pf_cremation=PF BAUDRION
+Nom_cremation=ETELIN
+Prenom_cremation=JEAN_MICHEL
+FicheOccupe=Libre
+NoOrdre=1247
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=CERCUEIL PIN
+SaisieOccupe=Libre
+CodeDft_ceremonie=8917
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=DARDELET
+Prenom_ceremonie=COLETTE
+CodeDft_cremation=8917
+Pf_cremation=PFG CHAMBERY
+Nom_cremation=DARDELET
+Prenom_cremation=COLETTE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY 
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1249
+Four=2
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8929
+Pf_ceremonie=PFM
+Nom_ceremonie=MOLLARD
+Prenom_ceremonie=ROSA
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8928
+Pf_ceremonie=PFM
+Nom_ceremonie=VISENTIN
+Prenom_ceremonie=FERNANDE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8928
+Pf_cremation=PFM
+Nom_cremation=VISENTIN
+Prenom_cremation=FERNANDE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1250
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

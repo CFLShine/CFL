@@ -1,0 +1,164 @@
+Id=19032015
+Jourdate=19/03/2015
+Version=NouveauFormat
+With ZONE
+Id=5
+EvenementCommentaire=ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft=5088
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=FARGES
+Prenom=JEAN-CLAUDE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CULOZ
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=475
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5083
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=DE LA TORRE
+Prenom=MARCEL
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=474
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5082
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=CARINI
+Prenom=YVONNE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=473
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5084
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=PERNET
+Prenom=GEORGES
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=470
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=5094
+Pf=PF PENA
+Conseiller=Marie-Pierre PINET
+Nom=REY
+Prenom=JOSEPH ALBERT
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=477
+Four=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5089
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=ROLAND
+Prenom=JOSETTE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=476
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5092
+Pf=PFG CHAMBERY
+Conseiller=MP PINET
+Nom=FRUMY
+Prenom=LOUIS
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=472
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=BEBE  DISPERSION PAR NOS SOINS  VENDREDI 20 MARS  PAS DE FAMILLE 
+SaisieOccupe=Libre
+CodeDft=5111
+Pf=PF M VOIRON
+Conseiller=Marie-Pierre PINET
+Nom=ALLOUCHE
+Prenom=ESPERANCE
+HeureArrivee=
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=09:15
+EvenementCeremonie=
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=471
+Four=2
+FicheOccupe=Libre
+End With

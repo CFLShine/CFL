@@ -1,0 +1,143 @@
+Id=27052016
+Jourdate=27/05/2016
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=8302
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=WATTRELOS
+Prenom_ceremonie=DIDIER
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 18H
+CodeDft_cremation=8302
+Pf_cremation=PF BOUDRIER
+Nom_cremation=WATTRELOS
+Prenom_cremation=DIDIER
+EvenementArrivee_cremation=Arrivée de MORESTEL
+FicheOccupe=Libre
+NoOrdre=810
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=8324
+Nom_ceremonie=FALQUET
+Prenom_ceremonie=JEAN-CLAUDE
+Pf_ceremonie=PFM
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeuretArrivee_ceremonie=
+HeureArrivee_ceremonie=09:15
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+FicheOccupe=Libre
+Police=False
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire= PF RECUPERE URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8315
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=FOUCAUD
+Prenom_ceremonie=LUCIENNE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8315
+Pf_cremation=PF SEDRAN
+Nom_cremation=FOUCAUD
+Prenom_cremation=LUCIENNE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+NoOrdre=808
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=8305
+Pf_ceremonie=PFG MOUTIERS
+Nom_ceremonie=GABILLOT
+Prenom_ceremonie=ANNE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CONSERVATION DE L'URNE AU CREMATORIUM
+CodeDft_cremation=8305
+Pf_cremation=PFG MOUTIERS
+Nom_cremation=GABILLOT
+Prenom_cremation=ANNE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=809
+Four=2
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8323
+Pf_ceremonie=PFM
+Nom_ceremonie=FILZ
+Prenom_ceremonie=ALFRED
+CodeDft_cremation=8323
+Pf_cremation=PFM
+Nom_cremation=FILZ
+Prenom_cremation=ALFRED
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=811
+Four=2
+End With

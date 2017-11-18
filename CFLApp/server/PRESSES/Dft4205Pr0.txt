@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Albertville, Bozel, Chamb\'e9ry,\f1\par<Ret>\b0\f0 Serge Cinotti, son fr\'e8re;\f1\par<Ret>\f0 Les familles Cabot, Cinotti, Tassot, vous font part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Mme Norma CABOT\f1\par<Ret>\f0 n\'e9e CINOTTI\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 90 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e le jeudi 27 novembre 2014 \'e0 quinze heures au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 Condol\'e9ances sur registres.\f1\par<Ret>\f0 Cet avis tient lieu de faire part.\par<Ret>}<Ret>
+CodeDft=4205
+Tarif=165
+NbLignes=14
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=26/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

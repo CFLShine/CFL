@@ -1,0 +1,27 @@
+Id=15122012
+With ZONE
+Id=5
+CodeZone=5
+Pos=0
+DemiJour=0
+AdressDft=\DONNEES\DONNEES2012\22.txt
+Ordo=
+OrdoOk=white
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Ginette GAYRAUD
+Pf=PFM
+DefuntNom=PRADIER
+DefuntPrenom=LUCIENE
+Saisie=MEB
+Heure_0=11:00
+Ev_0=Mise en bière HOPITAL DE CHAMBERY
+Comment_0=
+CodeDft=22
+End With

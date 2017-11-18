@@ -1,0 +1,215 @@
+Id=29122016
+Jourdate=29/12/2016
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9742
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=LHOPITALLIER
+Prenom_ceremonie=ODETTE
+HeureArrivee_ceremonie=12:00
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=12:00
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9742
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=LHOPITALLIER
+Prenom_cremation=ODETTE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1850
+Four=2
+End With
+With ZONE
+Id=0
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE LE JOUR MEME
+SaisieOccupe=Libre
+CodeDft_ceremonie=9767
+Pf_ceremonie=PF PASCAL  LECLERC
+Nom_ceremonie=POUILLARD
+Prenom_ceremonie=MARIE FRANCE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9767
+Pf_cremation=PF PASCAL LECLERC
+Nom_cremation=POUILLARD
+Prenom_cremation=MARIE FRANCE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1847
+Four=1
+End With
+With ZONE
+Id=1
+EvenementCommentaire=PIN, ORDONNATEUR PFM POUR CEREMONIE COMPLETE MUSIQUE PHOTO VIDEO, LA FAMILLE VIENT A 8 45
+SaisieOccupe=Libre
+CodeDft_ceremonie=9752
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=VERNHES
+Prenom_ceremonie=THIERRY
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9752
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=VERNHES
+Prenom_cremation=THIERRY
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1848
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PIN, LA FAMILLE RECUPERE, ORDONNATEUR PFM POUR ACCUEIL FAMILLE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9748
+Pf_ceremonie=PF DE LA VANOISE
+Nom_ceremonie=DEL PERUGIA
+Prenom_ceremonie=PAULINE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de LA VANOISE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9748
+Pf_cremation=PF DE LA VANOISE
+Nom_cremation=DEL PERUGIA
+Prenom_cremation=PAULINE
+EvenementArrivee_cremation=Arrivée de LA VANOISE
+FicheOccupe=Libre
+NoOrdre=1849
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9761
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=MURAT
+Prenom_ceremonie=AIMEE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9761
+Pf_cremation=PF POMMAT
+Nom_cremation=MURAT
+Prenom_cremation=AIMEE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1851
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=9755
+Pf_ceremonie=PFM
+Nom_ceremonie=COELLO
+Prenom_ceremonie=MARCEL
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9758
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=DUBOIS
+Prenom_ceremonie=CHRISTIANE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9758
+Pf_cremation=PFG MACHE
+Nom_cremation=DUBOIS
+Prenom_cremation=CHRISTIANE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1852
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9762
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=DEPIERRE
+Prenom_ceremonie=AUGUSTE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9762
+Pf_cremation=PF POMMAT
+Nom_cremation=DEPIERRE
+Prenom_cremation=AUGUSTE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1854
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

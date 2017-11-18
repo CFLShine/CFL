@@ -1,0 +1,6 @@
+Id=10122016
+Agent=THOMAS
+Provenance=MEDIPOLE
+Nature=PIECES ANATOMIQUES
+Four=1
+NoOrdre=1751

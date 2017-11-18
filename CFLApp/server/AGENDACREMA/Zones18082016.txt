@@ -1,0 +1,125 @@
+Id=18082016
+Jourdate=18/08/2016
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8851
+Pf_ceremonie=PFM
+Nom_ceremonie=PRECIGOUT
+Prenom_ceremonie=YVONNE
+CodeDft_cremation=8851
+Pf_cremation=PFM
+Nom_cremation=PRECIGOUT
+Prenom_cremation=YVONNE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1204
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=8855
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=TARTARAT-BARDET
+Prenom_ceremonie=MARCIAL
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8855
+Pf_cremation=PF POMMAT
+Nom_cremation=TARTARAT-BARDET
+Prenom_cremation=MARCIAL
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1203
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=PAS D'ORDONNATEUR PFM , LA FAMILLE RECUPERE
+SaisieOccupe=Libre
+CodeDft_ceremonie=8864
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=DEQUIER
+Prenom_ceremonie=RENE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8864
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=DEQUIER
+Prenom_cremation=RENE
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1205
+Four=1
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=8858
+Pf_ceremonie=PFM
+Nom_ceremonie=BILLARD
+Prenom_ceremonie=HERVE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8858
+Pf_cremation=PFM
+Nom_cremation=BILLARD
+Prenom_cremation=HERVE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1206
+Four=2
+End With
+With ZONE
+Id=7
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

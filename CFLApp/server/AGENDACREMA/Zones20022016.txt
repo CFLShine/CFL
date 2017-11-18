@@ -1,0 +1,96 @@
+Id=20022016
+Jourdate=20/02/2016
+With ZONE
+Id=6
+SaisieOccupe=Libre
+EvenementCommentaire= PF RECUPERENT
+CodeDft_ceremonie=7619
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=VANDINI
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX-LES-BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7619
+Pf_cremation=PF SEDRAN
+Nom_cremation=VANDINI
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de AIX-LES-BAINS
+FicheOccupe=Libre
+NoOrdre=295
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=7620
+Pf_ceremonie=PFM
+Nom_ceremonie=ROBERT
+Prenom_ceremonie=SYLVIANNE
+CodeDft_cremation=7620
+Pf_cremation=PFM
+Nom_cremation=ROBERT
+Prenom_cremation=SYLVIANNE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY HOPITAL
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=293
+Four=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=7621
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=FRELATRE
+Prenom_ceremonie=LUCIENNE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE  CERCUEIL EN CHENE 
+CodeDft_cremation=7621
+Pf_cremation=PFG CHAMBERY
+Nom_cremation=FRELATRE
+Prenom_cremation=LUCIENNE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=294
+Four=1
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=7
+End With

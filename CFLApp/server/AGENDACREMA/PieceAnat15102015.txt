@@ -1,0 +1,6 @@
+Id=15102015
+Agent=AVERONE
+Provenance=MEDIPOLE
+Nature=PIECES ANATOMIQUES
+Four=1
+NoOrdre=1479

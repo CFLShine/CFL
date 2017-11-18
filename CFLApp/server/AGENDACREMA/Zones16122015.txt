@@ -1,0 +1,164 @@
+Id=16122015
+Jourdate=16/12/2015
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7084
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=FOURMEAUX
+Prenom_ceremonie=DANIEL
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7084
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=FOURMEAUX
+Prenom_cremation=DANIEL
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1762
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7087
+Pf_ceremonie=PFM
+Nom_ceremonie=HOVASSE
+Prenom_ceremonie=CHRISTIANE
+CodeDft_cremation=7088
+Pf_cremation=PFM
+Nom_cremation=HOVASSE
+Prenom_cremation=CHRISTIANE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=1757
+Four=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=7093
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=LEROY
+Prenom_ceremonie=PIERRE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+CodeDft_cremation=7093
+Pf_cremation=PF POMMAT
+Nom_cremation=LEROY
+Prenom_cremation=PIERRE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1758
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=7104
+Pf_ceremonie=PF PENA
+Nom_ceremonie=SIRAND-PUGNET
+Prenom_ceremonie=ANDRE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7104
+Pf_cremation=PF PENA
+Nom_cremation=SIRAND-PUGNET
+Prenom_cremation=ANDRE
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=1759
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=7092
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=MOREAU
+Prenom_ceremonie=JEAN-FRANCOIS
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=7092
+Pf_cremation=PF FLORET
+Nom_cremation=MOREAUX
+Prenom_cremation=JEAN-FRANCOIS
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1760
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=7091
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=PICHOL
+Prenom_ceremonie=SYLVIANE
+CodeDft_cremation=7091
+Pf_cremation=PF FLORET
+Nom_cremation=PICHOL
+Prenom_cremation=SYLVIANE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1761
+Four=1
+End With

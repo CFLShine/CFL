@@ -1,0 +1,6 @@
+Id=11032015
+Agent=
+Provenance=HOPITAL BOURG SAINT MAURICE
+Nature=FOETUS
+Four=1
+NoOrdre=431

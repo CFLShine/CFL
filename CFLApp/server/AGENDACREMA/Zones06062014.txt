@@ -1,0 +1,43 @@
+Id=6062014
+Jourdate=06/06/2014
+Version=NouveauFormat
+With ZONE
+Id=1
+EvenementCommentaire=CREMATION  BEBE
+SaisieOccupe=Libre
+CodeDft=3256
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BOUDOU ZOETE
+Prenom=TIMEO
+HeureArrivee=09:30
+EvenementArrivee=
+HeureCeremonie=09:45
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=695
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft=3257
+Pf=PF DES ALPES
+Conseiller=Marie-Pierre PINET
+Nom=LAPIERRE
+Prenom=CHRISTIAN
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de LA FLACHERE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=696
+Four=1
+FicheOccupe=Libre
+End With

@@ -1,0 +1,16 @@
+Id=3018
+CodeDefunt=3018
+DefuntNom=CURTET
+DefuntPrenom=SYLVAIN
+DefuntDecesDate=17/04/2014
+ReceptionDate=23/04/2014
+CremationArriveeDe=LYON
+ArriveeDate=26/04/2014
+CeremonieCrematoriumDate=26/04/2014
+CeremonieCrematoriumHeure=16:15
+CeremonieCrematoriumLieu=Cf salle omnicultes
+CeremonieCrematoriumType=Civile
+CremationDate=
+CremationCommune=
+Conseiller=Marie-Pierre PINET
+PfArrivee=PFG CHAMBERY

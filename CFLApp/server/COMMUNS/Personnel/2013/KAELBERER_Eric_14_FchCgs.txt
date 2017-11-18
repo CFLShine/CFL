@@ -1,0 +1,11 @@
+00:00
+DroitCongesFC=00:00
+CongesAnPrecFC=00:00
+EpargneFC=00:00
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=
+varNbHeuresSup=
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With LigneHeuresSup

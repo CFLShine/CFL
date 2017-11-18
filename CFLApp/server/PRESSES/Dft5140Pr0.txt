@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, Les D\'e9serts,\f1\par<Ret>\b0\f0 Samuel, R\'e9my, Marianne, ses enfants et leurs conjoints; ses petits-enfants; Mamette, sa maman; ses fr\'e8res et soeurs; Jean-No\'ebl, son compagnon; toute sa famille et ses proches, vous font part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Anne DUBOIS\f1\par<Ret>\f0 n\'e9e BERTINOTTI\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie aura lieu le jeudi 26 mars 2015 \'e0 onze heures quinze au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 Condol\'e9ances sur registres.\f1\par<Ret>\f0 Pas de plaques.\f1\par<Ret>\f0 Cet avis tient lieu de faire part.\par<Ret>}<Ret>
+CodeDft=5140
+Tarif=165
+NbLignes=17
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=25/03/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

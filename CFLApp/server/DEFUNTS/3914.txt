@@ -1,0 +1,17 @@
+Id=3914
+CodeDefunt=3914
+DefuntNom=CLERC
+DefuntPrenom=HELENE
+DefuntDecesDate=27/09/2014
+CremationArriveeDe=AIX LES BAINS
+ArriveeDate=02/10/2014
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationHeure=
+CremationCommune=
+PfCremation=PF SEDRAN
+ReservCrema=Marie-Pierre PINET
+PfArrivee=PF SEDRAN

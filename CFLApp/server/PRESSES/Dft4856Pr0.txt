@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24\par<Ret>}<Ret>
+CodeDft=4856
+Tarif=0
+NbLignes=0
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=17/02/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

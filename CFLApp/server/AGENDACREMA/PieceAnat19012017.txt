@@ -1,0 +1,6 @@
+Id=19012017
+Agent=THOMAS
+Provenance=HOPITAL BELLEY
+Nature=FOETUS
+Four=2
+NoOrdre=131

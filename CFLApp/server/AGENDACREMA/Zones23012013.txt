@@ -1,0 +1,170 @@
+Id=23012013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=2
+NoZONE=2
+AdresseFicheDefunt=\DONNEES\DONNEES2013\182.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PFG CHAMBERY
+Nom=PAULGRABIA
+Prenom=JUSTINE
+NoOrdre=
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=182
+End With
+With ZONE
+Id=3
+NoZONE=3
+AdresseFicheDefunt=\DONNEES\DONNEES2013\179.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Pascal MARIE
+Pf=PFM
+Nom=MONNET
+Prenom=IRENE
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+CodeDft=179
+End With
+With ZONE
+Id=4
+NoZONE=4
+AdresseFicheDefunt=\DONNEES\DONNEES2013\187.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PFG CHAMBERY
+Nom=RISS
+Prenom=LOUISE
+NoOrdre=
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie GESTE D'ADIEU 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=187
+End With
+With ZONE
+Id=5
+NoZONE=5
+AdresseFicheDefunt=\DONNEES\DONNEES2013\183.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PF POMMAT
+Nom=ETZENSPERGER
+Prenom=VINCENTINE
+NoOrdre=
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie GESTE D'ADIEU 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=183
+End With
+With ZONE
+Id=6
+NoZONE=6
+AdresseFicheDefunt=\DONNEES\DONNEES2013\177.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Pascal MARIE
+Pf=PFM
+Nom=SOUDARIN
+Prenom=JEAN FRANCOIS
+NoOrdre=
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+CodeDft=177
+End With
+With ZONE
+Id=7
+NoZONE=7
+AdresseFicheDefunt=\DONNEES\DONNEES2013\185.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Jean-Luc PEYREDIEU
+Pf=PFM
+Nom=DAIX
+Prenom=Roland
+NoOrdre=
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:00
+EvenementCeremonie=Cérémonie Religieuse Novalaise
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=185
+End With

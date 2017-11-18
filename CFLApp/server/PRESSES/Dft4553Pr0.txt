@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=540
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Barby, St Alban Leysse, La Biolle, Artemare, Dieulefit\f1\par<Ret>\b0\f0 Arlette et Jean-Ren\'e9 EXCOFFON, Patrick et Laurence CAMBET-PETIT-JEAN, Maryse BACHELLIER, Jacky et Marie-Gabrielle CAMBET-PETIT-JEAN, ses enfants; ses petits-enfants et arri\'e8re petits-enfants; Maria et Gilbert ROUX, Lucienne et Maurice CLAVEL, ses belles-soeurs et beaux-fr\'e8res, Michel BERLIOZ, leurs familles;\f1\par<Ret>\f0 sa famille et ses proches,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de madame\f1\par<Ret>\pard\qc\b\f0 Fran\'e7oise \f1\par<Ret>\f0 CAMBET-PETIT-JEAN\f1\par<Ret>\f0 N\'e9e DHYEN\f1\par<Ret>\pard\b0\f0 dans sa 95 \'e8me ann\'e9e.\f1\par<Ret>\f0 Ses obs\'e8ques ont eu lieu dans l'intimit\'e9 familliale.\f1\par<Ret>\f0 La famille remercie tout le personnel de la Monferine.\par<Ret>}<Ret>
+CodeDft=4553
+Tarif=250
+NbLignes=25
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=4
+Date=17/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

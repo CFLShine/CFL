@@ -1,0 +1,96 @@
+Id=20092014
+Jourdate=20/09/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3845
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=BELVAL
+Prenom=JACQUELINE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1142
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3835
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=SAUNOIS
+Prenom=SIMONNE
+HeureArrivee=12:15
+HeureCeremonie=
+HeureCremation=13:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de AIX LES BAINS
+EvenementCeremonie=
+EvenementCremation=Crémation
+EvenementCommentaire=
+NoOrdre=1143
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3841
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=TRESALLET
+Prenom=HENRI
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1144
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3843
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=FERROUX
+Prenom=PIERRE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1145
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=5
+End With

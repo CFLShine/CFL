@@ -1,0 +1,164 @@
+Id=14092013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1634.txt
+Pf=PF MERCIER
+Conseiller=Loïc TREVARAIN
+Nom=VERGNOLS
+Prenom=VINCENTA
+HeureArrivee=
+EvenementArrivee=Arrivée de LES AVENIERES
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERE
+NoOrdre=1105
+Four=1
+CodeDft=1634
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1623.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=PONCET
+Prenom=ALICE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN PIN
+NoOrdre=1106
+Four=2
+CodeDft=1623
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1628.txt
+Pf=PF CHAMBERIENNES
+Conseiller=
+Nom=BONNEMAINS
+Prenom=BERNARD
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMVBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL PIN  FAMILLE RECUPERE
+NoOrdre=1107
+Four=1
+CodeDft=1628
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1625.txt
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=GUILLOUT
+Prenom=FABRICE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1108
+Four=2
+CodeDft=1625
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1633.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=BONNETON
+Prenom=YOLANDE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1109
+Four=1
+CodeDft=1633
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1641.txt
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=BEROD
+Prenom=GERARD
+HeureArrivee=
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT A 18  H 00
+NoOrdre=1110
+Four=2
+CodeDft=1641
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1629.txt
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=BOUCLIER
+Prenom=GISELE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION   PF RECUPERE 
+NoOrdre=1111
+Four=1
+CodeDft=1629
+End With

@@ -1,0 +1,8 @@
+Id=9042015
+FactureZone8=False
+Jourdate=09/04/2015
+FactureZone2=True
+FactureZone7=True
+FactureZone5=True
+FactureZone1=True
+FactureZone3=True

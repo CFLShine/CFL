@@ -1,0 +1,177 @@
+Id=27052016
+JourDate=27/05/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Green
+EquipeOk_2=Green
+EquipeOk_3=Green
+CodeDft=8294
+Comment_0=LE CHAUFFEUR PINTOUT PART SEUL
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=6
+EquipeId_1=16
+EquipeId_2=65
+EquipeId_3=17
+Ordo=FAVRIN Thierry
+Equipe_0=PINTOUT Bruno
+Equipe_1=MILESI Robert
+Equipe_2=PATUREL Christian
+Equipe_3=MEGHEZZI Marc
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8300
+Comment_0=DISPERSION POUR PF TONIN COIFFET 
+Comment_1=SANS FAMILLE
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8301
+Comment_0=CIMETIERE DE LA MOTTE-SERVOLEX (CHEF-LIEU)
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Green
+EquipeOk_1=Green
+EquipeOk_2=Green
+EquipeOk_3=Green
+CodeDft=8323
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=58
+EquipeId_1=60
+EquipeId_2=17
+EquipeId_3=50
+Ordo=FAVRIN Thierry
+Equipe_0=MULDER Michaël
+Equipe_1=DUMAZ Rémy
+Equipe_2=MEGHEZZI Marc
+Equipe_3=MARIE Tristan
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Green
+EquipeOk_3=Green
+CodeDft=8320
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=14
+EquipeId_1=26
+EquipeId_2=64
+EquipeId_3=65
+Ordo=TREVARAIN Loïc
+Equipe_0=KAELBERER Eric
+Equipe_1=WALLYN Benoît
+Equipe_2=DEMOUSSY Alain
+Equipe_3=PATUREL Christian
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Green
+EquipeOk_2=Green
+EquipeOk_3=Green
+CodeDft=8324
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=7
+EquipeId_1=49
+EquipeId_2=58
+EquipeId_3=60
+Ordo=KAELBERER Eric
+Equipe_0=JACQUIER Michel
+Equipe_1=THEVENIN Eric
+Equipe_2=MULDER Michaël
+Equipe_3=DUMAZ Rémy
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8333
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=16
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=MILESI Robert
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=7
+CodeDft=8331
+DemiJour=1
+Pos=1
+UsedBy=
+End With

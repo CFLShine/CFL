@@ -1,0 +1,166 @@
+Id=13012015
+Jourdate=13/01/2015
+Version=NouveauFormat
+With ZONE
+Id=3
+EvenementCommentaire=CERCUEIL EN CHENE LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft=4512
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=DUISIT
+Prenom=LYDIE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=67
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4513
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=APARICIO CANEGERO
+Prenom=LEA
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=69
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4516
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=CATTANEO
+Prenom=PASCAL
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:30
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE ST JEOIRE PRIEURE
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=66
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4517
+Pf=PFM
+Conseiller=Maxime EHNY
+Nom=GARCIA
+Prenom=GEORGES
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:30
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE CHAMBERY LE HAUT
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=68
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4518
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=REVOL
+Prenom=JEAN MICHEL
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=65
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=4519
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BRUN
+Prenom=ROBERT
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=70
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4521
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=BOIS
+Prenom=JACQUELINE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=71
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=4531
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=MIEGE
+Prenom=PASCAL
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=64
+Four=1
+FicheOccupe=Libre
+End With

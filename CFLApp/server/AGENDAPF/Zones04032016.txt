@@ -1,0 +1,38 @@
+Id=4032016
+JourDate=04/03/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7698
+Comment_0=ORDONNATEUR PFM POUR PF MAURIENNAISES
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+CodeDft=7715
+DemiJour=1
+Pos=1
+End With
+With ZONE
+Id=2
+CodeDft=7719
+DemiJour=1
+Pos=2
+End With

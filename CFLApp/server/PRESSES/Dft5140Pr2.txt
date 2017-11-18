@@ -1,0 +1,18 @@
+Id=-1
+Type=Remerciements
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 La famille, son compagnon,\f1\par<Ret>\f0 Vous disent merci, \'e0 vous qui, par quelques mots r\'e9confortants, une pr\'e9sence, un geste, une fleur  ou une pens\'e9e, avez t\'e9moign\'e9 votre attention lors du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Madame Anne DUBOIS \f1\par<Ret>\f0 N\'e9e BERTINOTTI\b0\f1\par<Ret>\pard\f0\par<Ret>}<Ret>
+CodeDft=5140
+Tarif=84
+NbLignes=10
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=04/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

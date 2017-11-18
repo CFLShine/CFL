@@ -1,0 +1,27 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Barby\f1\par<Ret>\b0\f0 Madame Marie-Madeleine GACHET son \'e9pouse; Jean-Charles GACHET,  Virginie et Jacques PALUSCI ses enfants; Julius BOUVILLE-GACHET, Emile  et Jos\'e9phine BUISSON ses petits-enfants; \f1\par<Ret>\f0 les familles GACHET, LIMOSIN,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Monsieur Marius GACHET\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 75 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e jeudi 15 janvier 2015 \'e0 dix heures en l'Eglise de Barby.\f1\par<Ret>\f0 La famille remercie les services des Berges de l'Hy\'e8res, des M\'e9l\'e8zes et de l'Iseran.\f1\par<Ret>\f0 Pas de plaques.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4541
+Tarif=396,8
+NbLignes=22
+Cadre=False
+Symbole=False
+Photo=False
+SiteSent=True
+SiteDate1=12/01/2015
+SiteDate2=15/01/2015
+SiteTitre=Marius GACHET
+SiteClientMail=virginie.gachet@yahoo.fr
+With PARUTION
+Id=3
+Date=13/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=5
+Name=ISERE
+End With

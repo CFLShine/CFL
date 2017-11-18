@@ -1,0 +1,2410 @@
+<METASF>
+Id=2897
+<\METASF>
+<METASF>
+Id=2903
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Jean FATTON
+NomJf=
+AnNaiss=1930
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=2922
+<\METASF>
+<METASF>
+Id=2924
+<\METASF>
+<METASF>
+Id=2939
+With GRAVURES
+Id=1
+Conseiller=
+GravuresPar=PFM
+PrenomNom=LUCIEN RENAUD
+NomJf=
+AnNaiss=1920
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=2937
+<\METASF>
+<METASF>
+Id=2947
+<\METASF>
+<METASF>
+Id=2976
+<\METASF>
+<METASF>
+Id=2990
+<\METASF>
+<METASF>
+Id=3031
+<\METASF>
+<METASF>
+Id=3038
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Joseph CHAMOUSSET
+NomJf=
+AnNaiss=1928
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3116
+<\METASF>
+<METASF>
+Id=3122
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Salvatore CUCINOTTA
+NomJf=
+AnNaiss=1941
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3150
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Jean CURTET
+NomJf=
+AnNaiss=1929
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3225
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Georges POGNANT-GROS
+NomJf=
+AnNaiss=1923
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3241
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Jean CAILLE
+NomJf=
+AnNaiss=1922
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3330
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=MARBRERIE LAMBERT
+PrenomNom=Gabriel CARLE
+NomJf=
+AnNaiss=1935
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3309
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Paul YOU
+NomJf=
+AnNaiss=1942
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3358
+<\METASF>
+<METASF>
+Id=3353
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Albert Rene MOTTA
+NomJf=
+AnNaiss=1934
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3393
+<\METASF>
+<METASF>
+Id=3409
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Line FALDA-BUSCAIOT
+NomJf=BARBIERO
+AnNaiss=28 février1925
+AnDeces=28 juin 2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3397
+With GRAVURES
+Id=1
+Conseiller=Loïc TREVARAIN
+GravuresPar=PFM
+PrenomNom=Paul GERMANAZ
+NomJf=
+AnNaiss=1925
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3418
+With GRAVURES
+Id=1
+Conseiller=Jean-Luc PEYREDIEU
+GravuresPar=PFM
+PrenomNom=Jean-Luc ALONZO
+NomJf=
+AnNaiss=1959
+AnDeces=2013
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3482
+<\METASF>
+<METASF>
+Id=3469
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Alfred CARRON
+NomJf=
+AnNaiss=1936
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3492
+<\METASF>
+<METASF>
+Id=3508
+<\METASF>
+<METASF>
+Id=3597
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=MARBRERIE MOMETTI
+PrenomNom=Suzanne LAMA
+NomJf=BRUTIN
+AnNaiss=1920
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3612
+<\METASF>
+<METASF>
+Id=3637
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Charlotte 
+NomJf=
+AnNaiss=1912
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3659
+<\METASF>
+<METASF>
+Id=3671
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Marie FINCATO
+NomJf=VILLARD
+AnNaiss=1926
+AnDeces=2007
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3691
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=MARBRERIE LAMBERT
+PrenomNom=Michel GENAUDEAU
+NomJf=
+AnNaiss=1935
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3683
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=En mémoire de Georgette MARTIN
+NomJf=TOURNIER
+AnNaiss=1928
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3733
+<\METASF>
+<METASF>
+Id=3768
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Rachele MARZARI
+NomJf=MOLINARI
+AnNaiss=1925
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3769
+<\METASF>
+<METASF>
+Id=3793
+<\METASF>
+<METASF>
+Id=2886
+With GRAVURES
+Id=1
+Conseiller=Nicolas PACHOUD
+GravuresPar=PFM
+PrenomNom=Jean BOUCULAT
+NomJf=
+AnNaiss=1939
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3820
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Liliane PORCHERON
+NomJf=PETIT
+AnNaiss=1934
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3959
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Evelina ZANIN
+NomJf=
+AnNaiss=1923
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3963
+<\METASF>
+<METASF>
+Id=3965
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Joseph MARIET
+NomJf=
+AnNaiss=1923
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3976
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Clotilde MARCELLIN
+NomJf=
+AnNaiss=1917
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3988
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Francois  Louis RENCHET
+NomJf=
+AnNaiss=1922
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3400
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Marcelle DUCLOCHER
+NomJf=EUSEBE
+AnNaiss=1920
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4043
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Michel FAUCON - BIGUET
+NomJf=
+AnNaiss=1948
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4055
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Juliette RINCHET
+NomJf=DUISIT
+AnNaiss=1923
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4081
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jean BREDA
+NomJf=
+AnNaiss=1943
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4088
+<\METASF>
+<METASF>
+Id=4009
+With GRAVURES
+Id=1
+Conseiller=Nicolas PACHOUD
+GravuresPar=PFM
+PrenomNom=Christiane DOMENGET
+NomJf=
+AnNaiss=
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4162
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Jacques COLLETAZ
+NomJf=
+AnNaiss=1943
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4178
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Francisque ESSONNIER
+NomJf=
+AnNaiss=1929
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4250
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Simone ZAMPIN
+NomJf=EXCOFFON
+AnNaiss=1931
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4264
+<\METASF>
+<METASF>
+Id=4276
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Marie Louise GONAY
+NomJf=FRANCESCOLI
+AnNaiss=1918
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4286
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Rene BUSCAYLET
+NomJf=
+AnNaiss=1935
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4296
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Francoise ONGARO
+NomJf=PANQUET
+AnNaiss=1945
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4325
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Eugenie LAFFONT
+NomJf=Née TURLAN
+AnNaiss=1934
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4343
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Jean BERNARD
+NomJf=
+AnNaiss=1938
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4098
+With GRAVURES
+Id=1
+Conseiller=Jean-Luc PEYREDIEU
+GravuresPar=PFM
+PrenomNom=Jean Loup PARAZ
+NomJf=
+AnNaiss=1941
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4395
+<\METASF>
+<METASF>
+Id=4402
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jean-Claude PAPOZ
+NomJf=
+AnNaiss=1941
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4425
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Jean MOLLARD-BERGER
+NomJf=
+AnNaiss=1929
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4544
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Anne-Marie MICHELLIER
+NomJf=LAURENT
+AnNaiss=1922
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4519
+With GRAVURES
+Id=1
+Conseiller=Nicolas PACHOUD
+GravuresPar=PFM
+PrenomNom=Robert BRUN
+NomJf=
+AnNaiss=1931
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4585
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jacqueline CHAMIOT
+NomJf= LEROY
+AnNaiss=1933
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4639
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=pfm
+PrenomNom=Bruno BLANCHOIN
+NomJf=
+AnNaiss=1958
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4659
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=pfm
+PrenomNom=Elie REYNAUD
+NomJf=
+AnNaiss=1935
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4691
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Marie Claire ESTEVAN
+NomJf=Epouse GALERNE
+AnNaiss=1944
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4746
+<\METASF>
+<METASF>
+Id=4785
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Grabrielle MORAT
+NomJf=Née SERAIN
+AnNaiss=1923
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4880
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Marcelle DEGRANGE
+NomJf=JULIAN
+AnNaiss=1929
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4873
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Rolande PITTET
+NomJf=
+AnNaiss=1929
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4742
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Lucie CABOT
+NomJf=
+AnNaiss=1922
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4925
+<\METASF>
+<METASF>
+Id=4998
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Albert Maurice BOREL
+NomJf=
+AnNaiss=1927
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4997
+<\METASF>
+<METASF>
+Id=5025
+<\METASF>
+<METASF>
+Id=5056
+<\METASF>
+<METASF>
+Id=5058
+<\METASF>
+<METASF>
+Id=5100
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Marcel ASSER
+NomJf=
+AnNaiss=1947
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5276
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=SALOMON
+PrenomNom=Ligliano FIORESE
+NomJf=
+AnNaiss=1933
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5253
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Michel FERROUX
+NomJf=
+AnNaiss=1948
+AnDeces=2015
+End With
+<\METASF>
+<METASF>
+Id=5310
+With GRAVURES
+Id=1
+Conseiller=Géorgie MORALES
+GravuresPar=PFM
+PrenomNom=Annita STEUX
+NomJf=MINNE
+AnNaiss=1943
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5285
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Clara PAUMIER
+NomJf=GRASSI
+AnNaiss=1923
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5294
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Felicie CHAPUIS
+NomJf=Née MORAND
+AnNaiss=1921
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5352
+<\METASF>
+<METASF>
+Id=5414
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Mgr Marc DUMOGET
+NomJf=
+AnNaiss=1924
+AnDeces=2015
+End With
+<\METASF>
+<METASF>
+Id=5427
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Gaston DUVERNOY
+NomJf=
+AnNaiss=1916
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5438
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Madeleine VEILLET
+NomJf=
+AnNaiss=1925
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=2777
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Laure GIRARD MADOUX
+NomJf=
+AnNaiss=1935
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4743
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Marcelle GUERRINI
+NomJf=Née JANIN
+AnNaiss=1923
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5619
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Genevieve JANIN
+NomJf=MARTIN
+AnNaiss=1914
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5355
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Marie Christine PRAMAGGIORE
+NomJf=VITTOZ
+AnNaiss=1914
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5617
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Rene THIVICHON PRINCE
+NomJf=
+AnNaiss=1925
+AnDeces=2018
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5829
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=pfm
+PrenomNom=Odile SGAROS
+NomJf=VILLEGAS
+AnNaiss=1945
+AnDeces=2015
+End With
+<\METASF>
+<METASF>
+Id=5598
+With GRAVURES
+Id=1
+Conseiller=Michaël BRUN
+GravuresPar=PFM
+PrenomNom=Clotilde PILLET
+NomJf=ROUX
+AnNaiss=1920
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4903
+With GRAVURES
+Id=1
+Conseiller=Nicolas PACHOUD
+GravuresPar=PFM
+PrenomNom=Renee SOUFFREY
+NomJf=LORA
+AnNaiss=1923
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5787
+With GRAVURES
+Id=1
+Conseiller=Nicolas PACHOUD
+GravuresPar=pfm
+PrenomNom=Marie-Therese MENU
+NomJf=SIMONKLEIN
+AnNaiss=1941
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5688
+With GRAVURES
+Id=1
+Conseiller=Michaël BRUN
+GravuresPar=pfm
+PrenomNom=Ellen NICOLLE
+NomJf=VOIRON
+AnNaiss=1929
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5766
+With GRAVURES
+Id=1
+Conseiller=Jean-Luc PEYREDIEU
+GravuresPar=pfm
+PrenomNom=Andre DEVILLERS
+NomJf=
+AnNaiss=1921
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5482
+With GRAVURES
+Id=1
+Conseiller=Nicolas PACHOUD
+GravuresPar=PFM
+PrenomNom=Jean Marie NANTOIS
+NomJf=
+AnNaiss=1938
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=3437
+With GRAVURES
+Id=1
+Conseiller=Nicolas PACHOUD
+GravuresPar=PFM
+PrenomNom=Iolanda MARTINI
+NomJf=Née BROCCOLO
+AnNaiss=1929
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4657
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Huguette GINET
+NomJf=Née TROSSET
+AnNaiss=1931
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4403
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Jacques GARAIX
+NomJf=
+AnNaiss=1951
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5854
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Jeanine CASSET
+NomJf=
+AnNaiss=1932
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4125
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Josephine TACHET
+NomJf=
+AnNaiss=2014
+AnDeces=2014
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5650
+With GRAVURES
+Id=1
+Conseiller=Michaël BRUN
+GravuresPar=PFM
+PrenomNom=Jean PEZZETTIGOTTA
+NomJf=
+AnNaiss=1927
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5757
+With GRAVURES
+Id=1
+Conseiller=Jean-Luc PEYREDIEU
+GravuresPar=pfm
+PrenomNom=Christiane BATAILLARD
+NomJf=
+AnNaiss=1941
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5775
+With GRAVURES
+Id=1
+Conseiller=Michaël BRUN
+GravuresPar=PFM
+PrenomNom=Rene MACHETTO
+NomJf=
+AnNaiss=1922
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6237
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Alice REULIER
+NomJf=Née SANCHEZ
+AnNaiss=1917
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6292
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Madeleine FORRAY
+NomJf=MERMOZ
+AnNaiss=1920
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6200
+With GRAVURES
+Id=1
+Conseiller=Nicolas PACHOUD
+GravuresPar=PFM
+PrenomNom=Jean PEZET
+NomJf=
+AnNaiss=1928
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6352
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Robert CALAMY
+NomJf=
+AnNaiss=1926
+AnDeces=2015
+End With
+<\METASF>
+<METASF>
+Id=6438
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Marcel FODERE
+NomJf=
+AnNaiss=1934
+AnDeces=2015
+End With
+<\METASF>
+<METASF>
+Id=6225
+With GRAVURES
+Id=1
+Conseiller=Sébastien CITRINO
+GravuresPar=PFM
+PrenomNom=Louis MAIRE
+NomJf=
+AnNaiss=1931
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6315
+With GRAVURES
+Id=1
+Conseiller=Sébastien CITRINO
+GravuresPar=PFM
+PrenomNom=Louis PETELLAT 
+NomJf=
+AnNaiss=1937
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6375
+With GRAVURES
+Id=1
+Conseiller=Sébastien CITRINO
+GravuresPar=PFM
+PrenomNom=Simone DUPONT
+NomJf=BEYER
+AnNaiss=1916
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6449
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Christian CHAMOUSSET
+NomJf=
+AnNaiss=1950
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6460
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Jeannine DURAND
+NomJf=DAGAND
+AnNaiss=1927
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5139
+With GRAVURES
+Id=1
+Conseiller=Jean-Luc PEYREDIEU
+GravuresPar=PFM
+PrenomNom=Helene MUNOZ
+NomJf=
+AnNaiss=1929
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=5382
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Roger VARVAT
+NomJf=
+AnNaiss=1928
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=4901
+With GRAVURES
+Id=1
+Conseiller=Jean-Luc PEYREDIEU
+GravuresPar=PFM
+PrenomNom=Marcelle RELLIER
+NomJf=RELLIER
+AnNaiss=1925
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6338
+With GRAVURES
+Id=1
+Conseiller=Michaël BRUN
+GravuresPar=PFM
+PrenomNom=Odette GOTTELAND
+NomJf=COORNAERT
+AnNaiss=1924
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6555
+With GRAVURES
+Id=1
+Conseiller=Nicolas PACHOUD
+GravuresPar=PFM
+PrenomNom=Albert PERNET
+NomJf=
+AnNaiss=1928
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6323
+With GRAVURES
+Id=1
+Conseiller=Michaël BRUN
+GravuresPar=PFM
+PrenomNom=Roger DUMOLLARD
+NomJf=
+AnNaiss=1927
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6619
+With GRAVURES
+Id=1
+Conseiller=Michaël BRUN
+GravuresPar=PFM
+PrenomNom=Marcelle DONIER
+NomJf=
+AnNaiss=1922
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6553
+With GRAVURES
+Id=1
+Conseiller=Michaël BRUN
+GravuresPar=PFM
+PrenomNom=Antonietta DALLA-COSTA
+NomJf=
+AnNaiss=
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6586
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Marianne BRETAGNOLLE
+NomJf=
+AnNaiss=1954
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6669
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Lucien CAILLOT
+NomJf=
+AnNaiss=1922
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7035
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Georges PAVIOL
+NomJf=
+AnNaiss=1922
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7063
+With GRAVURES
+Id=2
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Louis ROUX
+NomJf=
+AnNaiss=1893
+AnDeces=1970
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7090
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=pfm
+PrenomNom=Michel COSTY
+NomJf=
+AnNaiss=1935
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7143
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Michele VILLARD
+NomJf=TIRELLI
+AnNaiss=1953
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7281
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jacques BENETON
+NomJf=
+AnNaiss=1913
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7364
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Emmeline GLATARD
+NomJf=GARNIER
+AnNaiss=1923
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7375
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jean Emile MODELON
+NomJf=
+AnNaiss=1940
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7403
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom= DECOOPMAN
+NomJf=
+AnNaiss=
+AnDeces=
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7415
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jean VILLIERMET
+NomJf=
+AnNaiss=1926
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7469
+<\METASF>
+<METASF>
+Id=7500
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Albert PARAVY
+NomJf=
+AnNaiss=1926
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7514
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Yvette CAPUCON
+NomJf=
+AnNaiss=1924
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7551
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Marie PEZZETTI GOTTA
+NomJf=
+AnNaiss=1923
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7046
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Eric SPRINGOLO
+NomJf=
+AnNaiss=1966
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7707
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Nairina GENOLI
+NomJf=
+AnNaiss=1927
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7710
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Bernard MAILLET
+NomJf=
+AnNaiss=1937
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7719
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Monique CAFFE
+NomJf=
+AnNaiss=1942
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7721
+<\METASF>
+<METASF>
+Id=7777
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Madeleine DREUX
+NomJf=BIOLLEY
+AnNaiss=1927
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7417
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Jeanne LAURENCON
+NomJf=
+AnNaiss=1921
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7826
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Joseph BURDIN
+NomJf=
+AnNaiss=1945
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7855
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Suzette BUTTIKOFER
+NomJf=
+AnNaiss=1932
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7845
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Isa COLAUTTI
+NomJf=
+AnNaiss=1951
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7918
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Lucie PEPIN
+NomJf=MARCUZZI
+AnNaiss=1922
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7475
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=pfm
+PrenomNom=Roland GIRARD-REYDET
+NomJf=
+AnNaiss=1925
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7990
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Michel THIERY
+NomJf=
+AnNaiss=1925
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8008
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jeanne MOLMERET
+NomJf=PERROTIN
+AnNaiss=1924
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8051
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jeremie SERAIN
+NomJf=
+AnNaiss=1934
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8094
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Andree REBUT
+NomJf=
+AnNaiss=1950
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8149
+<\METASF>
+<METASF>
+Id=8158
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Nina BATATINNE
+NomJf=CUCEREAVII
+AnNaiss=1959
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8228
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Christian CINI
+NomJf=
+AnNaiss=1939
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8267
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Eligia VOLPI
+NomJf=
+AnNaiss=1922
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8273
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Suzanne LIMOUSIN
+NomJf=VÊPRES
+AnNaiss=1921
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7785
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=pfm
+PrenomNom=Pierrette CHEVALLIER
+NomJf=BRUISSET
+AnNaiss=1937
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8272
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Micheline BONNETON
+NomJf=GARIVIER
+AnNaiss=1931
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7837
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=pfm
+PrenomNom=FONTAINE SUZANNE
+NomJf=
+AnNaiss=1924
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=7864
+With GRAVURES
+Id=1
+Conseiller=Sébastien CITRINO
+GravuresPar=PFM
+PrenomNom=Bernard SANSON
+NomJf=
+AnNaiss=1947
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8344
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Charles FLORET
+NomJf=
+AnNaiss=1933
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8385
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Odette GERMAIN
+NomJf=
+AnNaiss=1924
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8551
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Monique DUCOTE
+NomJf=
+AnNaiss=1929
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8559
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Michel COLLOMB GRIS
+NomJf=
+AnNaiss=1946
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8640
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Florine PICARD
+NomJf=
+AnNaiss=1920
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8654
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Louis Henri ARBET
+NomJf=
+AnNaiss=1939
+AnDeces=2015
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8771
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Bertha BRISSY
+NomJf=BRACQ
+AnNaiss=1921
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8830
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Elsa CADOUX
+NomJf=DI MARZIO
+AnNaiss=1927
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8835
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jean CESINSKI
+NomJf=
+AnNaiss=1948
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8874
+<\METASF>
+<METASF>
+Id=8200
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Louis ROUX
+NomJf=
+AnNaiss=1931
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=9104
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jacques ROBERT
+NomJf=
+AnNaiss=1937
+AnDeces=2016
+End With
+<\METASF>
+<METASF>
+Id=9101
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=René GERNIOUX
+NomJf=
+AnNaiss=1925
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8994
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=pfm
+PrenomNom=Marguerite MASSARD-COMBE
+NomJf=BILLOUD
+AnNaiss=1916
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=9156
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jean Guy POLATO
+NomJf=
+AnNaiss=1946
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=6609
+With GRAVURES
+Id=1
+Conseiller=Michaël BRUN
+GravuresPar=PFM
+PrenomNom=Adele LORENZI
+NomJf=DUCLOS
+AnNaiss=1925
+AnDeces=2015
+End With
+<\METASF>
+<METASF>
+Id=9192
+With GRAVURES
+Id=1
+Conseiller=Nicolas PACHOUD
+GravuresPar=PFM
+PrenomNom=Patrick CHAFFARDON
+NomJf=
+AnNaiss=1950
+AnDeces=2016
+End With
+<\METASF>
+<METASF>
+Id=9310
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Emile GARAVEL
+NomJf=
+AnNaiss=1931
+AnDeces=2016
+End With
+<\METASF>
+<METASF>
+Id=9311
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Marguerite DONNIER
+NomJf=
+AnNaiss=1924
+AnDeces=2016
+End With
+<\METASF>
+<METASF>
+Id=9211
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=PFM
+PrenomNom=Galileo LANDO
+NomJf=
+AnNaiss=1925
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=9227
+With GRAVURES
+Id=1
+Conseiller=Pascal MARIE
+GravuresPar=pfm
+PrenomNom=Marie-Albert GOBBO
+NomJf=
+AnNaiss=1921
+AnDeces=2016
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=8098
+With GRAVURES
+Id=1
+Conseiller=Nicolas PACHOUD
+GravuresPar=PFM
+PrenomNom=Jacques PINGET
+NomJf=
+AnNaiss=1934
+AnDeces=2016
+End With
+<\METASF>
+<METASF>
+Id=9639
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Marie VUILLERME
+NomJf=
+AnNaiss=1921
+AnDeces=2016
+End With
+<\METASF>
+<METASF>
+Id=9680
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Pierre GRANGEAT
+NomJf=
+AnNaiss=1962
+AnDeces=2016
+End With
+<\METASF>
+<METASF>
+Id=9783
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Lydia MARIETTA
+NomJf=
+AnNaiss=1932
+AnDeces=2016
+End With
+<\METASF>
+<METASF>
+Id=9841
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Yves ALBERT
+NomJf=
+AnNaiss=1924
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10036
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Attilio MOSER
+NomJf=
+AnNaiss=1927
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10273
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Giovanni CAMMARATA
+NomJf=
+AnNaiss=1937
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10272
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Suzanne CARRAZ
+NomJf=
+AnNaiss=1934
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10363
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Henriette ROULET
+NomJf=SIMON
+AnNaiss=1920
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10586
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Irene MONTAGNE
+NomJf=
+AnNaiss=1923
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10605
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Raymond DETRAZ
+NomJf=
+AnNaiss=1935
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10613
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Georges PERRIER
+NomJf=
+AnNaiss=1925
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10633
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jeannine TROMBERT
+NomJf=
+AnNaiss=1936
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10643
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Denise FAUSTIN
+NomJf=GUILLET
+AnNaiss=1928
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10668
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Alfred Lucien ROISSARD
+NomJf=
+AnNaiss=1915
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10671
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Suzanne JEANNE
+NomJf=CHEVILLARD
+AnNaiss=1921
+AnDeces=2017
+Fait=True
+End With
+<\METASF>
+<METASF>
+Id=10677
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Andre PERRET
+NomJf=
+AnNaiss=1928
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10764
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Gino MIROLO
+NomJf=
+AnNaiss=1932
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10859
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Joseph DLOUHY
+NomJf=
+AnNaiss=1921
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=10938
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=André GUIRAL
+NomJf=
+AnNaiss=1946
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=11070
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Inès DUPUY
+NomJf=PENEGAGGI
+AnNaiss=1934
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=11107
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Aime BILLON-TYRARD
+NomJf=
+AnNaiss=1931
+AnDeces=2017
+End With
+<\METASF>
+<METASF>
+Id=11168
+With GRAVURES
+Id=1
+Conseiller=Marion TREBOUTE
+GravuresPar=PFM
+PrenomNom=Jean Pierre
+NomJf=
+AnNaiss=1944
+AnDeces=2017
+End With
+<\METASF>

@@ -1,0 +1,8 @@
+Id=1206
+With DEFUNT
+Id=8529
+Nom=CHARVOZ
+Prenom=DENISE
+DecesDate=26/06/1206
+CodeDft=8529
+End With

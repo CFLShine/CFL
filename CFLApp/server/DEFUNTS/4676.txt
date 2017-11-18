@@ -1,0 +1,15 @@
+Id=4676
+CremationArriveeDe=CHAMBERY
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationCommune=
+DefuntNom=CASETTI
+DefuntPrenom=YOLANDE
+DefuntDecesDate=27/01/2015
+ReservCrema=Loïc TREVARAIN
+PfArrivee=PFM
+CodeDefunt=4676
+CremationHeure=

@@ -1,0 +1,93 @@
+Id=29042014
+Jourdate=29/04/2014
+Version=NouveauFormat
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3019
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=BILLET
+Prenom=MARIO
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EXHUMATION 
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3025
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=SOMMET
+Prenom=GENEVIEVE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3034
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=JULLIARD
+Prenom=CHRISTINE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE LE LENDEMAIN
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3035
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=GENIAUX
+Prenom=VICTOR
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3039
+Pf=PFG AIX LES BAINS
+Conseiller=Loïc TREVARAIN
+Nom=GRIFFON
+Prenom=LUCIEN
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=False
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+End With

@@ -1,0 +1,145 @@
+Id=23082017
+Jourdate=23/08/2017
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=11420
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=GUIGUE
+Prenom_ceremonie=JEAN CLAUDE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL ?
+CodeDft_cremation=11420
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=GUIGUE
+Prenom_cremation=JEAN CLAUDE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+NoOrdre=1151
+Four=FT3
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft_ceremonie=11430
+Pf_ceremonie=PFCCA
+Nom_ceremonie=TIROZZINI
+Prenom_ceremonie=MAURIZIO
+CodeDft_cremation=11430
+Pf_cremation=PFCCA
+Nom_cremation=TIROZZINI
+Prenom_cremation=MAURIZIO
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1149
+Four=FT3
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=11419
+Pf_ceremonie=PF BOUVIER
+Nom_ceremonie=SERRANO
+Prenom_ceremonie=HUGUETTE
+CodeDft_cremation=11419
+Pf_cremation=PF BOUVIER
+Nom_cremation=SERRANO
+Prenom_cremation=HUGUETTE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ATTESTATION RETRAIT PACE MAKER ORIGINAL à L'ACCUEIL
+NoOrdre=1150
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+EvenementCommentaire=TEMOINS DE JEHOVAH
+SaisieOccupe=Libre
+CodeDft_ceremonie=11433
+Pf_ceremonie=SEDRAN
+Nom_ceremonie=ANTOINE
+Prenom_ceremonie=DANIEL
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11433
+Pf_cremation=SEDRAN
+Nom_cremation=ANTOINE
+Prenom_cremation=DANIEL
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+NoOrdre=1152
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=9
+SaisieOccupe=Libre
+CodeDft_ceremonie=11424
+Pf_ceremonie=PFG BOURG ST MAURICE
+Nom_ceremonie=DUCHENE
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de BOURG SAINT MAURICE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL ? ATTENTION DIAPORAMA SUR MAC
+CodeDft_cremation=11424
+Pf_cremation=PFG BOURG ST MAURICE
+Nom_cremation=DUCHENE
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de BOURG SAINT MAURICE
+NoOrdre=1153
+Four=FT3
+FicheOccupe=Libre
+End With

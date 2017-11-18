@@ -1,0 +1,209 @@
+Id=21122013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2240.txt
+Pf=PF PENA
+Conseiller=Marie-Pierre PINET
+Nom=VIVIAND
+Prenom=BERNARD
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DEPOT DU CERCUEIL VENDREDI 20 DECEMBRE  VU AVEC LOIC  OK
+NoOrdre=1538
+Four=2
+CodeDft=2240
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2236.txt
+Pf=PF SAVOYARDES
+Conseiller=Loïc TREVARAIN
+Nom=DUC
+Prenom=ANDRE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION   PF RECUPERENT
+NoOrdre=1539
+Four=1
+CodeDft=2236
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2241.txt
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=BLANCHETON
+Prenom=ALAIN
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1540
+Four=2
+CodeDft=2241
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2232.txt
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=BURDIN PEREIRA
+Prenom=ALYAH
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie  Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=INHUMATION CHARRIERE NEUVE   MORT NE   PAS DE CREMATION
+CodeDft=2232
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2227.txt
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=BRANDNER
+Prenom=ALAIN
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1541
+Four=2
+CodeDft=2227
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2239.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=RIBAS
+Prenom=Eric
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1542
+Four=2
+CodeDft=2239
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2245.txt
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=BEGET
+Prenom=BERTHE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de ALBERTVILLE 
+HeureCeremonie=15:15
+EvenementCeremonie=
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=NORMALEMENT SANS FAMILLE 
+NoOrdre=1543
+Four=1
+CodeDft=2245
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2246.txt
+Pf=PF TONIN COIFFET
+Conseiller=Loïc TREVARAIN
+Nom=LAFOUGERE
+Prenom=DENISE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM POUR PF TONIN COIFFET
+NoOrdre=1544
+Four=2
+CodeDft=2246
+End With
+With Zone
+Id=3
+AdresseFicheDefunt=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+HeureCeremonie=
+HeureCremation=
+HeureCommentaire=
+EvenementArrivee=
+EvenementCeremonie=
+EvenementCremation=
+EvenementCommentaire=
+End With
+With Zone
+Id=2
+AdresseFicheDefunt=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+HeureCeremonie=
+HeureCremation=
+HeureCommentaire=
+EvenementArrivee=
+EvenementCeremonie=
+EvenementCremation=
+EvenementCommentaire=
+End With

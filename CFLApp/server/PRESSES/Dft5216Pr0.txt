@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Chambery, Bissy,\f1\par<Ret>\f0 Nicole et Francoise, ses filles,\f1\par<Ret>\f0 C\'e9line, sa petite fille ador\'e9e,\f1\par<Ret>\f0 Georges Martin et Gis\'e8le,\f1\par<Ret>\f0 les familles Flutaz, D\'e9nari\'e9,\f1\par<Ret>\f0 parents et amis,\f1\par<Ret>\f0 ont l'immense tristesse de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Madame Jeanne MARTIN\f1\par<Ret>\f0 N\'e9e FLUTAZ\f1\par<Ret>\pard\b0\f0 Selon ses volont\'e9s la c\'e9r\'e9monie a eu lieu dans l'intimit\'e9e familiale.\f1\par<Ret>\f0 La famille remercie chaleureusement le personnel des Charmilles pour son d\'e9vouement et sa gentillesse.\f1\par<Ret>\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=5216
+Tarif=208
+NbLignes=19
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=09/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

@@ -1,0 +1,6 @@
+Id=20022017
+Jourdate=20/02/2017
+FactureZone6=true
+FactureZone7=true
+FactureZone5=true
+FactureZone8=False

@@ -1,0 +1,5 @@
+Id=-1
+With CONVERSATION
+Id=4
+conversation=[enter]-----------------------[enter]CLANET Sébastien - 12/06/2017 08:53:10[enter][enter]Maxime, Sébastien et Pascal étant occupés, j'ai besoin de vos services:  l'état-civil de Chambéry n'arrive pas à lire l'heure de décès sur le certificat de Madame DALBAN-PILON. Je n'ai pas l'info sur cfprog. Pourriez-vous vous charger de les rappeler? Merci![enter]
+End With

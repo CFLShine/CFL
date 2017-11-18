@@ -1,0 +1,157 @@
+Id=6082014
+JourDate=06/08/2014
+With ZONE
+Id=0
+Saisie=MEB
+Pos=0
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3587
+Pf=PF CHAMBERIENNES
+Conseiller=Loïc TREVARAIN
+DefuntNom=SCARAMIGLIA
+DefuntPrenom=MONIQUE
+Heure_0=08:45
+Ev_0=Mise en bière Centre funéraire
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=1
+Saisie=Ceremonie
+Pos=1
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3589
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+DefuntNom=MOUZAOUI
+DefuntPrenom=BACHIR
+Heure_0=11:15
+Ev_0=Cérémonie Civile 
+Comment_0= PREVOIR ORDONNATEUR POUR PF  MOUCHEARRIVEE FAMILLE 11 H 00
+Comment_1=
+Ordo=TREVARAIN Loïc
+OrdoId=12
+End With
+With ZONE
+Id=2
+Saisie=Convoi
+Pos=2
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=White
+EquipeOk_3=White
+Heure_0=09:45
+Heure_1=10:15
+Heure_2=11:00
+Heure_3=
+Ev_0=Arrivée de Centre funéraire
+Ev_1=Cérémonie Religieuse Cf salle omnicultes
+Ev_2=Crémation  au crématorium de Chambéry
+Ev_3=
+DefuntNom=ZANON
+DefuntPrenom=RENE
+Conseiller=Loïc TREVARAIN
+Pf=PFM
+Comment_0=
+CodeDft=3595
+Ordo=FAVRIN Thierry
+OrdoId=11
+Equipe_0=MILLON Patrick
+EquipeId_0=MILLON Patrick
+Equipe_1=TREVARAIN Loïc
+EquipeId_1=TREVARAIN Loïc
+End With
+With ZONE
+Id=3
+Saisie=TAMB
+Pos=3
+DemiJour=1
+CodeDft=3616
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=PLASSARD
+DefuntPrenom=PIERRE
+Heure_0=16:10
+Ev_0=TAMB depuis GRENOBLE vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=TREVARAIN Loïc
+Equipe_1=
+End With
+With ZONE
+Id=4
+Saisie=TAMB
+Pos=4
+DemiJour=1
+CodeDft=3613
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=PAJEAN
+DefuntPrenom=HENRI
+Heure_0=16:11
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=TREVARAIN Loïc
+Equipe_1=
+End With
+With ZONE
+Id=5
+Saisie=TAMB
+Pos=5
+DemiJour=1
+CodeDft=3611
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+DefuntNom=DUBOIS
+DefuntPrenom=THIERRY
+Heure_0=17:38
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=WALLYN Benoît
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=6
+Saisie=TAMB
+Pos=6
+DemiJour=1
+CodeDft=3618
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=GENEVIER
+DefuntPrenom=BERNARD
+Heure_0=15:04
+Ev_0=TAMB depuis ROMANS vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=TREVARAIN Loïc
+Equipe_1=
+End With

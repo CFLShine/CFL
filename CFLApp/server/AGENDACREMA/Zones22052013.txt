@@ -1,0 +1,164 @@
+Id=22052013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\945.txt
+Pf=PFM
+Conseiller=GAYRAUD 
+Nom=FLEURY
+Prenom=MAURICE
+HeureArrivee=
+EvenementArrivee=Arriv�e de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=C�r�monie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=INHUMATION CHARRIERE-NEUVE
+Police=False
+NoOrdre=
+Four=
+CodeDft=945
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\912.txt
+Pf=PFM
+Conseiller=PEYREDIEU 
+Nom=DUNAND
+Prenom=JEAN / ALINE
+HeureArrivee=
+EvenementArrivee=Arriv�e de CHAPAREILLAN
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=11:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EXHUMATION 2 CORPS
+NoOrdre=632
+Four=1
+CodeDft=912
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\956.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Marie-Pierre PINET
+Nom=PELLETIER
+Prenom=GUY
+HeureArrivee=
+EvenementArrivee=Arriv�e de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=C�r�monie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+NoOrdre=633
+Four=2
+CodeDft=956
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\960.txt
+Pf=PF ALPES SAVOIE
+Conseiller=Marie-Pierre PINET
+Nom=BONNET-LIGEON
+Prenom=RAYMONDE
+HeureArrivee=
+EvenementArrivee=Arriv�e de MOUTIERS
+HeureCeremonie=12:15
+EvenementCeremonie=C�r�monie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=634
+Four=1
+CodeDft=960
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\972.txt
+Pf=PF SAVOYARDES
+Conseiller=Lo�c TREVARAIN
+Nom=BOULAY
+Prenom=PIERRE
+HeureArrivee=
+EvenementArrivee=Arriv�e de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=C�r�monie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=635
+Four=2
+CodeDft=972
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\976.txt
+Pf=PF MAURIENNAISES
+Conseiller=Maxime EHNY
+Nom=COMBET
+Prenom=MARIE-THERESE
+HeureArrivee=15:15
+EvenementArrivee=Arriv�e de SAINT DE MAURIENNE
+HeureCeremonie=15:15
+EvenementCeremonie=
+HeureCremation=16:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=636
+Four=1
+CodeDft=976
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\971.txt
+Pf=PF MOUCHE
+Conseiller=Lo�c TREVARAIN
+Nom=ANSELME
+Prenom=DENIS
+HeureArrivee=
+EvenementArrivee=Arriv�e de CHAMOUX-SUR-GELON
+HeureCeremonie=16:15
+EvenementCeremonie=C�r�monie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE DANS LA SEMAINE
+NoOrdre=637
+Four=2
+CodeDft=971
+End With

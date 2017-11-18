@@ -1,0 +1,15 @@
+DefuntNom=GIAI
+DefuntPrenom=RAYMOND
+DefuntDecesDate=  /  /
+ArriveeCommune=HOPITAL CHAMBERY
+ArriveeDate=04/07/2016
+ArriveeHeure=16:15
+PfArrivee=PF PASCAL LECLERC
+PfCeremonie=PF PASCAL LECLERC
+CeremonieCrematoriumDate=04/07/2016
+CeremonieCrematoriumHeure=16:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Religieuse
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=8563
+Id=8563

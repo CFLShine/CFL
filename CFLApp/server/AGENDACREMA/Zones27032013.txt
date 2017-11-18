@@ -1,0 +1,172 @@
+Id=27032013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+AdresseFicheDefunt=\DONNEES\DONNEES2013\643.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PF MOUCHE
+Nom=JEANJEAN
+Prenom=GABRIEL
+NoOrdre=401
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM POUR PF MOUCHE 
+Four=2
+CodeDft=643
+End With
+With ZONE
+Id=2
+NoZONE=2
+AdresseFicheDefunt=\DONNEES\DONNEES2013\635.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PF MAURIENNAISES
+Nom=GRAND
+Prenom=YVONNE
+NoOrdre=402
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+Four=1
+CodeDft=635
+End With
+With ZONE
+Id=3
+NoZONE=3
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=4
+NoZONE=4
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+AdresseFicheDefunt=\DONNEES\DONNEES2013\633.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Jean-Luc PEYREDIEU
+Pf=PFM
+Nom=RABILLER
+Prenom=Pierre
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=Salle seule : départ pour Barby
+CodeDft=633
+End With
+With ZONE
+Id=6
+NoZONE=6
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=7
+NoZONE=7
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With

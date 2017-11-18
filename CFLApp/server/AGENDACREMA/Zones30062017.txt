@@ -1,0 +1,170 @@
+Id=30062017
+Jourdate=30/06/2017
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11095
+Pf_ceremonie=PF FAURE
+Nom_ceremonie=FALBO
+Prenom_ceremonie=ALBERTO
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de MODANE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11095
+Pf_cremation=PF FAURE
+Nom_cremation=FALBO
+Prenom_cremation=ALBERTO
+EvenementArrivee_cremation=Arrivée de MODANE
+FicheOccupe=Libre
+NoOrdre=903
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11101
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=SOLEILLANT
+Prenom_ceremonie=MARIE-CHRISTINE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11101
+Pf_cremation=PF SEDRAN
+Nom_cremation=SOLEILLANT
+Prenom_cremation=MARIE-CHRISTINE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=900
+Four=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=11080
+Pf_ceremonie=PF CHAMBERIENNES
+Nom_ceremonie=CHA
+Prenom_ceremonie=GIUSEPPE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE...
+CodeDft_cremation=11080
+Pf_cremation=PF CHAMBERIENNES
+Nom_cremation=VASSALLO
+Prenom_cremation=GIUSEPPE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=901
+Four=FT3
+End With
+With ZONE
+Id=4
+EvenementCommentaire=CEREMONIE RELIGIEUSE A L EGLISE DE FRANCIN A 10 H 30
+SaisieOccupe=Libre
+CodeDft_ceremonie=11092
+Pf_ceremonie=PFM
+Nom_ceremonie=GIRARDELLI
+Prenom_ceremonie=NATHALIE
+CodeDft_cremation=11092
+Pf_cremation=PFM
+Nom_cremation=GIRARDELLI
+Prenom_cremation=NATHALIE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementArrivee_cremation=Arrivée de FRANCIN
+FicheOccupe=Libre
+NoOrdre=902
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=CERCUEIL EN CHENE  LA FAMILLE RECUPERE  NE PAS SCELLER L'URNE...
+SaisieOccupe=Libre
+CodeDft_ceremonie=11093
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=LUTRAND
+Prenom_ceremonie=RAYMOND
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11093
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=LUTRAND
+Prenom_cremation=RAYMOND
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=904
+Four=FT3
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=11094
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=THEOT
+Prenom_ceremonie=EDMONDE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11094
+Pf_cremation=PF POMMAT
+Nom_cremation=THEOT
+Prenom_cremation=EDMONDE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=905
+Four=FTX
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

@@ -1,0 +1,23 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry,\f1\par<Ret>\b0\f0 Christine DESCHAMPS son \'e9pouse; Coralie, Alicia et G\'e9r\'e9my ses enfants; toute sa famille,\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0  Patrick DESCHAMPS\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 45 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie aura lieu mercredi 24 d\'e9cembre 2014 \'e0 quatorze heures quinze au centre fun\'e9raire de Chamb\'e9ry o\'f9 il repose.\par<Ret>}<Ret>
+CodeDft=4383
+Tarif=165
+NbLignes=14
+Cadre=False
+Symbole=False
+Photo=False
+SiteSent=True
+SiteDate1=20/12/2014
+SiteDate2=24/12/2014
+SiteTitre=Patrick DESCHAMPS
+SiteClientMail=coraliedeschamps@outlook.fr
+With PARUTION
+Id=2
+Date=21/12/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

@@ -1,0 +1,207 @@
+Id=8072014
+JourDate=08/07/2014
+With ZONE
+Id=0
+Saisie=Inhumation
+Pos=0
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3418
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=ALONZO
+DefuntPrenom=JEAN-LUC
+Heure_0=09:30
+Ev_0=Inhumation  à SONNAZ case columb.
+Comment_0=Ouv/Ferm + Gravures : fossoyeurs
+Comment_1=Prévoir Ordo pour emmener l'urne depuis CF
+Ordo=FAVRIN Thierry
+OrdoId=11
+End With
+With ZONE
+Id=1
+Saisie=Inhumation
+Pos=0
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3408
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=CAILLOT
+DefuntPrenom=RENEE
+Heure_0=15:00
+Ev_0=Inhumation de l'urne Charrière Neuve Cave urne
+Comment_0=la famille ne sera pas présente
+Comment_1=
+Ordo=FAVRIN Thierry
+OrdoId=11
+End With
+With ZONE
+Id=2
+Saisie=Inhumation
+Pos=1
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3430
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=LAGARDE
+DefuntPrenom=ANDRE
+Heure_0=11:00
+Ev_0=Inhumation de l'urne BARBERAZ Caveau ouverture devant
+Comment_0=
+Comment_1=
+Ordo=TREVARAIN Loïc
+OrdoId=12
+End With
+With ZONE
+Id=3
+Saisie=RDVOrdo
+Pos=1
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3434
+Pf=PFM
+Conseiller=Pascal MARIE
+DefuntNom=BOTTURA
+DefuntPrenom=PHILIPPE
+Heure_0=16:00
+Ev_0=Rendez-vous avec l'ordonnateur
+Comment_0=
+Comment_1=
+Ordo=FAVRIN Thierry
+OrdoId=11
+End With
+With ZONE
+Id=4
+Saisie=TAMB
+Pos=2
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3453
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=FAVRE
+DefuntPrenom=LUCIE
+Heure_0=15:00
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Centre funéraire
+Comment_0=Case
+Comment_1=
+End With
+With ZONE
+Id=5
+Saisie=Soins
+Pos=3
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3456
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=PENELLE
+DefuntPrenom=JOANNY
+Heure_0=15:30
+Ev_0=Soins de thanatopraxie par Jean-Claude GONDIN
+Comment_0=Salon Edelweiss - civil
+Comment_1=
+End With
+With ZONE
+Id=6
+Saisie=TAMB
+Pos=4
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3456
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=PENELLE
+DefuntPrenom=JOANNY
+Ev_0=TAMB depuis  vers 
+Comment_0=Soins
+Comment_1=
+End With
+With ZONE
+Id=7
+Saisie=TAMB
+Pos=5
+DemiJour=1
+CodeDft=3455
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=NOIRAY
+DefuntPrenom=ANDRE
+Heure_0=14:50
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=FAVRIN Thierry
+Equipe_1=PINTOUT Bruno
+End With
+With ZONE
+Id=8
+Saisie=TAMB
+Pos=6
+DemiJour=1
+CodeDft=3458
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+DefuntNom=RIGAL
+DefuntPrenom=GENEVIEVE
+Heure_0=16:59
+Ev_0=TAMB depuis HOPITAL D'AIX-LES-BAINS vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+End With
+With ZONE
+Id=9
+Saisie=Soins
+Pos=7
+DemiJour=1
+CodeDft=3455
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=NOIRAY
+DefuntPrenom=ANDRE
+Heure_0=15:00
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+End With

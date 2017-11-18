@@ -1,0 +1,145 @@
+Id=16082016
+Jourdate=16/08/2016
+With ZONE
+Id=2
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=8834
+Pf_ceremonie=PFM
+Nom_ceremonie=LAURY
+Prenom_ceremonie=NATHALIE
+CodeDft_cremation=8834
+Pf_cremation=PFM
+Nom_cremation=LAURY
+Prenom_cremation=NATHALIE
+NoOrdre=1194
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+HeuretArrivee_ceremonie=
+EvenementArrivee_crema=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=3
+EvenementCommentaire=LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=8843
+Pf_ceremonie=PF MERCIER
+Nom_ceremonie=CHAVASSE-FRETAZ
+Prenom_ceremonie=LOUIS
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de LES AVENIERES
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8843
+Pf_cremation=PF MERCIER
+Nom_cremation=CHAVASSE-FRETAZ
+Prenom_cremation=LOUIS
+EvenementArrivee_cremation=Arrivée de LES AVENIERES
+FicheOccupe=Libre
+NoOrdre=1195
+Four=2
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=8840
+Pf_ceremonie=PFG MOUTIERS
+Nom_ceremonie=EYNARD VERRAT
+Prenom_ceremonie=RAYMOND
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=L'URNE RESTE AU CREMATORIUM
+CodeDft_cremation=8840
+Pf_cremation=PFG MOUTIERS
+Nom_cremation=EYNARD VERRAT
+Prenom_cremation=RAYMOND
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=1196
+Four=1
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=8849
+Pf_ceremonie=PFM
+Nom_ceremonie=GUERAUD-PINET
+Prenom_ceremonie=THIERRY
+CodeDft_cremation=8849
+Pf_cremation=PFM
+Nom_cremation=GUERAUD-PINET
+Prenom_cremation=THIERRY
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=16:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=1197
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

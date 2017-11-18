@@ -1,0 +1,246 @@
+Id=23102015
+JourDate=23/10/2015
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6383
+Comment_0=EXUMATION CARRE ENFANTS 8H15 PUIS CREMATION CF 9H00
+Comment_1=
+HeureComment=  :
+OrdoId=6
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=PINTOUT Bruno
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Green
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6383
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=18
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=E.SPRINGOLO Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Green
+EquipeOk_1=Red
+EquipeOk_2=Green
+EquipeOk_3=Red
+CodeDft=6717
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=17
+EquipeId_2=51
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=MEGHEZZI Marc
+Equipe_2=POIRAUD Guy
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Green
+EquipeOk_1=Green
+EquipeOk_2=Red
+EquipeOk_3=Green
+CodeDft=6723
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=54
+EquipeId_1=58
+EquipeId_2=6
+EquipeId_3=18
+Ordo=FAVRIN Thierry
+Equipe_0=BRUN Tony
+Equipe_1=MULDER Michaël
+Equipe_2=PINTOUT Bruno
+Equipe_3=E.SPRINGOLO Eric
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6723
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Green
+EquipeOk_1=Green
+EquipeOk_2=Green
+EquipeOk_3=Green
+CodeDft=6712
+Comment_0=CEREMONIE DANS L'INTIMITE
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=58
+EquipeId_1=21
+EquipeId_2=15
+EquipeId_3=54
+Ordo=WALLYN Benoît
+Equipe_0=MULDER Michaël
+Equipe_1=VINCENT Judicael
+Equipe_2=BORG Roger
+Equipe_3=BRUN Tony
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Green
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=6727
+Comment_0=PAS DE FAMILLE,PAS DE CEREMONIE
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=5
+EquipeId_1=51
+EquipeId_2=17
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=MILLON Patrick
+Equipe_1=POIRAUD Guy
+Equipe_2=MEGHEZZI Marc
+Equipe_3=
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6727
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=8
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6729
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=9
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6741
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=10
+CodeDft=6754
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=11
+CodeDft=6758
+DemiJour=1
+Pos=1
+UsedBy=
+End With

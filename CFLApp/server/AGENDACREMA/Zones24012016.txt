@@ -1,0 +1,49 @@
+Id=24012016
+Jourdate=24/01/2016
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=7383
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=BUCCO
+Prenom_ceremonie=MARIA
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7383
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=BUCCO
+Prenom_cremation=MARIA
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+NoOrdre=110
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With

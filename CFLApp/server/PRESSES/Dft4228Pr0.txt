@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Viviers du lac,\f1\par<Ret>\f0 Georges, son \'e9poux\f1\par<Ret>\f0 Muriel, sa fille et Jean son conjoint,\f1\par<Ret>\f0 Natacha, sa petite fille, \f1\par<Ret>\f0 toute sa famille et ses amis,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de:\f1\par<Ret>\pard\qc\b\f0 Pierrette \f1\par<Ret>\f0 BUDILLON-RABATEL\f1\par<Ret>\pard\b0\f0 La cr\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e au centre fun\'e9raire de Chamb\'e9ry le Samedi 29 Novembre 2014 \'e0 quatorze heures quinze, suivie de la cr\'e9mation,\f1\par<Ret>\f0 ni fleurs ni plaques, \f1\par<Ret>\f0 cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4228
+Tarif=208
+NbLignes=19
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=27/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

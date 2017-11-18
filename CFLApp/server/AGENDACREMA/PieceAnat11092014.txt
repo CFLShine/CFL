@@ -1,0 +1,6 @@
+Id=11092014
+Agent=BOULET
+Provenance=HOPITAL CHAMBERY
+Nature=1 FOETUS
+Four=1
+NoOrdre=1098

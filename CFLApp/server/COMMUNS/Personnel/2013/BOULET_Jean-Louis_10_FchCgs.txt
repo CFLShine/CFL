@@ -1,0 +1,140 @@
+Version=1
+DroitCongesFC=243:00
+CongesAnPrecFC=10:45
+EpargneFC=00:00
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=31/12/12
+varNbHeuresSup=8:00
+varMotifHeuresSup= Heures sup restantes Soit 10h00 Majorées
+varPayeesHeuresSup= 
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=19/01/13
+varNbHeuresSup=4:30
+varMotifHeuresSup=
+varPayeesHeuresSup= 
+End With
+With LigneHeuresSup
+Id=2
+varDateHeuresSup=18/12/13
+varNbHeuresSup=
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=3
+varDateHeuresSup=18/12/13
+varNbHeuresSup=2:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneConges
+Id=0
+varPrisDu=05/02/13
+varPrisAu=07/02/13
+varAnnuel=10:45
+varRecup=15:30
+varEpargne=
+varDemandeDate=29/01/13
+varVisaChef=29/01/13
+varVisaDirecteur=//
+varRetourDate=8/01/2013
+End With
+With LigneConges
+Id=1
+varPrisDu=
+varPrisAu=
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=30/04/13
+varPrisAu=30/04/13
+varAnnuel=00:00
+varRecup=
+varEpargne=
+varDemandeDate=05/04/13
+varVisaChef=05/04/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=01/05/13
+varPrisAu=13/05/13
+varAnnuel=45:00
+varRecup=
+varEpargne=
+varDemandeDate=05/04/13
+varVisaChef=05/04/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=04/06/13
+varPrisAu=07/06/13
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varDemandeDate=03/06/13
+varVisaChef=03/06/13
+varVisaDirecteur=VU
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=08/07/13
+varPrisAu=29/07/13
+varAnnuel=108:00
+varRecup=
+varEpargne=
+varDemandeDate=13/07/13
+varVisaChef=13/07/13
+varVisaDirecteur=VU
+varRetourDate=//
+End With
+With LigneConges
+Id=6
+varPrisDu=29/10/13
+varPrisAu=31/10/13
+varAnnuel=27:00
+varRecup=
+varEpargne=
+varDemandeDate=23/10/13
+varVisaChef=22/10/13
+varVisaDirecteur=29/10/13
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=17/11/13
+varPrisAu=17/11/13
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=23/10/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=01/11/13
+varPrisAu=03/11/13
+varAnnuel=27:00
+varRecup=
+varEpargne=
+varDemandeDate=23/10/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With

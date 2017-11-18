@@ -1,0 +1,5 @@
+Agent=NANTOIS
+Provenance=HOPITAL DE CHAMBERY
+Nature=FOETUS  13 ANA  N 14
+Four=1
+NoOrdre=729

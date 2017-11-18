@@ -1,0 +1,15 @@
+Id=3739
+CodeDefunt=3739
+DefuntNom=DALLA  LIBERA
+DefuntPrenom=JACQUES
+DefuntDecesDate=31/08/2014
+CremationArriveeDe=
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationCommune=
+ReservCrema=Ginette GAYRAUD
+PfArrivee=
+CremationHeure=

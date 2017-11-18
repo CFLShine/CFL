@@ -1,0 +1,118 @@
+Id=24022014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2633.txt
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=MALBOS
+Prenom=JEAN
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=248
+Four=1
+FicheOccupe=Libre
+CodeDft=2633
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+EvenementCommentaire=NE PAS SCELLER L'URNE LES PF RECUPERENT L'URNE
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2635.txt
+Pf=PFG BOURG ST MAURICE
+Conseiller=Marie-Pierre PINET
+Nom=DURAND
+Prenom=MIREILLE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=250
+Four=1
+FicheOccupe=Libre
+CodeDft=2635
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2634.txt
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=LAMALLE
+Prenom=GILLES
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM POUR FLORET  FAMILLE PRESENTE A 10H45   BOURSE A DONS
+NoOrdre=249
+Four=2
+FicheOccupe=Libre
+CodeDft=2634
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2638.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=PUIG
+Prenom=MICHELE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=247
+Four=2
+FicheOccupe=Libre
+CodeDft=2638
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2640.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=RAVAZ
+Prenom=MAURICE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=251
+Four=2
+FicheOccupe=Libre
+CodeDft=2640
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=7
+End With

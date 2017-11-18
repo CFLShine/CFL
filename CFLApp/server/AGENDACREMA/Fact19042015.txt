@@ -1,0 +1,5 @@
+Id=19042015
+Jourdate=19/04/2015
+FactureZone0=True
+FactureZone1=True
+FactureZone8=False

@@ -1,0 +1,34 @@
+Id=17042017
+Jourdate=17/04/2017
+With ZONE
+Id=0
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

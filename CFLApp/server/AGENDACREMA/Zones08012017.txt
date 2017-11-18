@@ -1,0 +1,118 @@
+Id=8012017
+Jourdate=08/01/2017
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=9858
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=AGNIERAY
+Prenom_ceremonie=MICHELE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=9858
+Pf_cremation=PF DE SAVOY
+Nom_cremation=AGNIERAY
+Prenom_cremation=MICHELE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+NoOrdre=43
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=9924
+Pf_ceremonie=DE SAVOY
+Nom_ceremonie=LIGEON 
+Prenom_ceremonie=NATHALIE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT + TARD
+CodeDft_cremation=9924
+Pf_cremation=DE SAVOY
+Nom_cremation=LIGEON 
+Prenom_cremation=NATHALIE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=90
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=9926
+Pf_ceremonie=FLORET
+Nom_ceremonie=VILLEMUS
+Prenom_ceremonie=RAYMONDE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+CodeDft_cremation=9926
+Pf_cremation=FLORET
+Nom_cremation=VILLEMUS
+Prenom_cremation=RAYMONDE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=96
+Four=2
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=9927
+Pf_ceremonie=VANOISE
+Nom_ceremonie=CORTEY
+Prenom_ceremonie=JEANNE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de MODANE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PEUT ETRE BESOIN ORDO ? SI OUI RAJOUTER A LA FACTURE
+CodeDft_cremation=9927
+Pf_cremation=VANOISE
+Nom_cremation=CORTEY
+Prenom_cremation=JEANNE
+EvenementArrivee_cremation=Arrivée de MODANE
+FicheOccupe=Libre
+NoOrdre=100
+Four=1
+End With

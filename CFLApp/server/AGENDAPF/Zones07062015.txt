@@ -1,0 +1,32 @@
+Id=7062015
+JourDate=07/06/2015
+With ZONE
+Id=0
+Pos=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5739
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=1
+Pos=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5739
+Comment_0=CASE
+Comment_1=
+HeureComment=  :
+End With

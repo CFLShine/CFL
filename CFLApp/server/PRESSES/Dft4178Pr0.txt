@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 St Jean d'Arvey, Chamb\'e9ry, St Alban Leysse, Tresserve.\b0\f1\par<Ret>\f0 Son fils, Christian;\f1\par<Ret>\f0 Les familles Essonnier,Le Goff, Hatzelis, Lys, Gauvenet, Carron, Massot, Viret et ses amis\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Francisque ESSONNIER\f1\par<Ret>\f0 Survenu le 19 Novembre 2014\f1\par<Ret>\f0\'e0 l'\'e2ge de 85 ans\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie aura lieu en l'\'e9glise de St Jean d'Arvey lundi 24 Novembre 2014 \'e0 dix heures.\f1\par<Ret>\f0 Condol\'e9ances sur registre\f1\par<Ret>\f0 Pas de plaques.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciements.\f1\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=4178
+Tarif=208
+NbLignes=19
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=3
+Date=21/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

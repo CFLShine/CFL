@@ -1,0 +1,81 @@
+Id=28072014
+Jourdate=28/07/2014
+Version=NouveauFormat
+With ZONE
+Id=2
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+CodeDft=3544
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=DUCLOS
+Prenom=ANTOINETTE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=921
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3541
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=TRUC
+Prenom=JULIETTE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=920
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=ORDONNATEUR PFM - PF RECUPERENT L'URNE LE SOIR MEME
+SaisieOccupe=Libre
+CodeDft=3547
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=GORRAZ
+Prenom=JEANNINE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=922
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=7
+End With

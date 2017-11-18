@@ -1,0 +1,16 @@
+Id=1982
+New=
+DefuntNom=PELLICIER
+DefuntPrenom=MARIE-LOUISE
+DefuntDecesDate=07/11/2013
+CremationArriveeDe=CHAMBERY  HOPITAL
+ArriveeDate=13/11/2013
+CeremonieCrematoriumDate=13/11/2013
+CeremonieCrematoriumHeure=15:15
+CeremonieCrematoriumLieu=Cf salle omnicultes
+CeremonieCrematoriumType=Religieuse
+CremationDate=
+CremationCommune=
+Conseiller=Marie-Pierre PINET
+PfArrivee=PF CHAMBERIENNES
+CodeDefunt=1982

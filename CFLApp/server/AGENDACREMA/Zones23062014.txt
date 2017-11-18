@@ -1,0 +1,95 @@
+Id=23062014
+Jourdate=23/06/2014
+Version=NouveauFormat
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3347
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=PAROLA
+Prenom=JEANNINE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=766
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3344
+Pf=DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=OUGIER-SIMONIN
+Prenom=NATHALIE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=767
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3341
+Pf=PFG MOUTIERS
+Conseiller=Marie-Pierre PINET
+Nom=LOISEAU
+Prenom=JACQUES
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE   
+NoOrdre=768
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft=3348
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=NORAZ
+Prenom=MAURICE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=769
+Four=1
+FicheOccupe=Libre
+End With

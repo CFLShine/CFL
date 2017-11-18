@@ -1,0 +1,130 @@
+Id=11022017
+JourDate=11/02/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10182
+Comment_0=LA FAMILLE RECUPERE L'URNE 
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=17
+EquipeId_1=50
+EquipeId_2=53
+EquipeId_3=29
+Ordo=KAELBERER Eric
+Equipe_0=MEGHEZZI Marc
+Equipe_1=MARIE Tristan
+Equipe_2=ROLLE Jean-Louis
+Equipe_3=P.SPRINGOLO Pascal
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10185
+Comment_0=EXHUMATION DU CAVEAU PROVISOIRE
+Comment_1=INHUMATION DANS CAVEAU FAMILIAL
+HeureComment=  :
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10190
+Comment_0=intimité 
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=26
+EquipeId_1=17
+EquipeId_2=60
+EquipeId_3=50
+Ordo=KAELBERER Eric
+Equipe_0=WALLYN Benoît
+Equipe_1=MEGHEZZI Marc
+Equipe_2=DUMAZ Rémy
+Equipe_3=MARIE Tristan
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10196
+Comment_0=ANCIEN CIMETIERE
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=65
+EquipeId_1=64
+EquipeId_2=60
+EquipeId_3=16
+Ordo=WALLYN Benoît
+Equipe_0=PATUREL Christian
+Equipe_1=DEMOUSSY Alain
+Equipe_2=DUMAZ Rémy
+Equipe_3=MILESI Robert
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10080
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=5
+CodeDft=10211
+DemiJour=1
+Pos=1
+End With
+With ZONE
+Id=6
+CodeDft=10215
+DemiJour=1
+Pos=2
+End With
+With ZONE
+Id=7
+CodeDft=10415
+DemiJour=1
+Pos=3
+End With

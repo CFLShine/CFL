@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, Denain, Haulchin\f1\par<Ret>\b0\par<Ret>\f0 Madame Eliane PETILLON CALAMY, son \'e9pouse;\f1\par<Ret>\f0 et toute sa famille,\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Monsieur Robert CALAMY\f1\par<Ret>\f0 Inspecteur Divisionnaire(retrait\'e9)\f1\par<Ret>\f0 Ancien Pr\'e9sident Fondateur  U.S. HAUCHIN\f1\par<Ret>\f0 M\'e9daill\'e9 du travail grand or\f1\par<Ret>\pard\b0\f0 survenu \'e0 Chamb\'e9ry le 28 ao\'fbt 2015 dans sa 90\'e8me ann\'e9e.\f1\par<Ret>\f0 Il repose au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e mercredi 2 septembre 2015 \'e0 quinze heures en l'\'e9glise Notre Dame \'e0 Chamb\'e9ry.\f1\par<Ret>\f0 La famille remercie par avance toutes les personnes qui prendrons part \'e0 sa peine.\par<Ret>}<Ret>
+CodeDft=6351
+Tarif=208
+NbLignes=22
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=30/08/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

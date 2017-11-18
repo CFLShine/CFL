@@ -1,0 +1,17 @@
+Id=10052013
+With ZONE
+Id=0
+EtatCivilChecked=False
+End With
+With ZONE
+Id=13
+EtatCivilChecked=True
+End With
+With ZONE
+Id=14
+EtatCivilChecked=True
+End With
+With ZONE
+Id=15
+EtatCivilChecked=True
+End With

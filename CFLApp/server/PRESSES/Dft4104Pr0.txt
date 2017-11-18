@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 La Chapelle St Martin,\f1\par<Ret>\f0 Challes les Eaux, Yenne,\f1\par<Ret>\b0\f0 In\'e8s Zanardi, son \'e9pouse et ses enfants;\f1\par<Ret>\f0 J\'e9r\'f4me Zanardi et Sandrine,\f1\par<Ret>\f0 Myriam et Jacob Grange,\f1\par<Ret>\f0 ses enfants;\f1\par<Ret>\f0 Maeva, Augustin, Teddy, Axel, Hugo, ses petits-enfants;\f1\par<Ret>\f0 Monique Gastaud, Agn\'e8s Zanardi, ses soeurs; et toute sa famille, ont le chagrin de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Maurice ZANARDI\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 67 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie aura lieu le samedi 08 novembre 2014 \'e0 quatorze heures au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 Ni fleurs ni plaques.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4104
+Tarif=208
+NbLignes=22
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=06/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

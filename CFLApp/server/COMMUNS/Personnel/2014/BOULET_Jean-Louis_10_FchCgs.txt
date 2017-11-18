@@ -1,0 +1,19 @@
+Id=-1
+Version=1
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=00:00
+varHeuresSupAnDernier=3:15
+With LigneConges
+Id=0
+varPrisDu=04/02/14
+varPrisAu=05/02/14
+varDemandeDate=06/02/14
+varAnnuel=
+varRecup=03:15
+varEpargne=
+varVisaChef=
+varVisaDirecteur=06/02/14
+varRetourDate=
+End With

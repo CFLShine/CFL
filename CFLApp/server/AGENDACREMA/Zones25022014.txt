@@ -1,0 +1,109 @@
+Id=25022014
+Version=NouveauFormat
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2614.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=PLAUT
+Prenom=SIMONE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu EGLISE DE ST ALBAN LEYSSE
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  FAMILLE RECUPERE  
+Police=True
+FicheOccupe=Libre
+NoOrdre=256
+Four=2
+CodeDft=2614
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2636.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Marie-Pierre PINET
+Nom=GIRAUDEAU
+Prenom=FERNANDE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=253
+Four=1
+FicheOccupe=Libre
+CodeDft=2636
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2644.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=MARTIN
+Prenom=RENE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHYAMBERY
+HeureCeremonie=10:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE LA MOTTE SERVOLEX
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION INHUMATION URNE LA MOTTE SERVOLEX
+Police=True
+FicheOccupe=Libre
+NoOrdre=254
+Four=2
+CodeDft=2644
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2641.txt
+Pf=AJEPI
+Conseiller=Loïc TREVARAIN
+Nom=MERCURI
+Prenom=MUGUETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=252
+Four=2
+FicheOccupe=Libre
+CodeDft=2641
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2637.txt
+Pf=PF BERGER
+Conseiller=Marie-Pierre PINET
+Nom=CHARBON
+Prenom=RAYMOND
+HeureArrivee=
+EvenementArrivee=Arrivée de ST GENIX SUR GUIERS
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=255
+Four=1
+FicheOccupe=Libre
+CodeDft=2637
+End With

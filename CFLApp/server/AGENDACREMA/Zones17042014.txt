@@ -1,0 +1,141 @@
+Id=17042014
+Jourdate=17/04/2014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=2953
+Pf=
+Conseiller=Marion TREBOUTE
+Nom=MIOT
+Prenom=MARCELLE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION - INHUMATION CIMETIERE VIVIERS DU LAC
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=2960
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=DANGE
+Prenom=ROGER
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=   DISPERSION 
+Police=True
+NoOrdre=484
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT 
+SaisieOccupe=Libre
+CodeDft=2958
+Pf=PFG CHAMBERY
+Conseiller=Pascal MARIE
+Nom=DE SOUZA
+Prenom=MARC
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=483
+Four=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=2965
+Pf=AJEPI
+Conseiller=Loïc TREVARAIN
+Nom=DODINOT
+Prenom=ALAIN
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+NoOrdre=485
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=2969
+Pf=PF TONIN COIFFET
+Conseiller=Loïc TREVARAIN
+Nom=CARRARA
+Prenom=MARGUERITE
+HeureArrivee=
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile CENTRE FUNERAIRE
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMA DISPERSION PAR NOS SOINS SANS FAMILLE  PREVOIR ORDO  PFM
+NoOrdre=486
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=2978
+Pf=P F PENA
+Conseiller=Marie-Pierre PINET
+Nom=LE  QUERE
+Prenom=JEAN-RICHARD
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=487
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

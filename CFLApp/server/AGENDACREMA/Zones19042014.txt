@@ -1,0 +1,96 @@
+Id=19042014
+Jourdate=19/04/2014
+Version=NouveauFormat
+With ZONE
+Id=7
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=2980
+Pf=PF BERGER
+Conseiller=Marie-Pierre PINET
+Nom=THOMAS
+Prenom=YVETTE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ST GENIX SUR GUIERS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=497
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=2987
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=DENJEAN
+Prenom=IZAURE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=496
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=2979
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=OGIER-COLLIN
+Prenom=BERTHE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=494
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=2988
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+Nom=BATAILLE
+Prenom=YANNICK
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=495
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With

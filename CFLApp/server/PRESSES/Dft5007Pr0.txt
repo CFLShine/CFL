@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 La Ravoire, Albens, Chamb\'e9ry.\f1\par<Ret>\b0\f0 Matheo, son fils;\f1\par<Ret>\f0 son p\'e8re; son fr\'e8re et sa soeurs, et leurs conjoints; neveux et ni\'e8ces\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Pascal MIRALLES\f1\par<Ret>\f0 dit Calou\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie aura lieu le lundi 9 Mars 2015 \'e0 huit heures quinze au Centre Fun\'e9raire de Chamb\'e9ry, suivie de la cr\'e9mation.\f1\par<Ret>\f0 Ni fleurs, ni plaques.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=5007
+Tarif=208
+NbLignes=18
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=06/03/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

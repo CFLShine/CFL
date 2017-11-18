@@ -1,0 +1,137 @@
+Id=15062013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+HeureCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1118.txt
+Pf=AJEPI SAVOIE
+Conseiller=Marie-Pierre PINET
+Nom=COPPOLA
+Prenom=RAFFAELE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=INHUMATION CHARRIERE NEUVE
+CodeDft=1118
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1124.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=BRICHE
+Prenom=CHRISTIAN
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=747
+Four=2
+CodeDft=1124
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1122.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=DURAND
+Prenom=Odette
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Eglise La Motte Sx
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=748
+Four=1
+CodeDft=1122
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1110.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=MICHEL
+Prenom=RENEE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie PROTESTANTE Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=749
+Four=2
+CodeDft=1110
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1123.txt
+Pf=PFM
+Conseiller=Maxime EHNY
+Nom=LAURENT
+Prenom=MARINA
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie  Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=750
+Four=2
+CodeDft=1123
+End With

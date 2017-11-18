@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=580
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 La Motte servolex,\f1\par<Ret>\b0\f0 Ses enfants, petits-enfants, arri\'e8re-petits-enfants et leurs conjoints; sa soeur et son beau-fr\'e8re; toute sa famille et ses amis, ont le regret de vous faire part du d\'e9c\'e8s de\par<Ret>\pard\qc\b Madame\f1\par<Ret>\f0 Madeleine BERNARD\f1\par<Ret>\pard\b0\f0 survenu le 30 d\'e9cembre 2014 \'e0 l'\'e2ge de 89 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie sera c\'e9l\'e9br\'e9e en l'\'e9glise de La Motte Servolex le samedi 3 janvier 2015 \'e0 dix heures trente.\f1\par<Ret>\f0 Condol\'e9ances sur registres uniquement.\f1\par<Ret>\f0 La famille remercie les infirmi\'e8res Elisabeth et Ariane du Cabinet Armand et rappelle \'e0 votre souvenir son \'e9poux\f1\par<Ret>\pard\qc\b\f0 Andr\'e9\f1\par<Ret>\pard\b0\f0 d\'e9c\'e9d\'e9 en 1990.\f1\par<Ret>\pard\f0\par<Ret>}<Ret>
+CodeDft=4452
+Tarif=250
+NbLignes=24
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=02/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

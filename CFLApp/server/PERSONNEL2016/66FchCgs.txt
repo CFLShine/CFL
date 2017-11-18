@@ -1,0 +1,122 @@
+Id=66
+DroitCongesFC=182:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=00:00
+EpargneesFC=00:00
+varHeuresSupAnDernier=00:00
+With LigneConges
+Id=0
+varPrisDu=02/04/16
+varPrisAu=02/04/16
+varDemandeDate=01/04/16
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=01/04/16
+varVisaDirecteur=01/04/16
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=16/04/16
+varPrisAu=16/04/16
+varDemandeDate=13/04/16
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=13/04/16
+varVisaDirecteur=13/04/16
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=23/04/16
+varPrisAu=23/04/16
+varDemandeDate=26/04/16
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=26/04/16
+varVisaDirecteur=26/04/16
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=21/05/16
+varPrisAu=21/05/16
+varDemandeDate=19/05/16
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=19/05/16
+varVisaDirecteur=19/05/16
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=28/05/16
+varPrisAu=28/05/16
+varDemandeDate=27/05/16
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=27/05/16
+varVisaDirecteur=27/05/16
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=08/08/16
+varPrisAu=13/08/16
+varDemandeDate=06/08/16
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=06/08/16
+varVisaDirecteur=06/08/16
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=05/09/16
+varPrisAu=05/09/16
+varDemandeDate=03/09/16
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=03/09/16
+varVisaDirecteur=03/09/16
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=03/10/16
+varPrisAu=15/10/16
+varDemandeDate=01/10/16
+varAnnuel=72:00
+varRecup=
+varEpargne=
+varVisaChef=01/10/16
+varVisaDirecteur=01/10/16
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=29/10/16
+varPrisAu=29/10/16
+varDemandeDate=27/10/16
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=27/10/16
+varVisaDirecteur=27/10/16
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=31/08/16
+varNbHeuresSup=8:00
+varMotifHeuresSup=Travaille son jour de repos
+varPayeesHeuresSup=
+End With

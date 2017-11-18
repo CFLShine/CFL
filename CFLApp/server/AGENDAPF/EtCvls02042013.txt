@@ -1,0 +1,21 @@
+Id=2042013
+With ZONE
+Id=0
+EtatCivilChecked=True
+End With
+With ZONE
+Id=1
+EtatCivilChecked=True
+End With
+With ZONE
+Id=2
+EtatCivilChecked=True
+End With
+With ZONE
+Id=13
+EtatCivilChecked=True
+End With
+With ZONE
+Id=14
+EtatCivilChecked=True
+End With

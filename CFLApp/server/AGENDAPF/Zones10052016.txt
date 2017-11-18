@@ -1,0 +1,188 @@
+Id=10052016
+JourDate=10/05/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=8193
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=7
+EquipeId_1=6
+EquipeId_2=5
+EquipeId_3=11
+Ordo=KAELBERER Eric
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+Equipe_2=MILLON Patrick
+Equipe_3=FAVRIN Thierry
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8193
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=7
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=JACQUIER Michel
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=8200
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=60
+EquipeId_1=6
+EquipeId_2=5
+EquipeId_3=26
+Ordo=FAVRIN Thierry
+Equipe_0=DUMAZ Rémy
+Equipe_1=PINTOUT Bruno
+Equipe_2=MILLON Patrick
+Equipe_3=WALLYN Benoît
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=8200
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=7
+EquipeId_1=6
+EquipeId_2=5
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+Equipe_2=MILLON Patrick
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8189
+Comment_0=TOILETTE RITUEL 09h00 FERMETURE ET DEPART SATOLAS 11h00 
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8202
+Comment_0=ORDO PFM POUR LA BALME DE SILLINGY
+Comment_1=MISE EN BIERE FAITE PAR LA BALME
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8190
+Comment_0=INHUMATION CHARRIERE NEUVE
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8218
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=8
+CodeDft=8221
+DemiJour=1
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=9
+CodeDft=8223
+DemiJour=1
+Pos=2
+UsedBy=
+End With

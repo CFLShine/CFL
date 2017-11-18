@@ -1,0 +1,53 @@
+Id=24022013
+With ZONE
+Id=18
+CodeZone=18
+Pos=0
+DemiJour=1
+AdressDft=\DONNEES\DONNEES2013\419.txt
+Ordo=
+OrdoOk=white
+Equipe_0=KAELBERER Eric
+Equipe_1=TREVARIN Lo�c
+Equipe_2=
+Equipe_3=
+EquipeOk_0=red
+EquipeOk_1=red
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Jean-Luc PEYREDIEU
+Pf=PFM
+DefuntNom=PEYLIN
+DefuntPrenom=Ren�
+Saisie=TAMB1
+Heure_0=13:00
+Ev_0=R�quisition depuis Sonnaz vers Centre fun�raire
+Comment_0=
+CodeDft=419
+End With
+With ZONE
+Id=19
+CodeZone=19
+Pos=1
+DemiJour=1
+AdressDft=\DONNEES\DONNEES2013\418.txt
+Ordo=
+OrdoOk=white
+Equipe_0=KAELBERER Eric
+Equipe_1=TREVARIN Lo�c
+Equipe_2=
+Equipe_3=
+EquipeOk_0=red
+EquipeOk_1=red
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Jean-Luc PEYREDIEU
+Pf=PFM
+DefuntNom=BILLARD
+DefuntPrenom=Irene
+Saisie=TAMB1
+Heure_0=14:00
+Ev_0=TAMB depuis H�pital d'Aix-les-Bains vers Centre fun�raire
+Comment_0=
+CodeDft=418
+End With

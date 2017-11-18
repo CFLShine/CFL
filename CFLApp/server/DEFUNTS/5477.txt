@@ -1,0 +1,14 @@
+Id=5477
+DefuntNom=PLÉ
+DefuntPrenom=LUCIENNE
+DefuntDecesDate=08/05/2015
+ArriveeCommune=UGINE
+ArriveeDate=15/05/2015
+ArriveeHeure=16:15
+PfArrivee=PF PECH
+CeremonieCrematoriumDate=15/05/2015
+CeremonieCrematoriumHeure=16:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Geste d'adieu
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5477

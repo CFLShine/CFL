@@ -1,0 +1,32 @@
+Id=10102016
+JourDate=10/10/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=9186
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=5
+EquipeId_1=6
+EquipeId_2=7
+EquipeId_3=8
+Ordo=FAVRIN Thierry
+Equipe_0=MILLON Patrick
+Equipe_1=PINTOUT Bruno
+Equipe_2=JACQUIER Michel
+Equipe_3=ESPINOZA François
+End With
+With ZONE
+Id=1
+CodeDft=9193
+DemiJour=0
+Pos=1
+End With

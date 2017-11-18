@@ -1,0 +1,134 @@
+Id=13102014
+Jourdate=13/10/2014
+Version=NouveauFormat
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3959
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=ZANIN
+Prenom=EVELINA
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1246
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3960
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=MARZIN
+Prenom=JEAN GILBERT
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1245
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3964
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=ANXIONNAZ
+Prenom=YOLANDE
+HeureArrivee=12:15
+HeureCeremonie=
+HeureCremation=13:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=
+NoOrdre=1244
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3966
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=RABATEL
+Prenom=THIERRY
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1242
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3971
+Pf=PF PENA
+Conseiller=Marie-Pierre PINET
+Nom=COTTAZ
+Prenom=SUZANNE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1247
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3976
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=MARCELLIN
+Prenom=CLOTILDE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1243
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=1
+End With

@@ -1,0 +1,5 @@
+Agent=averone
+Provenance=medipoles
+Nature=pieces anatomiques
+Four=2
+NoOrdre=470

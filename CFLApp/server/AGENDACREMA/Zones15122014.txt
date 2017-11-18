@@ -1,0 +1,127 @@
+Id=15122014
+Jourdate=15/12/2014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4299
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+Nom=CLEMENT
+Prenom=GEORGETTE
+HeureArrivee=10:15
+HeureCeremonie=
+HeureCremation=11:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de CHAMBERY
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=
+NoOrdre=1521
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4313
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=DELETTRE
+Prenom=JOSIANE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1522
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4316
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=MOQUET
+Prenom=SIMONNE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1523
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4319
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=SOCQUET
+Prenom=GERMAINE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1524
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4324
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=ROSSO
+Prenom=MARIE-THERESE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1525
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With

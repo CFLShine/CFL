@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 La Ravoire, M\'e9rignac, Montailleur,\f1\par<Ret>\b0\f0 Son \'e9pouse, ses filles et leurs conjoints, ses petits-enfants, son fr\'e8re, ses neveux, sa belle-soeur et son beau-fr\'e8re, parents et amis, ont la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Auguste PETIT\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 82 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie sera c\'e9l\'e9br\'e9e en l'\'e9glise de La Ravoire le vendredi 16 janvier 2015 \'e0 dix heures trente.\f1\par<Ret>\f0 Cet avis tient lieu de faire part.\par<Ret>}<Ret>
+CodeDft=4548
+Tarif=165
+NbLignes=15
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=14/01/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

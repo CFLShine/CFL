@@ -1,0 +1,110 @@
+Id=4
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=00:00
+EpargneesFC=00:00
+varHeuresSupAnDernier=00:00
+With LigneConges
+Id=0
+varPrisDu=19/01/15
+varPrisAu=25/01/15
+varDemandeDate=15/01/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=15/01/15
+varVisaDirecteur=15/01/14
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=28/03/15
+varPrisAu=28/03/15
+varDemandeDate=31/03/15
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=31/03/15
+varVisaDirecteur=31/03/15
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=01/04/15
+varPrisAu=01/04/15
+varDemandeDate=31/03/15
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=31/03/15
+varVisaDirecteur=31/03/15
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=06/04/15
+varPrisAu=11/04/15
+varDemandeDate=04/04/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=04/04/15
+varVisaDirecteur=04/04/15
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=01/06/15
+varPrisAu=13/06/15
+varDemandeDate=30/05/15
+varAnnuel=72:00
+varRecup=
+varEpargne=
+varVisaChef=30/05/15
+varVisaDirecteur=30/05/14
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=17/11/15
+varPrisAu=21/11/15
+varDemandeDate=16/11/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=16/11/15
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=23/11/15
+varPrisAu=28/11/15
+varDemandeDate=16/11/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=16/11/15
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=01/12/15
+varPrisAu=02/12/15
+varDemandeDate=16/11/15
+varAnnuel=12:00
+varRecup=
+varEpargne=
+varVisaChef=16/11/15
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=08/12/15
+varNbHeuresSup=1:00
+varMotifHeuresSup=Famille après 18h
+varPayeesHeuresSup=
+End With

@@ -1,0 +1,10 @@
+Id=21052014
+JourDate=21/05/2014
+With ZONE
+Id=0
+EtatCivilChecked=True
+End With
+With ZONE
+Id=1
+EtatCivilChecked=True
+End With

@@ -1,0 +1,50 @@
+Id=-1
+Version=1
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=21:00
+varHeuresSupAnDernier=11:34
+With LigneConges
+Id=0
+varPrisDu=20/01/14
+varPrisAu=23/01/14
+varDemandeDate=10/01/14
+varAnnuel=20:00
+varRecup=
+varEpargne=
+varVisaChef=10/01/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=24/01/14
+varPrisAu=24/01/14
+varDemandeDate=29/01/14
+varAnnuel=1:00
+varRecup=
+varEpargne=
+varVisaChef=29/01/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=30/01/14
+varPrisAu=30/01/14
+varDemandeDate=29/01/14
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=29/01/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=28/01/14
+varNbHeuresSup=10:00
+varMotifHeuresSup=FORMATION MUTAC MONTPELLIER
+varPayeesHeuresSup=
+End With

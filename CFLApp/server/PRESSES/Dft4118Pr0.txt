@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 APREMONT\f1\par<Ret>\f0 Josiane et Eric COCHINI, Maryse et Philippe FONTENEAU, ses enfants; Herv\'e9, Murielle, Laure-Line, Claire, Remy et Sebastien, ses petits-enfants; ses arri\'e8re petits-enfants;\f1\par<Ret>\f0 sa famille et ses proches,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Monsieur Jean TASSARA\f1\par<Ret>\pard\b0\f0\'e0 91 ans.\f1\par<Ret>\f0 Selon ses volont\'e9s, ses obs\'e8ques ont eu lieu dans l'intimit\'e9.\par<Ret>}<Ret>
+CodeDft=4118
+Tarif=165
+NbLignes=14
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=12/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

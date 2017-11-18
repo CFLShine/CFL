@@ -1,0 +1,15 @@
+Id=3651
+CodeDefunt=3651
+DefuntNom=GIRARD-REYDET
+DefuntPrenom=FRANCIA
+DefuntDecesDate=15/08/2014
+ReceptionDate=16/08/2014
+CremationArriveeDe=
+CeremonieCrematoriumDate=19/08/2014
+CeremonieCrematoriumHeure=10:15
+CeremonieCrematoriumLieu=Cf salle omnicultes
+CeremonieCrematoriumType=Religieuse
+CremationDate=
+CremationCommune=
+Conseiller=Nicolas PACHOUD
+PfArrivee=

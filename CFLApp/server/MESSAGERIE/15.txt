@@ -1,0 +1,25 @@
+Id=-1
+With CONVERSATION
+Id=20
+conversation=[enter]-----------------------[enter]CLANET Sébastien - 28/09/2017 09:29:39[enter][enter]je t'ai envoyé le certificat de mr Dubonnet.[enter][enter]-----------------------[enter]CLANET Sébastien - 28/09/2017 09:29:43[enter][enter]par mail.[enter][enter]-----------------------[enter]BRUN Michaël - 28/09/2017 09:29:44[enter][enter]NIKEL MERCI[enter][enter]-----------------------[enter]BRUN Michaël - 05/10/2017 12:06:49[enter][enter]mERCI POUR L4ACTE[enter][enter]-----------------------[enter]BRUN Michaël - 05/10/2017 12:06:59[enter][enter]tU ES TOUJOURS EN LIGNE ?[enter][enter]-----------------------[enter]CLANET Sébastien - 05/10/2017 12:14:29[enter][enter]oui![enter][enter]-----------------------[enter]BRUN Michaël - 05/10/2017 12:21:38[enter][enter]OK PAS PRESS2 ON VERRA TOUT A L HEURE[enter][enter]-----------------------[enter]CLANET Sébastien - 05/10/2017 12:25:04[enter][enter]ok![enter]
+End With
+With CONVERSATION
+Id=4
+conversation=[enter]-----------------------[enter]BRUN Michaël - 28/09/2017 14:56:46[enter][enter]C'est ok pour le TC ? et les soins ? je suis avec la famille, juste pour leur dire a peu près a quelle heure ils peuvent se recuillir ce soir[enter][enter]-----------------------[enter]TREBOUTE Marion - 28/09/2017 14:58:34[enter][enter]oui les tc sont entrain d'etre fait les soins aprés pour l'heure il vaut mieux voir ave jc je sais pas si il les fait en même temps ou pas[enter][enter]-----------------------[enter]BRUN Michaël - 28/09/2017 15:09:07[enter][enter]est ce que tu peux appeler la salle de soin stp ca marche pas d'ici et quand il rappelle tu me le passe ?[enter][enter]-----------------------[enter]BRUN Michaël - 28/09/2017 15:09:27[enter][enter]son bureau et portable ca repond pas[enter][enter]-----------------------[enter]TREBOUTE Marion - 28/09/2017 15:13:29[enter][enter]17h30[enter][enter]-----------------------[enter]TREBOUTE Marion - 28/09/2017 15:13:37[enter][enter]elle viens d'arriver[enter][enter]-----------------------[enter]BRUN Michaël - 28/09/2017 15:17:05[enter][enter]Nickel je vais dire a la famille 18h pour etre sur[enter][enter]-----------------------[enter]TREBOUTE Marion - 28/09/2017 15:18:04[enter][enter]ok[enter]
+End With
+With CONVERSATION
+Id=2
+conversation=[enter]-----------------------[enter]MARIE Pascal - 02/10/2017 09:46:51[enter][enter]j'ais fait le registre, il est dans Commun/PFM/PASCAL/Outils convois[enter]
+End With
+With CONVERSATION
+Id=17
+conversation=[enter]-----------------------[enter]BRUN Michaël - 03/10/2017 15:04:28[enter][enter]T'es occupée à ..... ?[enter][enter]-----------------------[enter]KOBRAL Laurie - 03/10/2017 15:10:11[enter][enter]UNE DAME POUR UN DEVIS[enter][enter]-----------------------[enter]BRUN Michaël - 03/10/2017 15:38:26[enter][enter]j ai du monde[enter][enter]-----------------------[enter]KOBRAL Laurie - 03/10/2017 15:51:34[enter][enter]OK[enter][enter]-----------------------[enter]KOBRAL Laurie - 03/10/2017 15:51:34[enter][enter]ET MON TC[enter][enter]-----------------------[enter]BRUN Michaël - 06/10/2017 10:11:45[enter][enter]LA J EN AI FAIT UNE BELLE MDRR[enter][enter]-----------------------[enter]BRUN Michaël - 06/10/2017 10:11:55[enter][enter]A MON AVIS JE VAIS ME FAIRE DEFONCER[enter][enter]-----------------------[enter]KOBRAL Laurie - 06/10/2017 10:25:42[enter][enter]oui je crois[enter]
+End With
+With CONVERSATION
+Id=3
+conversation=[enter]-----------------------[enter]EHNY Maxime - 03/10/2017 15:37:52[enter][enter]Besoin d'un rdv Ordo ?[enter][enter]-----------------------[enter]BRUN Michaël - 03/10/2017 15:38:11[enter][enter]Oui mais visiblement tres simple[enter][enter]-----------------------[enter]EHNY Maxime - 03/10/2017 15:38:53[enter][enter]Jeudi après midi[enter][enter]-----------------------[enter]BRUN Michaël - 03/10/2017 15:39:03[enter][enter]ok qui sera ordo ?[enter][enter]-----------------------[enter]EHNY Maxime - 03/10/2017 15:39:11[enter][enter]Eric K[enter][enter]-----------------------[enter]BRUN Michaël - 03/10/2017 15:39:19[enter][enter]ok je vois suivant ses horaires[enter][enter]-----------------------[enter]BRUN Michaël - 06/10/2017 09:37:13[enter][enter]J'ai un souci la ! je dois faire une mise en bière et fermeture a l'hopital demain apres midi[enter][enter]-----------------------[enter]BRUN Michaël - 06/10/2017 09:37:54[enter][enter]Ah non quoique je viens de vois si j'envoie l'équipe qui fait les chinois fin d'apres midi c'est bon ?[enter][enter]-----------------------[enter]BRUN Michaël - 06/10/2017 09:38:22[enter][enter]Misen bière 16h30 fermeture 16h45 ca passe ?[enter]
+End With
+With CONVERSATION
+Id=16
+conversation=[enter]-----------------------[enter]CITRINO Sébastien - 03/10/2017 16:20:05[enter][enter]TU A FAIT UN DOSSIER BLANC POUR LE BEBE ?[enter][enter]-----------------------[enter]BRUN Michaël - 03/10/2017 16:20:17[enter][enter]NON JUSTE UN DEVIS LOL[enter][enter]-----------------------[enter]CITRINO Sébastien - 03/10/2017 16:20:58[enter][enter]OK[enter]
+End With

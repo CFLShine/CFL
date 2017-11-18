@@ -1,0 +1,18 @@
+Id=-1
+Type=Anniversaire
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry-le-Vieux,\f1\par<Ret>\b0\f0 Son \'e9poux et ses enfants remercient sinc\'e8rement toutes les personnes qui ont pris part \'e0 leur peine lors du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Mme Simone DONAZ\f1\par<Ret>\pard\b0\f0 et les invitent \'e0 une messe de rappel le samedi 22 novembre 2014 \'e0 18h00 en l'\'e9glise de St Ombre.\par<Ret>}<Ret>
+CodeDft=4088
+Tarif=84
+NbLignes=10
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=20/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

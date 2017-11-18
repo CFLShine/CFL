@@ -1,0 +1,15 @@
+Id=5261
+CremationArriveeDe=AIX LES BAINS
+ArriveeDate=14/04/2015
+CeremonieCrematoriumDate=14/04/2015
+CeremonieCrematoriumHeure=10:15
+CeremonieCrematoriumLieu=Cf
+CeremonieCrematoriumType=TEMOIN JEHOVAH  PFG AIX
+CremationDate=
+CremationCommune=
+DefuntNom=BACHELARD
+DefuntPrenom=FRANCETTE
+DefuntDecesDate=08/04/2015
+ReservCrema=Loïc TREVARAIN
+PfArrivee=PFG AIX LES BAINS
+CodeDefunt=5261

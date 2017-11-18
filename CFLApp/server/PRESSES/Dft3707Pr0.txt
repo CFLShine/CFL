@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 St Jean de Couz.\f1\par<Ret>\f0 M.Jean-Pierre Breton, son \'e9poux;\f1\par<Ret>\f0 Lydie, sa fille, Fr\'e9d\'e9ric son gendre; Lilian et Jade ses petits enfants;\f1\par<Ret>\f0  Marie-Antoinette sa soeur ,Yves son fr\'e8re et toute la famille;\f1\par<Ret>\f0 vous font part du d\'e9c\'e8s de \f1\par<Ret>\b\f0 Mme Annie BRETON \par<Ret>n\'e9e DURAND\f1\par<Ret>\b0\f0 survenu \'e0 l'\'e2ge de 65 ans\f1\par<Ret>\f0 la c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e le vendredi 29 ao\'fbt \'e0\f1\par<Ret>\f0 quinze heures en l'\'e9glise de St Jean de Couz\f1\par<Ret>\f0 condol\'e9ances sur registre.\f1\par<Ret>\f0 cet avis tient lieu de faire-part de de remerciements.\par<Ret>}<Ret>
+CodeDft=3707
+Tarif=208
+NbLignes=18
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=4
+Date=27/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

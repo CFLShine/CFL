@@ -1,0 +1,47 @@
+Id=16022014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2616.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=BINCAZ
+DefuntPrenom=PAULE
+Heure_0=15:00
+Ev_0=TAMB depuis Le Doyenné - Chy vers Centre funéraire
+Comment_0=
+Comment_1=
+Equipe_0=PINTOUT Bruno
+Equipe_1=JACQUIER Michel
+CodeDft=2616
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=0
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2614.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=PLAUT
+DefuntPrenom=SIMONE
+Heure_0=10:40
+Ev_0=TAMB depuis Le Doyenné - Chy vers Centre funéraire
+Comment_0=
+Comment_1=
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+CodeDft=2614
+End With

@@ -1,0 +1,126 @@
+Id=22012015
+Jourdate=22/01/2015
+Version=NouveauFormat
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4593
+Pf=PF TONIN COIFFET
+Conseiller=Loïc TREVARAIN
+Nom=CORTINOVIS
+Prenom=ELISE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  FAMILLE RECUPERE  ACCUEILLIR FAMILLE
+NoOrdre=127
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4596
+Pf=PFG CHAMBERY
+Conseiller=Loïc TREVARAIN
+Nom=BOURGEOIS GAVARDIN
+Prenom=PATRICK
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE    RECUPERATION ?
+NoOrdre=125
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4597
+Pf=PF DE SAVOY
+Conseiller=Loïc TREVARAIN
+Nom=BENARD
+Prenom=WILLIAM
+HeureArrivee=
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION   PF RECUPERENT
+FicheOccupe=Libre
+NoOrdre=126
+Four=2
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+EvenementCommentaire=CERCUEIL PIN  PF RECUPERENT
+CodeDft=4600
+Pf=PFG AIX LES BAINS
+Conseiller=Loïc TREVARAIN
+Nom=BRAISSAND
+Prenom=ANDRE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY VIA CHAMBOTTE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=128
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=4602
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=HIVERT
+Prenom=ERIC
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION  INHUMATION CHARRIERE NEUVE
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=5
+End With

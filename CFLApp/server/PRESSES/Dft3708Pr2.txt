@@ -1,0 +1,18 @@
+Id=-1
+Type=Remerciements
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Pontcharra, La Terrasse,\f1\par<Ret>\b0\f0 Mme Josette Laurent, son \'e9pouse; ses enfants et petits-enfants; tr\'e8s sensibles aux marques de sympathie et d'amiti\'e9 que vous leur avez t\'e9moign\'e9es lors du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Mr Andr\'e9 LAURENT\f1\par<Ret>\pard\b0\f0 vous expriment leurs sinc\'e8res remerciements et leur profonde gratitude.\b\par<Ret>\b0\par<Ret>}<Ret>
+CodeDft=3708
+Tarif=124
+NbLignes=12
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=04/09/2014
+End With
+With DEPARTEMENT
+Id=5
+Name=ISERE
+End With

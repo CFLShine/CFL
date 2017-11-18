@@ -1,0 +1,125 @@
+Id=24122014
+Jourdate=24/12/2014
+Version=NouveauFormat
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION   PFG  MACHE
+SaisieOccupe=Libre
+CodeDft=4376
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=JULIO TONOLO
+Prenom=RENE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4382
+Pf=PF SAVOYARDES
+Conseiller=Loïc TREVARAIN
+Nom=SCANZI
+Prenom=RICHARD
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE
+NoOrdre=1576
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE VENDREDI 26 DECEMBRE   CHENE
+SaisieOccupe=Libre
+CodeDft=4386
+Pf=PF POMMAT
+Conseiller=Loïc TREVARAIN
+Nom=GARDET
+Prenom=RENEE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1575
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4383
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=DESCHAMPS
+Prenom=PATRICK
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION  PFM
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=4401
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=BUET
+Prenom=MARIA
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1577
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

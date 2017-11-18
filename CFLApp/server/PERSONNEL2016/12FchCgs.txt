@@ -1,0 +1,286 @@
+Id=12
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=27:00
+EpargneesFC=99:00
+varHeuresSupAnDernier=91:16
+With LigneConges
+Id=0
+varPrisDu=04/01/16
+varPrisAu=04/01/16
+varDemandeDate=04/01/16
+varAnnuel=
+varRecup=01:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=04/01/16
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=21/01/16
+varPrisAu=31/01/16
+varDemandeDate=18/01/16
+varAnnuel=27:00
+varRecup=28:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=18/01/16
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=03/03/16
+varPrisAu=13/03/16
+varDemandeDate=01/03/16
+varAnnuel=
+varRecup=45:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=01/03/16
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=18/05/16
+varPrisAu=18/05/16
+varDemandeDate=23/05/16
+varAnnuel=
+varRecup=0:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=23/05/16
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=20/06/16
+varPrisAu=30/06/16
+varDemandeDate=17/06/16
+varAnnuel=00:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=15/06/16
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=01/07/16
+varPrisAu=04/07/16
+varDemandeDate=17/06/16
+varAnnuel=00:00
+varRecup=00:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=15/06/16
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=01/07/16
+varPrisAu=03/07/16
+varDemandeDate=17/06/16
+varAnnuel=38:00
+varRecup=34:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=15/06/16
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=21/05/16
+varPrisAu=22/05/16
+varDemandeDate=30/07/16
+varAnnuel=
+varRecup=9:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=30/07/16
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=27/08/16
+varPrisAu=31/08/16
+varDemandeDate=25/08/16
+varAnnuel=0:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=9
+varPrisDu=01/09/16
+varPrisAu=18/09/16
+varDemandeDate=25/08/16
+varAnnuel=0:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=25/08/16
+varRetourDate=
+End With
+With LigneConges
+Id=10
+varPrisDu=08/09/16
+varPrisAu=11/09/16
+varDemandeDate=07/09/16
+varAnnuel=9:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=07/09/16
+varRetourDate=
+End With
+With LigneConges
+Id=11
+varPrisDu=26/09/16
+varPrisAu=26/09/16
+varDemandeDate=26/09/16
+End With
+With LigneConges
+Id=12
+varPrisDu=16/10/16
+varPrisAu=23/10/16
+varDemandeDate=13/10/16
+varAnnuel=
+varRecup=36:00
+varEpargne=
+varVisaChef=13/10/16
+varVisaDirecteur=13/10/16
+varRetourDate=24/10/16
+End With
+With LigneConges
+Id=13
+varPrisDu=17/12/16
+varPrisAu=18/12/16
+varDemandeDate=13/12/16
+varAnnuel=
+varRecup=09:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=13/12/16
+varRetourDate=19/12/16
+End With
+With LigneConges
+Id=14
+varPrisDu=22/12/16
+varPrisAu=30/12/16
+varDemandeDate=03/01/17
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=05/02/16
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=15/03/16
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=2
+varDateHeuresSup=17/03/16
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=3
+varDateHeuresSup=25/03/16
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=4
+varDateHeuresSup=06/05/16
+varNbHeuresSup=9:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=5
+varDateHeuresSup=27/05/16
+varNbHeuresSup=4:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=6
+varDateHeuresSup=15/07/16
+varNbHeuresSup=9:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=7
+varDateHeuresSup=22/07/16
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=8
+varDateHeuresSup=07/08/16
+varNbHeuresSup=4:30
+varMotifHeuresSup=Cumul Semaine
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=9
+varDateHeuresSup=14/08/16
+varNbHeuresSup=4:00
+varMotifHeuresSup=Cumul Semaine
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=10
+varDateHeuresSup=21/08/16
+varNbHeuresSup=4:30
+varMotifHeuresSup=Cumul Semaine
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=11
+varDateHeuresSup=15/09/16
+varNbHeuresSup=5:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=12
+varDateHeuresSup=30/09/16
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=13
+varDateHeuresSup=13/10/16
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=14
+varDateHeuresSup=24/11/16
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With

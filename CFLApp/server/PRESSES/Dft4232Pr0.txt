@@ -1,0 +1,18 @@
+Id=-1
+Type=Remerciements
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 La famille Derbez, sa fille, son gendre, ses enfants et petits-enfants, remercient toutes les personnes qui ont pris part \'e0 leur peine lors de la c\'e9r\'e9monie en hommage \'e0\f1\par<Ret>\pard\qc\b\f0 Aim\'e9e DAHANE\f1\par<Ret>\f0 n\'e9e DI CLEMENTE\f1\par<Ret>\b0\f0\par<Ret>}<Ret>
+CodeDft=4232
+Tarif=84
+NbLignes=9
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=04/12/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

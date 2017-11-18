@@ -1,0 +1,14 @@
+Id=5660
+DefuntNom=MAZZOLENI
+DefuntPrenom=NICOLE
+DefuntDecesDate=23/05/2015
+ArriveeCommune=CHAMBERY
+ArriveeDate=31/05/2015
+ArriveeHeure=17:15
+PfArrivee=PF DES ALPES
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=5660
+CeremonieCrematoriumDate=31/05/2015
+CeremonieCrematoriumHeure=17:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Civile

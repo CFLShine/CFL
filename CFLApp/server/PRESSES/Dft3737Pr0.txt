@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry,\f1\par<Ret>\f0 Jacob Bellecombette, Villarembert, St Jean de Maurienne, Solli\'e8res,\f1\par<Ret>\b0\f0 Les Soeurs de Saint Joseph, sa famille, ses amis, vous font part du retour dans la Maison du P\'e8re, \'e0 l'\'e2ge de 89 ans, de\f1\par<Ret>\pard\qc\b\f0 Soeur Genevi\'e8ve\f1\par<Ret>\f0 n\'e9e Marcelle Yvonne DUVERNEY-GUICHARD\b0\f1\par<Ret>\pard\f0 La c\'e9l\'e9bration des fun\'e9railles aura lieu le mercredi 3 septembre 2014 \'e0 quinze heures au Clos St Joseph \'e0 Jacob Bellecombette, suivie de l'inhumation au cimeti\'e8re de Cognin.\f1\par<Ret>\f0 "Le Seigneur est mon Berger" ps 22.\par<Ret>}<Ret>
+CodeDft=3737
+Tarif=208
+NbLignes=19
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=02/09/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

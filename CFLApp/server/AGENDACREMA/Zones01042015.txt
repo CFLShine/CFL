@@ -1,0 +1,169 @@
+Id=1042015
+Jourdate=01/04/2015
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=5166
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=LARRIEUX
+Prenom=SANDRA
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ARRIVEE VERS 11 H 30
+NoOrdre=538
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=5169
+Pf=PF TONIN COIFFET
+Conseiller=Loïc TREVARAIN
+Nom=CHIRPAZ CERBAT
+Prenom=WANCESLAS
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE EN DEBUT D'APRES-MIDI
+NoOrdre=537
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5171
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=BALLY
+Prenom=REGINE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE BISSY
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=541
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PAS DE CREMATION - INHUMATION CHARRIERE NEUVE
+SaisieOccupe=Libre
+CodeDft=5172
+Pf=PFM
+Conseiller=MICKAEL
+Nom=BUZZAT
+Prenom=DOMINIQUE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Centre funéraire
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=5174
+Pf=PF FLORET
+Conseiller=Jean-Luc PEYREDIEU
+Nom=PIETRZAK
+Prenom=JEROME
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=540
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=5176
+Pf=PFM VOIRON
+Conseiller=Marie-Pierre PINET
+Nom=PALTRINIERI
+Prenom=X
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=BEBE  DISPERSION PAR NOS SOINS JDS  PAS DE FAMILLE
+NoOrdre=535
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5168
+Pf=PFM
+Conseiller=MICHAEL  BRUN
+Nom=AYMARD
+Prenom=LOUIS
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Centre funéraire
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=536
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5178
+Pf=PF DE AOSTE
+Conseiller=Marie-Pierre PINET
+Nom=RIZZA
+Prenom=GIOSUELE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de AOSTE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=539
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

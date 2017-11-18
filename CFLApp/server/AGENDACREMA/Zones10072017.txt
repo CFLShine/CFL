@@ -1,0 +1,101 @@
+Id=10072017
+Jourdate=10/07/2017
+With ZONE
+Id=4
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11151
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=LE LUYER
+Prenom_ceremonie=ALAIN
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11151
+Pf_cremation=PF SEDRAN
+Nom_cremation=LE LUYER
+Prenom_cremation=ALAIN
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=948
+Four=FTX
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+EvenementCommentaire=ORDONNATEUR PFCCA 
+SaisieOccupe=Libre
+CodeDft_ceremonie=11152
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=BOUVERAT
+Prenom_ceremonie=JEANNE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CULOZ
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11152
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=BOUVERAT
+Prenom_cremation=JEANNE
+EvenementArrivee_cremation=Arrivée de CULOZ
+FicheOccupe=Libre
+NoOrdre=949
+Four=FT3
+End With
+With ZONE
+Id=8
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+CodeDft_ceremonie=11160
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=TARTARAT-BARDET
+Prenom_ceremonie=HENRI
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11160
+Pf_cremation=PF POMMAT
+Nom_cremation=TARTARAT-BARDET
+Prenom_cremation=HENRI
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=950
+Four=FTX
+End With
+With ZONE
+Id=9
+End With

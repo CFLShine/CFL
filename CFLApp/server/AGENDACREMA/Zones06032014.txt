@@ -1,0 +1,146 @@
+Id=6032014
+Version=NouveauFormat
+With ZONE
+Id=4
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2689.txt
+Pf=PF FLORET
+Conseiller=Maxime EHNY
+Nom=BONNEAU
+Prenom=NICOLE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERE CERCUEIL PIN
+NoOrdre=299
+Four=1
+FicheOccupe=Libre
+CodeDft=2689
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2691.txt
+Pf=PFG CHAMBERY
+Conseiller=
+Nom=CHACHUAT
+Prenom=CLAUDE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:30
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=Ensuite départ Drancy pas de crémation
+CodeDft=2691
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2695.txt
+Pf=PFG CHAMBERY
+Conseiller=Pascal MARIE
+Nom=POPINEAU
+Prenom=BERNARD
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=cerceuil chêne
+NoOrdre=298
+Four=2
+FicheOccupe=Libre
+CodeDft=2695
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2697.txt
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=PALENI
+Prenom=LAURENT
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=302
+Four=2
+FicheOccupe=Libre
+CodeDft=2697
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2699.txt
+Pf=PF PENA
+Conseiller=Loïc TREVARAIN
+Nom=LOETTGERS
+Prenom=ANDRE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de SAINT LAURENT DU PONT
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=297
+Four=1
+FicheOccupe=Libre
+CodeDft=2699
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2702.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=DEILLON
+Prenom=GERMAINE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=300
+Four=2
+FicheOccupe=Libre
+CodeDft=2702
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2701.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BARLET
+Prenom=MARIE-LOUISE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=301
+Four=1
+CodeDft=2701
+End With

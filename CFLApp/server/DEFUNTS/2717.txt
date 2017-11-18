@@ -1,0 +1,137 @@
+Id=2717
+New=
+DefuntNom=DE LUCCA
+DefuntPrenom=ANGELE
+DefuntDecesDate=10/02/2014
+CodeDefunt=2717
+DefuntNationalite=
+DefuntTitre=Madame
+DefuntAdresse2=
+DefuntProfession=
+DefuntAdresseCommune=
+DefuntAdresseCodPost=
+DefuntAdresse=
+DefuntNaissancePays=
+DefuntNaissanceDepartement=
+DefuntNaissanceCommune=
+DefuntPrenoms=
+DefuntNomJF=
+DefuntNaissanceDate=  /  /
+DefuntDecesHeure=  :
+DefuntDecesAdresse=
+DefuntDecesMedecin=
+DefuntDecesPays=
+DefuntDecesCommune=
+DefuntMereDecede=False
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=
+DefuntMereNom=
+DefuntPereDecede=False
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=
+DefuntPereNom=
+DefuntMariageDate=  /  /
+DefuntDivorseDate=  /  /
+DefuntSituationDecesDate=  /  /
+DefuntSituationNaissanceDate=  /  /
+DefuntNbEnfantsVivants=
+DefuntNbEnfants=
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=
+DefuntSituationNom=
+DefuntSituation=Celibataire
+ReceptionDate=05/03/2014
+Conseiller=Marion TREBOUTE
+CendresDestination=
+PfInhumation=PFM
+InhumationDate=18/04/2014
+InhumationHeure=15:00
+InhumationSepulture=1
+CodeInhumation=18/04/2014_1_0
+SepultureType=Pleine terre
+SepultureProvisoire=False
+SepultureAgencement=False
+SepultureCimetiere=Charrière Neuve
+SepultureCommune=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+SepultureDivision=
+SepultureSection=
+SepultureCarre=B
+SepultureLigne=11
+SepultureTombe=11
+Concessionaire=False
+AyantDroit=False
+ConcessionDPINom=
+ConcessionDPINomJF=
+ConcessionDPIPrenom=
+ConcessionDPIAnnee=
+ConcessionDuree=
+ConcessionAquiseParNom=
+ConcessionAquiseParPrenom=
+ConcessionAquiseDate=  /  /
+ConcessionDesignation=
+MarbrerieGravures=
+MarbrerieOuverture=
+With A FAIRE
+Id=0
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=05/03/2014 17:38:13
+DateFait=08/03/2014 11:32:01
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=05/03/2014 17:38:13
+DateFait=16/04/2014 09:32:45
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=2
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=05/03/2014 17:38:13
+DateFait=16/04/2014 09:36:28
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=3
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=05/03/2014 17:38:13
+DateFait=26/03/2014 09:48:09
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=4
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=18/04/2014 15:26:03
+DateFait=18/04/2014 15:26:04
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=5
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=05/03/2014 17:38:13
+DateFait=18/04/2014 15:26:03
+FaitPar=Marion TREBOUTE
+End With

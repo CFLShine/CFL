@@ -1,0 +1,170 @@
+Id=12072016
+JourDate=12/07/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8589
+Comment_0=TOILETTE UNIQUEMENT
+Comment_1=10H30 DEPART
+HeureComment=  :
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8604
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Green
+EquipeOk_2=Green
+EquipeOk_3=Green
+CodeDft=8615
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=6
+EquipeId_1=16
+EquipeId_2=60
+EquipeId_3=58
+Ordo=TREVARAIN Loïc
+Equipe_0=PINTOUT Bruno
+Equipe_1=MILESI Robert
+Equipe_2=DUMAZ Rémy
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8616
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Green
+EquipeOk_1=Red
+EquipeOk_2=Green
+EquipeOk_3=Red
+CodeDft=8618
+Comment_0=DEPOT EN L'EGLISE DE VOGLANS A 09H30
+Comment_1=LEVAGE DU MONUMENT PAR SALOMON ET CREUSEMENT PAR NOS SERVICE 
+HeureComment=  :
+OrdoId=11
+EquipeId_0=64
+EquipeId_1=49
+EquipeId_2=17
+EquipeId_3=65
+Ordo=FAVRIN Thierry
+Equipe_0=DEMOUSSY Alain
+Equipe_1=THEVENIN Eric
+Equipe_2=MEGHEZZI Marc
+Equipe_3=PATUREL Christian
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=8623
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=7
+EquipeId_1=5
+EquipeId_2=50
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+Equipe_2=MARIE Tristan
+Equipe_3=
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8625
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=47
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=RIVIERE Thomas
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8648
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=8
+CodeDft=8646
+DemiJour=0
+Pos=1
+End With

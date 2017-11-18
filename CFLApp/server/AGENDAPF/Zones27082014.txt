@@ -1,0 +1,217 @@
+Id=27082014
+JourDate=27/08/2014
+With ZONE
+Id=0
+Saisie=Convoi
+Pos=0
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+Heure_0=09:15
+Heure_1=11:15
+Heure_2=12:00
+Heure_3=
+Ev_0=Mise en bière HOPITAL DE CHAMBERY
+Ev_1=Cérémonie Civile Cf salle omnicultes
+Ev_2=Crémation 
+Ev_3=
+DefuntNom=CHALIER
+DefuntPrenom=MICHELE
+Conseiller=Jean-Luc PEYREDIEU
+Pf=PFM
+Comment_0=
+CodeDft=3706
+Ordo=TREVARAIN Loïc
+OrdoId=12
+Equipe_0=MILLON Patrick
+EquipeId_0=MILLON Patrick
+Equipe_1=PINTOUT Bruno
+EquipeId_1=PINTOUT Bruno
+Equipe_2=JACQUIER Michel
+EquipeId_2=JACQUIER Michel
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=1
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3708
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=LAURENT
+DefuntPrenom=ANDRE
+Heure_0=08:30
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Centre funéraire
+Comment_0=Case
+Comment_1=
+Equipe_0=BOULET Jean-Louis
+EquipeId_0=BOULET Jean-Louis
+Equipe_1=GONDIN JEAN-CLAUDE
+EquipeId_1=GONDIN JEAN-CLAUDE
+End With
+With ZONE
+Id=3
+Saisie=TAMB
+Pos=2
+DemiJour=0
+CodeDft=3715
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=CORGNET
+DefuntPrenom=JACQUELINE
+Heure_0=09:51
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=BOULET Jean-Louis
+Equipe_1=GONDIN
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=4
+Saisie=Soins
+Pos=1
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3711
+Pf=AJEPI
+Conseiller=Marie-Pierre PINET
+DefuntNom=SORICE
+DefuntPrenom=HERTA
+Heure_0=14:40
+Ev_0=Soins de thanatopraxie par  HYGECO
+Comment_0=TOILETTE + HABILLAGE UNIQUEMENT
+Comment_1=
+End With
+With ZONE
+Id=6
+Saisie=Soins
+Pos=3
+DemiJour=0
+CodeDft=3715
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=CORGNET
+DefuntPrenom=JACQUELINE
+Heure_0=11:00
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+End With
+With ZONE
+Id=7
+Saisie=TAMB
+Pos=2
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3718
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+DefuntNom=GAUTIN
+DefuntPrenom=NOEL
+Heure_0=15:20
+Ev_0=TAMB depuis CHAMBERY HOPITAL vers Centre funéraire
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=8
+Saisie=Soins
+Pos=3
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=3718
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+DefuntNom=GAUTIN
+DefuntPrenom=NOEL
+Heure_0=15:30
+Ev_0=Soins de thanatopraxie par  HYGECO
+Comment_0=SALON BUSSEROLE
+Comment_1=
+End With
+With ZONE
+Id=9
+Saisie=TAMB
+Pos=4
+DemiJour=1
+CodeDft=3717
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+DefuntNom=GENOVÈSE
+DefuntPrenom=PATRICK
+Heure_0=16:27
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+End With
+With ZONE
+Id=10
+Saisie=Soins
+Pos=5
+DemiJour=1
+CodeDft=3719
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=VIGNOLO
+DefuntPrenom=ANDRE
+Heure_0=15:30
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+End With
+With ZONE
+Id=11
+Saisie=TAMB
+Pos=6
+DemiJour=1
+CodeDft=3720
+Pf=PFM
+Conseiller=
+DefuntNom=CHRISTOFLE
+DefuntPrenom=GEORGES
+Heure_0=20:16
+Ev_0=TAMB depuis MEDIPOLE SAVOIE vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=BOULET Jean-Louis
+Equipe_1=KAELBERER
+End With

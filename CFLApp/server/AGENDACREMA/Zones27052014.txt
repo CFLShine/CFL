@@ -1,0 +1,163 @@
+Id=27052014
+Jourdate=27/05/2014
+Version=NouveauFormat
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3180
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=PERRIN
+Prenom=RICHARD
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=656
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3182
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=VERONESE
+Prenom=RENE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=657
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3187
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=MASTROSIMONE
+Prenom=ANTONIO
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION - INHUMATION CHARRIERE NEUVE  PAR PFM
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3186
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=LENORMAND
+Prenom=BERNARD
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=655
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3188
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=BOUVIER
+Prenom=JEAN
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=653
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3193
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BRETTEVILLE
+Prenom=JEAN-CLAUDE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=Famille pour dispersion
+Police=True
+FicheOccupe=Libre
+NoOrdre=652
+Four=2
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3194
+Pf=PF BOUDRIER
+Conseiller=Jean-Luc PEYREDIEU
+Nom=CAYLA
+Prenom=MONIQUE
+HeureArrivee=
+EvenementArrivee=Arrivée de BOURGOIN
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 11H
+NoOrdre=651
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3204
+Pf=AINAN FUNERAIRE
+Conseiller=Marie-Pierre PINET
+Nom=MICHEL
+Prenom=MARCEL
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ST GEOIRE EN VALDAINE
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=654
+Four=2
+FicheOccupe=Libre
+End With

@@ -1,0 +1,17 @@
+Id=26042015
+JourDate=26/04/2015
+With ZONE
+Id=0
+Pos=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=5372
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With

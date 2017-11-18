@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Barby,\f1\par<Ret>\b0\f0 Ernest Berger, son \'e9poux; Jean-Fran\'e7ois (  ), Gilles, Sylvie, ses enfants; Rosy, sa belle-fille et leurs conjoints; Guy, Florian, Oc\'e9ane, ses petits-enfants; Ludovic Ortolland, son fr\'e8re et ses enfants; ses belles-soeurs et beaux-fr\'e8res; les familles parentes, alli\'e9es et amies, ont la douleur de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Augusta BERGER\f1\par<Ret>\f0 n\'e9e ORTOLLAND\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 87 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e le jeudi 30 avril 2015 \'e0 quatorze heures trente en l'\'e9glise de Barby.\f1\par<Ret>\f0 Condol\'e9ances sur registres.\par<Ret>}<Ret>
+CodeDft=5373
+Tarif=208
+NbLignes=20
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=28/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

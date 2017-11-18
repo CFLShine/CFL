@@ -1,0 +1,11 @@
+Id=15012016
+Jourdate=15/01/2016
+FactureZone5=true
+FactureZone7=true
+FactureZone4=true
+FactureZone6=true
+FactureZone2=true
+FactureZone1=true
+FactureZone8=False
+FactureZone3=true
+FactureZone0=true

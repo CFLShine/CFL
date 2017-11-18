@@ -1,0 +1,17 @@
+Id=3509
+CodeDefunt=3509
+DefuntNom=parlagreco
+DefuntPrenom=NOLAN
+DefuntDecesDate=16/06/2014
+ReceptionDate=18/07/2014
+CremationArriveeDe=VOIRON
+CeremonieCrematoriumDate=18/07/2014
+CeremonieCrematoriumHeure=08:15
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=18/07/2014
+CremationHeure=09:00
+CremationCommune=Chambéry
+PfCremation=VOIRON
+Conseiller=B NANTOIS
+PfArrivee=VOIRON

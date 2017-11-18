@@ -1,0 +1,89 @@
+Id=2022014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2517.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=MACHET
+DefuntPrenom=Lucile
+Heure_0=07:00
+Ev_0=TAMB depuis Monferine - Barby vers Centre funéraire
+Comment_0=
+Comment_1=
+Equipe_0=PACHOUD Nicolas
+Equipe_1=MEGHEZZI Marc
+CodeDft=2517
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=1
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2516.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=RICHARD
+DefuntPrenom=EVELYNE
+Heure_0=09:45
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Centre funéraire
+Comment_0=
+Comment_1=
+Equipe_0=PACHOUD Nicolas
+Equipe_1=MEGHEZZI Marc
+CodeDft=2516
+End With
+With ZONE
+Id=2
+Saisie=Soins
+Pos=2
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2516.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=RICHARD
+DefuntPrenom=EVELYNE
+Heure_0=10:00
+Ev_0=Soins de thanatopraxie par Marion TREBOUTE
+Comment_0=Salon Ancolie - Religieux
+Comment_1=
+CodeDft=2516
+End With
+With ZONE
+Id=3
+Saisie=TAMB
+Pos=0
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2014\2520.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=SOFFER
+DefuntPrenom=Catherine
+Heure_0=21:00
+Ev_0=TAMB depuis Hopital Seyne sur Mer vers Centre funéraire
+Comment_0=Transports Bustos
+Comment_1=
+CodeDft=2520
+End With

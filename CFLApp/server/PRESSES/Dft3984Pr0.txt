@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Chamb\'e9ry.\f1\par<Ret>\f0 Son fils, sa maman, ses fr\'e8res et soeurs et leurs enfants; et toute sa famille\f1\par<Ret>\f0 pleurent la disparition de \f1\par<Ret>\pard\qc\b\f0 Marie-Laure DAURIAC\f1\par<Ret>\pard\b0\f0 Selon sa volont\'e9 ses obs\'e8ques ont eu lieu dans l'intimit\'e9 familiale.\b\f1\par<Ret>\b0\f0\par<Ret>}<Ret>
+CodeDft=3984
+Tarif=118
+NbLignes=9
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=20/10/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

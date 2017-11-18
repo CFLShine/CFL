@@ -1,0 +1,165 @@
+Id=27092014
+Jourdate=27/09/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3864
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=DUVERGER
+Prenom=AIMEE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE LES CENDRES POUR INHUMATION
+Police=True
+FicheOccupe=Libre
+NoOrdre=1176
+Four=2
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3879
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=POETE
+Prenom=JOSETTE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1174
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3884
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=MARIN-LAMELLET
+Prenom=BERTRAND
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1179
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+EvenementCommentaire=DISPERSION PAR NOS SOINS A 14H
+CodeDft=3885
+Pf=PF PENA
+Conseiller=Marie-Pierre PINET
+Nom=POUILLAUDE
+Prenom=BRIGITTE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1175
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+EvenementCommentaire=ARRIVEE LE JEUDI 25.09 EN FIN D'APRES MIDI  MORT NE
+CodeDft=3882
+Pf=PFM VOIRON
+Conseiller=Loïc TREVARAIN
+Nom=KOLYTCHEFF
+Prenom=JUSTINE
+HeureArrivee=
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1173
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3883
+Pf=PF BALDINI
+Conseiller=Loïc TREVARAIN
+Nom=PARROUR
+Prenom=LUCIEN
+HeureArrivee=12:15
+EvenementArrivee=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE LES CENDRES
+NoOrdre=1177
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=3886
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=GUICHERD CALLIN
+Prenom=HENRY
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1178
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3890
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=HUMBLOT
+Prenom=GENEVIEVE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1180
+Four=1
+FicheOccupe=Libre
+End With

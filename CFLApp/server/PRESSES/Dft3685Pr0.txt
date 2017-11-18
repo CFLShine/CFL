@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=520
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Le Bourget du Lac,\f1\par<Ret>\par<Ret>\f0 Suzanne son \'e9pouse;\f1\par<Ret>\f0 Marcel et son \'e9pouse, R\'e9mi et sa compagne, Christian et Luc, ses enfants;\f1\par<Ret>\f0 Marie-Jeanne sa soeur et Paul son fr\'e8re;\f1\par<Ret>\f0 ses petits enfants et arri\'e8re petits enfants;\f1\par<Ret>\f0 ont le regret de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\f0 Monsieur Camille BOLLON\f1\par<Ret>\par<Ret>\pard\f0 La c\'e9r\'e9monie religieuse aura lieu en l'Eglise du Bourget du Lac le Lundi 25 Aout 2014 \'e0 15h00, suivie de la cr\'e9mation dans la stricte intimit\'e9e familiale, condol\'e9ances sur registres, ni fleurs ni plaques, recueil de dons pour la recherche contre le cancer, cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=3685
+Tarif=250
+NbLignes=24
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=22/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

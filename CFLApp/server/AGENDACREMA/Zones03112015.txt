@@ -1,0 +1,146 @@
+Id=3112015
+Jourdate=03/11/2015
+With ZONE
+Id=3
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=6801
+Pf_ceremonie=PF PENA
+Nom_ceremonie=LE YONCOURT
+Prenom_ceremonie=MARIE-ROSE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6801
+Pf_cremation=PF PENA
+Nom_cremation=LE YONCOURT
+Prenom_cremation=MARIE-ROSE
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=1575
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=6807
+Pf_ceremonie=PFM
+Nom_ceremonie=SCHEERS
+Prenom_ceremonie=ARNAUD
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6807
+Pf_cremation=PFM
+Nom_cremation=SCHEERS
+Prenom_cremation=ARNAUD
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1574
+Four=1
+End With
+With ZONE
+Id=4
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=6806
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=VILLIEN
+Prenom_ceremonie=GILBERT
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de BOURGST MAURICE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6806
+Pf_cremation=PF DE SAVOY
+Nom_cremation=VILLIEN
+Prenom_cremation=GILBERT
+EvenementArrivee_cremation=Arrivée de BOURGST MAURICE
+FicheOccupe=Libre
+NoOrdre=1576
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=6810
+Pf_ceremonie=PFG MOUTIERS
+Nom_ceremonie=CHABERT
+Prenom_ceremonie=AUGUSTE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE
+CodeDft_cremation=6810
+Pf_cremation=PFG MOUTIERS
+Nom_cremation=CHABERT
+Prenom_cremation=AUGUSTE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+NoOrdre=1577
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6805
+Pf_ceremonie=PFM
+Nom_ceremonie=INGOUF
+Prenom_ceremonie=JEAN-NOEL
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6805
+Pf_cremation=PFM
+Nom_cremation=INGOUF
+Prenom_cremation=JEAN-NOEL
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1578
+Four=2
+End With

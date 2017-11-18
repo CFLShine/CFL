@@ -1,0 +1,119 @@
+Id=11072013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1276.txt
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=MOLLARET
+Prenom=ANNA
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de SAINT JEAN DE MAURIENNE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE URNE
+NoOrdre=847
+Four=1
+CodeDft=1276
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1270.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=VECCHIO
+Prenom=Francesco
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:30
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=848
+Four=2
+CodeDft=1270
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1268.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=BELLEMIN
+Prenom=JACKY
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMOUX
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'urne
+NoOrdre=849
+Four=1
+CodeDft=1268
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1269.txt
+Pf=PF CHALLESIENNES
+Conseiller=Marie-Pierre PINET
+Nom=MARGUET
+Prenom=ELISABETH
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=850
+Four=2
+CodeDft=1269
+End With

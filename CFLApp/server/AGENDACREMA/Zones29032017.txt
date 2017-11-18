@@ -1,0 +1,164 @@
+Id=29032017
+Jourdate=29/03/2017
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10489
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=DELORME
+Prenom_ceremonie=ANDRE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10489
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=DELORME
+Prenom_cremation=ANDRE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=496
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10499
+Pf_ceremonie=PFM
+Nom_ceremonie=PITTION
+Prenom_ceremonie=JACKY
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10499
+Pf_cremation=PFM
+Nom_cremation=PITTION
+Prenom_cremation=JACKY
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=492
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 14H
+SaisieOccupe=Libre
+CodeDft_ceremonie=10500
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=FREY
+Prenom_ceremonie=HELENE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVIILLE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10500
+Pf_cremation=PF POMMAT
+Nom_cremation=FREY
+Prenom_cremation=HELENE
+EvenementArrivee_cremation=Arrivée de ALBERTVIILLE
+FicheOccupe=Libre
+NoOrdre=493
+Four=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=FAMILLE RECUPERE
+SaisieOccupe=Libre
+CodeDft_ceremonie=10496
+Pf_ceremonie=BALDINI
+Nom_ceremonie=GIROUD
+Prenom_ceremonie=YVETTE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10496
+Pf_cremation=BALDINI
+Nom_cremation=GIROUD
+Prenom_cremation=YVETTE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+NoOrdre=494
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=10502
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=GODMENT
+Prenom_ceremonie=TENDY
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL DE CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie PROTESTANTE Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ENFANT D'UNE SEMAINE 
+CodeDft_cremation=10502
+Pf_cremation=PF POMMAT
+Nom_cremation=GODMENT
+Prenom_cremation=TENDY
+EvenementArrivee_cremation=Arrivée de HOPITAL DE CHAMBERY
+FicheOccupe=Libre
+NoOrdre=495
+Four=2
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10507
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=ROLLET
+Prenom_ceremonie=ANGELE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE 
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10507
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=ROLLET
+Prenom_cremation=ANGELE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE 
+FicheOccupe=Libre
+NoOrdre=497
+Four=2
+End With

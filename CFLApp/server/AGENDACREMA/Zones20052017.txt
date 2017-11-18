@@ -1,0 +1,115 @@
+Id=20052017
+Jourdate=20/05/2017
+With ZONE
+Id=0
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION - 
+SaisieOccupe=Libre
+CodeDft_ceremonie=10826
+Pf_ceremonie=PFM
+Nom_ceremonie=ARIAS
+Prenom_ceremonie=FRANCOIS
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+End With
+With ZONE
+Id=4
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=7
+EvenementCommentaire=PAS DE CREMATION  CREMATION POSSIBLE à 18h00 CEREMONIE 17h15
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10836
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=BENKHERFELLAH
+Prenom_ceremonie=MOKHTAR
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10836
+Pf_cremation=PF SEDRAN
+Nom_cremation=BENKHERFELLAH
+Prenom_cremation=MOKHTAR
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=719
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=10843
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=OFFNER
+Prenom_ceremonie=YVONNE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10843
+Pf_cremation=PF BALDINI
+Nom_cremation=OFFNER
+Prenom_cremation=YVONNE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=720
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10847
+Pf_ceremonie=PFM
+Nom_ceremonie=BENITO
+Prenom_ceremonie=GABRIEL
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10847
+Pf_cremation=PFM
+Nom_cremation=BENITO
+Prenom_cremation=GABRIEL
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=721
+Four=
+End With

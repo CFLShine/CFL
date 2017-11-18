@@ -1,0 +1,14 @@
+Id=5634
+DefuntNom=DOWNHAM
+DefuntPrenom=ROBERT
+DefuntDecesDate=26/05/2015
+ArriveeCommune=ALBERTVILLE
+ArriveeDate=30/05/2015
+ArriveeHeure=11:45
+PfArrivee=PF FLORET
+CeremonieCrematoriumDate=30/05/2015
+CeremonieCrematoriumHeure=11:45
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Geste d'adieu
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5634

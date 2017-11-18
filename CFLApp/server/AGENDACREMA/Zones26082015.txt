@@ -1,0 +1,141 @@
+Id=26082015
+Jourdate=26/08/2015
+With ZONE
+Id=2
+EvenementCommentaire=LES PF ATTENDRONT ET RECUPERERONT  L'URNE 
+SaisieOccupe=Libre
+CodeDft_ceremonie=6300
+Pf_ceremonie=PF ALPINES
+Nom_ceremonie=GARIN
+Prenom_ceremonie=MARION
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de GRENOBLE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6300
+Pf_cremation=PF ALPINE
+Nom_cremation=GARIN
+Prenom_cremation=MARION
+EvenementArrivee_cremation=Arrivée de GRENOBLE
+FicheOccupe=Libre
+NoOrdre=1257
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=6304
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=BLANC
+Prenom_ceremonie=EUGENE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6304
+Pf_cremation=PF DE SAVOY
+Nom_cremation=BLANC
+Prenom_cremation=EUGENE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=1258
+Four=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=6310
+Pf_ceremonie=PF AOSTE
+Nom_ceremonie=ABEL-COINDRE
+Prenom_ceremonie=GISELE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST GENIX SUR GUIERS
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CONFIRMATION OK LOIC
+CodeDft_cremation=6310
+Pf_cremation=PF AOSTE
+Nom_cremation=ABEL-COINDRE
+Prenom_cremation=GISELE
+EvenementArrivee_cremation=Arrivée de ST GENIX SUR GUIERS
+FicheOccupe=Libre
+NoOrdre=1259
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6302
+Pf_ceremonie=PF MERCIER
+Nom_ceremonie=RIVIER
+Prenom_ceremonie=DANIEL
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de AVENIERES
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6302
+Pf_cremation=PF MERCIER
+Nom_cremation=RIVIER
+Prenom_cremation=DANIEL
+EvenementArrivee_cremation=Arrivée de AVENIERES
+FicheOccupe=Libre
+NoOrdre=1260
+Four=2
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6306
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=FRAISSARD
+Prenom_ceremonie=MARCEL
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de BOURG ST MAURICE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6306
+Pf_cremation=PF DE SAVOY
+Nom_cremation=FRAISSARD
+Prenom_cremation=MARCEL
+EvenementArrivee_cremation=Arrivée de BOURG ST MAURICE
+FicheOccupe=Libre
+NoOrdre=1261
+Four=2
+End With

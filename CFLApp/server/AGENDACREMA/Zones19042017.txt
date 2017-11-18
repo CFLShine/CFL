@@ -1,0 +1,191 @@
+Id=19042017
+Jourdate=19/04/2017
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=10633
+Pf_ceremonie=PFM
+Nom_ceremonie=TROMBERT
+Prenom_ceremonie=JEANNINE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+HeuretArrivee_ceremonie=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10647
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=ALBERT
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de AIX-LES-BAINS
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10647
+Pf_cremation=PF SEDRAN
+Nom_cremation=ALBERT
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de AIX-LES-BAINS
+FicheOccupe=Libre
+NoOrdre=589
+Four=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=10641
+Pf_ceremonie=BAUDRION
+Nom_ceremonie=OLLIER
+Prenom_ceremonie=AGNES
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de LA TRONCHE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE 
+CodeDft_cremation=10641
+Pf_cremation=BAUDRION
+Nom_cremation=OLLIER
+Prenom_cremation=AGNES
+EvenementArrivee_cremation=Arrivée de LA TRONCHE
+NoOrdre=590
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_ceremonie=10643
+Pf_ceremonie=PFM
+Nom_ceremonie=FAUSTIN
+Prenom_ceremonie=DENISE
+CodeDft_cremation=10643
+Pf_cremation=PFM
+Nom_cremation=FAUSTIN
+Prenom_cremation=DENISE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=591
+Four=1
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=10636
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=ROCHE
+Prenom_ceremonie=MARIE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10636
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=ROCHE
+Prenom_cremation=MARIE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=592
+Four=2
+End With
+With ZONE
+Id=6
+EvenementCommentaire=ORDONNATEUR PFM , PIN , LA FAMILLE RECUPERE
+SaisieOccupe=Libre
+CodeDft_ceremonie=10635
+Pf_ceremonie=PF PENA
+Nom_ceremonie=GAUCHER
+Prenom_ceremonie=SOLANGE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10635
+Pf_cremation=PF PENA
+Nom_cremation=GAUCHER
+Prenom_cremation=SOLANGE
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=594
+Four=1
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=10642
+Pf_ceremonie=PFG BOURG ST MAURICE
+Nom_ceremonie=DURAND
+Prenom_ceremonie=ERIC
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de BOURG SAINT MAURICE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE - NE PAS SCELLER L'URNE
+CodeDft_cremation=10642
+Pf_cremation=PFG BOURG ST MAURICE
+Nom_cremation=DURAND
+Prenom_cremation=ERIC
+EvenementArrivee_cremation=Arrivée de BOURG SAINT MAURICE
+FicheOccupe=Libre
+NoOrdre=595
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

@@ -1,0 +1,157 @@
+Id=14092015
+JourDate=14/09/2015
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6429
+Comment_0=10 H DISPERSION JARDIN DU SOUVENIR CHARRIERE NEUVE
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6437
+Comment_0=PREVOIR ORDONNATEUR PFM   POUR PF MOUCHE  
+Comment_1=URNE RECUPEREE PAR PF MOUCHE   
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6444
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=26
+EquipeId_1=5
+EquipeId_2=6
+EquipeId_3=58
+Ordo=KAELBERER Eric
+Equipe_0=WALLYN Benoît
+Equipe_1=MILLON Patrick
+Equipe_2=PINTOUT Bruno
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6449
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6462
+Comment_0=mise en biere et fermeture a 16h45
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=7
+EquipeId_1=8
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=JACQUIER Michel
+Equipe_1=ESPINOZA François
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=5
+CodeDft=6458
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=6
+CodeDft=6463
+DemiJour=1
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=7
+CodeDft=6453
+DemiJour=0
+Pos=2
+UsedBy=
+End With
+With ZONE
+Id=8
+CodeDft=6457
+DemiJour=1
+Pos=2
+UsedBy=
+End With
+With ZONE
+Id=9
+CodeDft=6461
+DemiJour=1
+Pos=3
+UsedBy=
+End With

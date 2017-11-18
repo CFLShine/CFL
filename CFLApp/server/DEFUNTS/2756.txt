@@ -1,0 +1,16 @@
+Id=2756
+New=
+DefuntNom=PEYLIN
+DefuntPrenom=ALEXANDRE
+DefuntDecesDate=09/03/2014
+CodeDefunt=2756
+ReceptionDate=11/03/2014
+CremationArriveeDe=CHAMBERY
+CeremonieCrematoriumDate=14/03/2014
+CeremonieCrematoriumHeure=10:15
+CeremonieCrematoriumLieu=Cf
+CeremonieCrematoriumType=Civile
+CremationDate=
+CremationCommune=
+Conseiller=Loïc TREVARAIN
+PfArrivee=PF CHAMBERIENNES

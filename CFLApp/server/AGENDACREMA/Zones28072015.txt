@@ -1,0 +1,73 @@
+Id=28072015
+Jourdate=28/07/2015
+With ZONE
+Id=3
+EvenementCommentaire=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+HeureArrivee_cremation=
+HeureCremation=
+EvenementArrivee_cremation=
+EvenementCremation=
+CodeDft_ceremonie=6098
+Pf_ceremonie=PFM
+Nom_ceremonie=GIRERD 
+Prenom_ceremonie=CLAUDIA 
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCommentaire=
+Police=True
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=6097
+Pf_ceremonie=FLORET
+Nom_ceremonie=DEVILLE CAVELLIN
+Prenom_ceremonie=CLAUDE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6097
+Pf_cremation=FLORET
+Nom_cremation=DEVILLE CAVELLIN
+Prenom_cremation=CLAUDE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1119
+Four=2
+End With

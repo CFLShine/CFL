@@ -1,0 +1,53 @@
+Id=27012013
+With ZONE
+Id=18
+CodeZone=18
+Pos=0
+DemiJour=1
+AdressDft=\DONNEES\DONNEES2013\231.txt
+Ordo=
+OrdoOk=white
+Equipe_0=BOULET Jean-Louis
+Equipe_1=AVERONE David
+Equipe_2=
+Equipe_3=
+EquipeOk_0=red
+EquipeOk_1=red
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Ginette GAYRAUD
+Pf=PFM
+DefuntNom=VILLOUD
+DefuntPrenom=JEAN - MARIE
+Saisie=TAMB1
+Heure_0=18:00
+Ev_0=TAMB depuisDOMICILE SONNAZ vers Centre funéraire
+Comment_0=
+CodeDft=231
+End With
+With ZONE
+Id=19
+CodeZone=19
+Pos=1
+DemiJour=1
+AdressDft=\DONNEES\DONNEES2013\235.txt
+Ordo=
+OrdoOk=white
+Equipe_0=BOULET Jean-Louis
+Equipe_1=AVERONE David
+Equipe_2=
+Equipe_3=
+EquipeOk_0=red
+EquipeOk_1=red
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Jean-Luc PEYREDIEU
+Pf=PFM
+DefuntNom=RAVANAT
+DefuntPrenom=Dominique
+Saisie=TAMB1
+Heure_0=22:30
+Ev_0=TAMB depuisMedipole Challes vers Centre funéraire
+Comment_0=
+CodeDft=235
+End With

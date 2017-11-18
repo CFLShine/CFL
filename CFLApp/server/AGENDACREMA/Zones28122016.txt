@@ -1,0 +1,216 @@
+Id=28122016
+Jourdate=28/12/2016
+With ZONE
+Id=0
+EvenementCommentaire=BEBE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9727
+Pf_ceremonie=PFM
+Nom_ceremonie=PELLITTERI
+Prenom_ceremonie=ANGE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de CIMETIERE
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9727
+Pf_cremation=PFM
+Nom_cremation=PELLITTERI
+Prenom_cremation=ANGE
+EvenementArrivee_cremation=Arrivée de CIMETIERE
+NoOrdre=1839
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=PIN, LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9751
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=NOVEL
+Prenom_ceremonie=SABINE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9751
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=NOVEL
+Prenom_cremation=SABINE
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+NoOrdre=1840
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9741
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=DAMIEN
+Prenom_ceremonie=LOUISE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9741
+Pf_cremation=PF POMMAT
+Nom_cremation=DAMIEN
+Prenom_cremation=LOUISE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1841
+Four=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9744
+Pf_ceremonie=PF CHAMBERIENNES
+Nom_ceremonie=DROUHARD
+Prenom_ceremonie=SIMON
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9744
+Pf_cremation=PF CHAMBERIENNES
+Nom_cremation=DROUHARD
+Prenom_cremation=SIMON
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1842
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE 
+SaisieOccupe=Libre
+CodeDft_ceremonie=9759
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=FAZENDE
+Prenom_ceremonie=JEAN-PIERRE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9759
+Pf_cremation=PF SEDRAN
+Nom_cremation=FAZENDE
+Prenom_cremation=JEAN-PIERRE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1843
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9745
+Pf_ceremonie=PFM
+Nom_ceremonie=LUCCHETTI
+Prenom_ceremonie=ROBERT
+CodeDft_cremation=9745
+Pf_cremation=PFM
+Nom_cremation=LUCCHETTI
+Prenom_cremation=ROBERT
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1844
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=CERCUIEL EN CHENE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9754
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=ROSSI
+Prenom_ceremonie=DANILO
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9754
+Pf_cremation=PFG MACHE
+Nom_cremation=ROSSI
+Prenom_cremation=DANILO
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1845
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9739
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=PRIEUR
+Prenom_ceremonie=FREDERIC
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9739
+Pf_cremation=PF FLORET
+Nom_cremation=PRIEUR
+Prenom_cremation=FREDERIC
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1846
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

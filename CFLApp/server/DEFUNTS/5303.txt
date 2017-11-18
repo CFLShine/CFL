@@ -1,0 +1,243 @@
+Id=-1
+CodeDefunt=5303
+SepultureCimetiere=
+SepultureCommune=AILLON LE VIEUX
+SepultureType=Caveau ouverture devant
+Concessionaire=False
+AyantDroit=False
+SepultureProvisoire=False
+ConcessionDPINom=
+ConcessionDPINomJF=
+ConcessionDPIPrenom=
+ConcessionDPIAnnee=
+ConcessionAquiseParNom=
+ConcessionAquiseParPrenom=
+ConcessionAquiseDate=  /  /
+ConcessionDuree=
+ConcessionDesignation=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+SepultureDivision=
+SepultureSection=
+SepultureCarre=
+SepultureLigne=
+SepultureTombe=
+DefuntNationalite=
+DefuntTitre=Madame
+DefuntAdresse2=
+DefuntProfession=
+DefuntAdresseCommune=
+DefuntAdresseCodPost=
+DefuntAdresse=
+DefuntNaissancePays=
+DefuntNaissanceDepartement=
+DefuntNaissanceCommune=
+DefuntPrenoms=
+DefuntPrenom=NADINE
+DefuntNomJF=
+DefuntNom=PALMERINI
+DefuntNaissanceDate=11/05/1959
+DefuntDecesDate=  /  /
+DefuntDecesHeure=  :
+DefuntDecesAdresse=
+DefuntDecesMedecin=
+DefuntDecesPays=
+DefuntDecesCommune=
+DefuntMereDecede=False
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=
+DefuntMereNom=
+DefuntPereDecede=False
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=
+DefuntPereNom=
+DefuntMariageDate=  /  /
+DefuntDivorseDate=  /  /
+DefuntSituationDecesDate=  /  /
+DefuntSituationNaissanceDate=  /  /
+DefuntNbEnfantsVivants=
+DefuntNbEnfants=
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=
+DefuntSituationNom=
+PouvQualite=Conjoint
+PouvNom=
+PouvPrenom=
+PouvNomJF=
+PouvAdresse=
+PouvAdresse2=
+PouvCodePost=
+PouvCommune=
+PouvTel1=
+PouvTel2=
+PouvMail=
+ReceptionDate=15/04/2015
+Conseiller=Nicolas PACHOUD
+TAMB1Vehicule=
+PfTAMB1=
+TAMB1ArriveeLieu=
+TAMB1DepartLieu=
+TAMB1Date=  /  /
+TAMB1ArriveeHeure=  :
+Requisition=False
+TAMB2Vehicule=
+PfTAMB2=
+TAMB2ArriveeLieu=
+TAMB2DepartLieu=
+TAMB2Date=  /  /
+TAMB2ArriveeHeure=  :
+PfMEB=PFM
+MEBCommune=
+ArriveeCommune=
+MEBDate=17/04/2015
+ArriveeDate=
+MEBHeure=08:15
+ArriveeHeure=
+MEBLieu=HOPITAL DE CHAMBERY
+ArriveeLieu=
+MEBDistanceCf=
+Salon=False
+SalonCase_Name=
+CeremonieDate=17/04/2015
+CeremonieHeure=09:15
+CeremonieLieu=EGLISE DE LA RAVOIRE
+CeremonieType=Religieuse
+PfCeremonie=PFM
+CeremonieDistanceCf=
+CeremonieRegistre=False
+Presse=False
+BourseADons=False
+PfTransport=
+TransportDate=  /  /
+TransportDepartLieu=
+TransportArriveeLieu=
+TransportDepartHeure=  :
+TransportArriveeHeure=  :
+TransportVehicule=
+TransportDistanceCf=
+PfInhumation=PFM
+InhumationDate=17/04/2015
+InhumationHeure=11:00
+InhumationSepulture=1
+PfInhumation2=
+Inhumation2Date=  /  /
+Inhumation2Heure=  :
+Inhumation2Sepulture=
+DispersionDate=  /  /
+DispersionHeure=  :
+DispersionLieu=
+DispersionCommune=
+PfDispersion=
+RDVOrdonnateurHeure=
+RDVOrdonnateurDate=
+SoinsDate=
+CremationDate=
+ExhumationDate=
+With A FAIRE
+Id=0
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=15/04/2015 11:22:02
+DateFait=15/04/2015 17:49:46
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul21]
+Fait=True
+Perso=False
+DateAFaire=15/04/2015 11:22:02
+DateFait=15/04/2015 17:49:47
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=2
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=15/04/2015 11:22:02
+DateFait=15/04/2015 17:49:48
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=3
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=15/04/2015 11:22:02
+DateFait=15/04/2015 17:49:48
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=4
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=15/04/2015 11:22:02
+DateFait=15/04/2015 17:49:49
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=5
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=15/04/2015 11:22:02
+DateFait=15/04/2015 17:49:49
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=6
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=15/04/2015 11:22:02
+DateFait=15/04/2015 17:49:50
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=7
+Intitule=[Intitul4]
+Fait=True
+Perso=False
+DateAFaire=15/04/2015 11:22:02
+DateFait=15/04/2015 17:49:50
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=8
+Intitule=[Intitul3]
+Fait=True
+Perso=False
+DateAFaire=15/04/2015 11:22:02
+DateFait=15/04/2015 17:49:52
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=9
+Intitule=[Intitul16]
+Fait=True
+Perso=False
+DateAFaire=15/04/2015 11:22:02
+DateFait=15/04/2015 17:49:52
+FaitPar=Marion TREBOUTE
+End With
+With PRESSE
+Id=0
+Type=Avis
+Parution=16/04/2015
+End With
+With PRESSE
+Id=1
+Type=Erratum
+Parution=18/04/2015
+End With

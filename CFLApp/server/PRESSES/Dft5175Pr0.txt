@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=620
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Chamb\'e9ry, St Jean de Maurienne, Italie,\f1\par<Ret>\f0 Anna, son \'e9pouse,\f1\par<Ret>\f0 Marie-Louise, Alexandra, Gabrielle et Franck, ses enfants,\f1\par<Ret>\f0 Yves Tarchini, son gendre,\f1\par<Ret>\f0 Elsa et Kevin, ses petits enfants,\f1\par<Ret>\f0 Tressia, son arri\'e8re petite fille,\f1\par<Ret>\f0 Idelma et Jean, sa soeur, son \'e9poux et leurs enfants,\f1\par<Ret>\f0 Clarisse trabucco et ses enfants,\f1\par<Ret>\f0 Therese Di Dirolamo, sa belle soeur et ses enfants,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Monsieur Vicenzo VIOLA\f1\par<Ret>\f0\'e0 l'\'e2ge de 80 ans\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie sera c\'e9l\'e9br\'e9e le Jeudi 2 Avril 2015 en l'Eglise de Chamb\'e9ry le Haut \'e0 quinze heures, suivie de l'inhumation au cimetiere de Charriere Neuve,\f1\par<Ret>\f0 Condol\'e9ances sur registres.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\f1\par<Ret>\pard\par<Ret>\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=5175
+Tarif=290
+NbLignes=29
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=31/03/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

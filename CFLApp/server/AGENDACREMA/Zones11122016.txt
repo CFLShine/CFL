@@ -1,0 +1,72 @@
+Id=11122016
+Jourdate=11/12/2016
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=9621
+Pf_ceremonie=BALDINI
+Nom_ceremonie=ARNAUD 
+Prenom_ceremonie=MARIE CLAUDE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CREMATION VENDREDI 09 DECEMBRE 14h00
+CodeDft_cremation=9621
+Pf_cremation=BALDINI
+Nom_cremation=ARNAUD 
+Prenom_cremation=MARIE CLAUDE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+NoOrdre=1738
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=9634
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=CARRAZ
+Prenom_ceremonie=JEANNE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT
+CodeDft_cremation=9634
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=CARRAZ
+Prenom_cremation=JEANNE
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1747
+Four=1
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With

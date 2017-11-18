@@ -1,0 +1,213 @@
+Id=29012017
+Jourdate=29/01/2017
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=10042
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=GENET
+Prenom_ceremonie=HORTENSE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PIN LES PF RECUPERENT
+CodeDft_cremation=10042
+Pf_cremation=PF POMMAT
+Nom_cremation=GENET
+Prenom_cremation=HORTENSE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=164
+Four=1
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=10075
+Pf_ceremonie=PF AOSTE
+Nom_ceremonie=CHEVILLARD
+Prenom_ceremonie=BERNARD
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de AOSTE
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10075
+Pf_cremation=PF AOSTE
+Nom_cremation=CHEVILLARD
+Prenom_cremation=BERNARD
+EvenementArrivee_cremation=Arrivée de AOSTE
+FicheOccupe=Libre
+NoOrdre=192
+Four=2
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=10077
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=JAUDOIN
+Prenom_ceremonie=JEAN-FRANCOIS
+HeureArrivee_ceremonie=08:45
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=08:45
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10077
+Pf_cremation=PF MAURIENNAISE
+Nom_cremation=JAUDOIN
+Prenom_cremation=JEAN-FRANCOIS
+EvenementArrivee_cremation=Arrivée de HOPITAL CHAMBERY
+NoOrdre=187
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=10083
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=VALLET
+Prenom_ceremonie=MARCEL
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX-LES-BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10083
+Pf_cremation=PF SEDRAN
+Nom_cremation=VALLET
+Prenom_cremation=MARCEL
+EvenementArrivee_cremation=Arrivée de AIX-LES-BAINS
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=10065
+Pf_ceremonie=PFM
+Nom_ceremonie=NARDINI
+Prenom_ceremonie=FRANCOISE
+CodeDft_cremation=10065
+Pf_cremation=PFM
+Nom_cremation=NARDINI
+Prenom_cremation=FRANCOISE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=183
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=10061
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=BOURGEOLET
+Prenom_ceremonie=ALPHONSE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10061
+Pf_cremation=PF DE SAVOY
+Nom_cremation=BOURGEOLET
+Prenom_cremation=ALPHONSE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=173
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=10069
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=RAMS
+Prenom_ceremonie=THOMAS
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS DE FAMILLE
+CodeDft_cremation=10069
+Pf_cremation=PF DE SAVOY
+Nom_cremation=RAMS
+Prenom_cremation=THOMAS
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+NoOrdre=177
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=10072
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=JEANNET 
+Prenom_ceremonie=PIERRE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10072
+Pf_cremation=PF FLORET
+Nom_cremation=JEANNET 
+Prenom_cremation=PIERRE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=168
+Four=1
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

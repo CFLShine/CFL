@@ -1,0 +1,132 @@
+Id=28032014
+Jourdate=28/03/2014
+Version=NouveauFormat
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=2831
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=ROSI
+Prenom=ODETTE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE 
+NoOrdre=394
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=2832
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=MATHIEU
+Prenom=SIMONNE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=396
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=2838
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=PIGGIO
+Prenom=MICHEL
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE  PF RECUPERENT
+FicheOccupe=Libre
+NoOrdre=397
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=2841
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=GILBERT COLLET
+Prenom=SERGE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=399
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=LA FAMILLE RECUPERE PREVOIR UN ORDO PFM
+SaisieOccupe=Libre
+CodeDft=2843
+Pf=PF TONIN COIFFET
+Conseiller=Marion TREBOUTE
+Nom=SERPOLLET
+Prenom=SUZANNE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CULOZ
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=398
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=2844
+Pf=PF DE SAVOY
+Conseiller=Loïc TREVARAIN
+Nom=CHAPUT
+Prenom=MARIE RENEE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=09:15
+EvenementCeremonie=
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS DE FAMILLE DEPOT DU CERCUEIL JEUDI 27 MARS 
+FicheOccupe=Libre
+NoOrdre=395
+Four=1
+End With
+With ZONE
+Id=7
+End With

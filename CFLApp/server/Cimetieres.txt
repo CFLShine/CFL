@@ -1,0 +1,13 @@
+Id=-1
+With TIERS
+Id=0
+Code=0
+Name=CHARRIERE NEUVE
+Var1=
+Var2=
+Var3=CHAMBERY
+Var4=
+Var5=
+Var6=
+Var7=
+End With

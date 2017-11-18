@@ -1,0 +1,219 @@
+Id=16052017
+JourDate=16/05/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10791
+Comment_0=ARRIVEE DIRECTE AU CIMETIERE PREVOIR PORTEURS+ORDO
+Comment_1=DEPOSE ET REPOSE MONUMENT + CREUSEMENT PAR NOS SERVICES
+HeureComment=16:00
+OrdoId=11
+EquipeId_0=58
+EquipeId_1=51
+EquipeId_2=76
+EquipeId_3=60
+Ordo=FAVRIN Thierry
+Equipe_0=MULDER Michaël
+Equipe_1=POIRAUD Guy
+Equipe_2=PIERRE Hugo
+Equipe_3=DUMAZ Rémy
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10805
+Comment_0=REGROUPEMENT DE GERELLI JOSEPH ET GERELLI CATHRINE.
+Comment_1=REGROUPEMENT DE EYNARD-MACHET RAYMONDE ET EYNARD-MACHET VIRGINIE
+HeureComment=  :
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10806
+Comment_0=SANS FAMILLE - CEREMONIE LA VEILLE A 14H15
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10808
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=73
+EquipeId_0=5
+EquipeId_1=7
+EquipeId_2=8
+EquipeId_3=-1
+Ordo=FRANZINI Karine
+Equipe_0=MILLON Patrick
+Equipe_1=JACQUIER Michel
+Equipe_2=ESPINOZA François
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10753
+Comment_0=PAS DE PERSONNEL PFM
+Comment_1=LA FAMILLE AMENE L URNE AU CIMETIERE
+HeureComment=  :
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10814
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=73
+EquipeId_0=5
+EquipeId_1=14
+EquipeId_2=11
+EquipeId_3=7
+Ordo=FRANZINI Karine
+Equipe_0=MILLON Patrick
+Equipe_1=KAELBERER Eric
+Equipe_2=FAVRIN Thierry
+Equipe_3=JACQUIER Michel
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10812
+Comment_0=PREVOIR ORDO PFM
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10821
+Comment_0=ORDONNATEUR PFM POUR PF MAURIENNAISES
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=8
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10766
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=9
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=10825
+Comment_0=INHUMATION  ALLEREY
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=10
+CodeDft=10837
+DemiJour=0
+Pos=1
+UsedBy=
+End With

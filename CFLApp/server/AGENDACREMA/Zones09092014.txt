@@ -1,0 +1,95 @@
+Id=9092014
+Jourdate=09/09/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3762
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=BLANC
+Prenom=GUY
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1080
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3759
+Pf=PF PENA
+Conseiller=Marie-Pierre PINET
+Nom=CHAVASSE RIONDET
+Prenom=NADINE
+HeureArrivee=12:15
+HeureCeremonie=
+HeureCremation=13:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=
+NoOrdre=1081
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3763
+Pf=PF ALPES SAVOIE
+Conseiller=Loïc TREVARAIN
+Nom=CHAMIOT PONCET
+Prenom=DENIS
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  
+NoOrdre=1083
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3771
+Pf=PF BALDINI
+Conseiller=Marion TREBOUTE
+Nom=ROBIN
+Prenom=SUZANNE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE LES CENDRES 
+NoOrdre=1082
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=5
+End With

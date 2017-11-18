@@ -1,0 +1,113 @@
+Id=27082014
+Jourdate=27/08/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+CodeDft=3702
+Pf=PFG MOUTIERS
+Conseiller=Marie-Pierre PINET
+Nom=JAY
+Prenom=ANAIS
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1037
+Four=1
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3703
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=MEDARD
+Prenom=CLEMENT
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=1038
+Four=2
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3704
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+Nom=BERNARD
+Prenom=JEAN -LUC
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=False
+FicheOccupe=Libre
+NoOrdre=1039
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3706
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=CHALIER
+Prenom=MICHELLE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1036
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=4
+End With

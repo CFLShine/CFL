@@ -1,0 +1,116 @@
+Id=6122013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+HeureCeremonie=
+HeureCremation=
+HeureCommentaire=
+EvenementArrivee=
+EvenementCeremonie=
+EvenementCremation=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES1900\2137.txt
+Pf=PF BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=CONREUR
+Prenom=PAUL/ANTOINE/MARIE
+HeureArrivee=
+EvenementArrivee=Arrivée de AIIX LES BAINS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie  PAS DE FAMILLE
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=GRAND CERCUEIL  EXHUMATION 3 CORPS
+NoOrdre=1472
+Four=2
+CodeDft=2137
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2129.txt
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=ROSSERO
+Prenom=VIVALTO
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de ST JEAN
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1473
+Four=1
+CodeDft=2129
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2139.txt
+Pf=AJEPI SAVOIE 
+Conseiller=Marie-Pierre PINET
+Nom=KIEFFER
+Prenom=GEORGETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION    PF RECUPERENT
+NoOrdre=1474
+Four=2
+CodeDft=2139
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With

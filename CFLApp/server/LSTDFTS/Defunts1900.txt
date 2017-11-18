@@ -1,0 +1,15 @@
+Id=1900
+With DEFUNT
+Id=2928
+Nom=DUCHOSAL
+Prenom=JOSEPH
+DecesDate=01/01/1900
+CodeDft=2928
+End With
+With DEFUNT
+Id=3798
+Nom=GRIOT
+Prenom=Georges
+DecesDate=01/01/1900
+CodeDft=3798
+End With

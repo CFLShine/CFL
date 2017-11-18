@@ -1,0 +1,175 @@
+Id=4032013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=2
+NoZONE=2
+AdresseFicheDefunt=\DONNEES\DONNEES2013\465.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marion TREBOUTE
+Pf=PFM
+Nom=VOIRON
+Prenom=MAURICE
+NoOrdre=289
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Four=1
+CodeDft=465
+End With
+With ZONE
+Id=3
+NoZONE=3
+AdresseFicheDefunt=\DONNEES\DONNEES2013\464.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PF PENA
+Nom=BARBIAN
+Prenom=PIERRETTE
+NoOrdre=290
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF doivent confirmer qui va récupérer
+Four=2
+CodeDft=464
+End With
+With ZONE
+Id=4
+NoZONE=4
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+AdresseFicheDefunt=\DONNEES\DONNEES2013\449.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=PF TONIN COIFFET
+Nom=BAILLY
+Prenom=CHARLES
+NoOrdre=291
+HeureArrivee=
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie GESTE D'ADIEU Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Four=2
+CodeDft=449
+End With
+With ZONE
+Id=6
+NoZONE=6
+AdresseFicheDefunt=\DONNEES\DONNEES2013\446.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=EHNY Maxime
+Pf=PF DE SAVOIE
+Nom=EYNARD MACHET
+Prenom=ADOLPHE
+NoOrdre=292
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=Les P.F récupèrent les cendres
+Four=1
+CodeDft=446
+End With
+With ZONE
+Id=7
+NoZONE=7
+AdresseFicheDefunt=\DONNEES\DONNEES2013\450.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Jean-Luc PEYREDIEU
+Pf=PFM
+Nom=CHAMBONNET
+Prenom=Jean-Charles
+NoOrdre=293
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=Famille récupère urne non-scellée
+Four=2
+CodeDft=450
+End With

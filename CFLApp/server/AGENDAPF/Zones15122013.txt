@@ -1,0 +1,24 @@
+Id=15122013
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2013\2214.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=CARPENTIER
+DefuntPrenom=Laurent
+Heure_0=10:00
+Ev_0=Réquisition depuis St Alban Leysse vers Centre funéraire
+Comment_0=
+Comment_1=
+Equipe_0=KAELBERER Eric
+Equipe_1=MILLON Patrick
+CodeDft=2214
+End With

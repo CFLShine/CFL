@@ -1,0 +1,5 @@
+Agent=averone
+Provenance=hopital chambery
+Nature=2 foetus
+Four=2
+NoOrdre=150

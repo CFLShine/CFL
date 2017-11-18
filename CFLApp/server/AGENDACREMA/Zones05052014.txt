@@ -1,0 +1,144 @@
+Id=5052014
+Jourdate=05/05/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3062
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=MOLLARD
+Prenom=GISELE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=569
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3089
+Pf=PF SEDRAN
+Conseiller=
+Nom=SERRANO
+Prenom=EMILIENNE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=567
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3068
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=MUGNIER
+Prenom=GEORGES
+HeureArrivee=
+EvenementArrivee=Arrivée de AI X LES BAINS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION   PF RECUPERENT
+NoOrdre=571
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3071
+Pf=PF FLORET
+Conseiller=Jean-Luc PEYREDIEU
+Nom=SADDIER
+Prenom=Colette
+HeureArrivee=08:45
+EvenementArrivee=Arrivée de Albertville
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=565
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3074
+Pf=PF DU PLATEAU
+Conseiller=Marie-Pierre PINET
+Nom=MICHELETTI
+Prenom=JACQUES
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de HAUTEVILLE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=570
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3073
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=VOOGDEN
+Prenom=HENRI
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=566
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+NoOrdre=568
+Four=2
+SaisieOccupe=Libre
+CodeDft=3070
+Pf=PF FLORET
+Conseiller=Jean-Luc PEYREDIEU
+Nom=MONET
+Prenom=Maurice
+HeureArrivee=12:15
+HeureCeremonie=
+HeureCremation=13:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de Albertville
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=
+FicheOccupe=Libre
+End With

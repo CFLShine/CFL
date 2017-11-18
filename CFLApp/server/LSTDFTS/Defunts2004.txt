@@ -1,0 +1,36 @@
+Id=2004
+With DEFUNT
+Id=4278
+Nom=BARCAN
+Prenom=EMMA
+DecesDate=21/10/2004
+CodeDft=4278
+End With
+With DEFUNT
+Id=5705
+Nom=CHAPUIS
+Prenom=MARIE-CERISE
+DecesDate=04/02/2004
+CodeDft=5705
+End With
+With DEFUNT
+Id=2805
+Nom=MICHARD
+Prenom=JEAN
+DecesDate=14/10/2004
+CodeDft=2805
+End With
+With DEFUNT
+Id=4240
+Nom=MOUICI
+Prenom=ISSAN
+DecesDate=29/12/2004
+CodeDft=4240
+End With
+With DEFUNT
+Id=3022
+Nom=ROSSI
+Prenom=ROSS
+DecesDate=01/04/2004
+CodeDft=3022
+End With

@@ -1,0 +1,247 @@
+Id=18032016
+JourDate=18/03/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7805
+Comment_0=PAS DE PERSONNEL PFM, UNIQUEMENT CIMETIERE
+Comment_1=PAS DE FAMILLE SUR PLACE
+HeureComment=  :
+OrdoId=-1
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=7806
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=58
+EquipeId_1=60
+EquipeId_2=54
+EquipeId_3=17
+Ordo=KAELBERER Eric
+Equipe_0=MULDER Michaël
+Equipe_1=DUMAZ Rémy
+Equipe_2=BRUN Tony
+Equipe_3=MEGHEZZI Marc
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7812
+Comment_0=RDV FAMILLE 15h30/15h45   POUR PF MOUCHE
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=7810
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=58
+EquipeId_1=60
+EquipeId_2=54
+EquipeId_3=17
+Ordo=FAVRIN Thierry
+Equipe_0=MULDER Michaël
+Equipe_1=DUMAZ Rémy
+Equipe_2=BRUN Tony
+Equipe_3=MEGHEZZI Marc
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=7813
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=7
+EquipeId_1=6
+EquipeId_2=14
+EquipeId_3=58
+Ordo=FAVRIN Thierry
+Equipe_0=JACQUIER Michel
+Equipe_1=PINTOUT Bruno
+Equipe_2=KAELBERER Eric
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=7821
+Comment_0=L'EPOUX NOUS AMENE EGALEMENT L'URNE DE SON PAPA
+Comment_1=NOUS DISPERSONS LES 2 URNES EN MEME TEMPS
+HeureComment=  :
+OrdoId=26
+EquipeId_0=58
+EquipeId_1=8
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=MULDER Michaël
+Equipe_1=ESPINOZA François
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=7821
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=8
+EquipeId_1=58
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=ESPINOZA François
+Equipe_1=MULDER Michaël
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+CodeDft=7787
+Comment_0=TOILETTE RITUEL 09h00  MB 10h00  DEPART 10h30
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=8
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7822
+Comment_0=PREVOIR ORDO PFM ACCUEIL FAMILLE POUR TONIN COIFFET
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=9
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7824
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=10
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7788
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=11
+CodeDft=7835
+DemiJour=1
+Pos=1
+UsedBy=
+End With

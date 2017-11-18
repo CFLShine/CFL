@@ -1,0 +1,262 @@
+Id=-1
+With ZONE
+Id=0
+Lieu=Anémone
+Type=Salon
+Pos=0
+CodeDft=11749
+Comment=RESERVE M.PLOQUIN
+UsedBy=Libre
+UsedVy=Libre
+CodeSalon=A 2000
+End With
+With ZONE
+Id=1
+Lieu=Ancolie
+Type=Salon
+Pos=1
+CodeDft=10943
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+CodeSalon=A 2001
+End With
+With ZONE
+Id=2
+Lieu=Busserole
+Type=Salon
+Pos=2
+CodeDft=11763
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+CodeSalon=A 2002
+End With
+With ZONE
+Id=3
+Lieu=Campanule
+Type=Salon
+Pos=3
+CodeDft=11716
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+CodeSalon=A 2003
+End With
+With ZONE
+Id=4
+Lieu=Dauphinelle
+Type=Salon
+Pos=4
+CodeDft=11708
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+CodeSalon=A 2004
+End With
+With ZONE
+Id=5
+Lieu=Edelweiss
+Type=Salon
+Pos=5
+CodeDft=11734
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+CodeSalon=A 2005
+End With
+With ZONE
+Id=21
+Lieu=Gentiane
+Type=Salon
+Pos=6
+CodeDft=-1
+Comment=
+UsedBy=Libre
+CodeSalon=
+End With
+With ZONE
+Id=22
+Lieu=Soldanelle
+Type=Salon
+Pos=7
+CodeDft=-1
+Comment=
+UsedBy=Libre
+CodeSalon=
+End With
+With ZONE
+Id=6
+Lieu=Case positive 1
+Type=Case
+Pos=8
+CodeDft=11726
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+CodeSalon=
+End With
+With ZONE
+Id=7
+Lieu=Case positive 2
+Type=Case
+Pos=9
+CodeDft=11762
+Comment=
+UsedBy=Libre
+End With
+With ZONE
+Id=8
+Lieu=Case positive 3
+Type=Case
+Pos=10
+CodeDft=11739
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+End With
+With ZONE
+Id=9
+Lieu=Case positive 4
+Type=Case
+Pos=11
+CodeDft=11756
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+End With
+With ZONE
+Id=10
+Lieu=Case positive 5
+Type=Case
+Pos=12
+CodeDft=11733
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+CodeSalon=
+End With
+With ZONE
+Id=11
+Lieu=Case positive 6
+Type=Case
+Pos=13
+CodeDft=11759
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+CodeSalon=
+End With
+With ZONE
+Id=12
+Lieu=Case positive 7
+Type=Case
+Pos=14
+CodeDft=11761
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+End With
+With ZONE
+Id=13
+Lieu=Case positive 8
+Type=Case
+Pos=15
+CodeDft=-1
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+CodeSalon=
+End With
+With ZONE
+Id=14
+Lieu=Case positive 9
+Type=Case
+Pos=16
+CodeDft=-1
+Comment=
+UsedBy=Libre
+CodeSalon=
+End With
+With ZONE
+Id=15
+Lieu=Case positive 10
+Type=Case
+Pos=17
+CodeDft=-1
+Comment=
+UsedBy=Libre
+End With
+With ZONE
+Id=16
+Lieu=Case positive 11
+Type=Case
+Pos=18
+CodeDft=-1
+Comment=
+UsedBy=Libre
+End With
+With ZONE
+Id=17
+Lieu=Case positive 12
+Type=Case
+Pos=19
+CodeDft=-1
+Comment=
+UsedBy=Libre
+UsedVy=Libre
+End With
+With ZONE
+Id=23
+Lieu=Case positive 13
+Type=Case
+Pos=20
+CodeDft=-1
+Comment=
+UsedBy=Libre
+End With
+With ZONE
+Id=24
+Lieu=Case positive 14
+Type=Case
+Pos=21
+CodeDft=-1
+Comment=
+UsedBy=Libre
+End With
+With ZONE
+Id=25
+Lieu=Case positive 15
+Type=Case
+Pos=22
+CodeDft=-1
+Comment=
+UsedBy=Libre
+End With
+With ZONE
+Id=18
+Lieu=Case négative 1
+Type=CaseNeg
+Pos=23
+CodeDft=11426
+Comment=
+UsedBy=Libre
+End With
+With ZONE
+Id=19
+Lieu=Case négative 2
+Type=CaseNeg
+Pos=24
+CodeDft=-1
+Comment=
+UsedBy=Libre
+End With
+With ZONE
+Id=20
+Lieu=Case négative 3
+Type=CaseNeg
+Pos=25
+CodeDft=-1
+Comment=
+UsedBy=Libre
+End With

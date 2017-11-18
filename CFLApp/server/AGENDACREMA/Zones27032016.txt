@@ -1,0 +1,164 @@
+Id=27032016
+Jourdate=27/03/2016
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=7860
+Pf_ceremonie=BALDINI
+Nom_ceremonie=RADLOWSKI
+Prenom_ceremonie=ZENON
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION PF RECUPERENT
+CodeDft_cremation=7860
+Pf_cremation=BALDINI
+Nom_cremation=RADLOWSKI
+Prenom_cremation=ZENON
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=459
+Four=2
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=7924
+Pf_ceremonie=SAVOY
+Nom_ceremonie=VIBERT
+Prenom_ceremonie=ROSE GABRIELLE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=14:00
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=GESTE ADIEU  CERCUEIL CHENE PF RECUPERENT
+CodeDft_cremation=7924
+Pf_cremation=SAVOY
+Nom_cremation=VIBERT
+Prenom_cremation=ROSE GABRIELLE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+NoOrdre=499
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=7923
+Pf_ceremonie=MAURIENNAISES
+Nom_ceremonie=CREFTANI 
+Prenom_ceremonie=JULIETTE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN MAURIENNE
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION PF RECUPERENT
+CodeDft_cremation=7923
+Pf_cremation=MAURIENNAISES
+Nom_cremation=CREFTANI 
+Prenom_cremation=JULIETTE
+EvenementArrivee_cremation=Arrivée de SAINT JEAN MAURIENNE
+NoOrdre=507
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=7876
+Pf_ceremonie=MAURIENNAISES
+Nom_ceremonie=FALCOZ
+Prenom_ceremonie=JEAN MARC
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDO ACCUEIL FAMILLE SIMPLE CERCUEIL CREMATION 
+CodeDft_cremation=7876
+Pf_cremation=MAURIENNAISES
+Nom_cremation=FALCOZ
+Prenom_cremation=JEAN MARC
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+NoOrdre=468
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=7878
+Pf_ceremonie=MOUCHE
+Nom_ceremonie=EYRAUD
+Prenom_ceremonie=FRANCE REINE
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDO PFM CEREMONIE CIVILE 
+CodeDft_cremation=7878
+Pf_cremation=MOUCHE
+Nom_cremation=EYRAUD
+Prenom_cremation=FRANCE REINE
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+NoOrdre=476
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=7886
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=COUTAZ
+Prenom_ceremonie=EMILE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=7886
+Pf_cremation=PF SEDRAN
+Nom_cremation=COUTAZ
+Prenom_cremation=EMILE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=484
+Four=1
+End With

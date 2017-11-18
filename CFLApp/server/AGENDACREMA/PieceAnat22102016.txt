@@ -1,0 +1,6 @@
+Id=22102016
+Agent=averone
+Provenance=HOPITAL CHAMBERY
+Nature=1 FOETUS
+Four=1
+NoOrdre=1493

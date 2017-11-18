@@ -1,0 +1,97 @@
+Id=8092015
+Jourdate=08/09/2015
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=6394
+Pf_ceremonie=PF PECH
+Nom_ceremonie=CHAUVIN 
+Prenom_ceremonie=PHILIPPE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de ALBERVILLE
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=RESTITUTION DES CENDRES  PF PECH  /. CERCUEIL  PIN
+CodeDft_cremation=6394
+Pf_cremation=PF PECH
+Nom_cremation=CHAUVIN 
+Prenom_cremation=PHILIPPE
+EvenementArrivee_cremation=Arrivée de ALBERVILLE
+FicheOccupe=Libre
+NoOrdre=1313
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=6391
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=LEVORATO
+Prenom_ceremonie=LORENZO
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de DE CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire= MB 9h45.. L'URNE EN COLUMBARIUM A CHARRIERE NEUVE
+CodeDft_cremation=6391
+Pf_cremation=PFG CHAMBERY
+Nom_cremation=LEVORATO
+Prenom_cremation=LORENZO
+EvenementArrivee_cremation=Arrivée de DE CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1312
+Four=1
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=6396
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=COMBAZ
+Prenom_ceremonie=RENE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=RESTITUTION DES CENDRES PF FLORET 
+CodeDft_cremation=6396
+Pf_cremation=PF FLORET
+Nom_cremation=COMBAZ
+Prenom_cremation=RENE
+EvenementArrivee_cremation=Arrivée de ALBERVILLE
+FicheOccupe=Libre
+NoOrdre=1314
+Four=2
+End With

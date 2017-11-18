@@ -1,0 +1,165 @@
+Id=7082015
+Jourdate=07/08/2015
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=6145
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=DUTILLEUL
+Prenom_ceremonie=MURIEL
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6145
+Pf_cremation=PF BAUDRION
+Nom_cremation=DUTILLEUL
+Prenom_cremation=MURIEL
+EvenementArrivee_cremation=Arrivée de PONTCHARRA
+FicheOccupe=Libre
+NoOrdre=1161
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=6165
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=MURE RAVAUD
+Prenom_ceremonie=JEANNE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+CodeDft_cremation=6165
+Pf_cremation=PFG MACHE
+Nom_cremation=MURE RAVAUD
+Prenom_cremation=JEANNE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1158
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6161
+Pf_ceremonie=PFM
+Nom_ceremonie=IMMACOLATA
+Prenom_ceremonie=BENOIT
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de HOPITAL DE CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6161
+Pf_cremation=PFM
+Nom_cremation=IMMACOLATA
+Prenom_cremation=BENOIT
+EvenementArrivee_cremation=Arrivée de HOPITAL DE CHAMBERY
+Police=True
+NoOrdre=1159
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=6159
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=PRUD'HOMME 
+Prenom_ceremonie=THIERRY
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM  FAMILLE RECUPERE A 14H30      
+CodeDft_cremation=6159
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=PRUD'HOMME 
+Prenom_cremation=THIERRY
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=1160
+Four=2
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 17H15 CERCUEIL EN PIN
+CodeDft_ceremonie=6163
+Pf_ceremonie=PFG MOUTIERS
+Nom_ceremonie=MICHOUX
+Prenom_ceremonie=ANTOINE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6163
+Pf_cremation=PFG MOUTIERS
+Nom_cremation=MICHOUX
+Prenom_cremation=ANTOINE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=1162
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=6155
+Pf_ceremonie=PFM
+Nom_ceremonie=VOYARD
+Prenom_ceremonie=EMMANUEL
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM FAMILLE RECUPERE L'URNE SAMEDI MATIN
+CodeDft_cremation=6155
+Pf_cremation=PF PENA
+Nom_cremation=VOYARD
+Prenom_cremation=EMMANUEL
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=1163
+Four=2
+End With
+With ZONE
+Id=7
+End With

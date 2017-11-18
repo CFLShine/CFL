@@ -1,0 +1,128 @@
+Id=14102014
+Jourdate=14/10/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+EvenementCommentaire=CERCUEIL CREMATION PF RECUPEREENT
+SaisieOccupe=Libre
+CodeDft=3982
+Pf=PF DE SAVOIE
+Conseiller=Loïc TREVARAIN
+Nom=EYNARD VERRAT
+Prenom=LEA
+HeureArrivee=
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1252
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3972
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=POMMAT
+Prenom=CHRISTIANE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+FicheOccupe=Libre
+NoOrdre=1253
+Four=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3973
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=GRAVEND
+Prenom=MAX
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1249
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3974
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=PELLAS
+Prenom=PATRICK
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de VIENNE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1250
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3975
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=SARYS
+Prenom=JEAN-LOUIS
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 15H30
+NoOrdre=1251
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3978
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=FEIGE
+Prenom=MELINA
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=GRAND MERE DE SYLVAIN PECH
+NoOrdre=1248
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+NoOrdre=
+Four=
+End With

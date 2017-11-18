@@ -1,0 +1,145 @@
+Id=3012015
+Jourdate=03/01/2015
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4438
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=CATTOIR
+Prenom=EDOUARD
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=10
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=4447
+Pf=AJEPI
+Conseiller=Marie-Pierre PINET
+Nom=GARCIA SUAREZ
+Prenom=ANGEL
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION    AJEPI
+End With
+With ZONE
+Id=3
+EvenementCommentaire=ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft=4448
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=BLANCHARD
+Prenom=DANIEL
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMOUX 
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=11
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4449
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=CORMIER
+Prenom=RAPHAELA
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=12
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4453
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=DUPRAZ
+Prenom=GEORGES
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=13
+Four=1
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+EvenementCommentaire=PAS DE FAMILLE  DEPOT CERCUEIL VENDREDI 17H00
+CodeDft=4454
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=DUC
+Prenom=MARIE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=09
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4457
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BARTOLAMI
+Prenom=LOUISE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:00
+EvenementCeremonie=Cérémonie Religieuse Chapelle Hotel Dieu
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=14
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+End With

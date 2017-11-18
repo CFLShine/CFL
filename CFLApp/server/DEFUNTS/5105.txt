@@ -1,0 +1,17 @@
+Id=5105
+CremationArriveeDe=AIX LES BAINS
+ArriveeDate=21/03/2015
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationHeure=
+CremationCommune=
+PfCremation=PF SEDRAN
+DefuntNom=LUBETTE
+DefuntPrenom=ANDRE
+DefuntDecesDate=18/03/2015
+ReservCrema=Marie-Pierre PINET
+PfArrivee=PF SEDRAN
+CodeDefunt=5105

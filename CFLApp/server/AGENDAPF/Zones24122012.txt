@@ -1,0 +1,33 @@
+Id=24122012
+With ZONE
+Id=13
+CodeZone=13
+Pos=0
+DemiJour=1
+AdressDft=\DONNEES\DONNEES2012\3.txt
+Ordo=
+OrdoOk=white
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=GAYRAUD Ginette
+Pf=PFM
+DefuntNom=DIJOUD
+DefuntPrenom=PAUL
+Saisie=Convoi
+Heure_0=13:45
+Heure_1=14:15
+Heure_2=
+Heure_3=
+Ev_0=Mise en bière Centre funéraire
+Ev_1=Ceremonie Religieuse Cf salle omnicultes
+Ev_2=
+Ev_4=Inhumation CIMETIERE  à TREMBLEY Pleine terre
+Comment_0=
+CodeDft=3
+End With

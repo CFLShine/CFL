@@ -1,0 +1,134 @@
+Id=3122013
+With ZONE
+Id=0
+Saisie=Convoi
+Pos=0
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+Heure_0=08:45
+Heure_1=09:15
+Heure_2=10:00
+Heure_3=
+Ev_0=Mise en bière Centre funéraire salon Anémone
+Ev_1=Cérémonie Civile Cf salle omnicultes
+Ev_2=Crémation 
+Ev_3=
+DefuntNom=DONATO
+DefuntPrenom=ALDO
+Conseiller=Pascal MARIE
+Pf=PFM
+Comment_0=
+AdressDft=\DONNEES\DONNEES2013\2113.txt
+Ordo=TREVARIN Loïc
+Equipe_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+Equipe_2=PINTOUT Bruno
+Equipe_3=FAVRIN Thierry
+CodeDft=2113
+End With
+With ZONE
+Id=1
+Saisie=Convoi
+Pos=0
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+Heure_0=11:00
+Heure_1=15:00
+Heure_2=
+Heure_3=
+Ev_0=Mise en bière HOPITAL DE CHAMBERY
+Ev_1=Cérémonie Religieuse EGLISE DE LA TABLE
+Ev_2=
+Ev_3=Inhumation  à LA TABLE Caveau ouverture devant
+DefuntNom=THIABAUD
+DefuntPrenom=SUZANNE
+Conseiller=Marion TREBOUTE
+Pf=PFM
+Comment_0=
+AdressDft=\DONNEES\DONNEES2013\2120.txt
+Ordo=FAVRIN Thierry
+Equipe_0=MILLON Patrick
+Equipe_1=PINTOUT Bruno
+Equipe_2=JACQUIER Michel
+Equipe_3=WALLYN Benoît
+CodeDft=2120
+End With
+With ZONE
+Id=2
+Saisie=MEB
+Pos=1
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2013\2120.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=THIABAUD
+DefuntPrenom=SUZANNE
+Heure_0=11:00
+Ev_0=Mise en bière HOPITAL DE CHAMBERY
+Comment_0=
+Comment_1=
+Ordo=FAVRIN Thierry
+Equipe_0=MILLON Patrick
+Equipe_1=PINTOUT Bruno
+Equipe_2=JACQUIER Michel
+CodeDft=2120
+End With
+With ZONE
+Id=3
+Saisie=RDVOrdo
+Pos=1
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+AdressDft=\DONNEES\DONNEES2013\2125.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=LOMBARDI
+DefuntPrenom=Oto
+Ev_0=Rendez-vous avec l'ordonnateur
+Comment_0=
+Comment_1=
+Ordo=TREVARIN Loïc
+Heure_0=17:00
+CodeDft=2125
+End With
+With ZONE
+Id=4
+Saisie=Soins
+Pos=2
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=
+End With
+With ZONE
+Id=5
+Saisie=Soins
+Pos=3
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=
+End With

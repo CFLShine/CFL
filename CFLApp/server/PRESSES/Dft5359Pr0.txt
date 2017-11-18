@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, Bassens,\f1\par<Ret>\f0 Jacob-Bellecombette.\f1\par<Ret>\b0\f0 Monsieur G\'e9rard SERVIERES, son fr\'e8re et sa famille;\f1\par<Ret>\f0 Madame Monique LOR\'c9, sa soeur et ses enfants;\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Monsieur\f1\par<Ret>\f0 Hubert SERVIERES\f1\par<Ret>\pard\b0\f0 d\'e9c\'e9d\'e9 le 24 Avril 2015.\f1\par<Ret>\f0 La c\'e9r\'e9monie civile aura lieu au Centre Fun\'e9raire de Chamb\'e9ry le Mercredi 29 Avril 2015 \'e0 dix heures quinze.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciements.\par<Ret>}<Ret>
+CodeDft=5359
+Tarif=165
+NbLignes=17
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=28/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

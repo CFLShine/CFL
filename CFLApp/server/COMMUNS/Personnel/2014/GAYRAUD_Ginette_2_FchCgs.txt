@@ -1,0 +1,204 @@
+Id=-1
+Version=1
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=28:00
+varHeuresSupAnDernier=16:45
+With LigneConges
+Id=0
+varPrisDu=01/01/14
+varPrisAu=04/01/14
+varDemandeDate=28/12/13
+varAnnuel=12:00
+varRecup=00:00
+varEpargne=
+varVisaChef=28/12/13
+varVisaDirecteur=5/01/14
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=07/01/14
+varPrisAu=07/01/14
+varDemandeDate=24/01/14
+varAnnuel=
+varRecup=0:30
+varEpargne=
+varVisaChef=24/01/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=29/01/14
+varPrisAu=29/01/14
+varDemandeDate=24/01/14
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=24/01/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=31/01/14
+varPrisAu=31/01/14
+varDemandeDate=24/01/14
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=24/01/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=01/02/14
+varPrisAu=01/02/14
+varDemandeDate=24/01/14
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=24/01/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=22/02/14
+varPrisAu=22/02/14
+varDemandeDate=21/02/14
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=21/02/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=24/02/14
+varPrisAu=24/02/14
+varDemandeDate=21/02/14
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=21/02/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=26/02/14
+varPrisAu=26/02/14
+varDemandeDate=21/02/14
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=21/02/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=08/03/14
+varPrisAu=08/03/14
+varDemandeDate=07/03/14
+varAnnuel=
+varRecup=08:00
+varEpargne=
+varVisaChef=07/03/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=9
+varPrisDu=15/03/14
+varPrisAu=15/03/14
+varDemandeDate=17/03/14
+varAnnuel=
+varRecup=04:00
+varEpargne=
+varVisaChef=17/03/14
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=06/01/14
+varNbHeuresSup=2:00
+varMotifHeuresSup=Famille entre 12h et 14h
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=11/01/14
+varNbHeuresSup=1:30
+varMotifHeuresSup=Famille entre 12h et 14h
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=2
+varDateHeuresSup=14/01/14
+varNbHeuresSup=2:00
+varMotifHeuresSup=Famille entre 12h et 14h
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=3
+varDateHeuresSup=17/01/14
+varNbHeuresSup=1:00
+varMotifHeuresSup=Famille après 16h
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=4
+varDateHeuresSup=28/01/14
+varNbHeuresSup=3:00
+varMotifHeuresSup=Nombreuses familles.
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=5
+varDateHeuresSup=29/01/14
+varNbHeuresSup=0:45
+varMotifHeuresSup=Dossier à finir avec congés
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=6
+varDateHeuresSup=11/02/14
+varNbHeuresSup=0:30
+varMotifHeuresSup=Famille après 17h30
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=7
+varDateHeuresSup=12/02/14
+varNbHeuresSup=2:00
+varMotifHeuresSup=Famille Polonaise venu après 17h30.
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=8
+varDateHeuresSup=15/02/14
+varNbHeuresSup=1:30
+varMotifHeuresSup=Famille après 16h
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=9
+varDateHeuresSup=18/02/14
+varNbHeuresSup=2:00
+varMotifHeuresSup=Famille Portuguaise 
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=10
+varDateHeuresSup=19/02/14
+varNbHeuresSup=01:00
+varMotifHeuresSup=Famille entre 12h et 14h
+varPayeesHeuresSup=
+End With

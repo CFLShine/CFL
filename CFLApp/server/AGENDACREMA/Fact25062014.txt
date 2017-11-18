@@ -1,0 +1,8 @@
+Id=25062014
+Jourdate=25/06/2014
+FactureZone0=True
+FactureZone1=True
+FactureZone6=True
+FactureZone5=True
+FactureZone2=True
+FactureZone7=True

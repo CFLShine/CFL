@@ -1,0 +1,22 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Les Marches, Les Adrets, \f1\par<Ret>\f0 Andr\'e9e, son \'e9pouse, \f1\par<Ret>\f0 ses enfants et ses petits enfants,\f1\par<Ret>\f0 parents et proches,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Monsieur Pierre \f1\par<Ret>\f0 BRUNET-MANQUAT\f1\par<Ret>\f0 survenu \'e0 l'\'e2ge de 82ans\f1\par<Ret>\pard\b0\f0 La c\'e9r\'e9monie civile aura lieu au centre fun\'e9raire de Chamb\'e9ry le Jeudi 5 Mars 2015 \'e0 quinze heures quinze.\f1\par<Ret>\f0 Ni fleurs ni plaques,\f1\par<Ret>\f0 cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4969
+Tarif=313
+NbLignes=17
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=03/03/2015
+End With
+With DEPARTEMENT
+Id=5
+Name=ISERE
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

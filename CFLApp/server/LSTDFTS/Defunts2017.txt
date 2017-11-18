@@ -1,0 +1,13413 @@
+Id=2017
+With DEFUNT
+Id=10985
+Nom=ABBA
+Prenom=LYDIE
+DecesDate=10/06/2017
+CodeDft=10985
+End With
+With DEFUNT
+Id=11039
+Nom=ABDERREZAK
+Prenom=SADI
+DecesDate=18/06/2017
+CodeDft=11039
+End With
+With DEFUNT
+Id=10453
+Nom=ADAM
+Prenom=JEAN
+DecesDate=18/03/2017
+CodeDft=10453
+End With
+With DEFUNT
+Id=10748
+Nom=ADAM
+Prenom=ROSE MARIE
+DecesDate=02/05/2017
+CodeDft=10748
+End With
+With DEFUNT
+Id=10749
+Nom=ADAM
+Prenom=ROSE MARIE
+DecesDate=02/05/2017
+CodeDft=10749
+End With
+With DEFUNT
+Id=11437
+Nom=ADAM
+Prenom=CHRISTIANE
+DecesDate=21/08/2017
+CodeDft=11437
+End With
+With DEFUNT
+Id=9858
+Nom=AGNIERAY
+Prenom=MICHELLE
+DecesDate=04/01/2017
+CodeDft=9858
+End With
+With DEFUNT
+Id=10579
+Nom=AGOSTINI
+Prenom=SILVIA
+DecesDate=06/04/2017
+CodeDft=10579
+End With
+With DEFUNT
+Id=11701
+Nom=AGUETTAZ
+Prenom=FRANCOIS
+DecesDate=28/09/2017
+CodeDft=11701
+End With
+With DEFUNT
+Id=10515
+Nom=AHNOUCHE
+Prenom=NADINE
+DecesDate=27/03/2017
+CodeDft=10515
+End With
+With DEFUNT
+Id=11271
+Nom=AILLOUD
+Prenom=PATRICK
+DecesDate=25/07/2017
+CodeDft=11271
+End With
+With DEFUNT
+Id=10127
+Nom=ALBANO
+Prenom=PIERRE
+DecesDate=29/01/2017
+CodeDft=10127
+End With
+With DEFUNT
+Id=10647
+Nom=ALBERT
+Prenom=JEAN
+DecesDate=15/04/2017
+CodeDft=10647
+End With
+With DEFUNT
+Id=10702
+Nom=ALBERT
+Prenom=LUCIENNE
+DecesDate=26/04/2017
+CodeDft=10702
+End With
+With DEFUNT
+Id=9845
+Nom=ALBERT
+Prenom=YVES
+DecesDate=03/01/2017
+CodeDft=9845
+End With
+With DEFUNT
+Id=9962
+Nom=ALBERT
+Prenom=ANNIE
+DecesDate=13/01/2017
+CodeDft=9962
+End With
+With DEFUNT
+Id=11712
+Nom=ALBIN
+Prenom=LIONEL
+DecesDate=29/09/2017
+CodeDft=11712
+End With
+With DEFUNT
+Id=9941
+Nom=ALBRIEUX
+Prenom=OCTAVIEN
+DecesDate=13/01/2016
+CodeDft=9941
+End With
+With DEFUNT
+Id=10505
+Nom=ALEXANDRE
+Prenom=YVETTE
+DecesDate=26/03/2017
+CodeDft=10505
+End With
+With DEFUNT
+Id=10681
+Nom=ALGOUD
+Prenom=YVAN
+DecesDate=21/04/2017
+CodeDft=10681
+End With
+With DEFUNT
+Id=10358
+Nom=ALLAIN
+Prenom=JOCELYNE
+DecesDate=03/03/2017
+CodeDft=10358
+End With
+With DEFUNT
+Id=11166
+Nom=ALLANTE
+Prenom=PIERRE-YVES
+DecesDate=07/07/2017
+CodeDft=11166
+End With
+With DEFUNT
+Id=11208
+Nom=ALLEGRE
+Prenom=JEAN
+DecesDate=14/07/2017
+CodeDft=11208
+End With
+With DEFUNT
+Id=11414
+Nom=ALLEGRET CADET
+Prenom=ROSE MARIE
+DecesDate=16/08/2017
+CodeDft=11414
+End With
+With DEFUNT
+Id=10162
+Nom=ALLOTO
+Prenom=REMY
+DecesDate=29/10/1999
+CodeDft=10162
+End With
+With DEFUNT
+Id=10281
+Nom=ALLUCHON
+Prenom=ODETTE
+DecesDate=18/02/2017
+CodeDft=10281
+End With
+With DEFUNT
+Id=11078
+Nom=ALLUIGI
+Prenom=SERGE
+DecesDate=24/06/2017
+CodeDft=11078
+End With
+With DEFUNT
+Id=10161
+Nom=ALOTTO
+Prenom=REMY
+DecesDate=29/10/1999
+CodeDft=10161
+End With
+With DEFUNT
+Id=11623
+Nom=ALVAREZ
+Prenom=CARMEN
+DecesDate=17/09/2017
+CodeDft=11623
+End With
+With DEFUNT
+Id=10685
+Nom=AMOUROUX
+Prenom=HENRI
+DecesDate=22/04/2017
+CodeDft=10685
+End With
+With DEFUNT
+Id=9934
+Nom=AMSTUTZ
+Prenom=ROLLANDE
+DecesDate=11/01/2017
+CodeDft=9934
+End With
+With DEFUNT
+Id=9995
+Nom=ANDRE
+Prenom=FRANCOIS
+DecesDate=17/01/2017
+CodeDft=9995
+End With
+With DEFUNT
+Id=10725
+Nom=ANDRIAN
+Prenom=YVAN
+DecesDate=29/04/2017
+CodeDft=10725
+End With
+With DEFUNT
+Id=10645
+Nom=ANGELIER LEPLAN
+Prenom=DENISE
+DecesDate=15/04/2017
+CodeDft=10645
+End With
+With DEFUNT
+Id=11282
+Nom=ANGELIN
+Prenom=BERNARD
+DecesDate=26/07/2017
+CodeDft=11282
+End With
+With DEFUNT
+Id=11061
+Nom=ANSELME
+Prenom=BERNARD
+DecesDate=21/06/2017
+CodeDft=11061
+End With
+With DEFUNT
+Id=11433
+Nom=ANTOINE
+Prenom=DANIEL
+DecesDate=21/08/2017
+CodeDft=11433
+End With
+With DEFUNT
+Id=9972
+Nom=ANXIONNAZ
+Prenom=PRISCILLE
+DecesDate=14/01/2017
+CodeDft=9972
+End With
+With DEFUNT
+Id=9958
+Nom=APPLAGNAT-TARTET
+Prenom=MADELEINE
+DecesDate=13/01/2017
+CodeDft=9958
+End With
+With DEFUNT
+Id=10526
+Nom=ARBARETAZ
+Prenom=FRANCOIS
+DecesDate=30/03/2017
+CodeDft=10526
+End With
+With DEFUNT
+Id=10529
+Nom=ARBARETAZ
+Prenom=FRANCOIS
+DecesDate=30/03/2017
+CodeDft=10529
+End With
+With DEFUNT
+Id=10826
+Nom=ARIAS
+Prenom=FRANCOIS
+DecesDate=13/05/2017
+CodeDft=10826
+End With
+With DEFUNT
+Id=10309
+Nom=ARIBI
+Prenom=AKIM
+DecesDate=24/02/2017
+CodeDft=10309
+End With
+With DEFUNT
+Id=11249
+Nom=ARLETTI
+Prenom=LAZARE
+DecesDate=22/07/2017
+CodeDft=11249
+End With
+With DEFUNT
+Id=10760
+Nom=ARMAND
+Prenom=CHANTAL
+DecesDate=04/05/2017
+CodeDft=10760
+End With
+With DEFUNT
+Id=9797
+Nom=ARMAND
+Prenom=THI TRON
+DecesDate=30/12/2016
+CodeDft=9797
+End With
+With DEFUNT
+Id=10218
+Nom=ARNAUD
+Prenom=ERNEST
+DecesDate=12/02/2017
+CodeDft=10218
+End With
+With DEFUNT
+Id=10821
+Nom=ARNAUD
+Prenom=HERMENCE
+DecesDate=13/05/2017
+CodeDft=10821
+End With
+With DEFUNT
+Id=11354
+Nom=ARNAUD
+Prenom=MARIE CLAUDE
+DecesDate=02/08/2017
+CodeDft=11354
+End With
+With DEFUNT
+Id=11356
+Nom=ARNAUD
+Prenom=MARIE CLAUDE
+DecesDate=/  /
+CodeDft=11356
+End With
+With DEFUNT
+Id=11302
+Nom=ARPIN
+Prenom=FERNAND
+DecesDate=28/07/2017
+CodeDft=11302
+End With
+With DEFUNT
+Id=10684
+Nom=ARRIAGA
+Prenom=DOLORES
+DecesDate=23/04/2017
+CodeDft=10684
+End With
+With DEFUNT
+Id=11622
+Nom=ARTHUR
+Prenom=ISABELLE
+DecesDate=16/09/2017
+CodeDft=11622
+End With
+With DEFUNT
+Id=11532
+Nom=ASSAL
+Prenom=MIREILLE
+DecesDate=01/09/2017
+CodeDft=11532
+End With
+With DEFUNT
+Id=9982
+Nom=AUBENEAU
+Prenom=CLAUDIUS
+DecesDate=15/01/2017
+CodeDft=9982
+End With
+With DEFUNT
+Id=11055
+Nom=AUBERT
+Prenom=JAMES
+DecesDate=17/06/2017
+CodeDft=11055
+End With
+With DEFUNT
+Id=9850
+Nom=AUBERT
+Prenom=JEANNINE
+DecesDate=03/01/2017
+CodeDft=9850
+End With
+With DEFUNT
+Id=10196
+Nom=AUBRY
+Prenom=JEANNE
+DecesDate=08/02/2017
+CodeDft=10196
+End With
+With DEFUNT
+Id=11097
+Nom=AUCLAIR
+Prenom=JEAN
+DecesDate=27/06/2017
+CodeDft=11097
+End With
+With DEFUNT
+Id=11688
+Nom=AUCLAIR
+Prenom=ARLETTE
+DecesDate=27/09/2017
+CodeDft=11688
+End With
+With DEFUNT
+Id=10838
+Nom=AUDRERIE
+Prenom=ALICE
+DecesDate=14/05/2017
+CodeDft=10838
+End With
+With DEFUNT
+Id=10959
+Nom=AUGE
+Prenom=ANNA
+DecesDate=06/06/2017
+CodeDft=10959
+End With
+With DEFUNT
+Id=9971
+Nom=AUGIER
+Prenom=JACKY
+DecesDate=15/01/2017
+CodeDft=9971
+End With
+With DEFUNT
+Id=11239
+Nom=AUGONNET/STURBOIS
+Prenom=GERALDINE
+DecesDate=18/07/2017
+CodeDft=11239
+End With
+With DEFUNT
+Id=9810
+Nom=AUSSOURD
+Prenom=EMILE
+DecesDate=30/12/2016
+CodeDft=9810
+End With
+With DEFUNT
+Id=9838
+Nom=AVRILLIER
+Prenom=SUZANNE
+DecesDate=03/01/2017
+CodeDft=9838
+End With
+With DEFUNT
+Id=11310
+Nom=AVRILLIER-GRANGE
+Prenom=JULIETTE
+DecesDate=29/07/2017
+CodeDft=11310
+End With
+With DEFUNT
+Id=10902
+Nom=BABOULAZ
+Prenom=CLAUDE
+DecesDate=28/05/2017
+CodeDft=10902
+End With
+With DEFUNT
+Id=11328
+Nom=BACCARD
+Prenom=HENRIETTE
+DecesDate=02/08/2017
+CodeDft=11328
+End With
+With DEFUNT
+Id=11329
+Nom=BACCARD
+Prenom=HENRIETTE
+DecesDate=02/08/2017
+CodeDft=11329
+End With
+With DEFUNT
+Id=11618
+Nom=BAC-DAVID
+Prenom=MICHELE
+DecesDate=17/09/2017
+CodeDft=11618
+End With
+With DEFUNT
+Id=11651
+Nom=BACHELARD
+Prenom=MICHELE
+DecesDate=21/09/2017
+CodeDft=11651
+End With
+With DEFUNT
+Id=11120
+Nom=BAECKEROOT
+Prenom=ISABELLE
+DecesDate=29/06/2017
+CodeDft=11120
+End With
+With DEFUNT
+Id=11418
+Nom=BAETZ
+Prenom=FRANCOIS
+DecesDate=17/08/2017
+CodeDft=11418
+End With
+With DEFUNT
+Id=11269
+Nom=BAGNARDI
+Prenom=ANTONINO
+DecesDate=15/07/2017
+CodeDft=11269
+End With
+With DEFUNT
+Id=10802
+Nom=BAL
+Prenom=GISELE
+DecesDate=10/05/2017
+CodeDft=10802
+End With
+With DEFUNT
+Id=10879
+Nom=BAL
+Prenom=PIERRE
+DecesDate=23/05/2017
+CodeDft=10879
+End With
+With DEFUNT
+Id=11240
+Nom=BAL
+Prenom=MARCELLE
+DecesDate=19/07/2017
+CodeDft=11240
+End With
+With DEFUNT
+Id=11609
+Nom=BALDASSARI
+Prenom=DENISE
+DecesDate=04/09/2017
+CodeDft=11609
+End With
+With DEFUNT
+Id=11490
+Nom=BANDET
+Prenom=LEONCE
+DecesDate=28/08/2017
+CodeDft=11490
+End With
+With DEFUNT
+Id=11270
+Nom=BANLIER
+Prenom=CLAUDINE
+DecesDate=25/07/2017
+CodeDft=11270
+End With
+With DEFUNT
+Id=11717
+Nom=BANNAY
+Prenom=DENISE
+DecesDate=30/09/2017
+CodeDft=11717
+End With
+With DEFUNT
+Id=11288
+Nom=BARBATTINI
+Prenom=JEAN
+DecesDate=19/07/2017
+CodeDft=11288
+End With
+With DEFUNT
+Id=9832
+Nom=BARBERY
+Prenom=GISLAINE
+DecesDate=02/01/2017
+CodeDft=9832
+End With
+With DEFUNT
+Id=10189
+Nom=BARBIER
+Prenom=MARCEL
+DecesDate=07/02/2017
+CodeDft=10189
+End With
+With DEFUNT
+Id=10537
+Nom=BARD
+Prenom=COLETTE
+DecesDate=31/03/2017
+CodeDft=10537
+End With
+With DEFUNT
+Id=11615
+Nom=BARD
+Prenom=HELENE
+DecesDate=16/09/2017
+CodeDft=11615
+End With
+With DEFUNT
+Id=11617
+Nom=BARD
+Prenom=HELENE
+DecesDate=16/09/2017
+CodeDft=11617
+End With
+With DEFUNT
+Id=10434
+Nom=BARGEL
+Prenom=ANDRE
+DecesDate=14/03/2017
+CodeDft=10434
+End With
+With DEFUNT
+Id=11250
+Nom=BARRIER
+Prenom=PATRICIA
+DecesDate=22/07/2017
+CodeDft=11250
+End With
+With DEFUNT
+Id=11630
+Nom=BARRIER
+Prenom=ANGIOLINA
+DecesDate=18/09/2017
+CodeDft=11630
+End With
+With DEFUNT
+Id=11631
+Nom=BARRIER
+Prenom=ANGIOLINA
+DecesDate=18/09/2017
+CodeDft=11631
+End With
+With DEFUNT
+Id=10168
+Nom=BARRIOLADE
+Prenom=MARGUERITE
+DecesDate=04/02/2017
+CodeDft=10168
+End With
+With DEFUNT
+Id=10169
+Nom=BARRIOLADE
+Prenom=MARGUERITE
+DecesDate=04/02/2017
+CodeDft=10169
+End With
+With DEFUNT
+Id=9773
+Nom=BARTH
+Prenom=JEAN-PAUL
+DecesDate=25/12/2016
+CodeDft=9773
+End With
+With DEFUNT
+Id=10185
+Nom=BARTHELEMY
+Prenom=HONORE
+DecesDate=04/01/2016
+CodeDft=10185
+End With
+With DEFUNT
+Id=10612
+Nom=BASSET
+Prenom=ANNE MARIE
+DecesDate=11/04/2017
+CodeDft=10612
+End With
+With DEFUNT
+Id=11164
+Nom=BASSO-BERT
+Prenom=HENRIETTE
+DecesDate=07/07/2017
+CodeDft=11164
+End With
+With DEFUNT
+Id=11549
+Nom=BASTO
+Prenom=ANTONIO
+DecesDate=05/09/2017
+CodeDft=11549
+End With
+With DEFUNT
+Id=10259
+Nom=BATHIARD
+Prenom=ANDRE
+DecesDate=14/02/2017
+CodeDft=10259
+End With
+With DEFUNT
+Id=11369
+Nom=BATSALLE
+Prenom=MARIE-MARCELLE
+DecesDate=10/08/2001
+CodeDft=11369
+End With
+With DEFUNT
+Id=10801
+Nom=BATTARD
+Prenom=GABRIELLE
+DecesDate=10/05/2017
+CodeDft=10801
+End With
+With DEFUNT
+Id=10941
+Nom=BATTISTELLA
+Prenom=LEONDINO
+DecesDate=02/06/2017
+CodeDft=10941
+End With
+With DEFUNT
+Id=10779
+Nom=BATTISTON
+Prenom=PIERRE
+DecesDate=08/05/2017
+CodeDft=10779
+End With
+With DEFUNT
+Id=11252
+Nom=BATTISTON
+Prenom=GISELE
+DecesDate=23/07/2017
+CodeDft=11252
+End With
+With DEFUNT
+Id=10853
+Nom=BATTUT
+Prenom=SIMONE
+DecesDate=18/05/2017
+CodeDft=10853
+End With
+With DEFUNT
+Id=10122
+Nom=BAUDOIN-PICAUD
+Prenom=JEANNE 
+DecesDate=29/01/2017
+CodeDft=10122
+End With
+With DEFUNT
+Id=10733
+Nom=BAUDRY
+Prenom=MARGUERITE
+DecesDate=01/05/2017
+CodeDft=10733
+End With
+With DEFUNT
+Id=9807
+Nom=BAUDRY
+Prenom=JEAN
+DecesDate=30/12/2016
+CodeDft=9807
+End With
+With DEFUNT
+Id=10288
+Nom=BAUER
+Prenom=EUGENE
+DecesDate=20/02/2017
+CodeDft=10288
+End With
+With DEFUNT
+Id=9815
+Nom=BAUER
+Prenom=JACQUES
+DecesDate=01/01/2017
+CodeDft=9815
+End With
+With DEFUNT
+Id=10936
+Nom=BAUQUIS
+Prenom=FRANCOISE
+DecesDate=01/06/2017
+CodeDft=10936
+End With
+With DEFUNT
+Id=9985
+Nom=BEAUD
+Prenom=BERNARD
+DecesDate=17/08/2016
+CodeDft=9985
+End With
+With DEFUNT
+Id=10614
+Nom=BEAUFILS
+Prenom=JEAN EUGENE
+DecesDate=11/04/2017
+CodeDft=10614
+End With
+With DEFUNT
+Id=9844
+Nom=BEAUGRAND
+Prenom=JEAN-NOEL
+DecesDate=03/01/2017
+CodeDft=9844
+End With
+With DEFUNT
+Id=11295
+Nom=BEAUQUIS
+Prenom=ELIANE
+DecesDate=27/07/2017
+CodeDft=11295
+End With
+With DEFUNT
+Id=11296
+Nom=BEAUQUIS
+Prenom=ELIANE
+DecesDate=27/07/2017
+CodeDft=11296
+End With
+With DEFUNT
+Id=9913
+Nom=BECCHERLE
+Prenom=DENISE
+DecesDate=09/01/2017
+CodeDft=9913
+End With
+With DEFUNT
+Id=10447
+Nom=BEGET
+Prenom=JEAN-CLAUDE
+DecesDate=16/03/2017
+CodeDft=10447
+End With
+With DEFUNT
+Id=10206
+Nom=BEGUIN
+Prenom=PAULETTE
+DecesDate=08/02/2017
+CodeDft=10206
+End With
+With DEFUNT
+Id=9950
+Nom=BEJEANNIN
+Prenom=RAYMONDE
+DecesDate=13/01/2017
+CodeDft=9950
+End With
+With DEFUNT
+Id=10046
+Nom=BELIN
+Prenom=EMMA
+DecesDate=21/01/2017
+CodeDft=10046
+End With
+With DEFUNT
+Id=10480
+Nom=BELLEMBERT
+Prenom=ANDRE
+DecesDate=21/03/2017
+CodeDft=10480
+End With
+With DEFUNT
+Id=10828
+Nom=BELLEN
+Prenom=ROBERT
+DecesDate=14/05/2017
+CodeDft=10828
+End With
+With DEFUNT
+Id=10252
+Nom=BELLEVILLE
+Prenom=LUCIENNE
+DecesDate=15/02/2017
+CodeDft=10252
+End With
+With DEFUNT
+Id=10752
+Nom=BELLINI
+Prenom=GISELE
+DecesDate=01/05/2017
+CodeDft=10752
+End With
+With DEFUNT
+Id=9966
+Nom=BELLIR
+Prenom=GEOFFREY
+DecesDate=14/01/2017
+CodeDft=9966
+End With
+With DEFUNT
+Id=10050
+Nom=BELLO
+Prenom=SEVERINE
+DecesDate=22/01/2017
+CodeDft=10050
+End With
+With DEFUNT
+Id=10686
+Nom=BELLO
+Prenom=JOSEPH
+DecesDate=24/04/2014
+CodeDft=10686
+End With
+With DEFUNT
+Id=10106
+Nom=BELLOT
+Prenom=JEAN
+DecesDate=27/01/2017
+CodeDft=10106
+End With
+With DEFUNT
+Id=9851
+Nom=BELLOT
+Prenom=ANNE-MARIE
+DecesDate=03/01/2016
+CodeDft=9851
+End With
+With DEFUNT
+Id=11053
+Nom=BELMONTE
+Prenom=JEAN
+DecesDate=20/06/2017
+CodeDft=11053
+End With
+With DEFUNT
+Id=11391
+Nom=BELTRAME
+Prenom=PIERRE
+DecesDate=12/08/2017
+CodeDft=11391
+End With
+With DEFUNT
+Id=11134
+Nom=BELTRAMI
+Prenom=PIERRE
+DecesDate=03/07/2017
+CodeDft=11134
+End With
+With DEFUNT
+Id=11621
+Nom=BELTRAMI
+Prenom=ROSE-MARIE
+DecesDate=16/09/2017
+CodeDft=11621
+End With
+With DEFUNT
+Id=10097
+Nom=BENCHOHRA
+Prenom=EDLEIN
+DecesDate=26/01/2017
+CodeDft=10097
+End With
+With DEFUNT
+Id=10914
+Nom=BENETTI
+Prenom=CATHERINE
+DecesDate=29/05/2017
+CodeDft=10914
+End With
+With DEFUNT
+Id=10847
+Nom=BENITO
+Prenom=GABRIEL
+DecesDate=16/05/2017
+CodeDft=10847
+End With
+With DEFUNT
+Id=10836
+Nom=BENKHERFELLAH
+Prenom=MOKHTAR
+DecesDate=13/05/2017
+CodeDft=10836
+End With
+With DEFUNT
+Id=9874
+Nom=BENOIST
+Prenom=NADINE
+DecesDate=05/01/2017
+CodeDft=9874
+End With
+With DEFUNT
+Id=11364
+Nom=BENTOUNSI
+Prenom=NADINE
+DecesDate=02/08/2017
+CodeDft=11364
+End With
+With DEFUNT
+Id=10983
+Nom=BERANGER
+Prenom=ANTHONY
+DecesDate=09/06/2017
+CodeDft=10983
+End With
+With DEFUNT
+Id=11446
+Nom=BERGAMELLI
+Prenom=YVONNE
+DecesDate=22/08/2017
+CodeDft=11446
+End With
+With DEFUNT
+Id=10125
+Nom=BERGER
+Prenom=MARIA
+DecesDate=29/01/2017
+CodeDft=10125
+End With
+With DEFUNT
+Id=10567
+Nom=BERLIOUX
+Prenom=CLAUDETTE
+DecesDate=05/04/2017
+CodeDft=10567
+End With
+With DEFUNT
+Id=10265
+Nom=BERLIOZ
+Prenom=EVELYNE
+DecesDate=16/02/2017
+CodeDft=10265
+End With
+With DEFUNT
+Id=10711
+Nom=BERLIOZ
+Prenom=MAURICE
+DecesDate=26/04/2017
+CodeDft=10711
+End With
+With DEFUNT
+Id=11027
+Nom=BERLIOZ
+Prenom=LOUIS
+DecesDate=15/06/2017
+CodeDft=11027
+End With
+With DEFUNT
+Id=11422
+Nom=BERMANT
+Prenom=JACQUES
+DecesDate=17/08/2017
+CodeDft=11422
+End With
+With DEFUNT
+Id=11620
+Nom=BERMOND
+Prenom=JEANNE- MARIE
+DecesDate=17/09/2017
+CodeDft=11620
+End With
+With DEFUNT
+Id=11510
+Nom=BERNARD
+Prenom=JACQUELINE
+DecesDate=31/08/2017
+CodeDft=11510
+End With
+With DEFUNT
+Id=10020
+Nom=BERNARDET
+Prenom=LOUIS
+DecesDate=18/01/2017
+CodeDft=10020
+End With
+With DEFUNT
+Id=10463
+Nom=BERREHAIL
+Prenom=SALAH
+DecesDate=20/03/2017
+CodeDft=10463
+End With
+With DEFUNT
+Id=9877
+Nom=BERTHELIER
+Prenom=MARTHE
+DecesDate=05/01/2017
+CodeDft=9877
+End With
+With DEFUNT
+Id=10049
+Nom=BERTHET
+Prenom=COLETTE
+DecesDate=21/01/2017
+CodeDft=10049
+End With
+With DEFUNT
+Id=10421
+Nom=BERTHET
+Prenom=JULIETTE
+DecesDate=11/03/2017
+CodeDft=10421
+End With
+With DEFUNT
+Id=11243
+Nom=BERTHET
+Prenom=GEORGES
+DecesDate=20/07/2017
+CodeDft=11243
+End With
+With DEFUNT
+Id=11368
+Nom=BERTHIER
+Prenom=JEAN MARIE
+DecesDate=08/08/2017
+CodeDft=11368
+End With
+With DEFUNT
+Id=10784
+Nom=BERTHOLLET
+Prenom=ANDRE
+DecesDate=06/05/2017
+CodeDft=10784
+End With
+With DEFUNT
+Id=10819
+Nom=BERTHOLLET
+Prenom=PIERRE
+DecesDate=12/05/2017
+CodeDft=10819
+End With
+With DEFUNT
+Id=9912
+Nom=BERTHOLLET
+Prenom=RAYMOND
+DecesDate=08/01/2017
+CodeDft=9912
+End With
+With DEFUNT
+Id=11289
+Nom=BERTHOU
+Prenom=ANDRE
+DecesDate=27/07/2017
+CodeDft=11289
+End With
+With DEFUNT
+Id=11291
+Nom=BERTHOU
+Prenom=ANDRE
+DecesDate=/  /
+CodeDft=11291
+End With
+With DEFUNT
+Id=10383
+Nom=BERTOCCHI
+Prenom=ROMANO
+DecesDate=07/03/2017
+CodeDft=10383
+End With
+With DEFUNT
+Id=10543
+Nom=BERTONCINO
+Prenom=JEANNE
+DecesDate=31/03/2017
+CodeDft=10543
+End With
+With DEFUNT
+Id=10577
+Nom=BERTRAND
+Prenom=MATHIEUX
+DecesDate=04/04/2017
+CodeDft=10577
+End With
+With DEFUNT
+Id=10578
+Nom=BERTRAND
+Prenom=MATHIEUX
+DecesDate=04/04/2017
+CodeDft=10578
+End With
+With DEFUNT
+Id=10582
+Nom=BERTRAND
+Prenom=MATHIEUX
+DecesDate=04/04/2017
+CodeDft=10582
+End With
+With DEFUNT
+Id=10965
+Nom=BERTRAND
+Prenom=MARCELLE
+DecesDate=08/06/2017
+CodeDft=10965
+End With
+With DEFUNT
+Id=11627
+Nom=BESENVAL
+Prenom=RAYMONDE
+DecesDate=17/09/2017
+CodeDft=11627
+End With
+With DEFUNT
+Id=11724
+Nom=BESNIER
+Prenom=LILY
+DecesDate=01/10/2017
+CodeDft=11724
+End With
+With DEFUNT
+Id=11124
+Nom=BESSAULT
+Prenom=NICOLLE
+DecesDate=29/06/2017
+CodeDft=11124
+End With
+With DEFUNT
+Id=10841
+Nom=BESSEDE
+Prenom=JACQUES
+DecesDate=16/05/2017
+CodeDft=10841
+End With
+With DEFUNT
+Id=10890
+Nom=BESSEDE
+Prenom=JEANNE
+DecesDate=01/03/2000
+CodeDft=10890
+End With
+With DEFUNT
+Id=10348
+Nom=BESUGLOW
+Prenom=MARIE
+DecesDate=02/03/2017
+CodeDft=10348
+End With
+With DEFUNT
+Id=10894
+Nom=BETEMPS
+Prenom=MICHEL
+DecesDate=25/05/2017
+CodeDft=10894
+End With
+With DEFUNT
+Id=10659
+Nom=BEURRIAND
+Prenom=JULIETTE
+DecesDate=18/04/2017
+CodeDft=10659
+End With
+With DEFUNT
+Id=11561
+Nom=BIANCHETTI
+Prenom=PIERRE
+DecesDate=07/09/2017
+CodeDft=11561
+End With
+With DEFUNT
+Id=10947
+Nom=BIANCHINI
+Prenom=MARC
+DecesDate=03/06/2017
+CodeDft=10947
+End With
+With DEFUNT
+Id=11415
+Nom=BIASI
+Prenom=GISELE
+DecesDate=17/08/2017
+CodeDft=11415
+End With
+With DEFUNT
+Id=11158
+Nom=BIBOLLET
+Prenom=ROLAND
+DecesDate=05/07/2017
+CodeDft=11158
+End With
+With DEFUNT
+Id=9594
+Nom=BICHON
+Prenom=SYLVETTE
+DecesDate=04/12/2016
+CodeDft=9594
+End With
+With DEFUNT
+Id=10968
+Nom=BIDAULT
+Prenom=ISABELLE
+DecesDate=08/06/2017
+CodeDft=10968
+End With
+With DEFUNT
+Id=9902
+Nom=BILES
+Prenom=OLIVIER
+DecesDate=07/01/2017
+CodeDft=9902
+End With
+With DEFUNT
+Id=11325
+Nom=BILIATO
+Prenom=SERGE
+DecesDate=01/08/2017
+CodeDft=11325
+End With
+With DEFUNT
+Id=9894
+Nom=BILLARD
+Prenom=BLANCHE
+DecesDate=07/01/2017
+CodeDft=9894
+End With
+With DEFUNT
+Id=10493
+Nom=BILLIET
+Prenom=YVES
+DecesDate=24/03/2017
+CodeDft=10493
+End With
+With DEFUNT
+Id=10402
+Nom=BILLIEZ
+Prenom=MATHIAS
+DecesDate=08/03/2017
+CodeDft=10402
+End With
+With DEFUNT
+Id=11196
+Nom=BILLIOUT
+Prenom=JACQUES
+DecesDate=13/07/2017
+CodeDft=11196
+End With
+With DEFUNT
+Id=11107
+Nom=BILLON-TYRARD
+Prenom=AIME
+DecesDate=29/06/2017
+CodeDft=11107
+End With
+With DEFUNT
+Id=10471
+Nom=BIOLLAY
+Prenom=GILBERT
+DecesDate=20/03/2017
+CodeDft=10471
+End With
+With DEFUNT
+Id=9828
+Nom=BIRGOLOTTI
+Prenom=DANIEL
+DecesDate=30/12/2016
+CodeDft=9828
+End With
+With DEFUNT
+Id=10504
+Nom=BIROLINI
+Prenom=IOLE
+DecesDate=27/03/2017
+CodeDft=10504
+End With
+With DEFUNT
+Id=10679
+Nom=BIRTELE
+Prenom=JEAN MARIE
+DecesDate=22/04/2017
+CodeDft=10679
+End With
+With DEFUNT
+Id=11165
+Nom=BLAISE
+Prenom=HENRI
+DecesDate=07/07/2017
+CodeDft=11165
+End With
+With DEFUNT
+Id=10084
+Nom=BLANC
+Prenom=SIMONE
+DecesDate=25/01/2017
+CodeDft=10084
+End With
+With DEFUNT
+Id=10380
+Nom=BLANC
+Prenom=ROGER
+DecesDate=06/03/2017
+CodeDft=10380
+End With
+With DEFUNT
+Id=10423
+Nom=BLANC
+Prenom=FLORENCE
+DecesDate=12/03/2017
+CodeDft=10423
+End With
+With DEFUNT
+Id=10430
+Nom=BLANC
+Prenom=ARLETTE
+DecesDate=14/03/2017
+CodeDft=10430
+End With
+With DEFUNT
+Id=10467
+Nom=BLANC
+Prenom=OLIVIER
+DecesDate=19/03/2017
+CodeDft=10467
+End With
+With DEFUNT
+Id=10757
+Nom=BLANC
+Prenom=JEAN-PIERRE
+DecesDate=04/05/2017
+CodeDft=10757
+End With
+With DEFUNT
+Id=11146
+Nom=BLANC
+Prenom=THERESE
+DecesDate=05/07/2017
+CodeDft=11146
+End With
+With DEFUNT
+Id=11551
+Nom=BLANC
+Prenom=MONIQUE
+DecesDate=05/09/2017
+CodeDft=11551
+End With
+With DEFUNT
+Id=11650
+Nom=BLANC
+Prenom=YVON
+DecesDate=20/09/2017
+CodeDft=11650
+End With
+With DEFUNT
+Id=11723
+Nom=BLANC
+Prenom=SUZANNE
+DecesDate=02/10/2017
+CodeDft=11723
+End With
+With DEFUNT
+Id=11682
+Nom=BLANC 
+Prenom=RAYMONDE
+DecesDate=26/09/2017
+CodeDft=11682
+End With
+With DEFUNT
+Id=9922
+Nom=BLANC GONNET
+Prenom=MARIE
+DecesDate=10/01/2017
+CodeDft=9922
+End With
+With DEFUNT
+Id=10572
+Nom=BLANCHOZ
+Prenom=ODETTE
+DecesDate=05/04/2017
+CodeDft=10572
+End With
+With DEFUNT
+Id=10147
+Nom=BLARD
+Prenom=GEORGETTE
+DecesDate=01/02/2017
+CodeDft=10147
+End With
+With DEFUNT
+Id=11058
+Nom=BLIN RUAUDEL
+Prenom=FRANCOISE
+DecesDate=21/06/2017
+CodeDft=11058
+End With
+With DEFUNT
+Id=10354
+Nom=BLONDEL
+Prenom=GUY
+DecesDate=01/03/2017
+CodeDft=10354
+End With
+With DEFUNT
+Id=9857
+Nom=BLONDEL
+Prenom=JEAN CLAUDE
+DecesDate=04/01/2017
+CodeDft=9857
+End With
+With DEFUNT
+Id=10058
+Nom=BLOUIN
+Prenom=LUCIENNE
+DecesDate=22/01/2017
+CodeDft=10058
+End With
+With DEFUNT
+Id=11395
+Nom=BOCH
+Prenom=PHILIPPE
+DecesDate=13/08/2017
+CodeDft=11395
+End With
+With DEFUNT
+Id=9872
+Nom=BOCH
+Prenom=EDOUARD
+DecesDate=05/01/2017
+CodeDft=9872
+End With
+With DEFUNT
+Id=11056
+Nom=BOCHATON
+Prenom=HUGUETTE
+DecesDate=21/06/2017
+CodeDft=11056
+End With
+With DEFUNT
+Id=11462
+Nom=BOCKTAEL
+Prenom=DOMINIQUE
+DecesDate=25/08/2017
+CodeDft=11462
+End With
+With DEFUNT
+Id=10960
+Nom=BOF
+Prenom=JEAN-PIERRE
+DecesDate=07/06/2017
+CodeDft=10960
+End With
+With DEFUNT
+Id=10923
+Nom=BOIS
+Prenom=MARIA
+DecesDate=30/05/2017
+CodeDft=10923
+End With
+With DEFUNT
+Id=10490
+Nom=BOISSENET
+Prenom=ALAIN
+DecesDate=23/03/2017
+CodeDft=10490
+End With
+With DEFUNT
+Id=11722
+Nom=BOISSIN
+Prenom=JEAN
+DecesDate=01/10/2017
+CodeDft=11722
+End With
+With DEFUNT
+Id=10585
+Nom=BOISSON
+Prenom=RENE
+DecesDate=06/04/2017
+CodeDft=10585
+End With
+With DEFUNT
+Id=11046
+Nom=BOISSON
+Prenom=PATRICK
+DecesDate=19/06/2017
+CodeDft=11046
+End With
+With DEFUNT
+Id=10398
+Nom=BOITOUT
+Prenom=ELIANE
+DecesDate=09/03/2017
+CodeDft=10398
+End With
+With DEFUNT
+Id=10437
+Nom=BOLLIET
+Prenom=LOUISE
+DecesDate=15/03/2017
+CodeDft=10437
+End With
+With DEFUNT
+Id=11021
+Nom=BOLLIET
+Prenom=ELISE
+DecesDate=14/06/2017
+CodeDft=11021
+End With
+With DEFUNT
+Id=10415
+Nom=BOLLON
+Prenom=SUZANNE
+DecesDate=10/03/2017
+CodeDft=10415
+End With
+With DEFUNT
+Id=11656
+Nom=BON
+Prenom=LUCIEN
+DecesDate=21/09/2017
+CodeDft=11656
+End With
+With DEFUNT
+Id=10441
+Nom=BONAPFEL
+Prenom=JEAN-CLAUDE
+DecesDate=15/03/2017
+CodeDft=10441
+End With
+With DEFUNT
+Id=11251
+Nom=BONETTI
+Prenom=CECILE
+DecesDate=22/07/2017
+CodeDft=11251
+End With
+With DEFUNT
+Id=10669
+Nom=BONNEFOY
+Prenom=GISELE
+DecesDate=20/04/2017
+CodeDft=10669
+End With
+With DEFUNT
+Id=11163
+Nom=BONNEFOY
+Prenom=FRANCOIS
+DecesDate=07/07/2017
+CodeDft=11163
+End With
+With DEFUNT
+Id=10804
+Nom=BONNET
+Prenom=ERIC
+DecesDate=10/05/2017
+CodeDft=10804
+End With
+With DEFUNT
+Id=10385
+Nom=BONNEVIE 
+Prenom=ARMANDINE
+DecesDate=08/03/2017
+CodeDft=10385
+End With
+With DEFUNT
+Id=11613
+Nom=BONNIN
+Prenom=JOSIANE
+DecesDate=16/09/2017
+CodeDft=11613
+End With
+With DEFUNT
+Id=10370
+Nom=BONNIVARD
+Prenom=EDMOND
+DecesDate=06/03/2017
+CodeDft=10370
+End With
+With DEFUNT
+Id=10486
+Nom=BORG
+Prenom=NICOLE
+DecesDate=23/03/2017
+CodeDft=10486
+End With
+With DEFUNT
+Id=11366
+Nom=BORGEY
+Prenom=FRANCOIS
+DecesDate=09/08/2017
+CodeDft=11366
+End With
+With DEFUNT
+Id=11668
+Nom=BORLET
+Prenom=LILIANE
+DecesDate=23/09/2017
+CodeDft=11668
+End With
+With DEFUNT
+Id=10167
+Nom=BORNAND
+Prenom=SUZANNE
+DecesDate=03/02/2017
+CodeDft=10167
+End With
+With DEFUNT
+Id=11041
+Nom=BOSA
+Prenom=MICHEL
+DecesDate=18/06/2017
+CodeDft=11041
+End With
+With DEFUNT
+Id=11072
+Nom=BOUCHER DE LA RUPELLE
+Prenom=GUILLEMETTE
+DecesDate=21/06/2017
+CodeDft=11072
+End With
+With DEFUNT
+Id=10522
+Nom=BOUCHEREAU
+Prenom=JACQUES
+DecesDate=29/03/2017
+CodeDft=10522
+End With
+With DEFUNT
+Id=10477
+Nom=BOUCHET
+Prenom=JOSETTE
+DecesDate=21/03/2017
+CodeDft=10477
+End With
+With DEFUNT
+Id=10829
+Nom=BOUDOU
+Prenom=NANCY
+DecesDate=14/05/2017
+CodeDft=10829
+End With
+With DEFUNT
+Id=11431
+Nom=BOULANGER
+Prenom=ROLANDE
+DecesDate=20/08/2017
+CodeDft=11431
+End With
+With DEFUNT
+Id=10142
+Nom=BOUR
+Prenom=MARCEL
+DecesDate=31/01/2017
+CodeDft=10142
+End With
+With DEFUNT
+Id=11467
+Nom=BOURDIN
+Prenom=JANE
+DecesDate=26/08/2017
+CodeDft=11467
+End With
+With DEFUNT
+Id=10351
+Nom=BOURGEOIS
+Prenom=JEAN CHRISTIAN
+DecesDate=02/03/2017
+CodeDft=10351
+End With
+With DEFUNT
+Id=10061
+Nom=BOURGEOLET
+Prenom=ALPHONSE
+DecesDate=23/01/2017
+CodeDft=10061
+End With
+With DEFUNT
+Id=11140
+Nom=BOURGOIS
+Prenom=ALAIN
+DecesDate=04/07/2017
+CodeDft=11140
+End With
+With DEFUNT
+Id=9830
+Nom=BOURMAULT
+Prenom=MONIQUE
+DecesDate=02/01/2017
+CodeDft=9830
+End With
+With DEFUNT
+Id=10703
+Nom=BOURQUIN
+Prenom=JEANNINE
+DecesDate=26/04/2017
+CodeDft=10703
+End With
+With DEFUNT
+Id=11683
+Nom=BOURY
+Prenom=ANDRE
+DecesDate=26/09/2017
+CodeDft=11683
+End With
+With DEFUNT
+Id=10336
+Nom=BOUTAZ
+Prenom=JEAN
+DecesDate=28/02/2017
+CodeDft=10336
+End With
+With DEFUNT
+Id=10041
+Nom=BOUTEILLE
+Prenom=SOLANGE
+DecesDate=21/01/2017
+CodeDft=10041
+End With
+With DEFUNT
+Id=10730
+Nom=BOUTEILLER
+Prenom=LUCIENNE
+DecesDate=29/04/2017
+CodeDft=10730
+End With
+With DEFUNT
+Id=11152
+Nom=BOUVERAT
+Prenom=JEANNE
+DecesDate=05/07/2017
+CodeDft=11152
+End With
+With DEFUNT
+Id=10222
+Nom=BOUVIER
+Prenom=JEAN-PAUL
+DecesDate=11/02/2017
+CodeDft=10222
+End With
+With DEFUNT
+Id=10235
+Nom=BOUVIER
+Prenom=ROGER
+DecesDate=13/02/2017
+CodeDft=10235
+End With
+With DEFUNT
+Id=10469
+Nom=BOUVIER
+Prenom=SUZANNE
+DecesDate=19/03/2017
+CodeDft=10469
+End With
+With DEFUNT
+Id=10673
+Nom=BOUVIER
+Prenom=LUCIENNE
+DecesDate=19/04/2017
+CodeDft=10673
+End With
+With DEFUNT
+Id=11447
+Nom=BOUVIER
+Prenom=DOMINIQUE
+DecesDate=23/08/2017
+CodeDft=11447
+End With
+With DEFUNT
+Id=11450
+Nom=BOUVIER
+Prenom=CHANTAL
+DecesDate=23/08/2017
+CodeDft=11450
+End With
+With DEFUNT
+Id=11600
+Nom=BOUVIER
+Prenom=ROBERT
+DecesDate=14/09/2017
+CodeDft=11600
+End With
+With DEFUNT
+Id=11662
+Nom=BOUVIER
+Prenom=FRANCK
+DecesDate=22/09/2017
+CodeDft=11662
+End With
+With DEFUNT
+Id=11150
+Nom=BOUZON
+Prenom=LEON
+DecesDate=04/07/2017
+CodeDft=11150
+End With
+With DEFUNT
+Id=11054
+Nom=BOYER
+Prenom=LOUIS
+DecesDate=19/06/2017
+CodeDft=11054
+End With
+With DEFUNT
+Id=10405
+Nom=BOYOUD
+Prenom=MARTINE
+DecesDate=10/03/2017
+CodeDft=10405
+End With
+With DEFUNT
+Id=10390
+Nom=BOZON
+Prenom=MARIE ANNICK
+DecesDate=07/03/2017
+CodeDft=10390
+End With
+With DEFUNT
+Id=9859
+Nom=BOZON
+Prenom=ROLLAND
+DecesDate=04/01/2017
+CodeDft=9859
+End With
+With DEFUNT
+Id=9860
+Nom=BOZON
+Prenom=ROLLAND
+DecesDate=04/01/2017
+CodeDft=9860
+End With
+With DEFUNT
+Id=11272
+Nom=BRAISAZ
+Prenom=SIMONE
+DecesDate=25/07/2017
+CodeDft=11272
+End With
+With DEFUNT
+Id=9862
+Nom=BRAISAZ
+Prenom=FELIX
+DecesDate=04/01/2017
+CodeDft=9862
+End With
+With DEFUNT
+Id=11059
+Nom=BRANCQUART
+Prenom=YVETTE
+DecesDate=21/06/2017
+CodeDft=11059
+End With
+With DEFUNT
+Id=10917
+Nom=BRANTUT
+Prenom=ADRIEN
+DecesDate=30/05/2017
+CodeDft=10917
+End With
+With DEFUNT
+Id=11132
+Nom=BRAYDA-BRUNO
+Prenom=AUGUSTE
+DecesDate=03/07/2017
+CodeDft=11132
+End With
+With DEFUNT
+Id=10492
+Nom=BRESSON
+Prenom=NOEMIE
+DecesDate=23/03/2017
+CodeDft=10492
+End With
+With DEFUNT
+Id=11436
+Nom=BRETON DIT DURBET
+Prenom=HENRI
+DecesDate=22/08/2017
+CodeDft=11436
+End With
+With DEFUNT
+Id=11435
+Nom=BRET-VITTOZ / REYNARD
+Prenom=LATIKA
+DecesDate=19/08/2017
+CodeDft=11435
+End With
+With DEFUNT
+Id=10603
+Nom=BREZZO
+Prenom=HENRI
+DecesDate=10/04/2017
+CodeDft=10603
+End With
+With DEFUNT
+Id=10554
+Nom=BRIANCON
+Prenom=SUZANNE
+DecesDate=02/04/2017
+CodeDft=10554
+End With
+With DEFUNT
+Id=11197
+Nom=BRIANCON
+Prenom=JEAN-NOEL
+DecesDate=12/07/2017
+CodeDft=11197
+End With
+With DEFUNT
+Id=10216
+Nom=BRIGANTI
+Prenom=RITA
+DecesDate=08/02/2017
+CodeDft=10216
+End With
+With DEFUNT
+Id=10397
+Nom=BROCHE
+Prenom=PAUL
+DecesDate=09/03/2017
+CodeDft=10397
+End With
+With DEFUNT
+Id=11320
+Nom=BROCHE
+Prenom=LUCIENNE
+DecesDate=31/07/2017
+CodeDft=11320
+End With
+With DEFUNT
+Id=11578
+Nom=BRONS
+Prenom=VINCENT
+DecesDate=09/09/2017
+CodeDft=11578
+End With
+With DEFUNT
+Id=10456
+Nom=BROUCHON
+Prenom=PHILIPPE
+DecesDate=18/03/2017
+CodeDft=10456
+End With
+With DEFUNT
+Id=9986
+Nom=BROUWERS
+Prenom=CONNIE
+DecesDate=16/01/2017
+CodeDft=9986
+End With
+With DEFUNT
+Id=11104
+Nom=BRU
+Prenom=ALAIN
+DecesDate=20/06/2017
+CodeDft=11104
+End With
+With DEFUNT
+Id=11333
+Nom=BRUA
+Prenom=ROBERT
+DecesDate=01/08/2017
+CodeDft=11333
+End With
+With DEFUNT
+Id=10112
+Nom=BRUN
+Prenom=JOSEPHINE
+DecesDate=29/01/2017
+CodeDft=10112
+End With
+With DEFUNT
+Id=10994
+Nom=BRUN
+Prenom=HENRY
+DecesDate=10/06/2017
+CodeDft=10994
+End With
+With DEFUNT
+Id=10009
+Nom=BRUNIER
+Prenom=JOSETTE
+DecesDate=18/01/2017
+CodeDft=10009
+End With
+With DEFUNT
+Id=11215
+Nom=BRUNIER
+Prenom=ROGER
+DecesDate=15/07/2017
+CodeDft=11215
+End With
+With DEFUNT
+Id=10153
+Nom=BRUSCAGGIN
+Prenom=ELIANE
+DecesDate=01/02/2017
+CodeDft=10153
+End With
+With DEFUNT
+Id=10580
+Nom=BUDAI
+Prenom=AIME
+DecesDate=06/04/2017
+CodeDft=10580
+End With
+With DEFUNT
+Id=10326
+Nom=BUFFET
+Prenom=CLAUDE
+DecesDate=27/02/2017
+CodeDft=10326
+End With
+With DEFUNT
+Id=10974
+Nom=BUISSON
+Prenom=SUZANNE
+DecesDate=09/06/2017
+CodeDft=10974
+End With
+With DEFUNT
+Id=11000
+Nom=BUISSON
+Prenom=EVLAMBIA
+DecesDate=10/06/2017
+CodeDft=11000
+End With
+With DEFUNT
+Id=9965
+Nom=BUISSON
+Prenom=MARIE CHRISTINE
+DecesDate=14/01/2017
+CodeDft=9965
+End With
+With DEFUNT
+Id=10212
+Nom=BUISSON - DEBON
+Prenom=JOSEPH
+DecesDate=10/02/2017
+CodeDft=10212
+End With
+With DEFUNT
+Id=10350
+Nom=BUNAUX
+Prenom=YVONNE
+DecesDate=02/03/2017
+CodeDft=10350
+End With
+With DEFUNT
+Id=10115
+Nom=BURDIN
+Prenom=ANDREE
+DecesDate=29/01/2017
+CodeDft=10115
+End With
+With DEFUNT
+Id=10124
+Nom=BURDIN
+Prenom=EMILIENNE
+DecesDate=29/01/2017
+CodeDft=10124
+End With
+With DEFUNT
+Id=11306
+Nom=BURLET
+Prenom=CLAUDIA
+DecesDate=30/07/2017
+CodeDft=11306
+End With
+With DEFUNT
+Id=10365
+Nom=BURTIN
+Prenom=DENISE
+DecesDate=03/03/2017
+CodeDft=10365
+End With
+With DEFUNT
+Id=11353
+Nom=BUSILLET
+Prenom=JULES EMILE
+DecesDate=06/08/2017
+CodeDft=11353
+End With
+With DEFUNT
+Id=10108
+Nom=BUTHOD
+Prenom=ROSETTE
+DecesDate=28/01/2017
+CodeDft=10108
+End With
+With DEFUNT
+Id=10665
+Nom=BUTHOD GARCON
+Prenom=THERESE
+DecesDate=19/04/2017
+CodeDft=10665
+End With
+With DEFUNT
+Id=10472
+Nom=BUTTARD
+Prenom=FRANCE
+DecesDate=21/03/2017
+CodeDft=10472
+End With
+With DEFUNT
+Id=11465
+Nom=BUTTARD
+Prenom=JEAN BAPTISTE
+DecesDate=26/08/2017
+CodeDft=11465
+End With
+With DEFUNT
+Id=10146
+Nom=BUTTIN
+Prenom=ADELE
+DecesDate=01/02/2017
+CodeDft=10146
+End With
+With DEFUNT
+Id=10699
+Nom=BUZZONI
+Prenom=MICHELE
+DecesDate=25/04/2017
+CodeDft=10699
+End With
+With DEFUNT
+Id=10096
+Nom=CABART
+Prenom=ODETTE
+DecesDate=26/01/2017
+CodeDft=10096
+End With
+With DEFUNT
+Id=10269
+Nom=CADEDDU
+Prenom=FRANCESCO
+DecesDate=18/02/2017
+CodeDft=10269
+End With
+With DEFUNT
+Id=10709
+Nom=CAFFOZ
+Prenom=DANIEL
+DecesDate=26/04/2017
+CodeDft=10709
+End With
+With DEFUNT
+Id=11357
+Nom=CAHUZAC
+Prenom=JOEL
+DecesDate=07/08/2017
+CodeDft=11357
+End With
+With DEFUNT
+Id=9818
+Nom=CAILLE
+Prenom=ALICE
+DecesDate=01/02/2017
+CodeDft=9818
+End With
+With DEFUNT
+Id=9833
+Nom=CAILLE 
+Prenom=EMILIENNE
+DecesDate=02/01/2017
+CodeDft=9833
+End With
+With DEFUNT
+Id=10418
+Nom=CALIBET
+Prenom=CHARLES 
+DecesDate=10/03/2017
+CodeDft=10418
+End With
+With DEFUNT
+Id=10223
+Nom=CALLET
+Prenom=PATRICK
+DecesDate=12/02/2017
+CodeDft=10223
+End With
+With DEFUNT
+Id=11223
+Nom=CALLETTI
+Prenom=JEANNINE
+DecesDate=17/07/2017
+CodeDft=11223
+End With
+With DEFUNT
+Id=11694
+Nom=CASTEL-BRANCO
+Prenom=MARIA - CRISTINA
+DecesDate=28/09/2017
+CodeDft=11694
+End With
+With DEFUNT
+Id=10707
+Nom=CAMBET-PETIT-JEAN
+Prenom=CHARLOTTE
+DecesDate=26/04/2017
+CodeDft=10707
+End With
+With DEFUNT
+Id=11577
+Nom=CAMBIER
+Prenom=JOSETTE
+DecesDate=10/09/2017
+CodeDft=11577
+End With
+With DEFUNT
+Id=10273
+Nom=CAMMARATA
+Prenom=GIOVANNI
+DecesDate=18/02/2017
+CodeDft=10273
+End With
+With DEFUNT
+Id=10545
+Nom=CAMPOS
+Prenom=ALBERTO
+DecesDate=01/04/2017
+CodeDft=10545
+End With
+With DEFUNT
+Id=11624
+Nom=CANAUD
+Prenom=MATHILDE
+DecesDate=05/09/2017
+CodeDft=11624
+End With
+With DEFUNT
+Id=10506
+Nom=CAPELLI
+Prenom=ANDRE
+DecesDate=27/03/2017
+CodeDft=10506
+End With
+With DEFUNT
+Id=11231
+Nom=CAPELLI
+Prenom=GERARD
+DecesDate=18/07/2017
+CodeDft=11231
+End With
+With DEFUNT
+Id=10750
+Nom=CARBONE
+Prenom=JEAN-PIERRE
+DecesDate=02/05/2017
+CodeDft=10750
+End With
+With DEFUNT
+Id=9840
+Nom=CARBONE
+Prenom=THIERRY
+DecesDate=03/01/2017
+CodeDft=9840
+End With
+With DEFUNT
+Id=9901
+Nom=CARIOU
+Prenom=HELENE
+DecesDate=08/01/2017
+CodeDft=9901
+End With
+With DEFUNT
+Id=10400
+Nom=CARLE
+Prenom=JACQUELINE
+DecesDate=08/03/2017
+CodeDft=10400
+End With
+With DEFUNT
+Id=10980
+Nom=CARLE
+Prenom=SYLVIE
+DecesDate=10/06/2017
+CodeDft=10980
+End With
+With DEFUNT
+Id=11646
+Nom=CARLE
+Prenom=MONIQUE
+DecesDate=20/09/2017
+CodeDft=11646
+End With
+With DEFUNT
+Id=9839
+Nom=CARMET
+Prenom=YVETTE
+DecesDate=03/01/2017
+CodeDft=9839
+End With
+With DEFUNT
+Id=10150
+Nom=CARMONA
+Prenom=ANA
+DecesDate=02/02/2017
+CodeDft=10150
+End With
+With DEFUNT
+Id=10746
+Nom=CARON
+Prenom=GERARD
+DecesDate=01/05/2017
+CodeDft=10746
+End With
+With DEFUNT
+Id=11449
+Nom=CARON
+Prenom=GERMAINE
+DecesDate=22/08/2017
+CodeDft=11449
+End With
+With DEFUNT
+Id=10276
+Nom=CARRARA
+Prenom=IGINO
+DecesDate=19/02/2017
+CodeDft=10276
+End With
+With DEFUNT
+Id=10272
+Nom=CARRAZ
+Prenom=SUZANNE
+DecesDate=18/02/2017
+CodeDft=10272
+End With
+With DEFUNT
+Id=10247
+Nom=CARRET
+Prenom=EMILE
+DecesDate=14/02/2017
+CodeDft=10247
+End With
+With DEFUNT
+Id=11542
+Nom=CARRET
+Prenom=ANDRE
+DecesDate=04/09/2017
+CodeDft=11542
+End With
+With DEFUNT
+Id=9856
+Nom=CARRET
+Prenom=JEANINE
+DecesDate=29/12/2016
+CodeDft=9856
+End With
+With DEFUNT
+Id=10333
+Nom=CARRET OLIVIER
+Prenom=ROGER
+DecesDate=28/02/2017
+CodeDft=10333
+End With
+With DEFUNT
+Id=9836
+Nom=CARRIER
+Prenom=FRANCINE
+DecesDate=02/01/2017
+CodeDft=9836
+End With
+With DEFUNT
+Id=10653
+Nom=CARRON
+Prenom=PIERRE
+DecesDate=17/04/2017
+CodeDft=10653
+End With
+With DEFUNT
+Id=10814
+Nom=CARRON
+Prenom=GISELE
+DecesDate=12/05/2017
+CodeDft=10814
+End With
+With DEFUNT
+Id=10866
+Nom=CARTIER
+Prenom=PAULETTE
+DecesDate=20/05/2017
+CodeDft=10866
+End With
+With DEFUNT
+Id=10290
+Nom=CARTIGNY
+Prenom=JEAN PAUL
+DecesDate=20/02/2017
+CodeDft=10290
+End With
+With DEFUNT
+Id=11349
+Nom=CASQUET
+Prenom=CONCESSION
+DecesDate=05/08/2017
+CodeDft=11349
+End With
+With DEFUNT
+Id=10527
+Nom=CASSE
+Prenom=GEMMA
+DecesDate=28/03/2017
+CodeDft=10527
+End With
+With DEFUNT
+Id=10457
+Nom=CASSIOTIS
+Prenom=MADELEINE
+DecesDate=19/03/2017
+CodeDft=10457
+End With
+With DEFUNT
+Id=10205
+Nom=CASSIUS DE LA LINVAL
+Prenom=SOPHIE
+DecesDate=10/02/2017
+CodeDft=10205
+End With
+With DEFUNT
+Id=11119
+Nom=CATINON
+Prenom=AMOUR
+DecesDate=29/06/2017
+CodeDft=11119
+End With
+With DEFUNT
+Id=10006
+Nom=CATTANEO
+Prenom=MICHELLE
+DecesDate=18/01/2017
+CodeDft=10006
+End With
+With DEFUNT
+Id=10618
+Nom=CAU
+Prenom=YANN
+DecesDate=10/04/2017
+CodeDft=10618
+End With
+With DEFUNT
+Id=10609
+Nom=CAUVET DE BLANCHONVAL ET DU LIMON
+Prenom=GEORGES-ERIC
+DecesDate=10/04/2017
+CodeDft=10609
+End With
+With DEFUNT
+Id=11667
+Nom=CAVAILLON
+Prenom=JEAN
+DecesDate=22/09/2017
+CodeDft=11667
+End With
+With DEFUNT
+Id=10747
+Nom=CAVALLIN
+Prenom=MICHEL
+DecesDate=02/05/2017
+CodeDft=10747
+End With
+With DEFUNT
+Id=10375
+Nom=CAVELAN
+Prenom=
+DecesDate=07/03/2017
+CodeDft=10375
+End With
+With DEFUNT
+Id=10332
+Nom=CAZAJEUX
+Prenom=FRANCOIS
+DecesDate=26/02/2017
+CodeDft=10332
+End With
+With DEFUNT
+Id=11593
+Nom=CAZAR
+Prenom=CHRISTIAN
+DecesDate=12/09/2017
+CodeDft=11593
+End With
+With DEFUNT
+Id=10181
+Nom=CAZAURAN
+Prenom=ANDRE
+DecesDate=05/02/2017
+CodeDft=10181
+End With
+With DEFUNT
+Id=11213
+Nom=CELEGATO
+Prenom=MARYBELLE
+DecesDate=15/07/2017
+CodeDft=11213
+End With
+With DEFUNT
+Id=11612
+Nom=CERESERO
+Prenom=GERARD
+DecesDate=16/09/2017
+CodeDft=11612
+End With
+With DEFUNT
+Id=11582
+Nom=CERNY
+Prenom=YVES
+DecesDate=10/09/2017
+CodeDft=11582
+End With
+With DEFUNT
+Id=10525
+Nom=CERUTTI
+Prenom=JEANNINE
+DecesDate=29/03/2017
+CodeDft=10525
+End With
+With DEFUNT
+Id=11580
+Nom=CEVOZ
+Prenom=YVETTE
+DecesDate=09/09/2017
+CodeDft=11580
+End With
+With DEFUNT
+Id=11051
+Nom=CHAALANE
+Prenom=EL HADJ
+DecesDate=20/06/2017
+CodeDft=11051
+End With
+With DEFUNT
+Id=9946
+Nom=CHABANNE
+Prenom=PIERRE
+DecesDate=12/01/2017
+CodeDft=9946
+End With
+With DEFUNT
+Id=10961
+Nom=CHABERT
+Prenom=ANDREE
+DecesDate=06/06/2017
+CodeDft=10961
+End With
+With DEFUNT
+Id=10170
+Nom=CHABERTY
+Prenom=GABRIELLE
+DecesDate=03/02/2017
+CodeDft=10170
+End With
+With DEFUNT
+Id=11336
+Nom=CHAFFARDON
+Prenom=HENRIETTE
+DecesDate=03/08/2017
+CodeDft=11336
+End With
+With DEFUNT
+Id=11672
+Nom=CHAIX
+Prenom=RAYMOND
+DecesDate=23/07/2017
+CodeDft=11672
+End With
+With DEFUNT
+Id=10976
+Nom=CHALANDON
+Prenom=CHRISTOPHE
+DecesDate=08/06/2017
+CodeDft=10976
+End With
+With DEFUNT
+Id=10285
+Nom=CHALANSONNET
+Prenom=MARCELLE
+DecesDate=19/02/2017
+CodeDft=10285
+End With
+With DEFUNT
+Id=10355
+Nom=CHALANSONNET
+Prenom=GEMMA
+DecesDate=01/03/2017
+CodeDft=10355
+End With
+With DEFUNT
+Id=10777
+Nom=CHALANSONNET
+Prenom=JOSETTE
+DecesDate=07/05/2017
+CodeDft=10777
+End With
+With DEFUNT
+Id=11292
+Nom=CHALANSONNET
+Prenom=ERIC
+DecesDate=27/07/2017
+CodeDft=11292
+End With
+With DEFUNT
+Id=10865
+Nom=CHAMBARD
+Prenom=LUCIEN
+DecesDate=19/05/2014
+CodeDft=10865
+End With
+With DEFUNT
+Id=9893
+Nom=CHAMBET
+Prenom=CHRISTIAN
+DecesDate=07/01/2017
+CodeDft=9893
+End With
+With DEFUNT
+Id=10386
+Nom=CHAPEL
+Prenom=GERMAINE
+DecesDate=07/03/2017
+CodeDft=10386
+End With
+With DEFUNT
+Id=10834
+Nom=CHAPPAZ
+Prenom=JOSEPH
+DecesDate=14/05/2017
+CodeDft=10834
+End With
+With DEFUNT
+Id=10720
+Nom=CHAPPELET
+Prenom=SIMONE
+DecesDate=28/04/2017
+CodeDft=10720
+End With
+With DEFUNT
+Id=10530
+Nom=CHAPPELLAZ
+Prenom=IRMA
+DecesDate=29/03/2017
+CodeDft=10530
+End With
+With DEFUNT
+Id=10774
+Nom=CHAPUIS
+Prenom=SIMONE
+DecesDate=07/05/2017
+CodeDft=10774
+End With
+With DEFUNT
+Id=11082
+Nom=CHAPUZET
+Prenom=CHRISTIANE
+DecesDate=25/06/2017
+CodeDft=11082
+End With
+With DEFUNT
+Id=10224
+Nom=CHARBONNET
+Prenom=JOSEPH
+DecesDate=12/02/2017
+CodeDft=10224
+End With
+With DEFUNT
+Id=11308
+Nom=CHARDON
+Prenom=MAURICE
+DecesDate=30/07/2017
+CodeDft=11308
+End With
+With DEFUNT
+Id=10159
+Nom=CHARLES
+Prenom=CYRILLE
+DecesDate=02/02/2017
+CodeDft=10159
+End With
+With DEFUNT
+Id=11545
+Nom=CHARLETY
+Prenom=MICHEL
+DecesDate=04/09/2017
+CodeDft=11545
+End With
+With DEFUNT
+Id=11044
+Nom=CHARPIN
+Prenom=ROBERT
+DecesDate=19/06/2017
+CodeDft=11044
+End With
+With DEFUNT
+Id=11552
+Nom=CHARPIN
+Prenom=SIMONE
+DecesDate=06/09/2017
+CodeDft=11552
+End With
+With DEFUNT
+Id=9931
+Nom=CHARREAU
+Prenom=MOLLIE
+DecesDate=11/01/2017
+CodeDft=9931
+End With
+With DEFUNT
+Id=10352
+Nom=CHARRIER
+Prenom=MARIE-AGNES
+DecesDate=02/03/2017
+CodeDft=10352
+End With
+With DEFUNT
+Id=10691
+Nom=CHARTON
+Prenom=DANIEL
+DecesDate=14/04/2017
+CodeDft=10691
+End With
+With DEFUNT
+Id=10818
+Nom=CHARVET
+Prenom=MADELEINE
+DecesDate=13/05/2017
+CodeDft=10818
+End With
+With DEFUNT
+Id=10088
+Nom=CHARVIEUX
+Prenom=FRANCOIS
+DecesDate=26/01/2017
+CodeDft=10088
+End With
+With DEFUNT
+Id=11277
+Nom=CHASSY
+Prenom=SOLANGE
+DecesDate=27/07/2017
+CodeDft=11277
+End With
+With DEFUNT
+Id=9984
+Nom=CHATARD
+Prenom=CORINNE
+DecesDate=16/01/2017
+CodeDft=9984
+End With
+With DEFUNT
+Id=9774
+Nom=CHAUMEIL
+Prenom=CLAUDE
+DecesDate=26/12/2016
+CodeDft=9774
+End With
+With DEFUNT
+Id=10266
+Nom=CHAUVET
+Prenom=DENISE
+DecesDate=17/02/2017
+CodeDft=10266
+End With
+With DEFUNT
+Id=10903
+Nom=CHAVENON
+Prenom=MARIE-CLAIRE
+DecesDate=28/05/2017
+CodeDft=10903
+End With
+With DEFUNT
+Id=10093
+Nom=CHAVOUTIER
+Prenom=CHRISTIANE
+DecesDate=25/01/2017
+CodeDft=10093
+End With
+With DEFUNT
+Id=10330
+Nom=CHAVOUTIER
+Prenom=JEANNE
+DecesDate=27/02/2017
+CodeDft=10330
+End With
+With DEFUNT
+Id=9883
+Nom=CHAZERAND
+Prenom=GILLES
+DecesDate=05/01/2017
+CodeDft=9883
+End With
+With DEFUNT
+Id=9886
+Nom=CHAZERAND
+Prenom=GILLES
+DecesDate=05/01/2017
+CodeDft=9886
+End With
+With DEFUNT
+Id=10321
+Nom=CHECCHI
+Prenom=GIOVANNI
+DecesDate=26/02/2017
+CodeDft=10321
+End With
+With DEFUNT
+Id=11341
+Nom=CHENAL
+Prenom=JULIEN
+DecesDate=03/08/2017
+CodeDft=11341
+End With
+With DEFUNT
+Id=11135
+Nom=CHENU
+Prenom=CLAUDE
+DecesDate=03/07/2017
+CodeDft=11135
+End With
+With DEFUNT
+Id=11625
+Nom=CHEREL
+Prenom=MARIE-ANNICK
+DecesDate=16/09/2017
+CodeDft=11625
+End With
+With DEFUNT
+Id=10271
+Nom=CHEVASSU
+Prenom=CHRISTIAN
+DecesDate=18/02/2017
+CodeDft=10271
+End With
+With DEFUNT
+Id=10075
+Nom=CHEVILLARD
+Prenom=BERNARD
+DecesDate=24/01/2017
+CodeDft=10075
+End With
+With DEFUNT
+Id=10837
+Nom=CHIERICI
+Prenom=BRUNO
+DecesDate=16/05/2017
+CodeDft=10837
+End With
+With DEFUNT
+Id=10066
+Nom=CHIESA
+Prenom=SERGE
+DecesDate=23/01/2017
+CodeDft=10066
+End With
+With DEFUNT
+Id=10454
+Nom=CHINAL (soeur Marie-Emilie)
+Prenom=HORTENSE
+DecesDate=18/03/2017
+CodeDft=10454
+End With
+With DEFUNT
+Id=11705
+Nom=CHINOTTI
+Prenom=JACQUES
+DecesDate=28/09/2017
+CodeDft=11705
+End With
+With DEFUNT
+Id=11170
+Nom=CHIOSO
+Prenom=PIERRE
+DecesDate=08/07/2017
+CodeDft=11170
+End With
+With DEFUNT
+Id=10317
+Nom=CHIRAC
+Prenom=MARIE
+DecesDate=24/02/2017
+CodeDft=10317
+End With
+With DEFUNT
+Id=11189
+Nom=CHIRON
+Prenom=CATHERINE
+DecesDate=  /  /
+CodeDft=11189
+End With
+With DEFUNT
+Id=11011
+Nom=CHOISEAU
+Prenom=MARIE-JEANNE
+DecesDate=14/06/2017
+CodeDft=11011
+End With
+With DEFUNT
+Id=11229
+Nom=CHOL
+Prenom=SERGE
+DecesDate=17/07/2017
+CodeDft=11229
+End With
+With DEFUNT
+Id=10494
+Nom=CHOLLET
+Prenom=JEANNINE
+DecesDate=24/03/2017
+CodeDft=10494
+End With
+With DEFUNT
+Id=10628
+Nom=CHOPIN
+Prenom=MICHELE
+DecesDate=13/04/2017
+CodeDft=10628
+End With
+With DEFUNT
+Id=11554
+Nom=CHOQUELL
+Prenom=FERNANDE
+DecesDate=06/09/2017
+CodeDft=11554
+End With
+With DEFUNT
+Id=10311
+Nom=CHOSSON
+Prenom=JACQUES
+DecesDate=24/02/2017
+CodeDft=10311
+End With
+With DEFUNT
+Id=10428
+Nom=CHOTARD
+Prenom=MICHEL
+DecesDate=13/03/2017
+CodeDft=10428
+End With
+With DEFUNT
+Id=10448
+Nom=CHRISTIN
+Prenom=MAURICE
+DecesDate=16/03/2017
+CodeDft=10448
+End With
+With DEFUNT
+Id=10856
+Nom=CHRISTIN
+Prenom=ROSE MARIE
+DecesDate=19/05/2017
+CodeDft=10856
+End With
+With DEFUNT
+Id=10920
+Nom=CHRISTIN
+Prenom=SIMONE
+DecesDate=30/05/2017
+CodeDft=10920
+End With
+With DEFUNT
+Id=11496
+Nom=CICERON
+Prenom=ROGER
+DecesDate=29/08/2017
+CodeDft=11496
+End With
+With DEFUNT
+Id=11332
+Nom=CIELI
+Prenom=VICTORINE
+DecesDate=02/08/2017
+CodeDft=11332
+End With
+With DEFUNT
+Id=11335
+Nom=CIELI
+Prenom=VICTORINE
+DecesDate=02/08/2017
+CodeDft=11335
+End With
+With DEFUNT
+Id=11316
+Nom=CINGLANT
+Prenom=VERONIQUE
+DecesDate=31/07/2017
+CodeDft=11316
+End With
+With DEFUNT
+Id=11558
+Nom=CLARAZ
+Prenom=ROSE
+DecesDate=06/09/2017
+CodeDft=11558
+End With
+With DEFUNT
+Id=10388
+Nom=CLARET
+Prenom=FRANCIS
+DecesDate=08/03/2017
+CodeDft=10388
+End With
+With DEFUNT
+Id=10560
+Nom=CLARET
+Prenom=NADINE
+DecesDate=03/04/2017
+CodeDft=10560
+End With
+With DEFUNT
+Id=11172
+Nom=CLARET
+Prenom=MARIE LOUISE
+DecesDate=09/07/2017
+CodeDft=11172
+End With
+With DEFUNT
+Id=11470
+Nom=CLARIOND
+Prenom=JACQUELINE
+DecesDate=26/08/2017
+CodeDft=11470
+End With
+With DEFUNT
+Id=11584
+Nom=CLAUSTRE
+Prenom=X
+DecesDate=26/08/2017
+CodeDft=11584
+End With
+With DEFUNT
+Id=11001
+Nom=CLAVEL
+Prenom=CHRISTIANE
+DecesDate=12/06/2017
+CodeDft=11001
+End With
+With DEFUNT
+Id=11464
+Nom=CLEMENT PERROUSE
+Prenom=PAUL
+DecesDate=26/08/2017
+CodeDft=11464
+End With
+With DEFUNT
+Id=10302
+Nom=CLERC
+Prenom=THIERRY
+DecesDate=22/02/2017
+CodeDft=10302
+End With
+With DEFUNT
+Id=11259
+Nom=CLERC
+Prenom=FRANCESCA
+DecesDate=24/07/2017
+CodeDft=11259
+End With
+With DEFUNT
+Id=11081
+Nom=CLODONG
+Prenom=MICHEL
+DecesDate=25/06/2017
+CodeDft=11081
+End With
+With DEFUNT
+Id=11045
+Nom=COCHET
+Prenom=SYLVAIN
+DecesDate=19/06/2017
+CodeDft=11045
+End With
+With DEFUNT
+Id=11393
+Nom=COCHON D'INDE
+Prenom=VICTOR
+DecesDate=/  /
+CodeDft=11393
+End With
+With DEFUNT
+Id=11346
+Nom=COCHONAT
+Prenom=HELENE
+DecesDate=05/08/2017
+CodeDft=11346
+End With
+With DEFUNT
+Id=11525
+Nom=CODEX
+Prenom=VERONIQUE
+DecesDate=31/08/2017
+CodeDft=11525
+End With
+With DEFUNT
+Id=9933
+Nom=COHENDET
+Prenom=CHRISTINE
+DecesDate=10/01/2017
+CodeDft=9933
+End With
+With DEFUNT
+Id=11531
+Nom=COL
+Prenom=NARCISSE
+DecesDate=01/09/2017
+CodeDft=11531
+End With
+With DEFUNT
+Id=11535
+Nom=COL
+Prenom=NARCISSE
+DecesDate=01/09/2017
+CodeDft=11535
+End With
+With DEFUNT
+Id=10306
+Nom=COLAUD
+Prenom=ANDREE
+DecesDate=23/02/2017
+CodeDft=10306
+End With
+With DEFUNT
+Id=11505
+Nom=COLAUTTI
+Prenom=VALENTINA
+DecesDate=30/08/2017
+CodeDft=11505
+End With
+With DEFUNT
+Id=9964
+Nom=COLIN
+Prenom=JULIENNE
+DecesDate=14/01/2017
+CodeDft=9964
+End With
+With DEFUNT
+Id=10654
+Nom=COLLET
+Prenom=JEAN MARIE
+DecesDate=17/04/2017
+CodeDft=10654
+End With
+With DEFUNT
+Id=10695
+Nom=COLLET
+Prenom=ALOSIA
+DecesDate=25/04/2017
+CodeDft=10695
+End With
+With DEFUNT
+Id=9914
+Nom=COLLET
+Prenom=JEAN PHILIBERT
+DecesDate=09/01/2017
+CodeDft=9914
+End With
+With DEFUNT
+Id=11233
+Nom=COLLINGWOOD -WHITTICK
+Prenom=PHILIP
+DecesDate=18/07/2017
+CodeDft=11233
+End With
+With DEFUNT
+Id=10479
+Nom=COLLOMB
+Prenom=GEORGES
+DecesDate=22/03/2017
+CodeDft=10479
+End With
+With DEFUNT
+Id=10426
+Nom=COMBAZ-DEVILLE
+Prenom=ALAIN
+DecesDate=12/03/2017
+CodeDft=10426
+End With
+With DEFUNT
+Id=11400
+Nom=COMPAGNON
+Prenom=ALAIN
+DecesDate=13/08/2017
+CodeDft=11400
+End With
+With DEFUNT
+Id=11225
+Nom=CONTAT
+Prenom=GUY
+DecesDate=/  /
+CodeDft=11225
+End With
+With DEFUNT
+Id=9796
+Nom=COQUEREL
+Prenom=DENISE
+DecesDate=29/12/2016
+CodeDft=9796
+End With
+With DEFUNT
+Id=11085
+Nom=CORDIER
+Prenom=CLAUDETTE
+DecesDate=25/06/2017
+CodeDft=11085
+End With
+With DEFUNT
+Id=9896
+Nom=CORE
+Prenom=MICHEL
+DecesDate=07/01/2017
+CodeDft=9896
+End With
+With DEFUNT
+Id=10323
+Nom=CORNIER
+Prenom=LAURENCE
+DecesDate=22/02/2017
+CodeDft=10323
+End With
+With DEFUNT
+Id=10849
+Nom=CORNUT
+Prenom=JOSETTE
+DecesDate=17/05/2017
+CodeDft=10849
+End With
+With DEFUNT
+Id=10300
+Nom=CORREAS
+Prenom=GENARO
+DecesDate=22/02/2017
+CodeDft=10300
+End With
+With DEFUNT
+Id=11390
+Nom=CORRIERI
+Prenom=FRANCIS
+DecesDate=13/08/2017
+CodeDft=11390
+End With
+With DEFUNT
+Id=9927
+Nom=CORTEY
+Prenom=JEANNE
+DecesDate=08/01/2017
+CodeDft=9927
+End With
+With DEFUNT
+Id=10908
+Nom=CORTINOVIS
+Prenom=LOUIS
+DecesDate=27/05/2017
+CodeDft=10908
+End With
+With DEFUNT
+Id=10786
+Nom=COSI
+Prenom=JEAN-CLAUDE
+DecesDate=09/05/2017
+CodeDft=10786
+End With
+With DEFUNT
+Id=11284
+Nom=COSTA
+Prenom=SUZANNE
+DecesDate=27/07/2017
+CodeDft=11284
+End With
+With DEFUNT
+Id=10782
+Nom=COSTALUNGA
+Prenom=JOSETTE
+DecesDate=06/05/2017
+CodeDft=10782
+End With
+With DEFUNT
+Id=10870
+Nom=COSTE 
+Prenom=ANNE-MARIE
+DecesDate=22/05/2017
+CodeDft=10870
+End With
+With DEFUNT
+Id=10788
+Nom=COSTON
+Prenom=ROGER
+DecesDate=07/05/2017
+CodeDft=10788
+End With
+With DEFUNT
+Id=11084
+Nom=COTE
+Prenom=DANIEL
+DecesDate=25/06/2017
+CodeDft=11084
+End With
+With DEFUNT
+Id=10625
+Nom=COTTET
+Prenom=CHARLES
+DecesDate=13/04/2017
+CodeDft=10625
+End With
+With DEFUNT
+Id=11073
+Nom=COUPEAU
+Prenom=ROLANDE
+DecesDate=22/06/2017
+CodeDft=11073
+End With
+With DEFUNT
+Id=10519
+Nom=COURBIN
+Prenom=MADY
+DecesDate=29/03/2017
+CodeDft=10519
+End With
+With DEFUNT
+Id=10678
+Nom=COURRYAN
+Prenom=GERALD
+DecesDate=20/04/2017
+CodeDft=10678
+End With
+With DEFUNT
+Id=10660
+Nom=COURSON
+Prenom=PIERRE
+DecesDate=18/04/2017
+CodeDft=10660
+End With
+With DEFUNT
+Id=10021
+Nom=COUTIN
+Prenom=PIERRETTE
+DecesDate=19/01/2017
+CodeDft=10021
+End With
+With DEFUNT
+Id=10018
+Nom=COUTIN 
+Prenom=PIERRETTE
+DecesDate=19/01/2017
+CodeDft=10018
+End With
+With DEFUNT
+Id=10875
+Nom=COUTROT
+Prenom=MARCEL
+DecesDate=22/05/2017
+CodeDft=10875
+End With
+With DEFUNT
+Id=10064
+Nom=COUX
+Prenom=SIMONE
+DecesDate=22/01/2017
+CodeDft=10064
+End With
+With DEFUNT
+Id=10597
+Nom=COUX
+Prenom=CLAUDE
+DecesDate=08/04/2017
+CodeDft=10597
+End With
+With DEFUNT
+Id=11184
+Nom=COVET
+Prenom=GEORGES
+DecesDate=10/07/2017
+CodeDft=11184
+End With
+With DEFUNT
+Id=10812
+Nom=COYRET
+Prenom=ROBERT
+DecesDate=11/05/2017
+CodeDft=10812
+End With
+With DEFUNT
+Id=10593
+Nom=CREPONAT
+Prenom=MADELEINE
+DecesDate=08/04/2017
+CodeDft=10593
+End With
+With DEFUNT
+Id=9782
+Nom=CRESSENS
+Prenom=ANDRE
+DecesDate=27/12/2016
+CodeDft=9782
+End With
+With DEFUNT
+Id=10356
+Nom=CRETIN
+Prenom=ODETTE
+DecesDate=02/03/2017
+CodeDft=10356
+End With
+With DEFUNT
+Id=11555
+Nom=CRISTOFOLI
+Prenom=JEAN
+DecesDate=05/09/2017
+CodeDft=11555
+End With
+With DEFUNT
+Id=10152
+Nom=CRUNEL
+Prenom=CHRISTIANE
+DecesDate=01/02/2017
+CodeDft=10152
+End With
+With DEFUNT
+Id=11569
+Nom=CRUSSET
+Prenom=BERNARD
+DecesDate=08/09/2017
+CodeDft=11569
+End With
+With DEFUNT
+Id=10431
+Nom=CUBERTAFOND
+Prenom=FRANCOIS
+DecesDate=14/03/2017
+CodeDft=10431
+End With
+With DEFUNT
+Id=10245
+Nom=CURTELIN
+Prenom=PIERRE
+DecesDate=14/02/2017
+CodeDft=10245
+End With
+With DEFUNT
+Id=10640
+Nom=CURTET
+Prenom=MARTHE
+DecesDate=14/04/2017
+CodeDft=10640
+End With
+With DEFUNT
+Id=10674
+Nom=CUSIN MERMET
+Prenom=JEAN 
+DecesDate=21/04/2017
+CodeDft=10674
+End With
+With DEFUNT
+Id=9992
+Nom=CUVEX COMBAZ
+Prenom=GERARD
+DecesDate=16/01/2017
+CodeDft=9992
+End With
+With DEFUNT
+Id=11715
+Nom=DA COSTA CASTANHEIRA
+Prenom=FRANCISCO
+DecesDate=30/09/2017
+CodeDft=11715
+End With
+With DEFUNT
+Id=11370
+Nom=DA RIVA
+Prenom=YVAN
+DecesDate=10/08/2017
+CodeDft=11370
+End With
+With DEFUNT
+Id=11654
+Nom=DACQUIN
+Prenom=RENE
+DecesDate=22/09/2017
+CodeDft=11654
+End With
+With DEFUNT
+Id=11690
+Nom=DAGAND
+Prenom=LINA
+DecesDate=27/09/2017
+CodeDft=11690
+End With
+With DEFUNT
+Id=10676
+Nom=DAL MAGRO
+Prenom=X
+DecesDate=13/04/2017
+CodeDft=10676
+End With
+With DEFUNT
+Id=10984
+Nom=DALBAN-PILON
+Prenom=THERESE
+DecesDate=09/06/2017
+CodeDft=10984
+End With
+With DEFUNT
+Id=10303
+Nom=DALDOSSO
+Prenom=ALICE
+DecesDate=22/02/2017
+CodeDft=10303
+End With
+With DEFUNT
+Id=10175
+Nom=DALLA COSTA
+Prenom=FRANCO
+DecesDate=06/02/2017
+CodeDft=10175
+End With
+With DEFUNT
+Id=10846
+Nom=DALMASSO
+Prenom=LOUIS
+DecesDate=17/05/2017
+CodeDft=10846
+End With
+With DEFUNT
+Id=10683
+Nom=DAMEVIN
+Prenom=MADELEINE
+DecesDate=21/04/2017
+CodeDft=10683
+End With
+With DEFUNT
+Id=11188
+Nom=DANIELCZAK
+Prenom=GENEVIEVE
+DecesDate=10/07/2017
+CodeDft=11188
+End With
+With DEFUNT
+Id=10919
+Nom=DAUZET
+Prenom=JACQUES
+DecesDate=29/05/2017
+CodeDft=10919
+End With
+With DEFUNT
+Id=11076
+Nom=DAVID
+Prenom=LEON
+DecesDate=22/06/2017
+CodeDft=11076
+End With
+With DEFUNT
+Id=11148
+Nom=DAVID
+Prenom=JAMES
+DecesDate=04/07/2017
+CodeDft=11148
+End With
+With DEFUNT
+Id=9829
+Nom=DAVOINE
+Prenom=JULIETTE
+DecesDate=02/01/2017
+CodeDft=9829
+End With
+With DEFUNT
+Id=10071
+Nom=DAVY
+Prenom=JEANNETTE
+DecesDate=23/01/2017
+CodeDft=10071
+End With
+With DEFUNT
+Id=11040
+Nom=DE   LAURENTIS
+Prenom=BRUNA
+DecesDate=17/06/2017
+CodeDft=11040
+End With
+With DEFUNT
+Id=10468
+Nom=DE BORTOLI
+Prenom=CLAUDE
+DecesDate=20/03/2017
+CodeDft=10468
+End With
+With DEFUNT
+Id=11647
+Nom=DE CARO
+Prenom=GIUSEPPE
+DecesDate=21/09/2017
+CodeDft=11647
+End With
+With DEFUNT
+Id=10037
+Nom=DE PALMA
+Prenom=BENEDETTA
+DecesDate=20/01/2017
+CodeDft=10037
+End With
+With DEFUNT
+Id=11586
+Nom=DE PORET
+Prenom=CHRISTIAN
+DecesDate=09/09/2017
+CodeDft=11586
+End With
+With DEFUNT
+Id=10680
+Nom=DE ROSA
+Prenom=DENISE
+DecesDate=21/04/2017
+CodeDft=10680
+End With
+With DEFUNT
+Id=11286
+Nom=DE VENTURINI JOUFFREY
+Prenom=CLAUDE
+DecesDate=27/07/2017
+CodeDft=11286
+End With
+With DEFUNT
+Id=10860
+Nom=DE VIT
+Prenom=LUCETTE
+DecesDate=20/05/2017
+CodeDft=10860
+End With
+With DEFUNT
+Id=10602
+Nom=DEBERNARDI
+Prenom=FRANCOISE
+DecesDate=10/04/2017
+CodeDft=10602
+End With
+With DEFUNT
+Id=10844
+Nom=DEBISSCHOP
+Prenom=MICHEL
+DecesDate=17/05/2017
+CodeDft=10844
+End With
+With DEFUNT
+Id=11367
+Nom=DECEGLIE
+Prenom=ARMANDE
+DecesDate=08/08/2017
+CodeDft=11367
+End With
+With DEFUNT
+Id=9949
+Nom=DECHANDON
+Prenom=REINE
+DecesDate=13/01/2017
+CodeDft=9949
+End With
+With DEFUNT
+Id=9903
+Nom=DECOLLE
+Prenom=PAULETTE
+DecesDate=08/01/2017
+CodeDft=9903
+End With
+With DEFUNT
+Id=10896
+Nom=DECRAENE
+Prenom=JEAN MARIE
+DecesDate=26/05/2017
+CodeDft=10896
+End With
+With DEFUNT
+Id=11347
+Nom=DECROZE
+Prenom=PAUL
+DecesDate=03/08/2017
+CodeDft=11347
+End With
+With DEFUNT
+Id=9791
+Nom=DEGLISE -  FAVRE 
+Prenom=JEAN FRANCOIS
+DecesDate=28/12/2016
+CodeDft=9791
+End With
+With DEFUNT
+Id=11214
+Nom=DEGROISSE
+Prenom=MARIE MADELEINE
+DecesDate=15/07/2017
+CodeDft=11214
+End With
+With DEFUNT
+Id=11201
+Nom=DEGUIN
+Prenom=MARCELLE
+DecesDate=13/07/2017
+CodeDft=11201
+End With
+With DEFUNT
+Id=10286
+Nom=DEHAYES
+Prenom=HERVE
+DecesDate=18/02/2017
+CodeDft=10286
+End With
+With DEFUNT
+Id=9928
+Nom=DEHU
+Prenom=GERMAINE
+DecesDate=10/01/2017
+CodeDft=9928
+End With
+With DEFUNT
+Id=11513
+Nom=DEL PINO
+Prenom=RAPHAEL
+DecesDate=30/08/2017
+CodeDft=11513
+End With
+With DEFUNT
+Id=11153
+Nom=DELATTRE
+Prenom=FERDINAND
+DecesDate=06/07/2017
+CodeDft=11153
+End With
+With DEFUNT
+Id=10446
+Nom=DELAUNAY
+Prenom=NICOLE
+DecesDate=17/03/2017
+CodeDft=10446
+End With
+With DEFUNT
+Id=10942
+Nom=DELAUNAY
+Prenom=GILBERT
+DecesDate=03/06/2017
+CodeDft=10942
+End With
+With DEFUNT
+Id=11684
+Nom=DELAVIGNE
+Prenom=MARIE LOUISE
+DecesDate=26/09/2017
+CodeDft=11684
+End With
+With DEFUNT
+Id=10909
+Nom=DELEANI
+Prenom=NICOLE
+DecesDate=28/05/2017
+CodeDft=10909
+End With
+With DEFUNT
+Id=10166
+Nom=DELEGLISE
+Prenom=GERARD
+DecesDate=02/02/2017
+CodeDft=10166
+End With
+With DEFUNT
+Id=10631
+Nom=DELEVAUX
+Prenom=ANDRE
+DecesDate=28/03/2017
+CodeDft=10631
+End With
+With DEFUNT
+Id=11254
+Nom=DELHOMME
+Prenom=ANGELES
+DecesDate=22/07/2017
+CodeDft=11254
+End With
+With DEFUNT
+Id=11527
+Nom=DELMOTTE
+Prenom=JACQUES
+DecesDate=01/09/2017
+CodeDft=11527
+End With
+With DEFUNT
+Id=11013
+Nom=DELONE
+Prenom=MADELEINE
+DecesDate=14/06/2017
+CodeDft=11013
+End With
+With DEFUNT
+Id=11257
+Nom=DELORD
+Prenom=JEAN-CLAUDE
+DecesDate=24/07/2017
+CodeDft=11257
+End With
+With DEFUNT
+Id=10489
+Nom=DELORME
+Prenom=ANDRE
+DecesDate=23/03/2017
+CodeDft=10489
+End With
+With DEFUNT
+Id=10557
+Nom=DELORME
+Prenom=GERARD
+DecesDate=02/04/2017
+CodeDft=10557
+End With
+With DEFUNT
+Id=10690
+Nom=DELPREE
+Prenom=HENRI
+DecesDate=22/04/2017
+CodeDft=10690
+End With
+With DEFUNT
+Id=11118
+Nom=DELTEIL
+Prenom=MARIE THERESE
+DecesDate=30/06/2017
+CodeDft=11118
+End With
+With DEFUNT
+Id=11638
+Nom=DEMAGNY
+Prenom=CHRISTIAN
+DecesDate=19/09/2017
+CodeDft=11638
+End With
+With DEFUNT
+Id=11290
+Nom=DEMANGEOT
+Prenom=YVONNE
+DecesDate=28/07/2017
+CodeDft=11290
+End With
+With DEFUNT
+Id=10755
+Nom=DEMATTEIS
+Prenom=MARIE-LOUISE
+DecesDate=03/05/2017
+CodeDft=10755
+End With
+With DEFUNT
+Id=11293
+Nom=DEMOLLIENS
+Prenom=MICHELINE
+DecesDate=28/07/2017
+CodeDft=11293
+End With
+With DEFUNT
+Id=11298
+Nom=DEMOLLIENS
+Prenom=MICHELINE
+DecesDate=28/08/2017
+CodeDft=11298
+End With
+With DEFUNT
+Id=9799
+Nom=DENAJAR
+Prenom=SANDRINE
+DecesDate=25/12/2016
+CodeDft=9799
+End With
+With DEFUNT
+Id=9823
+Nom=DEPARDON
+Prenom=PAUL
+DecesDate=01/01/2017
+CodeDft=9823
+End With
+With DEFUNT
+Id=11299
+Nom=DEPEIGNE
+Prenom=PAULETTE
+DecesDate=27/07/2017
+CodeDft=11299
+End With
+With DEFUNT
+Id=9973
+Nom=DEPLANTE
+Prenom=JULIETTE
+DecesDate=15/01/2017
+CodeDft=9973
+End With
+With DEFUNT
+Id=10775
+Nom=DERICBOURG
+Prenom=YVONNE
+DecesDate=08/05/2017
+CodeDft=10775
+End With
+With DEFUNT
+Id=11604
+Nom=DERRIER
+Prenom=ISABELLE
+DecesDate=14/09/2017
+CodeDft=11604
+End With
+With DEFUNT
+Id=9968
+Nom=DESBOIS
+Prenom=CHARLOTTE
+DecesDate=14/01/2017
+CodeDft=9968
+End With
+With DEFUNT
+Id=11381
+Nom=DESCHAMPHELAIRE
+Prenom=CLAUDE
+DecesDate=11/08/2017
+CodeDft=11381
+End With
+With DEFUNT
+Id=10663
+Nom=DESCHAMPS
+Prenom=YVETTE
+DecesDate=19/04/2017
+CodeDft=10663
+End With
+With DEFUNT
+Id=11175
+Nom=DESCHAMPS
+Prenom=GERARD
+DecesDate=08/07/2017
+CodeDft=11175
+End With
+With DEFUNT
+Id=11287
+Nom=DESIDERATI
+Prenom=RENEE
+DecesDate=27/07/2017
+CodeDft=11287
+End With
+With DEFUNT
+Id=10610
+Nom=DESSAINT
+Prenom=SABRINA
+DecesDate=09/04/2017
+CodeDft=10610
+End With
+With DEFUNT
+Id=9944
+Nom=DESSEAUX
+Prenom=RAYMONDE
+DecesDate=12/01/2017
+CodeDft=9944
+End With
+With DEFUNT
+Id=10459
+Nom=DESTAMINIL
+Prenom=ADRIEN
+DecesDate=19/03/2017
+CodeDft=10459
+End With
+With DEFUNT
+Id=10605
+Nom=DETRAZ
+Prenom=RAYMOND
+DecesDate=10/04/2017
+CodeDft=10605
+End With
+With DEFUNT
+Id=10155
+Nom=DEVOS
+Prenom=DOMINIQUE
+DecesDate=02/02/2017
+CodeDft=10155
+End With
+With DEFUNT
+Id=10026
+Nom=DEVOUASSOUX
+Prenom=ELISE
+DecesDate=19/01/2017
+CodeDft=10026
+End With
+With DEFUNT
+Id=11401
+Nom=DHALLUIN
+Prenom=SHANA
+DecesDate=15/08/2017
+CodeDft=11401
+End With
+With DEFUNT
+Id=10568
+Nom=DHENRY
+Prenom=MARIE-CHRISTINE
+DecesDate=04/04/2017
+CodeDft=10568
+End With
+With DEFUNT
+Id=10623
+Nom=DHIEN
+Prenom=ANDRE
+DecesDate=12/04/2017
+CodeDft=10623
+End With
+With DEFUNT
+Id=9825
+Nom=DI MASULLO
+Prenom=MARIO
+DecesDate=31/12/2016
+CodeDft=9825
+End With
+With DEFUNT
+Id=11198
+Nom=DI PAOLO
+Prenom=ALFREDO
+DecesDate=12/07/2017
+CodeDft=11198
+End With
+With DEFUNT
+Id=10014
+Nom=DIDIER
+Prenom=DANIEL
+DecesDate=19/01/2017
+CodeDft=10014
+End With
+With DEFUNT
+Id=11049
+Nom=DIDONE
+Prenom=YANN
+DecesDate=18/06/2017
+CodeDft=11049
+End With
+With DEFUNT
+Id=11127
+Nom=DIJOUD
+Prenom=AGNES
+DecesDate=02/07/2017
+CodeDft=11127
+End With
+With DEFUNT
+Id=11440
+Nom=DIJOUD
+Prenom=MARGAUX
+DecesDate=20/08/2017
+CodeDft=11440
+End With
+With DEFUNT
+Id=10140
+Nom=DIJOUX
+Prenom=MARIE
+DecesDate=01/02/2017
+CodeDft=10140
+End With
+With DEFUNT
+Id=10090
+Nom=DIMIER
+Prenom=DENIS
+DecesDate=26/01/2017
+CodeDft=10090
+End With
+With DEFUNT
+Id=10508
+Nom=DIMIER
+Prenom=LOUISE
+DecesDate=28/03/2017
+CodeDft=10508
+End With
+With DEFUNT
+Id=10958
+Nom=DIZIN
+Prenom=LOUISETTE
+DecesDate=06/06/2017
+CodeDft=10958
+End With
+With DEFUNT
+Id=10859
+Nom=DLOUHY
+Prenom=JOSEPH
+DecesDate=20/05/2017
+CodeDft=10859
+End With
+With DEFUNT
+Id=11114
+Nom=DOCCARB-SCHUSTER
+Prenom=ROBERT
+DecesDate=27/06/2017
+CodeDft=11114
+End With
+With DEFUNT
+Id=11562
+Nom=DOMEC
+Prenom=DOMINIQUE
+DecesDate=08/09/2017
+CodeDft=11562
+End With
+With DEFUNT
+Id=10019
+Nom=DOMENGE
+Prenom=ALICE
+DecesDate=19/01/2017
+CodeDft=10019
+End With
+With DEFUNT
+Id=10698
+Nom=DOMENGET
+Prenom=GERARD
+DecesDate=09/04/2017
+CodeDft=10698
+End With
+With DEFUNT
+Id=10217
+Nom=DONAT
+Prenom=JEAN
+DecesDate=11/02/2017
+CodeDft=10217
+End With
+With DEFUNT
+Id=11337
+Nom=DONAZ
+Prenom=HENRI
+DecesDate=03/08/2017
+CodeDft=11337
+End With
+With DEFUNT
+Id=10174
+Nom=DOS SANTOS MOTA
+Prenom=DANIEL
+DecesDate=26/01/2017
+CodeDft=10174
+End With
+With DEFUNT
+Id=10219
+Nom=DOS SANTOS PINTO
+Prenom=CESARIO
+DecesDate=11/02/2017
+CodeDft=10219
+End With
+With DEFUNT
+Id=10465
+Nom=DOUCHEZ
+Prenom=GILBERT
+DecesDate=20/03/2017
+CodeDft=10465
+End With
+With DEFUNT
+Id=10913
+Nom=DOUHET
+Prenom=MARIE GISELE
+DecesDate=28/05/2017
+CodeDft=10913
+End With
+With DEFUNT
+Id=11687
+Nom=DOUILLET
+Prenom=YVES
+DecesDate=26/09/2017
+CodeDft=11687
+End With
+With DEFUNT
+Id=10751
+Nom=DRAMISSIOTIS
+Prenom=Jean-Pierre
+DecesDate=02/05/2017
+CodeDft=10751
+End With
+With DEFUNT
+Id=10719
+Nom=DRAUX
+Prenom=MARIE-ROSE
+DecesDate=28/04/2017
+CodeDft=10719
+End With
+With DEFUNT
+Id=9957
+Nom=DREVET
+Prenom=VINCENT
+DecesDate=11/01/2017
+CodeDft=9957
+End With
+With DEFUNT
+Id=11671
+Nom=DROGUE
+Prenom=HENRI
+DecesDate=23/09/2017
+CodeDft=11671
+End With
+With DEFUNT
+Id=10664
+Nom=DUBOIS
+Prenom=MARGUERITE
+DecesDate=19/04/2017
+CodeDft=10664
+End With
+With DEFUNT
+Id=11010
+Nom=DUBOIS
+Prenom=RAYMOND
+DecesDate=14/06/2017
+CodeDft=11010
+End With
+With DEFUNT
+Id=11548
+Nom=DUBOIS
+Prenom=MAURICE
+DecesDate=02/09/2017
+CodeDft=11548
+End With
+With DEFUNT
+Id=10194
+Nom=DUBONNET
+Prenom=MARIE THERESE
+DecesDate=08/02/2017
+CodeDft=10194
+End With
+With DEFUNT
+Id=11686
+Nom=DUBONNET
+Prenom=ANTONIN
+DecesDate=27/09/2017
+CodeDft=11686
+End With
+With DEFUNT
+Id=10177
+Nom=DUBOS
+Prenom=MONIQUE
+DecesDate=05/02/2017
+CodeDft=10177
+End With
+With DEFUNT
+Id=10011
+Nom=DUC
+Prenom=JEANNE
+DecesDate=19/01/2017
+CodeDft=10011
+End With
+With DEFUNT
+Id=10952
+Nom=DUC
+Prenom=YOLANDE
+DecesDate=05/06/2017
+CodeDft=10952
+End With
+With DEFUNT
+Id=11186
+Nom=DUC
+Prenom=ROGER
+DecesDate=10/07/2017
+CodeDft=11186
+End With
+With DEFUNT
+Id=10622
+Nom=DUCASS
+Prenom=PAUL
+DecesDate=12/04/2017
+CodeDft=10622
+End With
+With DEFUNT
+Id=11424
+Nom=DUCHENE
+Prenom=JEAN
+DecesDate=19/08/2017
+CodeDft=11424
+End With
+With DEFUNT
+Id=11412
+Nom=DUCI
+Prenom=BERNARD
+DecesDate=16/08/2017
+CodeDft=11412
+End With
+With DEFUNT
+Id=11416
+Nom=DUCI
+Prenom=BERNARD
+DecesDate=16/08/2017
+CodeDft=11416
+End With
+With DEFUNT
+Id=10391
+Nom=DUCOGNON
+Prenom=PAUL
+DecesDate=09/03/2017
+CodeDft=10391
+End With
+With DEFUNT
+Id=10868
+Nom=DUDOUET
+Prenom=GUY
+DecesDate=21/05/2017
+CodeDft=10868
+End With
+With DEFUNT
+Id=11226
+Nom=DUFFEAL
+Prenom=HELENE
+DecesDate=17/07/2017
+CodeDft=11226
+End With
+With DEFUNT
+Id=10925
+Nom=DUMAS
+Prenom=JOSEPH
+DecesDate=31/05/2017
+CodeDft=10925
+End With
+With DEFUNT
+Id=9897
+Nom=DUMAX VORZET
+Prenom=GASTON
+DecesDate=07/01/2017
+CodeDft=9897
+End With
+With DEFUNT
+Id=9916
+Nom=DUMAZ
+Prenom=THERESE
+DecesDate=09/01/2016
+CodeDft=9916
+End With
+With DEFUNT
+Id=11645
+Nom=DUMITRIU
+Prenom=MIKHAILA
+DecesDate=20/09/2017
+CodeDft=11645
+End With
+With DEFUNT
+Id=10863
+Nom=DUMONTEIL
+Prenom=YVES
+DecesDate=20/05/2017
+CodeDft=10863
+End With
+With DEFUNT
+Id=11033
+Nom=DUNAND
+Prenom=BAPTISTE
+DecesDate=16/06/2017
+CodeDft=11033
+End With
+With DEFUNT
+Id=10783
+Nom=DUNAND_PALLAZ
+Prenom=BERNARD
+DecesDate=08/05/2017
+CodeDft=10783
+End With
+With DEFUNT
+Id=10957
+Nom=DUNIER
+Prenom=DANIEL
+DecesDate=04/06/2017
+CodeDft=10957
+End With
+With DEFUNT
+Id=11522
+Nom=DUPASQUIER
+Prenom=ANDREE
+DecesDate=01/09/2017
+CodeDft=11522
+End With
+With DEFUNT
+Id=10039
+Nom=DUPESSEY
+Prenom=NOEL
+DecesDate=20/01/2017
+CodeDft=10039
+End With
+With DEFUNT
+Id=11245
+Nom=DUPINAY
+Prenom=MONIQUE
+DecesDate=20/07/2017
+CodeDft=11245
+End With
+With DEFUNT
+Id=11155
+Nom=DUPOUY
+Prenom=CLAUDE
+DecesDate=05/07/2017
+CodeDft=11155
+End With
+With DEFUNT
+Id=10211
+Nom=DUPRAZ
+Prenom=JEAN
+DecesDate=11/02/2017
+CodeDft=10211
+End With
+With DEFUNT
+Id=11018
+Nom=DUPRAZ
+Prenom=CLOTILDE
+DecesDate=14/06/2017
+CodeDft=11018
+End With
+With DEFUNT
+Id=11528
+Nom=DUPRE
+Prenom=LUCIENNE
+DecesDate=01/09/2017
+CodeDft=11528
+End With
+With DEFUNT
+Id=10439
+Nom=DUPRET
+Prenom=MARGUERITE
+DecesDate=16/03/2017
+CodeDft=10439
+End With
+With DEFUNT
+Id=10253
+Nom=DUPUPET
+Prenom=MARIE THERESE
+DecesDate=14/02/2017
+CodeDft=10253
+End With
+With DEFUNT
+Id=11042
+Nom=DUPUY
+Prenom=JACQUELINE
+DecesDate=19/06/2017
+CodeDft=11042
+End With
+With DEFUNT
+Id=11065
+Nom=DUPUY
+Prenom=MARIE 
+DecesDate=21/06/2017
+CodeDft=11065
+End With
+With DEFUNT
+Id=11070
+Nom=DUPUY
+Prenom=INES
+DecesDate=23/06/2017
+CodeDft=11070
+End With
+With DEFUNT
+Id=10057
+Nom=DURAND
+Prenom=CELINE
+DecesDate=22/01/7201
+CodeDft=10057
+End With
+With DEFUNT
+Id=10102
+Nom=DURAND
+Prenom=DENISE
+DecesDate=27/01/2017
+CodeDft=10102
+End With
+With DEFUNT
+Id=10399
+Nom=DURAND
+Prenom=PIERRE-YVES
+DecesDate=10/03/2017
+CodeDft=10399
+End With
+With DEFUNT
+Id=10642
+Nom=DURAND
+Prenom=ERIC
+DecesDate=14/04/2017
+CodeDft=10642
+End With
+With DEFUNT
+Id=10780
+Nom=DURAND
+Prenom=JEAN
+DecesDate=08/05/2017
+CodeDft=10780
+End With
+With DEFUNT
+Id=10891
+Nom=DURAND
+Prenom=ARMAND
+DecesDate=24/05/2017
+CodeDft=10891
+End With
+With DEFUNT
+Id=10790
+Nom=DUREL
+Prenom=ANNE MARIE
+DecesDate=/  /
+CodeDft=10790
+End With
+With DEFUNT
+Id=10791
+Nom=DUREL
+Prenom=ANNE MARIE
+DecesDate=/  /
+CodeDft=10791
+End With
+With DEFUNT
+Id=10238
+Nom=DURIEUX
+Prenom=ERNESTINE
+DecesDate=14/02/2017
+CodeDft=10238
+End With
+With DEFUNT
+Id=11479
+Nom=DURIEZ
+Prenom=PASCAL
+DecesDate=27/08/2017
+CodeDft=11479
+End With
+With DEFUNT
+Id=10347
+Nom=DURIF
+Prenom=LOUIS
+DecesDate=01/03/2017
+CodeDft=10347
+End With
+With DEFUNT
+Id=9372
+Nom=DUTEL
+Prenom=NICOLLE
+DecesDate=03/11/2016
+CodeDft=9372
+End With
+With DEFUNT
+Id=11365
+Nom=DUVAND
+Prenom=STEPHANE
+DecesDate=04/08/2017
+CodeDft=11365
+End With
+With DEFUNT
+Id=11485
+Nom=DUVERNEY PRET
+Prenom=EDOUARD
+DecesDate=27/08/2017
+CodeDft=11485
+End With
+With DEFUNT
+Id=11279
+Nom=DUVILLARD
+Prenom=NILS
+DecesDate=25/07/2017
+CodeDft=11279
+End With
+With DEFUNT
+Id=10939
+Nom=DYMARSKI
+Prenom=HENRIETTE
+DecesDate=02/06/2017
+CodeDft=10939
+End With
+With DEFUNT
+Id=10973
+Nom=EBERLIN
+Prenom=MAURICE
+DecesDate=09/06/2017
+CodeDft=10973
+End With
+With DEFUNT
+Id=11109
+Nom=ECALE
+Prenom=PAULETTE
+DecesDate=26/06/2017
+CodeDft=11109
+End With
+With DEFUNT
+Id=11112
+Nom=ECALE
+Prenom=PAULETTE
+DecesDate=28/06/2017
+CodeDft=11112
+End With
+With DEFUNT
+Id=11377
+Nom=ECHERNIER
+Prenom=JEAN LOUIS
+DecesDate=10/08/2017
+CodeDft=11377
+End With
+With DEFUNT
+Id=11180
+Nom=EITENSCHENCK
+Prenom=RAYMOND
+DecesDate=10/07/2017
+CodeDft=11180
+End With
+With DEFUNT
+Id=9868
+Nom=ELOY
+Prenom=EVELYNE
+DecesDate=04/01/2017
+CodeDft=9868
+End With
+With DEFUNT
+Id=10160
+Nom=EMILE
+Prenom=VIALET
+DecesDate=10/02/2017
+CodeDft=10160
+End With
+With DEFUNT
+Id=9794
+Nom=ENGEL
+Prenom=MARIE
+DecesDate=28/12/2016
+CodeDft=9794
+End With
+With DEFUNT
+Id=10766
+Nom=ENRICI
+Prenom=CLAUDE
+DecesDate=05/05/2017
+CodeDft=10766
+End With
+With DEFUNT
+Id=9987
+Nom=ERLICH
+Prenom=ODILE
+DecesDate=16/01/2017
+CodeDft=9987
+End With
+With DEFUNT
+Id=10754
+Nom=ESCOFFIER
+Prenom=LAURENT
+DecesDate=30/04/2017
+CodeDft=10754
+End With
+With DEFUNT
+Id=10861
+Nom=ESCULIER
+Prenom=YVONNE
+DecesDate=20/05/2017
+CodeDft=10861
+End With
+With DEFUNT
+Id=11533
+Nom=ESTEVEZ
+Prenom=MANUEL FRANCISCO
+DecesDate=01/09/2017
+CodeDft=11533
+End With
+With DEFUNT
+Id=11224
+Nom=ESTEVEZ JUAREZ
+Prenom=MANUEL
+DecesDate=16/07/2017
+CodeDft=11224
+End With
+With DEFUNT
+Id=11546
+Nom=ESTIVIN
+Prenom=ANDRE
+DecesDate=04/09/2017
+CodeDft=11546
+End With
+With DEFUNT
+Id=10074
+Nom=EUSTACHIO
+Prenom=RENE
+DecesDate=24/01/2017
+CodeDft=10074
+End With
+With DEFUNT
+Id=10079
+Nom=EUSTACHIO
+Prenom=RENE
+DecesDate=24/01/2017
+CodeDft=10079
+End With
+With DEFUNT
+Id=10715
+Nom=EVE
+Prenom=JACQUES
+DecesDate=27/04/2017
+CodeDft=10715
+End With
+With DEFUNT
+Id=11603
+Nom=EVENO
+Prenom=YVETTE
+DecesDate=15/09/2017
+CodeDft=11603
+End With
+With DEFUNT
+Id=11102
+Nom=EXCOFFIER
+Prenom=MARTHE
+DecesDate=29/06/2017
+CodeDft=11102
+End With
+With DEFUNT
+Id=10377
+Nom=EXCOFFON
+Prenom=MADELEINE
+DecesDate=07/03/2017
+CodeDft=10377
+End With
+With DEFUNT
+Id=9937
+Nom=EXCOFFON
+Prenom=FRANCOIS
+DecesDate=12/01/2017
+CodeDft=9937
+End With
+With DEFUNT
+Id=10197
+Nom=EXERTIER
+Prenom=ANDRE
+DecesDate=09/02/2017
+CodeDft=10197
+End With
+With DEFUNT
+Id=10888
+Nom=EYCHENNE
+Prenom=JEAN-JACQUES
+DecesDate=25/05/2014
+CodeDft=10888
+End With
+With DEFUNT
+Id=10594
+Nom=EYNARD-MACHET
+Prenom=GERARD
+DecesDate=08/04/2017
+CodeDft=10594
+End With
+With DEFUNT
+Id=10881
+Nom=FABRE
+Prenom=YVONNE
+DecesDate=23/05/2017
+CodeDft=10881
+End With
+With DEFUNT
+Id=10910
+Nom=FABRE-COCHARD
+Prenom=SYLVIE
+DecesDate=29/05/2017
+CodeDft=10910
+End With
+With DEFUNT
+Id=11441
+Nom=FACCHINELLO
+Prenom=DENISE
+DecesDate=22/08/2017
+CodeDft=11441
+End With
+With DEFUNT
+Id=11685
+Nom=FACCIARDI
+Prenom=MONIQUE
+DecesDate=25/09/2017
+CodeDft=11685
+End With
+With DEFUNT
+Id=10981
+Nom=FACON
+Prenom=JEAN-CLAUDE
+DecesDate=09/06/2017
+CodeDft=10981
+End With
+With DEFUNT
+Id=11448
+Nom=FAIA
+Prenom=TERESA
+DecesDate=23/08/2017
+CodeDft=11448
+End With
+With DEFUNT
+Id=10899
+Nom=FAIVRE
+Prenom=MADELEINE
+DecesDate=26/05/2017
+CodeDft=10899
+End With
+With DEFUNT
+Id=11095
+Nom=FALBO
+Prenom=ALBERTO
+DecesDate=26/06/2017
+CodeDft=11095
+End With
+With DEFUNT
+Id=11342
+Nom=FALZI
+Prenom=FRANCESCO
+DecesDate=03/08/2017
+CodeDft=11342
+End With
+With DEFUNT
+Id=11695
+Nom=FAMBRINI
+Prenom=MONIQUE
+DecesDate=27/09/2017
+CodeDft=11695
+End With
+With DEFUNT
+Id=10649
+Nom=FANGET
+Prenom=JOSEPH
+DecesDate=16/04/2017
+CodeDft=10649
+End With
+With DEFUNT
+Id=11674
+Nom=FARAMAZ
+Prenom=PAUL
+DecesDate=25/09/2017
+CodeDft=11674
+End With
+With DEFUNT
+Id=10123
+Nom=FARDELLA
+Prenom=LUCIA
+DecesDate=29/01/2017
+CodeDft=10123
+End With
+With DEFUNT
+Id=11008
+Nom=FARINA
+Prenom=ROGER
+DecesDate=13/06/2017
+CodeDft=11008
+End With
+With DEFUNT
+Id=11463
+Nom=FARRUGIA
+Prenom=MADELEINE
+DecesDate=25/08/2017
+CodeDft=11463
+End With
+With DEFUNT
+Id=10364
+Nom=FATIGUET
+Prenom=ALAIN
+DecesDate=03/03/2017
+CodeDft=10364
+End With
+With DEFUNT
+Id=10996
+Nom=FAURE
+Prenom=JACQUES
+DecesDate=11/06/2017
+CodeDft=10996
+End With
+With DEFUNT
+Id=10998
+Nom=FAURE
+Prenom=JACQUES
+DecesDate=11/06/2017
+CodeDft=10998
+End With
+With DEFUNT
+Id=11074
+Nom=FAURE
+Prenom=MAURICE
+DecesDate=22/06/2017
+CodeDft=11074
+End With
+With DEFUNT
+Id=10643
+Nom=FAUSTIN
+Prenom=DENISE
+DecesDate=15/04/2017
+CodeDft=10643
+End With
+With DEFUNT
+Id=10278
+Nom=FAVIER
+Prenom=NOELLIE
+DecesDate=19/02/2017
+CodeDft=10278
+End With
+With DEFUNT
+Id=10608
+Nom=FAVIER
+Prenom=EMILE
+DecesDate=10/04/2017
+CodeDft=10608
+End With
+With DEFUNT
+Id=10945
+Nom=FAVIER
+Prenom=MARTINE
+DecesDate=04/06/2017
+CodeDft=10945
+End With
+With DEFUNT
+Id=11156
+Nom=FAVIER
+Prenom=GERMAINE
+DecesDate=06/07/2017
+CodeDft=11156
+End With
+With DEFUNT
+Id=11123
+Nom=FAVOT
+Prenom=ROSA
+DecesDate=01/07/2014
+CodeDft=11123
+End With
+With DEFUNT
+Id=11303
+Nom=FAVRAY
+Prenom=RAYMONDE
+DecesDate=29/07/2017
+CodeDft=11303
+End With
+With DEFUNT
+Id=10086
+Nom=FAVRE
+Prenom=VICTORIN
+DecesDate=25/01/2017
+CodeDft=10086
+End With
+With DEFUNT
+Id=11396
+Nom=FAVRE 
+Prenom=MICHEL
+DecesDate=12/08/2017
+CodeDft=11396
+End With
+With DEFUNT
+Id=9975
+Nom=FAVRE 
+Prenom=ANDREE
+DecesDate=14/01/2017
+CodeDft=9975
+End With
+With DEFUNT
+Id=11486
+Nom=FAVRE MARTINOZ
+Prenom=RAYMONDE
+DecesDate=26/08/2017
+CodeDft=11486
+End With
+With DEFUNT
+Id=10776
+Nom=FAYARD
+Prenom=LOUISE-EMILIE
+DecesDate=07/05/2017
+CodeDft=10776
+End With
+With DEFUNT
+Id=11664
+Nom=FEAZ
+Prenom=AIME
+DecesDate=21/09/2017
+CodeDft=11664
+End With
+With DEFUNT
+Id=10851
+Nom=FEGER
+Prenom=GABRIELLE
+DecesDate=17/05/2017
+CodeDft=10851
+End With
+With DEFUNT
+Id=11096
+Nom=FENAIN-CADDOUX
+Prenom=FRANCINE
+DecesDate=27/06/2017
+CodeDft=11096
+End With
+With DEFUNT
+Id=10886
+Nom=FERNANDEZ
+Prenom=ELISABETH
+DecesDate=24/05/2017
+CodeDft=10886
+End With
+With DEFUNT
+Id=11429
+Nom=FERRARI
+Prenom=ANDREE
+DecesDate=20/08/2017
+CodeDft=11429
+End With
+With DEFUNT
+Id=10705
+Nom=FERRERO
+Prenom=IDA
+DecesDate=25/04/2017
+CodeDft=10705
+End With
+With DEFUNT
+Id=11581
+Nom=FERROUD
+Prenom=MARIE - CHRISTINE
+DecesDate=10/09/2017
+CodeDft=11581
+End With
+With DEFUNT
+Id=10209
+Nom=FETU
+Prenom=MICHEL
+DecesDate=09/02/2017
+CodeDft=10209
+End With
+With DEFUNT
+Id=10357
+Nom=FIALAIRE
+Prenom=GERARD
+DecesDate=03/03/2017
+CodeDft=10357
+End With
+With DEFUNT
+Id=10003
+Nom=FIARD
+Prenom=ANGELA
+DecesDate=18/01/2017
+CodeDft=10003
+End With
+With DEFUNT
+Id=10264
+Nom=FIEVET
+Prenom=JEAN-MICHEL
+DecesDate=17/02/2017
+CodeDft=10264
+End With
+With DEFUNT
+Id=10280
+Nom=FILAMBEAU
+Prenom=ANDREE
+DecesDate=19/02/2017
+CodeDft=10280
+End With
+With DEFUNT
+Id=11442
+Nom=FILLIETROZ
+Prenom=FRANCOIS
+DecesDate=22/08/2017
+CodeDft=11442
+End With
+With DEFUNT
+Id=10101
+Nom=FIORESE
+Prenom=FRANCOIS
+DecesDate=26/01/2017
+CodeDft=10101
+End With
+With DEFUNT
+Id=11680
+Nom=FLAHAUT
+Prenom=CLAUDE
+DecesDate=11/09/2017
+CodeDft=11680
+End With
+With DEFUNT
+Id=10667
+Nom=FLAMAND
+Prenom=JEAN-CLAUDE
+DecesDate=19/04/2017
+CodeDft=10667
+End With
+With DEFUNT
+Id=9898
+Nom=FLORENCE
+Prenom=YVONNE
+DecesDate=07/01/2017
+CodeDft=9898
+End With
+With DEFUNT
+Id=10646
+Nom=FLUTTAZ
+Prenom=BERNARD
+DecesDate=15/04/2017
+CodeDft=10646
+End With
+With DEFUNT
+Id=10547
+Nom=FOGLIO
+Prenom=GISELE
+DecesDate=01/04/2017
+CodeDft=10547
+End With
+With DEFUNT
+Id=10488
+Nom=FOGOLA
+Prenom=LUIGI
+DecesDate=23/03/2017
+CodeDft=10488
+End With
+With DEFUNT
+Id=11592
+Nom=FONTAINE
+Prenom=IRENE
+DecesDate=13/09/2017
+CodeDft=11592
+End With
+With DEFUNT
+Id=9988
+Nom=FONTANEL
+Prenom=PIERRE
+DecesDate=17/01/2017
+CodeDft=9988
+End With
+With DEFUNT
+Id=11318
+Nom=FONTANET
+Prenom=ANNIE
+DecesDate=30/07/2017
+CodeDft=11318
+End With
+With DEFUNT
+Id=10955
+Nom=FONTEBASSO
+Prenom=EVELYNE
+DecesDate=06/06/2017
+CodeDft=10955
+End With
+With DEFUNT
+Id=10498
+Nom=FORAY
+Prenom=MAURICE
+DecesDate=25/03/2017
+CodeDft=10498
+End With
+With DEFUNT
+Id=10082
+Nom=FORNI
+Prenom=MONIQUE
+DecesDate=25/01/2017
+CodeDft=10082
+End With
+With DEFUNT
+Id=10473
+Nom=FORRAY
+Prenom=GISELE
+DecesDate=21/03/2017
+CodeDft=10473
+End With
+With DEFUNT
+Id=11454
+Nom=FOSCHIA
+Prenom=PRIMO
+DecesDate=23/08/2017
+CodeDft=11454
+End With
+With DEFUNT
+Id=10911
+Nom=FOSSO
+Prenom=AGATA
+DecesDate=29/05/2017
+CodeDft=10911
+End With
+With DEFUNT
+Id=10912
+Nom=FOSSO
+Prenom=AGATA
+DecesDate=29/05/2017
+CodeDft=10912
+End With
+With DEFUNT
+Id=11594
+Nom=FOUBERT
+Prenom=PATRICK
+DecesDate=13/09/2017
+CodeDft=11594
+End With
+With DEFUNT
+Id=10825
+Nom=FOUCHARD
+Prenom=DANIEL
+DecesDate=12/05/2017
+CodeDft=10825
+End With
+With DEFUNT
+Id=11628
+Nom=FOUESNANT
+Prenom=ROGER
+DecesDate=18/09/2017
+CodeDft=11628
+End With
+With DEFUNT
+Id=11691
+Nom=FOURC
+Prenom=GERARD
+DecesDate=27/09/2017
+CodeDft=11691
+End With
+With DEFUNT
+Id=11521
+Nom=FOUREL
+Prenom=LUCIEN
+DecesDate=31/08/2017
+CodeDft=11521
+End With
+With DEFUNT
+Id=11457
+Nom=FOURNEL
+Prenom=GERARD
+DecesDate=24/08/2017
+CodeDft=11457
+End With
+With DEFUNT
+Id=10476
+Nom=FOURNIER
+Prenom=ANDRE
+DecesDate=21/03/2017
+CodeDft=10476
+End With
+With DEFUNT
+Id=10569
+Nom=FOURNIER
+Prenom=MARIUS
+DecesDate=05/04/2017
+CodeDft=10569
+End With
+With DEFUNT
+Id=11145
+Nom=FOURNIER
+Prenom=ELISABETH
+DecesDate=04/07/2017
+CodeDft=11145
+End With
+With DEFUNT
+Id=11149
+Nom=FOURNIER
+Prenom=RENEE
+DecesDate=05/07/2017
+CodeDft=11149
+End With
+With DEFUNT
+Id=11242
+Nom=FOURNIER
+Prenom=ANDREE  NOELLE
+DecesDate=17/07/2017
+CodeDft=11242
+End With
+With DEFUNT
+Id=10962
+Nom=FOX
+Prenom=PHILIPPE
+DecesDate=07/06/2017
+CodeDft=10962
+End With
+With DEFUNT
+Id=10884
+Nom=FRAIX-BURNET
+Prenom=ELISA
+DecesDate=23/05/2017
+CodeDft=10884
+End With
+With DEFUNT
+Id=9925
+Nom=FRANCK
+Prenom=ROBERT
+DecesDate=07/01/2017
+CodeDft=9925
+End With
+With DEFUNT
+Id=9948
+Nom=FRANCO
+Prenom=FRANCOISE 
+DecesDate=13/01/2017
+CodeDft=9948
+End With
+With DEFUNT
+Id=11204
+Nom=FRANCONY
+Prenom=GERARD
+DecesDate=14/07/2017
+CodeDft=11204
+End With
+With DEFUNT
+Id=9852
+Nom=FRANSIOLI
+Prenom=YVONNE
+DecesDate=03/01/2017
+CodeDft=9852
+End With
+With DEFUNT
+Id=10136
+Nom=FRASSE
+Prenom=CHRISTIAN
+DecesDate=31/01/2017
+CodeDft=10136
+End With
+With DEFUNT
+Id=10044
+Nom=FRASSON PEIGUET
+Prenom=PIERRE
+DecesDate=21/01/2017
+CodeDft=10044
+End With
+With DEFUNT
+Id=11015
+Nom=FRAY
+Prenom=JEAN-BERNARD
+DecesDate=14/06/2017
+CodeDft=11015
+End With
+With DEFUNT
+Id=10629
+Nom=FRECHET
+Prenom=MARIE LOUISE
+DecesDate=13/04/2017
+CodeDft=10629
+End With
+With DEFUNT
+Id=11512
+Nom=FRESSOZ
+Prenom=ODETTE
+DecesDate=30/08/2017
+CodeDft=11512
+End With
+With DEFUNT
+Id=10966
+Nom=FREUND
+Prenom=FRANCOISE
+DecesDate=07/06/2017
+CodeDft=10966
+End With
+With DEFUNT
+Id=10500
+Nom=FREY
+Prenom=HELENE
+DecesDate=26/03/2017
+CodeDft=10500
+End With
+With DEFUNT
+Id=10412
+Nom=FREYTAG
+Prenom=GAETAN
+DecesDate=09/03/2017
+CodeDft=10412
+End With
+With DEFUNT
+Id=10244
+Nom=FRICHE
+Prenom=JEAN-PIERRE
+DecesDate=05/02/2017
+CodeDft=10244
+End With
+With DEFUNT
+Id=10637
+Nom=FRISON
+Prenom=ARTHUR
+DecesDate=14/04/2017
+CodeDft=10637
+End With
+With DEFUNT
+Id=10943
+Nom=FRISON
+Prenom=IDA
+DecesDate=04/06/2017
+CodeDft=10943
+End With
+With DEFUNT
+Id=10561
+Nom=FROISSARD
+Prenom=THIERRY
+DecesDate=03/04/2017
+CodeDft=10561
+End With
+With DEFUNT
+Id=11057
+Nom=FROMENT
+Prenom=JACQUES
+DecesDate=20/06/2017
+CodeDft=11057
+End With
+With DEFUNT
+Id=10220
+Nom=FROUIN
+Prenom=CARMEN
+DecesDate=12/02/2017
+CodeDft=10220
+End With
+With DEFUNT
+Id=10596
+Nom=FUENTES
+Prenom=ODETTE
+DecesDate=09/04/2017
+CodeDft=10596
+End With
+With DEFUNT
+Id=11374
+Nom=FUND
+Prenom=JEAN-CLAUDE
+DecesDate=10/08/2017
+CodeDft=11374
+End With
+With DEFUNT
+Id=11402
+Nom=GADEN
+Prenom=ANNICK
+DecesDate=15/08/2017
+CodeDft=11402
+End With
+With DEFUNT
+Id=11407
+Nom=GADEN
+Prenom=ANNICK
+DecesDate=15/08/2017
+CodeDft=11407
+End With
+With DEFUNT
+Id=11526
+Nom=GAGNIERE
+Prenom=GILBERT
+DecesDate=01/09/2017
+CodeDft=11526
+End With
+With DEFUNT
+Id=11038
+Nom=GAGNOR
+Prenom=JEAN BAPTISTE
+DecesDate=17/06/2017
+CodeDft=11038
+End With
+With DEFUNT
+Id=11408
+Nom=GAIDET
+Prenom=CELINA
+DecesDate=15/08/2017
+CodeDft=11408
+End With
+With DEFUNT
+Id=11529
+Nom=GAIDET-DRAPIER
+Prenom=GILLES
+DecesDate=01/01/2017
+CodeDft=11529
+End With
+With DEFUNT
+Id=10322
+Nom=GAILLARD
+Prenom=JEAN
+DecesDate=27/02/2017
+CodeDft=10322
+End With
+With DEFUNT
+Id=11556
+Nom=GAIME
+Prenom=MICHEL
+DecesDate=06/09/2017
+CodeDft=11556
+End With
+With DEFUNT
+Id=10999
+Nom=GALIFFET
+Prenom=GERARD
+DecesDate=12/06/2017
+CodeDft=10999
+End With
+With DEFUNT
+Id=10120
+Nom=GALLET
+Prenom=MICHEL
+DecesDate=29/01/2017
+CodeDft=10120
+End With
+With DEFUNT
+Id=10128
+Nom=GALLET
+Prenom=GHISLAINE
+DecesDate=29/01/2017
+CodeDft=10128
+End With
+With DEFUNT
+Id=10588
+Nom=GALLET
+Prenom=SUZANNE
+DecesDate=07/04/2017
+CodeDft=10588
+End With
+With DEFUNT
+Id=11421
+Nom=GALLET
+Prenom=ANTOINE
+DecesDate=19/08/2017
+CodeDft=11421
+End With
+With DEFUNT
+Id=10292
+Nom=GALLI
+Prenom=ADELINE
+DecesDate=15/02/2017
+CodeDft=10292
+End With
+With DEFUNT
+Id=10854
+Nom=GALLOIS
+Prenom=NINON
+DecesDate=19/05/2017
+CodeDft=10854
+End With
+With DEFUNT
+Id=11340
+Nom=GALLOPINI
+Prenom=JEAN LOUIS
+DecesDate=03/08/2017
+CodeDft=11340
+End With
+With DEFUNT
+Id=11439
+Nom=GALY
+Prenom=ROSY
+DecesDate=22/08/2017
+CodeDft=11439
+End With
+With DEFUNT
+Id=10824
+Nom=GAMBERINI
+Prenom=JESSE
+DecesDate=13/05/2017
+CodeDft=10824
+End With
+With DEFUNT
+Id=10483
+Nom=GANDY
+Prenom=CHANTAL
+DecesDate=23/03/2017
+CodeDft=10483
+End With
+With DEFUNT
+Id=11504
+Nom=GANDY
+Prenom=JOEL
+DecesDate=30/08/2017
+CodeDft=11504
+End With
+With DEFUNT
+Id=11639
+Nom=GANDY
+Prenom=VALERIE
+DecesDate=20/09/2017
+CodeDft=11639
+End With
+With DEFUNT
+Id=11471
+Nom=GARCIA
+Prenom=FRANCOIS
+DecesDate=27/08/2017
+CodeDft=11471
+End With
+With DEFUNT
+Id=11472
+Nom=GARCIA
+Prenom=FRANCOIS
+DecesDate=27/08/2017
+CodeDft=11472
+End With
+With DEFUNT
+Id=10059
+Nom=GARCIA ROCHE
+Prenom=PIERRE
+DecesDate=22/01/2017
+CodeDft=10059
+End With
+With DEFUNT
+Id=9843
+Nom=GARDIEN
+Prenom=DENIS
+DecesDate=03/01/2016
+CodeDft=9843
+End With
+With DEFUNT
+Id=11022
+Nom=GARIOD
+Prenom=JOSEPH
+DecesDate=15/06/2017
+CodeDft=11022
+End With
+With DEFUNT
+Id=10401
+Nom=GARO
+Prenom=JOSEPHINE
+DecesDate=09/03/2017
+CodeDft=10401
+End With
+With DEFUNT
+Id=11714
+Nom=GARRET
+Prenom=GEORGES
+DecesDate=26/09/2017
+CodeDft=11714
+End With
+With DEFUNT
+Id=10897
+Nom=GARSA TSANG
+Prenom=KARMA TSERING
+DecesDate=26/05/2017
+CodeDft=10897
+End With
+With DEFUNT
+Id=11497
+Nom=GAUBERT
+Prenom=PASCAL
+DecesDate=28/08/2017
+CodeDft=11497
+End With
+With DEFUNT
+Id=10635
+Nom=GAUCHER
+Prenom=SOLANGE
+DecesDate=13/04/2017
+CodeDft=10635
+End With
+With DEFUNT
+Id=10536
+Nom=GAUDET-TRAFIT
+Prenom=GERARD
+DecesDate=31/03/2017
+CodeDft=10536
+End With
+With DEFUNT
+Id=10313
+Nom=GAUDIN
+Prenom=BERNADETTE
+DecesDate=24/02/2017
+CodeDft=10313
+End With
+With DEFUNT
+Id=10967
+Nom=GAUDIN
+Prenom=RENEE
+DecesDate=07/06/2017
+CodeDft=10967
+End With
+With DEFUNT
+Id=10723
+Nom=GAUTHERIN
+Prenom=HELENE
+DecesDate=29/04/2017
+CodeDft=10723
+End With
+With DEFUNT
+Id=10429
+Nom=GAUTHIER
+Prenom=FRANCOISE
+DecesDate=13/03/2017
+CodeDft=10429
+End With
+With DEFUNT
+Id=11404
+Nom=GAUTHIER
+Prenom=EMMANUEL
+DecesDate=14/08/2017
+CodeDft=11404
+End With
+With DEFUNT
+Id=9824
+Nom=GAUTTIER
+Prenom=NICOLE
+DecesDate=/  /
+CodeDft=9824
+End With
+With DEFUNT
+Id=10291
+Nom=GAVIOT
+Prenom=ANGELINE
+DecesDate=21/02/2017
+CodeDft=10291
+End With
+With DEFUNT
+Id=2863
+Nom=GAYRARD
+Prenom=FRANCINE
+DecesDate=28/03/2017
+CodeDft=2863
+End With
+With DEFUNT
+Id=10042
+Nom=GENET
+Prenom=HORTENSE
+DecesDate=20/01/2017
+CodeDft=10042
+End With
+With DEFUNT
+Id=10951
+Nom=GEOFFROY
+Prenom=ALAIN
+DecesDate=05/06/2017
+CodeDft=10951
+End With
+With DEFUNT
+Id=10736
+Nom=GEORGES
+Prenom=MARTINE
+DecesDate=29/04/2017
+CodeDft=10736
+End With
+With DEFUNT
+Id=11634
+Nom=GEORGES
+Prenom=MARIE ANDREE
+DecesDate=19/09/2017
+CodeDft=11634
+End With
+With DEFUNT
+Id=11716
+Nom=GEORGES
+Prenom=ROLANDE
+DecesDate=29/09/2017
+CodeDft=11716
+End With
+With DEFUNT
+Id=10279
+Nom=GERARD
+Prenom=JOSE
+DecesDate=19/02/2017
+CodeDft=10279
+End With
+With DEFUNT
+Id=11169
+Nom=GERBAUD
+Prenom=MICHELLE
+DecesDate=07/07/2017
+CodeDft=11169
+End With
+With DEFUNT
+Id=11331
+Nom=GERBELOT
+Prenom=MARIE LOUISE
+DecesDate=02/08/2017
+CodeDft=11331
+End With
+With DEFUNT
+Id=11636
+Nom=GERBELOT
+Prenom=VIOLETTE
+DecesDate=19/09/2017
+CodeDft=11636
+End With
+With DEFUNT
+Id=10805
+Nom=GERELLI EYNARD
+Prenom=
+DecesDate=/  /
+CodeDft=10805
+End With
+With DEFUNT
+Id=9956
+Nom=GERMANAZ
+Prenom=MONIQUE
+DecesDate=14/01/2017
+CodeDft=9956
+End With
+With DEFUNT
+Id=10113
+Nom=GERVAISE
+Prenom=CLAIRE
+DecesDate=29/01/2017
+CodeDft=10113
+End With
+With DEFUNT
+Id=10274
+Nom=GERVASONI
+Prenom=YVONNE
+DecesDate=13/02/2017
+CodeDft=10274
+End With
+With DEFUNT
+Id=10215
+Nom=GHEZALI
+Prenom=MOHAMED YAZID
+DecesDate=10/02/2017
+CodeDft=10215
+End With
+With DEFUNT
+Id=11220
+Nom=GIANOGLIO
+Prenom=MICHELE
+DecesDate=16/07/2017
+CodeDft=11220
+End With
+With DEFUNT
+Id=10353
+Nom=GIBELLO
+Prenom=BRUNO
+DecesDate=01/03/2017
+CodeDft=10353
+End With
+With DEFUNT
+Id=10731
+Nom=GIGUET
+Prenom=MICHELE
+DecesDate=30/04/2017
+CodeDft=10731
+End With
+With DEFUNT
+Id=10154
+Nom=GILBERT
+Prenom=ROLAND
+DecesDate=01/02/2017
+CodeDft=10154
+End With
+With DEFUNT
+Id=10484
+Nom=GILGEN
+Prenom=JEANNE
+DecesDate=22/03/2017
+CodeDft=10484
+End With
+With DEFUNT
+Id=10158
+Nom=GILLI-CANAL
+Prenom=GABRIEL
+DecesDate=02/02/2017
+CodeDft=10158
+End With
+With DEFUNT
+Id=11125
+Nom=GIMARD
+Prenom=AMELIE
+DecesDate=01/07/2017
+CodeDft=11125
+End With
+With DEFUNT
+Id=10809
+Nom=GINET
+Prenom=JEAN
+DecesDate=11/05/2017
+CodeDft=10809
+End With
+With DEFUNT
+Id=11423
+Nom=GIPPA
+Prenom=JEANINE
+DecesDate=18/08/2017
+CodeDft=11423
+End With
+With DEFUNT
+Id=11576
+Nom=GIRARD
+Prenom=MARCELLE
+DecesDate=09/09/2017
+CodeDft=11576
+End With
+With DEFUNT
+Id=9961
+Nom=GIRARD
+Prenom=RENE
+DecesDate=14/01/2017
+CodeDft=9961
+End With
+With DEFUNT
+Id=11092
+Nom=GIRARDELLI
+Prenom=NATHALIE
+DecesDate=26/06/2017
+CodeDft=11092
+End With
+With DEFUNT
+Id=10033
+Nom=GIRAUDEAU
+Prenom=JEAN BERNARD
+DecesDate=19/01/2017
+CodeDft=10033
+End With
+With DEFUNT
+Id=9822
+Nom=GIROD
+Prenom=EVELYNE
+DecesDate=31/12/2016
+CodeDft=9822
+End With
+With DEFUNT
+Id=10496
+Nom=GIROUD
+Prenom=YVETTE
+DecesDate=25/03/2017
+CodeDft=10496
+End With
+With DEFUNT
+Id=10466
+Nom=GIROUX
+Prenom=JEAN-PAUL
+DecesDate=19/03/2017
+CodeDft=10466
+End With
+With DEFUNT
+Id=10534
+Nom=GIULIANI
+Prenom=YVONNE
+DecesDate=30/03/2017
+CodeDft=10534
+End With
+With DEFUNT
+Id=9865
+Nom=GLANTZLEN
+Prenom=MARIETTE
+DecesDate=04/01/2017
+CodeDft=9865
+End With
+With DEFUNT
+Id=10478
+Nom=GLATIGNY
+Prenom=LOUISA
+DecesDate=19/03/2017
+CodeDft=10478
+End With
+With DEFUNT
+Id=10485
+Nom=GLATIGNY
+Prenom=MARIE ANDREE
+DecesDate=21/03/2017
+CodeDft=10485
+End With
+With DEFUNT
+Id=11697
+Nom=GLATIGNY
+Prenom=ROBERT
+DecesDate=28/09/2017
+CodeDft=11697
+End With
+With DEFUNT
+Id=10442
+Nom=GOBBO
+Prenom=PHILIPPE
+DecesDate=16/03/2017
+CodeDft=10442
+End With
+With DEFUNT
+Id=10435
+Nom=GODDAT
+Prenom=MARCEL
+DecesDate=14/03/2017
+CodeDft=10435
+End With
+With DEFUNT
+Id=10502
+Nom=GODMENT
+Prenom=TENDRY
+DecesDate=25/03/2017
+CodeDft=10502
+End With
+With DEFUNT
+Id=9809
+Nom=GOLDINBERG
+Prenom=NAUM
+DecesDate=31/12/2016
+CodeDft=9809
+End With
+With DEFUNT
+Id=10682
+Nom=GOLLIET
+Prenom=GENEVIEVE
+DecesDate=22/04/2017
+CodeDft=10682
+End With
+With DEFUNT
+Id=10988
+Nom=GOMBERT
+Prenom=LEA
+DecesDate=10/06/2017
+CodeDft=10988
+End With
+With DEFUNT
+Id=11230
+Nom=GOMBERT
+Prenom=ADRIEN
+DecesDate=18/07/2017
+CodeDft=11230
+End With
+With DEFUNT
+Id=11459
+Nom=GOMBERT
+Prenom=CLAUDE
+DecesDate=24/08/2017
+CodeDft=11459
+End With
+With DEFUNT
+Id=10172
+Nom=GOMEZ
+Prenom=MARIE
+DecesDate=04/02/2017
+CodeDft=10172
+End With
+With DEFUNT
+Id=10978
+Nom=GOMILA
+Prenom=YVES
+DecesDate=09/06/2017
+CodeDft=10978
+End With
+With DEFUNT
+Id=11713
+Nom=GONNET
+Prenom=CLOTILDE
+DecesDate=30/09/2017
+CodeDft=11713
+End With
+With DEFUNT
+Id=10043
+Nom=GONTHIER
+Prenom=GISELE
+DecesDate=21/01/2017
+CodeDft=10043
+End With
+With DEFUNT
+Id=11565
+Nom=GONTHIER
+Prenom=YVON
+DecesDate=07/09/2017
+CodeDft=11565
+End With
+With DEFUNT
+Id=11489
+Nom=GONZALEZ
+Prenom=SEFORA
+DecesDate=27/08/2017
+CodeDft=11489
+End With
+With DEFUNT
+Id=10408
+Nom=GORRE
+Prenom=VINCENT
+DecesDate=10/03/2017
+CodeDft=10408
+End With
+With DEFUNT
+Id=11599
+Nom=GOUAUX
+Prenom=SIMONE
+DecesDate=14/09/2017
+CodeDft=11599
+End With
+With DEFUNT
+Id=11517
+Nom=GOUD
+Prenom=GILBERT
+DecesDate=31/08/2017
+CodeDft=11517
+End With
+With DEFUNT
+Id=10282
+Nom=GOULVEN
+Prenom=ANDRE
+DecesDate=20/02/2017
+CodeDft=10282
+End With
+With DEFUNT
+Id=11217
+Nom=GOUPIL
+Prenom=PAULETTE
+DecesDate=16/07/2017
+CodeDft=11217
+End With
+With DEFUNT
+Id=10005
+Nom=GOUY PAILLER
+Prenom=JEAN BAPTISTE
+DecesDate=17/01/2017
+CodeDft=10005
+End With
+With DEFUNT
+Id=11307
+Nom=GOUY-PAILLER
+Prenom=MAURICE
+DecesDate=30/07/2017
+CodeDft=11307
+End With
+With DEFUNT
+Id=9999
+Nom=GOUY-PAILLET
+Prenom=JEAN-BAPTISTE
+DecesDate=17/01/2017
+CodeDft=9999
+End With
+With DEFUNT
+Id=11540
+Nom=GRAFFER
+Prenom=MONIQUE
+DecesDate=03/09/2017
+CodeDft=11540
+End With
+With DEFUNT
+Id=9842
+Nom=GRAND
+Prenom=LAURENT
+DecesDate=03/01/2017
+CodeDft=9842
+End With
+With DEFUNT
+Id=11327
+Nom=GRANDO
+Prenom=ADOLPHE
+DecesDate=02/08/2017
+CodeDft=11327
+End With
+With DEFUNT
+Id=11633
+Nom=GRANGEAT
+Prenom=RENEE
+DecesDate=18/09/2017
+CodeDft=11633
+End With
+With DEFUNT
+Id=11720
+Nom=GRANGER
+Prenom=LILIANE
+DecesDate=01/10/2017
+CodeDft=11720
+End With
+With DEFUNT
+Id=11595
+Nom=GRANIER
+Prenom=MARIE
+DecesDate=13/09/2017
+CodeDft=11595
+End With
+With DEFUNT
+Id=11515
+Nom=GRANVEAU
+Prenom=LIAM
+DecesDate=29/08/2017
+CodeDft=11515
+End With
+With DEFUNT
+Id=11514
+Nom=GRANVEAU / COCA
+Prenom=NOLAN
+DecesDate=29/08/2017
+CodeDft=11514
+End With
+With DEFUNT
+Id=10992
+Nom=GRAVE
+Prenom=ANNIE
+DecesDate=11/06/2017
+CodeDft=10992
+End With
+With DEFUNT
+Id=10443
+Nom=GRAVINA
+Prenom=ANDREE
+DecesDate=16/03/2017
+CodeDft=10443
+End With
+With DEFUNT
+Id=11203
+Nom=GREIFFENBERG
+Prenom=MARIE
+DecesDate=13/07/2017
+CodeDft=11203
+End With
+With DEFUNT
+Id=11005
+Nom=GRELIN
+Prenom=GABRIEL
+DecesDate=/  /
+CodeDft=11005
+End With
+With DEFUNT
+Id=11199
+Nom=GRENCI
+Prenom=STEPHANIE
+DecesDate=13/07/2017
+CodeDft=11199
+End With
+With DEFUNT
+Id=10934
+Nom=GRILLET
+Prenom=MARIE THERESE
+DecesDate=01/06/2017
+CodeDft=10934
+End With
+With DEFUNT
+Id=10081
+Nom=GRINAND
+Prenom=ANDRE
+DecesDate=25/01/2017
+CodeDft=10081
+End With
+With DEFUNT
+Id=9789
+Nom=GRINI
+Prenom=BERNADETTE
+DecesDate=28/12/2016
+CodeDft=9789
+End With
+With DEFUNT
+Id=10762
+Nom=GRIOT
+Prenom=GEORGES
+DecesDate=04/05/2017
+CodeDft=10762
+End With
+With DEFUNT
+Id=10229
+Nom=GRISOLLET
+Prenom=MARIE CHRISTINE
+DecesDate=12/02/2017
+CodeDft=10229
+End With
+With DEFUNT
+Id=11106
+Nom=GRISON
+Prenom=PAUL
+DecesDate=28/06/2017
+CodeDft=11106
+End With
+With DEFUNT
+Id=9932
+Nom=GRITTI
+Prenom=MARGUERITE
+DecesDate=11/01/2017
+CodeDft=9932
+End With
+With DEFUNT
+Id=11466
+Nom=GROGNIET
+Prenom=JEAN
+DecesDate=26/08/2017
+CodeDft=11466
+End With
+With DEFUNT
+Id=9788
+Nom=GROS
+Prenom=JEANNINE
+DecesDate=28/12/2016
+CodeDft=9788
+End With
+With DEFUNT
+Id=10186
+Nom=GRUMEL 
+Prenom=MARCEL
+DecesDate=07/02/2017
+CodeDft=10186
+End With
+With DEFUNT
+Id=11371
+Nom=GUBIAN
+Prenom=CHARLES
+DecesDate=10/08/2017
+CodeDft=11371
+End With
+With DEFUNT
+Id=10432
+Nom=GUENON
+Prenom=JEAN
+DecesDate=14/03/2017
+CodeDft=10432
+End With
+With DEFUNT
+Id=11098
+Nom=GUERRAZ
+Prenom=AUGUSTINE
+DecesDate=28/06/2017
+CodeDft=11098
+End With
+With DEFUNT
+Id=9881
+Nom=GUESNON
+Prenom=JEAN
+DecesDate=05/01/2017
+CodeDft=9881
+End With
+With DEFUNT
+Id=9976
+Nom=GUEVIN
+Prenom=DENISE
+DecesDate=14/01/2017
+CodeDft=9976
+End With
+With DEFUNT
+Id=10176
+Nom=GUGNOT
+Prenom=GERY
+DecesDate=05/02/2017
+CodeDft=10176
+End With
+With DEFUNT
+Id=10722
+Nom=GUIBOT
+Prenom=CHARLES
+DecesDate=28/04/2017
+CodeDft=10722
+End With
+With DEFUNT
+Id=11420
+Nom=GUIGUE
+Prenom=JEAN CLAUDE
+DecesDate=19/08/2017
+CodeDft=11420
+End With
+With DEFUNT
+Id=10734
+Nom=GUILLAND
+Prenom=GEORGETTE
+DecesDate=29/04/2017
+CodeDft=10734
+End With
+With DEFUNT
+Id=11218
+Nom=GUILLAUME
+Prenom=MARIE-THERESE
+DecesDate=15/07/2017
+CodeDft=11218
+End With
+With DEFUNT
+Id=10289
+Nom=GUILLAUT
+Prenom=ANDRE
+DecesDate=20/02/2017
+CodeDft=10289
+End With
+With DEFUNT
+Id=10384
+Nom=GUILLERME
+Prenom=ANNE MARIE
+DecesDate=07/03/2017
+CodeDft=10384
+End With
+With DEFUNT
+Id=11227
+Nom=GUILLERMIN
+Prenom=Solange
+DecesDate=14/07/2017
+CodeDft=11227
+End With
+With DEFUNT
+Id=11179
+Nom=GUILLOT
+Prenom=ROGER
+DecesDate=09/07/2017
+CodeDft=11179
+End With
+With DEFUNT
+Id=10938
+Nom=GUIRAL
+Prenom=ANDRE
+DecesDate=02/06/2017
+CodeDft=10938
+End With
+With DEFUNT
+Id=10839
+Nom=GUISOL
+Prenom=ETIENNE
+DecesDate=16/05/2017
+CodeDft=10839
+End With
+With DEFUNT
+Id=11294
+Nom=GUITTON
+Prenom=LUCETTE
+DecesDate=27/07/2017
+CodeDft=11294
+End With
+With DEFUNT
+Id=11544
+Nom=GUITTON
+Prenom=FRANCIS
+DecesDate=03/09/2017
+CodeDft=11544
+End With
+With DEFUNT
+Id=10553
+Nom=GULLY
+Prenom=FRANCOISE
+DecesDate=01/04/2017
+CodeDft=10553
+End With
+With DEFUNT
+Id=10877
+Nom=GUY
+Prenom=RENE
+DecesDate=23/05/2017
+CodeDft=10877
+End With
+With DEFUNT
+Id=10331
+Nom=GUYONNET
+Prenom=MICHEL
+DecesDate=26/02/2017
+CodeDft=10331
+End With
+With DEFUNT
+Id=9846
+Nom=HABABOU
+Prenom=Nessim
+DecesDate=03/01/2017
+CodeDft=9846
+End With
+With DEFUNT
+Id=9890
+Nom=HABABOU
+Prenom=GENEVIEVE
+DecesDate=06/01/2017
+CodeDft=9890
+End With
+With DEFUNT
+Id=10283
+Nom=HABOLD
+Prenom=ANDREE
+DecesDate=19/02/2017
+CodeDft=10283
+End With
+With DEFUNT
+Id=10672
+Nom=HAEMS
+Prenom=RONALD
+DecesDate=17/04/2017
+CodeDft=10672
+End With
+With DEFUNT
+Id=11343
+Nom=HAFIDALLAH
+Prenom=ZAHRA
+DecesDate=04/08/2017
+CodeDft=11343
+End With
+With DEFUNT
+Id=10425
+Nom=HAMIOT
+Prenom=YVETTE
+DecesDate=13/03/2017
+CodeDft=10425
+End With
+With DEFUNT
+Id=10182
+Nom=HARRISON
+Prenom=KELLY
+DecesDate=28/01/2017
+CodeDft=10182
+End With
+With DEFUNT
+Id=10546
+Nom=HASTIER
+Prenom=CAMILLE
+DecesDate=01/04/2017
+CodeDft=10546
+End With
+With DEFUNT
+Id=11598
+Nom=HATAT
+Prenom=COLETTE
+DecesDate=12/09/2017
+CodeDft=11598
+End With
+With DEFUNT
+Id=10310
+Nom=HAUG
+Prenom=CHRISTIANE
+DecesDate=24/02/2017
+CodeDft=10310
+End With
+With DEFUNT
+Id=10977
+Nom=HECTOR
+Prenom=ANGELE
+DecesDate=09/06/2017
+CodeDft=10977
+End With
+With DEFUNT
+Id=10145
+Nom=HELLEGOUARCH
+Prenom=LUCIENNE
+DecesDate=31/01/2017
+CodeDft=10145
+End With
+With DEFUNT
+Id=11428
+Nom=HENRY
+Prenom=RENE
+DecesDate=20/08/2017
+CodeDft=11428
+End With
+With DEFUNT
+Id=11560
+Nom=HERMITTE
+Prenom=ANNETTE
+DecesDate=07/09/2017
+CodeDft=11560
+End With
+With DEFUNT
+Id=10862
+Nom=HERON
+Prenom=MATTHIEU
+DecesDate=20/05/2017
+CodeDft=10862
+End With
+With DEFUNT
+Id=10662
+Nom=HERRY
+Prenom=GEORGETTE
+DecesDate=/  /
+CodeDft=10662
+End With
+With DEFUNT
+Id=10540
+Nom=HERTZLER
+Prenom=JEANNE
+DecesDate=31/03/2017
+CodeDft=10540
+End With
+With DEFUNT
+Id=10769
+Nom=HERVEY
+Prenom=BRUCE
+DecesDate=06/05/2017
+CodeDft=10769
+End With
+With DEFUNT
+Id=9938
+Nom=HERVIEUX
+Prenom=LUCIENNE
+DecesDate=11/01/2017
+CodeDft=9938
+End With
+With DEFUNT
+Id=11397
+Nom=HERY
+Prenom=JACQUES
+DecesDate=13/08/2017
+CodeDft=11397
+End With
+With DEFUNT
+Id=11507
+Nom=HEUDE
+Prenom=GEORGETTE
+DecesDate=30/08/2017
+CodeDft=11507
+End With
+With DEFUNT
+Id=10797
+Nom=HIGGINSON
+Prenom=ROGER
+DecesDate=10/05/2017
+CodeDft=10797
+End With
+With DEFUNT
+Id=10581
+Nom=HIVERT
+Prenom=JACQUES
+DecesDate=06/04/2017
+CodeDft=10581
+End With
+With DEFUNT
+Id=11007
+Nom=HODIN
+Prenom=THIERRY
+DecesDate=11/06/2017
+CodeDft=11007
+End With
+With DEFUNT
+Id=11016
+Nom=HOLLFTEIN
+Prenom=ULFERT
+DecesDate=/  /
+CodeDft=11016
+End With
+With DEFUNT
+Id=11017
+Nom=HOLLFTEIN
+Prenom=ULFERT
+DecesDate=/  /
+CodeDft=11017
+End With
+With DEFUNT
+Id=10518
+Nom=HONORE
+Prenom=PIERRE
+DecesDate=29/03/2017
+CodeDft=10518
+End With
+With DEFUNT
+Id=11216
+Nom=HOSTACHY
+Prenom=ELISE
+DecesDate=15/07/2017
+CodeDft=11216
+End With
+With DEFUNT
+Id=10716
+Nom=HOUPPIN
+Prenom=GEORGETTE
+DecesDate=27/04/2017
+CodeDft=10716
+End With
+With DEFUNT
+Id=11379
+Nom=HUART
+Prenom=ALAIN
+DecesDate=09/08/2017
+CodeDft=11379
+End With
+With DEFUNT
+Id=11115
+Nom=HUCHE
+Prenom=MICHELE
+DecesDate=29/06/2017
+CodeDft=11115
+End With
+With DEFUNT
+Id=11311
+Nom=HUDRY
+Prenom=ALBERT
+DecesDate=28/07/2017
+CodeDft=11311
+End With
+With DEFUNT
+Id=10694
+Nom=HUET
+Prenom=IRENE
+DecesDate=24/04/2017
+CodeDft=10694
+End With
+With DEFUNT
+Id=11417
+Nom=HUGUENIN
+Prenom=ANDRE
+DecesDate=16/08/2017
+CodeDft=11417
+End With
+With DEFUNT
+Id=10416
+Nom=HUMBERT
+Prenom=JEAN
+DecesDate=10/03/2017
+CodeDft=10416
+End With
+With DEFUNT
+Id=10781
+Nom=HUON
+Prenom=ROXANE
+DecesDate=06/05/2017
+CodeDft=10781
+End With
+With DEFUNT
+Id=11494
+Nom=HUYGHE
+Prenom=CECILE
+DecesDate=29/08/2017
+CodeDft=11494
+End With
+With DEFUNT
+Id=10341
+Nom=IACONO
+Prenom=YANNICK
+DecesDate=28/02/2017
+CodeDft=10341
+End With
+With DEFUNT
+Id=11326
+Nom=IAHNS
+Prenom=ROBERT
+DecesDate=01/08/2017
+CodeDft=11326
+End With
+With DEFUNT
+Id=10533
+Nom=ILA LAZZARETTI
+Prenom=M
+DecesDate=20/03/2017
+CodeDft=10533
+End With
+With DEFUNT
+Id=10969
+Nom=IOAN
+Prenom=SAMUEL
+DecesDate=02/06/2017
+CodeDft=10969
+End With
+With DEFUNT
+Id=11006
+Nom=IOAN
+Prenom=SAMUEL
+DecesDate=/  /
+CodeDft=11006
+End With
+With DEFUNT
+Id=11338
+Nom=ISNARD
+Prenom=SEBASTIEN
+DecesDate=02/08/2017
+CodeDft=11338
+End With
+With DEFUNT
+Id=11658
+Nom=JACOB
+Prenom=LUCIENNE
+DecesDate=21/09/2017
+CodeDft=11658
+End With
+With DEFUNT
+Id=11543
+Nom=JACONELLI
+Prenom=GEORGES
+DecesDate=04/09/2017
+CodeDft=11543
+End With
+With DEFUNT
+Id=11048
+Nom=JACQUEMMOZ
+Prenom=JEAN FRANCOIS
+DecesDate=20/06/2017
+CodeDft=11048
+End With
+With DEFUNT
+Id=10993
+Nom=JACQUIER
+Prenom=GUSTAVE
+DecesDate=12/06/2017
+CodeDft=10993
+End With
+With DEFUNT
+Id=9963
+Nom=JACQUIER ROUX
+Prenom=CLAUDE
+DecesDate=14/01/2017
+CodeDft=9963
+End With
+With DEFUNT
+Id=10444
+Nom=JACQUIN
+Prenom=DOMINIQUE
+DecesDate=17/03/2017
+CodeDft=10444
+End With
+With DEFUNT
+Id=10221
+Nom=JACQUINOT
+Prenom=CLAUDE
+DecesDate=12/02/2017
+CodeDft=10221
+End With
+With DEFUNT
+Id=10873
+Nom=JAFFRE
+Prenom=ROGER
+DecesDate=22/05/2017
+CodeDft=10873
+End With
+With DEFUNT
+Id=10564
+Nom=JANAN
+Prenom=ANDRE
+DecesDate=04/04/2017
+CodeDft=10564
+End With
+With DEFUNT
+Id=10745
+Nom=JANICOT
+Prenom=JEAN PAUL
+DecesDate=01/05/2017
+CodeDft=10745
+End With
+With DEFUNT
+Id=10258
+Nom=JANIN
+Prenom=MICHELE
+DecesDate=16/02/2017
+CodeDft=10258
+End With
+With DEFUNT
+Id=11352
+Nom=JANIN
+Prenom=HUGUETTE
+DecesDate=05/08/2017
+CodeDft=11352
+End With
+With DEFUNT
+Id=10933
+Nom=JANIN 
+Prenom=ROBERT
+DecesDate=01/06/2017
+CodeDft=10933
+End With
+With DEFUNT
+Id=9803
+Nom=JANSEN
+Prenom=JACOBA GERBA
+DecesDate=29/12/2016
+CodeDft=9803
+End With
+With DEFUNT
+Id=11509
+Nom=JARGOT
+Prenom=RENEE
+DecesDate=31/08/2017
+CodeDft=11509
+End With
+With DEFUNT
+Id=11481
+Nom=JARRE
+Prenom=MARIE-ROSE
+DecesDate=27/08/2017
+CodeDft=11481
+End With
+With DEFUNT
+Id=10077
+Nom=JAUDOIN
+Prenom=JEAN-FRANCOIS
+DecesDate=25/01/2017
+CodeDft=10077
+End With
+With DEFUNT
+Id=10032
+Nom=JAUVERT
+Prenom=JEAN PIERRE
+DecesDate=20/01/2017
+CodeDft=10032
+End With
+With DEFUNT
+Id=10785
+Nom=JAY
+Prenom=GASTON
+DecesDate=07/05/2017
+CodeDft=10785
+End With
+With DEFUNT
+Id=10346
+Nom=JAYET-GRIFFON
+Prenom=JOSETTE
+DecesDate=02/03/2017
+CodeDft=10346
+End With
+With DEFUNT
+Id=10491
+Nom=JEAN
+Prenom=CHARLES
+DecesDate=23/03/2017
+CodeDft=10491
+End With
+With DEFUNT
+Id=10671
+Nom=JEANNE
+Prenom=SUZANNE
+DecesDate=20/04/2017
+CodeDft=10671
+End With
+With DEFUNT
+Id=10072
+Nom=JEANNET 
+Prenom=PIERRE
+DecesDate=18/01/2017
+CodeDft=10072
+End With
+With DEFUNT
+Id=10538
+Nom=JEANNOLIN
+Prenom=PIERRE
+DecesDate=31/03/2017
+CodeDft=10538
+End With
+With DEFUNT
+Id=10054
+Nom=JEANTIN
+Prenom=COLETTE
+DecesDate=22/01/2017
+CodeDft=10054
+End With
+With DEFUNT
+Id=10800
+Nom=JEANTON
+Prenom=MICHEL
+DecesDate=10/05/2017
+CodeDft=10800
+End With
+With DEFUNT
+Id=10808
+Nom=JEANTON
+Prenom=MICHEL
+DecesDate=/  /
+CodeDft=10808
+End With
+With DEFUNT
+Id=11443
+Nom=JEANTON
+Prenom=SIMONE
+DecesDate=21/08/2017
+CodeDft=11443
+End With
+With DEFUNT
+Id=10531
+Nom=JEHLE
+Prenom=PIERRE
+DecesDate=29/03/2017
+CodeDft=10531
+End With
+With DEFUNT
+Id=9816
+Nom=JOCQUES
+Prenom=ANDRE
+DecesDate=31/12/2016
+CodeDft=9816
+End With
+With DEFUNT
+Id=10137
+Nom=JOLLIVET
+Prenom=JEANNE MARIE
+DecesDate=31/01/2017
+CodeDft=10137
+End With
+With DEFUNT
+Id=9994
+Nom=JOLY
+Prenom=MARIE-LOUISE
+DecesDate=17/01/2017
+CodeDft=9994
+End With
+With DEFUNT
+Id=11258
+Nom=JONAS
+Prenom=REGIS
+DecesDate=22/07/2017
+CodeDft=11258
+End With
+With DEFUNT
+Id=11176
+Nom=JOSLANT
+Prenom=GILBERT
+DecesDate=09/07/2017
+CodeDft=11176
+End With
+With DEFUNT
+Id=10433
+Nom=JOUAN
+Prenom=CHRISTIANE
+DecesDate=14/03/2017
+CodeDft=10433
+End With
+With DEFUNT
+Id=10107
+Nom=JOURNAL
+Prenom=BERNARD
+DecesDate=28/01/2017
+CodeDft=10107
+End With
+With DEFUNT
+Id=10149
+Nom=JOUTZ
+Prenom=BERNARD
+DecesDate=01/02/2017
+CodeDft=10149
+End With
+With DEFUNT
+Id=11676
+Nom=JOUX
+Prenom=NOEL
+DecesDate=24/09/2017
+CodeDft=11676
+End With
+With DEFUNT
+Id=10148
+Nom=JOVET
+Prenom=MARCELLE
+DecesDate=01/02/2017
+CodeDft=10148
+End With
+With DEFUNT
+Id=11597
+Nom=JOYEUX
+Prenom=CLAUDE
+DecesDate=13/09/2017
+CodeDft=11597
+End With
+With DEFUNT
+Id=11476
+Nom=JUGLAIR
+Prenom=SUZANNE
+DecesDate=27/08/2017
+CodeDft=11476
+End With
+With DEFUNT
+Id=11009
+Nom=JULLIARD
+Prenom=JEAN 
+DecesDate=13/06/2017
+CodeDft=11009
+End With
+With DEFUNT
+Id=11537
+Nom=KALENDERIAN
+Prenom=LOUIS
+DecesDate=02/09/2017
+CodeDft=11537
+End With
+With DEFUNT
+Id=11585
+Nom=KATIRAG
+Prenom=JASSEM
+DecesDate=04/09/2017
+CodeDft=11585
+End With
+With DEFUNT
+Id=10907
+Nom=KEMEL
+Prenom=ANDRE
+DecesDate=28/05/2017
+CodeDft=10907
+End With
+With DEFUNT
+Id=10210
+Nom=KEMP
+Prenom=MARCEL
+DecesDate=10/02/2017
+CodeDft=10210
+End With
+With DEFUNT
+Id=11283
+Nom=KEMPER
+Prenom=SIMON
+DecesDate=06/07/2017
+CodeDft=11283
+End With
+With DEFUNT
+Id=11285
+Nom=KEMPER
+Prenom=SIMON
+DecesDate=06/07/2017
+CodeDft=11285
+End With
+With DEFUNT
+Id=11644
+Nom=KERGOZOU DE LA BOESSIERE
+Prenom=ANDRE
+DecesDate=20/09/2017
+CodeDft=11644
+End With
+With DEFUNT
+Id=10203
+Nom=KERVARREC
+Prenom=ANDREE
+DecesDate=09/02/2017
+CodeDft=10203
+End With
+With DEFUNT
+Id=11456
+Nom=KHUN
+Prenom=ORN
+DecesDate=24/08/2017
+CodeDft=11456
+End With
+With DEFUNT
+Id=10724
+Nom=KINDERMANN
+Prenom=WALTER
+DecesDate=29/04/2017
+CodeDft=10724
+End With
+With DEFUNT
+Id=9819
+Nom=KLIMEK
+Prenom=SOPHIE
+DecesDate=01/01/2017
+CodeDft=9819
+End With
+With DEFUNT
+Id=9952
+Nom=KOLANCZYK
+Prenom=STANISLAS
+DecesDate=13/01/2017
+CodeDft=9952
+End With
+With DEFUNT
+Id=9959
+Nom=KOLANCZYK
+Prenom=STANISLAS
+DecesDate=13/01/2017
+CodeDft=9959
+End With
+With DEFUNT
+Id=11378
+Nom=KONRAD
+Prenom=JEAN PIERRE
+DecesDate=10/08/2017
+CodeDft=11378
+End With
+With DEFUNT
+Id=11677
+Nom=KOWALSKI
+Prenom=CHRISTIAN
+DecesDate=21/09/2017
+CodeDft=11677
+End With
+With DEFUNT
+Id=10327
+Nom=KRACHEWSKI
+Prenom=STEPHAN
+DecesDate=25/02/2017
+CodeDft=10327
+End With
+With DEFUNT
+Id=10449
+Nom=KRATZ
+Prenom=MARTINE
+DecesDate=17/03/2017
+CodeDft=10449
+End With
+With DEFUNT
+Id=10927
+Nom=KUBIK
+Prenom=ANDRZEJ
+DecesDate=30/05/2017
+CodeDft=10927
+End With
+With DEFUNT
+Id=10929
+Nom=KUBIK
+Prenom=ANDRZEJ
+DecesDate=30/05/2017
+CodeDft=10929
+End With
+With DEFUNT
+Id=11037
+Nom=LAAGER
+Prenom=MICHEL
+DecesDate=17/06/2017
+CodeDft=11037
+End With
+With DEFUNT
+Id=11002
+Nom=LABROUSSE
+Prenom=ARLETTE
+DecesDate=12/06/2017
+CodeDft=11002
+End With
+With DEFUNT
+Id=10509
+Nom=LACAZE
+Prenom=COLETTE
+DecesDate=28/03/2017
+CodeDft=10509
+End With
+With DEFUNT
+Id=10510
+Nom=LACAZE
+Prenom=COLETTE
+DecesDate=28/03/2017
+CodeDft=10510
+End With
+With DEFUNT
+Id=11050
+Nom=LACHEVRE
+Prenom=MARIE THERESE
+DecesDate=20/06/2017
+CodeDft=11050
+End With
+With DEFUNT
+Id=10440
+Nom=LACLAU-SICABAIGT
+Prenom=PAUL
+DecesDate=15/03/2017
+CodeDft=10440
+End With
+With DEFUNT
+Id=10114
+Nom=LAFONT
+Prenom=ANDRE
+DecesDate=30/01/2017
+CodeDft=10114
+End With
+With DEFUNT
+Id=11069
+Nom=LAI
+Prenom=MICHELLE
+DecesDate=22/06/2017
+CodeDft=11069
+End With
+With DEFUNT
+Id=9798
+Nom=LAILLY
+Prenom=ANDREE
+DecesDate=30/12/2016
+CodeDft=9798
+End With
+With DEFUNT
+Id=9866
+Nom=LAJOYE
+Prenom=MARIE-THERESE
+DecesDate=04/01/2017
+CodeDft=9866
+End With
+With DEFUNT
+Id=11648
+Nom=LALAUDIERE
+Prenom=MARIE LAURE
+DecesDate=19/08/2017
+CodeDft=11648
+End With
+With DEFUNT
+Id=11406
+Nom=LALLIER-GOLLET
+Prenom=MAURICE
+DecesDate=14/08/2017
+CodeDft=11406
+End With
+With DEFUNT
+Id=10023
+Nom=LANCON
+Prenom=JACQUES
+DecesDate=19/01/2017
+CodeDft=10023
+End With
+With DEFUNT
+Id=10905
+Nom=LANFREY-LAPERRIERE
+Prenom=MARCELLE
+DecesDate=27/05/2017
+CodeDft=10905
+End With
+With DEFUNT
+Id=10700
+Nom=LANGE
+Prenom=JACQUES
+DecesDate=24/04/2017
+CodeDft=10700
+End With
+With DEFUNT
+Id=11099
+Nom=LANSARD
+Prenom=BEATRICE
+DecesDate=27/06/2017
+CodeDft=11099
+End With
+With DEFUNT
+Id=10299
+Nom=LAOUAR
+Prenom=TAOUS
+DecesDate=22/02/2017
+CodeDft=10299
+End With
+With DEFUNT
+Id=10598
+Nom=LAPIERRE
+Prenom=MARIE- THERESE
+DecesDate=09/04/2017
+CodeDft=10598
+End With
+With DEFUNT
+Id=10267
+Nom=LAPLACE-CIGOUGNE
+Prenom=JACQUELINE
+DecesDate=17/02/2017
+CodeDft=10267
+End With
+With DEFUNT
+Id=11071
+Nom=LAPOTRE
+Prenom=BERNARD
+DecesDate=23/06/2017
+CodeDft=11071
+End With
+With DEFUNT
+Id=11304
+Nom=LARRIERE
+Prenom=GENEVIEVE
+DecesDate=28/07/2017
+CodeDft=11304
+End With
+With DEFUNT
+Id=9787
+Nom=LARVOR
+Prenom=CORRY
+DecesDate=27/12/2016
+CodeDft=9787
+End With
+With DEFUNT
+Id=10575
+Nom=LATASSE
+Prenom=MARCEL
+DecesDate=06/04/2017
+CodeDft=10575
+End With
+With DEFUNT
+Id=10231
+Nom=LATHOUD
+Prenom=MARCEL
+DecesDate=11/02/2017
+CodeDft=10231
+End With
+With DEFUNT
+Id=10202
+Nom=LAURENT
+Prenom=PIERRE
+DecesDate=09/02/2017
+CodeDft=10202
+End With
+With DEFUNT
+Id=10893
+Nom=LAURENT
+Prenom=ROBERT
+DecesDate=25/05/2017
+CodeDft=10893
+End With
+With DEFUNT
+Id=11702
+Nom=LAURENT
+Prenom=MAURICE
+DecesDate=28/09/2017
+CodeDft=11702
+End With
+With DEFUNT
+Id=11024
+Nom=LAURENT 
+Prenom=DENISE
+DecesDate=15/06/2017
+CodeDft=11024
+End With
+With DEFUNT
+Id=11083
+Nom=LAURENT-GONNET
+Prenom=FERNANDE
+DecesDate=25/06/2017
+CodeDft=11083
+End With
+With DEFUNT
+Id=10650
+Nom=LAURIOL
+Prenom=RENE
+DecesDate=16/04/2017
+CodeDft=10650
+End With
+With DEFUNT
+Id=10652
+Nom=LAUSI
+Prenom=ALAIN
+DecesDate=15/04/2017
+CodeDft=10652
+End With
+With DEFUNT
+Id=10848
+Nom=LAVARENNE
+Prenom=ANNIE
+DecesDate=18/05/2017
+CodeDft=10848
+End With
+With DEFUNT
+Id=10051
+Nom=LAVERSANNE
+Prenom=JEANINE
+DecesDate=22/01/2017
+CodeDft=10051
+End With
+With DEFUNT
+Id=11643
+Nom=LAVY
+Prenom=MONIQUE
+DecesDate=20/09/2017
+CodeDft=11643
+End With
+With DEFUNT
+Id=11455
+Nom=LAZ
+Prenom=JANINE
+DecesDate=25/08/2017
+CodeDft=11455
+End With
+With DEFUNT
+Id=11541
+Nom=LAZZARONI
+Prenom=JEAN
+DecesDate=03/09/2017
+CodeDft=11541
+End With
+With DEFUNT
+Id=10963
+Nom=LE BEUX
+Prenom=GERARD
+DecesDate=07/06/2017
+CodeDft=10963
+End With
+With DEFUNT
+Id=11116
+Nom=LE BRIS
+Prenom=PASCAL
+DecesDate=30/06/2017
+CodeDft=11116
+End With
+With DEFUNT
+Id=11151
+Nom=LE LUYER
+Prenom=ALAIN
+DecesDate=04/07/2017
+CodeDft=11151
+End With
+With DEFUNT
+Id=10772
+Nom=LE MOINE 
+Prenom=MARCEL
+DecesDate=06/05/2017
+CodeDft=10772
+End With
+With DEFUNT
+Id=11679
+Nom=LEAUTIER
+Prenom=HELENE
+DecesDate=23/09/2017
+CodeDft=11679
+End With
+With DEFUNT
+Id=11403
+Nom=LEBEL
+Prenom=MARIE-PAULE
+DecesDate=14/08/2017
+CodeDft=11403
+End With
+With DEFUNT
+Id=10000
+Nom=LEBLOND
+Prenom=OLIVIER
+DecesDate=18/01/2017
+CodeDft=10000
+End With
+With DEFUNT
+Id=10950
+Nom=LECART
+Prenom=RAYMOND
+DecesDate=04/06/2017
+CodeDft=10950
+End With
+With DEFUNT
+Id=11482
+Nom=LECLERC
+Prenom=SERGE
+DecesDate=27/08/2017
+CodeDft=11482
+End With
+With DEFUNT
+Id=10820
+Nom=LECLERCQ
+Prenom=CLAUDINE
+DecesDate=12/05/2017
+CodeDft=10820
+End With
+With DEFUNT
+Id=11265
+Nom=LECOEUR
+Prenom=ANITA
+DecesDate=21/07/2017
+CodeDft=11265
+End With
+With DEFUNT
+Id=10190
+Nom=LECOMTE
+Prenom=PIERRETTE
+DecesDate=07/02/2017
+CodeDft=10190
+End With
+With DEFUNT
+Id=10191
+Nom=LECOMTE
+Prenom=PIERRETTE
+DecesDate=07/02/2017
+CodeDft=10191
+End With
+With DEFUNT
+Id=10583
+Nom=LEDUC
+Prenom=VINCENT
+DecesDate=06/04/2017
+CodeDft=10583
+End With
+With DEFUNT
+Id=11375
+Nom=LEDUC
+Prenom=JEREMY
+DecesDate=09/08/2017
+CodeDft=11375
+End With
+With DEFUNT
+Id=9876
+Nom=LEDUC
+Prenom=DENISE
+DecesDate=04/01/2017
+CodeDft=9876
+End With
+With DEFUNT
+Id=11244
+Nom=LEFEBVRE
+Prenom=PATRIC
+DecesDate=19/07/2017
+CodeDft=11244
+End With
+With DEFUNT
+Id=10328
+Nom=LEFEVRE
+Prenom=CHRISTINE
+DecesDate=26/02/2017
+CodeDft=10328
+End With
+With DEFUNT
+Id=11427
+Nom=LEFEVRE
+Prenom=ANDRE
+DecesDate=20/08/2017
+CodeDft=11427
+End With
+With DEFUNT
+Id=10078
+Nom=LEGER
+Prenom=JEAN
+DecesDate=25/01/2017
+CodeDft=10078
+End With
+With DEFUNT
+Id=10307
+Nom=LEGER
+Prenom=NOEL
+DecesDate=23/02/2017
+CodeDft=10307
+End With
+With DEFUNT
+Id=10882
+Nom=LEGER
+Prenom=MARIA
+DecesDate=23/05/2017
+CodeDft=10882
+End With
+With DEFUNT
+Id=11344
+Nom=LEGRAND
+Prenom=ALAIN
+DecesDate=04/08/2017
+CodeDft=11344
+End With
+With DEFUNT
+Id=11345
+Nom=LEGRAND
+Prenom=ALAIN
+DecesDate=/  /
+CodeDft=11345
+End With
+With DEFUNT
+Id=10872
+Nom=LEGRIS
+Prenom=MICHELINE
+DecesDate=22/05/2017
+CodeDft=10872
+End With
+With DEFUNT
+Id=9955
+Nom=LEISER 
+Prenom=VERONIQUE
+DecesDate=13/01/2017
+CodeDft=9955
+End With
+With DEFUNT
+Id=11275
+Nom=LELARGE
+Prenom=ALBERT
+DecesDate=16/07/2017
+CodeDft=11275
+End With
+With DEFUNT
+Id=9889
+Nom=LEMAITRE
+Prenom=LOUIS
+DecesDate=06/01/2017
+CodeDft=9889
+End With
+With DEFUNT
+Id=10192
+Nom=LEMOINE
+Prenom=FRANCE
+DecesDate=08/02/2017
+CodeDft=10192
+End With
+With DEFUNT
+Id=11300
+Nom=LENDARO
+Prenom=PAULETTE
+DecesDate=28/07/2017
+CodeDft=11300
+End With
+With DEFUNT
+Id=11126
+Nom=LENFANT
+Prenom=MAURICE
+DecesDate=02/07/2017
+CodeDft=11126
+End With
+With DEFUNT
+Id=10915
+Nom=LENORMAND
+Prenom=JEAN
+DecesDate=28/05/2017
+CodeDft=10915
+End With
+With DEFUNT
+Id=10015
+Nom=LEON
+Prenom=EUGENE
+DecesDate=19/01/2017
+CodeDft=10015
+End With
+With DEFUNT
+Id=10022
+Nom=LEON
+Prenom=LUIS  /  JUANA
+DecesDate=06/06/1966
+CodeDft=10022
+End With
+With DEFUNT
+Id=11573
+Nom=LEROY
+Prenom=ANNE MARIE
+DecesDate=09/09/2017
+CodeDft=11573
+End With
+With DEFUNT
+Id=10361
+Nom=LESAGE
+Prenom=DANIEL
+DecesDate=03/03/2017
+CodeDft=10361
+End With
+With DEFUNT
+Id=11413
+Nom=LEURS
+Prenom=JEANNINE
+DecesDate=16/08/2017
+CodeDft=11413
+End With
+With DEFUNT
+Id=9943
+Nom=LEVROT
+Prenom=MARC
+DecesDate=12/01/2017
+CodeDft=9943
+End With
+With DEFUNT
+Id=10798
+Nom=L'HOPITAL
+Prenom=PAUL
+DecesDate=10/05/2017
+CodeDft=10798
+End With
+With DEFUNT
+Id=9924
+Nom=LIGEON 
+Prenom=NATHALIE
+DecesDate=09/01/2017
+CodeDft=9924
+End With
+With DEFUNT
+Id=10200
+Nom=LIGONNET
+Prenom=MARIE
+DecesDate=09/02/2017
+CodeDft=10200
+End With
+With DEFUNT
+Id=11185
+Nom=LIONEL
+Prenom=BACQUET
+DecesDate=10/07/2017
+CodeDft=11185
+End With
+With DEFUNT
+Id=11502
+Nom=LISENBORG
+Prenom=ANDREE
+DecesDate=30/08/2017
+CodeDft=11502
+End With
+With DEFUNT
+Id=10056
+Nom=LIVERNOIS
+Prenom=PIERRE
+DecesDate=23/01/2017
+CodeDft=10056
+End With
+With DEFUNT
+Id=11605
+Nom=LIZZI
+Prenom=JEAN
+DecesDate=14/09/2017
+CodeDft=11605
+End With
+With DEFUNT
+Id=10242
+Nom=LLORCA
+Prenom=STEPHANE
+DecesDate=28/10/1962
+CodeDft=10242
+End With
+With DEFUNT
+Id=10571
+Nom=LO
+Prenom=M
+DecesDate=24/03/2017
+CodeDft=10571
+End With
+With DEFUNT
+Id=9884
+Nom=LODI
+Prenom=ROGER
+DecesDate=06/01/2017
+CodeDft=9884
+End With
+With DEFUNT
+Id=10045
+Nom=LOGEZ
+Prenom=BENOIT
+DecesDate=21/01/2017
+CodeDft=10045
+End With
+With DEFUNT
+Id=10394
+Nom=LOI
+Prenom=JEAN
+DecesDate=08/03/2017
+CodeDft=10394
+End With
+With DEFUNT
+Id=11718
+Nom=LOIRE
+Prenom=CHRISTOPHE
+DecesDate=24/09/2017
+CodeDft=11718
+End With
+With DEFUNT
+Id=10184
+Nom=LOMBARD- DONNET
+Prenom=GUY
+DecesDate=06/02/2017
+CodeDft=10184
+End With
+With DEFUNT
+Id=11553
+Nom=LONGE
+Prenom=GISELE
+DecesDate=05/09/2017
+CodeDft=11553
+End With
+With DEFUNT
+Id=8745
+Nom=LOPEZ-SANCHEZ
+Prenom=JACKY
+DecesDate=26/07/2016
+CodeDft=8745
+End With
+With DEFUNT
+Id=10871
+Nom=LORCERY
+Prenom=ROGER
+DecesDate=22/05/2017
+CodeDft=10871
+End With
+With DEFUNT
+Id=10517
+Nom=LORET
+Prenom=ODETTE
+DecesDate=28/03/2017
+CodeDft=10517
+End With
+With DEFUNT
+Id=11689
+Nom=LORIDON
+Prenom=PIERRE
+DecesDate=27/09/2017
+CodeDft=11689
+End With
+With DEFUNT
+Id=9947
+Nom=LOUET
+Prenom=ALPHONSE
+DecesDate=13/01/2017
+CodeDft=9947
+End With
+With DEFUNT
+Id=10524
+Nom=LOUIS
+Prenom=GISELE
+DecesDate=29/03/2017
+CodeDft=10524
+End With
+With DEFUNT
+Id=10339
+Nom=LOVET-DURBET
+Prenom=FANNY
+DecesDate=27/02/2017
+CodeDft=10339
+End With
+With DEFUNT
+Id=9875
+Nom=LOZIA
+Prenom=JEAN-PIERRE
+DecesDate=05/01/2016
+CodeDft=9875
+End With
+With DEFUNT
+Id=10413
+Nom=LUGAZ
+Prenom=MARGUERITE
+DecesDate=10/03/2017
+CodeDft=10413
+End With
+With DEFUNT
+Id=9795
+Nom=LUSSIEZ
+Prenom=CLAUDE
+DecesDate=28/12/2016
+CodeDft=9795
+End With
+With DEFUNT
+Id=11093
+Nom=LUTRAND
+Prenom=RAYMOND
+DecesDate=26/06/2017
+CodeDft=11093
+End With
+With DEFUNT
+Id=9826
+Nom=LYONNARD
+Prenom=YVES
+DecesDate=01/01/2016
+CodeDft=9826
+End With
+With DEFUNT
+Id=10558
+Nom=MABERTO
+Prenom=MARIO
+DecesDate=03/04/2017
+CodeDft=10558
+End With
+With DEFUNT
+Id=11669
+Nom=MACKIC
+Prenom=RAHMANIJA
+DecesDate=23/09/2017
+CodeDft=11669
+End With
+With DEFUNT
+Id=10744
+Nom=MADELON
+Prenom=CAMILLE
+DecesDate=01/05/2017
+CodeDft=10744
+End With
+With DEFUNT
+Id=11301
+Nom=MAGNE
+Prenom=ANDRE
+DecesDate=28/07/2017
+CodeDft=11301
+End With
+With DEFUNT
+Id=10461
+Nom=MAGNIN
+Prenom=NICOLE
+DecesDate=19/03/2017
+CodeDft=10461
+End With
+With DEFUNT
+Id=10979
+Nom=MAILLAND
+Prenom=ALICE
+DecesDate=09/06/2017
+CodeDft=10979
+End With
+With DEFUNT
+Id=11678
+Nom=MAITRE
+Prenom=ALBERT
+DecesDate=24/09/2017
+CodeDft=11678
+End With
+With DEFUNT
+Id=9861
+Nom=MALANDRONE
+Prenom=FABIENNE
+DecesDate=04/01/2017
+CodeDft=9861
+End With
+With DEFUNT
+Id=10316
+Nom=MALATIER
+Prenom=SYLVETTE
+DecesDate=24/02/2017
+CodeDft=10316
+End With
+With DEFUNT
+Id=10717
+Nom=MALGRAND
+Prenom=ANNE MARIE
+DecesDate=27/04/2017
+CodeDft=10717
+End With
+With DEFUNT
+Id=9970
+Nom=MANIER
+Prenom=FRANCOISE
+DecesDate=16/01/2017
+CodeDft=9970
+End With
+With DEFUNT
+Id=10550
+Nom=MANONVILLER
+Prenom=PIERRE
+DecesDate=02/04/2017
+CodeDft=10550
+End With
+With DEFUNT
+Id=11444
+Nom=MANQUAT
+Prenom=ABEL
+DecesDate=22/08/2017
+CodeDft=11444
+End With
+With DEFUNT
+Id=10972
+Nom=MANSIER
+Prenom=DIDIER
+DecesDate=07/06/2017
+CodeDft=10972
+End With
+With DEFUNT
+Id=9977
+Nom=MANUEL
+Prenom=LOUIS
+DecesDate=14/01/2017
+CodeDft=9977
+End With
+With DEFUNT
+Id=10532
+Nom=MANZON
+Prenom=CHRISTIANE
+DecesDate=29/03/2017
+CodeDft=10532
+End With
+With DEFUNT
+Id=10366
+Nom=MARANZONI
+Prenom=CHRISTOPHE
+DecesDate=05/03/2017
+CodeDft=10366
+End With
+With DEFUNT
+Id=10563
+Nom=MARC
+Prenom=MARTINE
+DecesDate=04/04/2017
+CodeDft=10563
+End With
+With DEFUNT
+Id=10565
+Nom=MARCHESINI
+Prenom=GEORGES
+DecesDate=04/04/2017
+CodeDft=10565
+End With
+With DEFUNT
+Id=10297
+Nom=MARCHETTI
+Prenom=PIERRE
+DecesDate=22/02/2017
+CodeDft=10297
+End With
+With DEFUNT
+Id=10721
+Nom=MARCHIONINI
+Prenom=NADINE
+DecesDate=27/04/2017
+CodeDft=10721
+End With
+With DEFUNT
+Id=10556
+Nom=MARCON
+Prenom=SIMONE
+DecesDate=01/04/2017
+CodeDft=10556
+End With
+With DEFUNT
+Id=11023
+Nom=MARCONNET
+Prenom=MARIE-THERESE
+DecesDate=08/06/2017
+CodeDft=11023
+End With
+With DEFUNT
+Id=10692
+Nom=MARGARITA
+Prenom=GYUROVA
+DecesDate=22/04/2017
+CodeDft=10692
+End With
+With DEFUNT
+Id=10396
+Nom=MARGARITO
+Prenom=MICHEL
+DecesDate=09/03/2017
+CodeDft=10396
+End With
+With DEFUNT
+Id=10100
+Nom=MARGERIN
+Prenom=COLETTE
+DecesDate=26/01/2017
+CodeDft=10100
+End With
+With DEFUNT
+Id=10141
+Nom=MARGRIT
+Prenom=PIERRE- JAN
+DecesDate=01/02/2017
+CodeDft=10141
+End With
+With DEFUNT
+Id=10393
+Nom=MARGUERON
+Prenom=GEORGES
+DecesDate=08/03/2017
+CodeDft=10393
+End With
+With DEFUNT
+Id=10395
+Nom=MARGUERON
+Prenom=GEORGES
+DecesDate=09/03/2017
+CodeDft=10395
+End With
+With DEFUNT
+Id=11640
+Nom=MARGUET
+Prenom=HUBERT
+DecesDate=19/09/2017
+CodeDft=11640
+End With
+With DEFUNT
+Id=11026
+Nom=MARIAT
+Prenom=PIERRE
+DecesDate=15/06/2017
+CodeDft=11026
+End With
+With DEFUNT
+Id=10048
+Nom=MARIE -NOELLE
+Prenom=PEGAZ-TOQUET
+DecesDate=19/01/2017
+CodeDft=10048
+End With
+With DEFUNT
+Id=11248
+Nom=MARIN-CURTET
+Prenom=ANDRE
+DecesDate=21/07/2017
+CodeDft=11248
+End With
+With DEFUNT
+Id=11710
+Nom=MARIN-LAMELLET
+Prenom=GILLES
+DecesDate=29/09/2017
+CodeDft=11710
+End With
+With DEFUNT
+Id=10029
+Nom=MARLE
+Prenom=ELEONORE
+DecesDate=19/01/2017
+CodeDft=10029
+End With
+With DEFUNT
+Id=10296
+Nom=MARSAN
+Prenom=PATRICIA
+DecesDate=20/02/2017
+CodeDft=10296
+End With
+With DEFUNT
+Id=11031
+Nom=MARTEAU
+Prenom=JEANNINE
+DecesDate=17/06/2017
+CodeDft=11031
+End With
+With DEFUNT
+Id=10001
+Nom=MARTIN
+Prenom=GILBERTE
+DecesDate=17/01/2017
+CodeDft=10001
+End With
+With DEFUNT
+Id=10407
+Nom=MARTIN
+Prenom=CLAUDE
+DecesDate=09/03/2017
+CodeDft=10407
+End With
+With DEFUNT
+Id=10916
+Nom=MARTIN
+Prenom=RENEE
+DecesDate=27/05/2017
+CodeDft=10916
+End With
+With DEFUNT
+Id=11660
+Nom=MARTIN
+Prenom=ROBERT
+DecesDate=22/09/2017
+CodeDft=11660
+End With
+With DEFUNT
+Id=11681
+Nom=MARTIN
+Prenom=ELIANE
+DecesDate=24/09/2017
+CodeDft=11681
+End With
+With DEFUNT
+Id=11200
+Nom=MARTINACHE
+Prenom=PERRINE
+DecesDate=12/07/2017
+CodeDft=11200
+End With
+With DEFUNT
+Id=10254
+Nom=MARTINET-GOBBO
+Prenom=MARTHE
+DecesDate=15/02/2017
+CodeDft=10254
+End With
+With DEFUNT
+Id=10867
+Nom=MARTINS PEREIRA
+Prenom=JOAQUIM
+DecesDate=20/05/2017
+CodeDft=10867
+End With
+With DEFUNT
+Id=11012
+Nom=MARTINS ROXO
+Prenom=MYRIAM
+DecesDate=14/06/2017
+CodeDft=11012
+End With
+With DEFUNT
+Id=11171
+Nom=MARTY
+Prenom=MADELEINE
+DecesDate=08/07/2017
+CodeDft=11171
+End With
+With DEFUNT
+Id=9817
+Nom=MARUCCO
+Prenom=PIERRE
+DecesDate=01/01/2017
+CodeDft=9817
+End With
+With DEFUNT
+Id=11314
+Nom=MARY
+Prenom=CELINE
+DecesDate=30/07/2017
+CodeDft=11314
+End With
+With DEFUNT
+Id=10574
+Nom=MARZIN
+Prenom=GEORGES
+DecesDate=05/04/2017
+CodeDft=10574
+End With
+With DEFUNT
+Id=11575
+Nom=MAS SEMPERE
+Prenom=MADELEINE
+DecesDate=09/09/2017
+CodeDft=11575
+End With
+With DEFUNT
+Id=10198
+Nom=MASCOTTO
+Prenom=LUCETTE
+DecesDate=09/02/2017
+CodeDft=10198
+End With
+With DEFUNT
+Id=10268
+Nom=MASOCH
+Prenom=SERGE
+DecesDate=18/02/2017
+CodeDft=10268
+End With
+With DEFUNT
+Id=11698
+Nom=MASSARD-COMBE
+Prenom=CHRISTIANE
+DecesDate=27/09/2017
+CodeDft=11698
+End With
+With DEFUNT
+Id=11246
+Nom=MASSARIA
+Prenom=MARIE LOUISE
+DecesDate=20/07/2017
+CodeDft=11246
+End With
+With DEFUNT
+Id=10835
+Nom=MASSONNAT
+Prenom=GILBERT
+DecesDate=15/05/2017
+CodeDft=10835
+End With
+With DEFUNT
+Id=11088
+Nom=MATEU
+Prenom=EDMOND
+DecesDate=26/06/2017
+CodeDft=11088
+End With
+With DEFUNT
+Id=10889
+Nom=MATHERET
+Prenom=RAYMOND
+DecesDate=24/05/2017
+CodeDft=10889
+End With
+With DEFUNT
+Id=11028
+Nom=MATHIEU
+Prenom=HENRI
+DecesDate=16/06/2017
+CodeDft=11028
+End With
+With DEFUNT
+Id=11030
+Nom=MATHIEU
+Prenom=HENRI
+DecesDate=16/06/2017
+CodeDft=11030
+End With
+With DEFUNT
+Id=11256
+Nom=MATHIEU
+Prenom=BERNARD
+DecesDate=23/07/2017
+CodeDft=11256
+End With
+With DEFUNT
+Id=11587
+Nom=MATHON
+Prenom=JEAN CLAUDE
+DecesDate=11/09/2017
+CodeDft=11587
+End With
+With DEFUNT
+Id=9923
+Nom=MATTEONI
+Prenom=DORA
+DecesDate=10/01/2017
+CodeDft=9923
+End With
+With DEFUNT
+Id=11113
+Nom=MAULNY
+Prenom=RENE
+DecesDate=29/06/2017
+CodeDft=11113
+End With
+With DEFUNT
+Id=10619
+Nom=MAURIN
+Prenom=JEAN -PIERRE
+DecesDate=12/04/2017
+CodeDft=10619
+End With
+With DEFUNT
+Id=10570
+Nom=MAYET
+Prenom=LOUIS
+DecesDate=05/04/2017
+CodeDft=10570
+End With
+With DEFUNT
+Id=11373
+Nom=MAYET
+Prenom=HUGUETTE
+DecesDate=10/08/2017
+CodeDft=11373
+End With
+With DEFUNT
+Id=10319
+Nom=MAYEUR
+Prenom=ANGELE
+DecesDate=25/02/2017
+CodeDft=10319
+End With
+With DEFUNT
+Id=10234
+Nom=MAZERAT
+Prenom=CHRISTIAN
+DecesDate=11/02/2017
+CodeDft=10234
+End With
+With DEFUNT
+Id=11666
+Nom=MAZET
+Prenom=JEAN LOUIS
+DecesDate=22/09/2017
+CodeDft=11666
+End With
+With DEFUNT
+Id=11159
+Nom=MAZUYT
+Prenom=GAELLE
+DecesDate=06/07/2017
+CodeDft=11159
+End With
+With DEFUNT
+Id=10104
+Nom=MEDINA-ORTIS
+Prenom=MATHILDE
+DecesDate=26/01/2017
+CodeDft=10104
+End With
+With DEFUNT
+Id=11137
+Nom=MEILLEUR
+Prenom=JOSEPH
+DecesDate=04/07/2017
+CodeDft=11137
+End With
+With DEFUNT
+Id=10759
+Nom=MENAGER
+Prenom=PAULETTE
+DecesDate=03/05/2017
+CodeDft=10759
+End With
+With DEFUNT
+Id=11635
+Nom=MENARD
+Prenom=GUY
+DecesDate=19/09/2017
+CodeDft=11635
+End With
+With DEFUNT
+Id=10474
+Nom=MENDES
+Prenom=LEANDRO
+DecesDate=17/02/2017
+CodeDft=10474
+End With
+With DEFUNT
+Id=11652
+Nom=MENEGATTI
+Prenom=SIMONE
+DecesDate=21/09/2017
+CodeDft=11652
+End With
+With DEFUNT
+Id=11614
+Nom=MENICHETTI
+Prenom=DINO
+DecesDate=15/09/2017
+CodeDft=11614
+End With
+With DEFUNT
+Id=11309
+Nom=MENICI
+Prenom=MARIA GRAZIA
+DecesDate=31/07/2017
+CodeDft=11309
+End With
+With DEFUNT
+Id=11273
+Nom=MENZAGHI
+Prenom=PIERRE
+DecesDate=17/07/2017
+CodeDft=11273
+End With
+With DEFUNT
+Id=10392
+Nom=MERCIER
+Prenom=FRANCOIS
+DecesDate=08/03/2017
+CodeDft=10392
+End With
+With DEFUNT
+Id=10482
+Nom=MERCIER
+Prenom=ANDRE
+DecesDate=22/03/2017
+CodeDft=10482
+End With
+With DEFUNT
+Id=10601
+Nom=MERCIER
+Prenom=YOLANDE
+DecesDate=09/04/2017
+CodeDft=10601
+End With
+With DEFUNT
+Id=10900
+Nom=MERCIER
+Prenom=MICHELINE
+DecesDate=26/05/2017
+CodeDft=10900
+End With
+With DEFUNT
+Id=9969
+Nom=MERCIER
+Prenom=LUCIEN
+DecesDate=15/01/2017
+CodeDft=9969
+End With
+With DEFUNT
+Id=9906
+Nom=MERCONE
+Prenom=PASCALE
+DecesDate=08/01/2017
+CodeDft=9906
+End With
+With DEFUNT
+Id=9909
+Nom=MERCONE
+Prenom=PASCALE
+DecesDate=08/01/2017
+CodeDft=9909
+End With
+With DEFUNT
+Id=10714
+Nom=MERLE
+Prenom=ROGER
+DecesDate=27/04/2017
+CodeDft=10714
+End With
+With DEFUNT
+Id=11493
+Nom=MERLE
+Prenom=GEORGES
+DecesDate=29/08/2017
+CodeDft=11493
+End With
+With DEFUNT
+Id=11064
+Nom=MERLIER
+Prenom=BERNARD
+DecesDate=20/06/2017
+CodeDft=11064
+End With
+With DEFUNT
+Id=10921
+Nom=MERLIN
+Prenom=MICHEL
+DecesDate=29/05/2017
+CodeDft=10921
+End With
+With DEFUNT
+Id=10987
+Nom=MERMET
+Prenom=Albert
+DecesDate=09/06/2017
+CodeDft=10987
+End With
+With DEFUNT
+Id=10789
+Nom=MERMIER
+Prenom=HERVE
+DecesDate=09/05/2017
+CodeDft=10789
+End With
+With DEFUNT
+Id=10110
+Nom=MERMIN
+Prenom=JEANNINE
+DecesDate=28/01/2017
+CodeDft=10110
+End With
+With DEFUNT
+Id=10895
+Nom=MERMIN
+Prenom=PEARL
+DecesDate=26/05/2017
+CodeDft=10895
+End With
+With DEFUNT
+Id=10807
+Nom=MERMOZ
+Prenom=ROLAND
+DecesDate=11/05/2017
+CodeDft=10807
+End With
+With DEFUNT
+Id=11322
+Nom=MERZARIO
+Prenom=JEAN-PAUL
+DecesDate=24/07/2017
+CodeDft=11322
+End With
+With DEFUNT
+Id=11025
+Nom=MESERE
+Prenom=JACKIE
+DecesDate=13/06/2017
+CodeDft=11025
+End With
+With DEFUNT
+Id=10232
+Nom=MESPLARAU
+Prenom=PIERRE
+DecesDate=11/02/2017
+CodeDft=10232
+End With
+With DEFUNT
+Id=11110
+Nom=MESSE
+Prenom=LUCIENNE
+DecesDate=28/06/2017
+CodeDft=11110
+End With
+With DEFUNT
+Id=9904
+Nom=MESSELEF
+Prenom=ZOHRA
+DecesDate=09/01/2017
+CodeDft=9904
+End With
+With DEFUNT
+Id=9905
+Nom=MESSELEF
+Prenom=ZOHRA
+DecesDate=09/01/2017
+CodeDft=9905
+End With
+With DEFUNT
+Id=9929
+Nom=METRAL
+Prenom=JEAN
+DecesDate=05/01/2017
+CodeDft=9929
+End With
+With DEFUNT
+Id=11122
+Nom=MEUNIER
+Prenom=PAUL
+DecesDate=30/06/2017
+CodeDft=11122
+End With
+With DEFUNT
+Id=11268
+Nom=MICHARD
+Prenom=LUCIENNE
+DecesDate=25/07/2017
+CodeDft=11268
+End With
+With DEFUNT
+Id=11348
+Nom=MICHEL
+Prenom=ALAIN
+DecesDate=05/08/2017
+CodeDft=11348
+End With
+With DEFUNT
+Id=10369
+Nom=MICHEL 
+Prenom=ALAIN
+DecesDate=05/03/2017
+CodeDft=10369
+End With
+With DEFUNT
+Id=10422
+Nom=MICHELI
+Prenom=JEAN BAPTISTE
+DecesDate=12/03/2017
+CodeDft=10422
+End With
+With DEFUNT
+Id=11382
+Nom=MICHELLIER
+Prenom=JEAN
+DecesDate=12/08/2017
+CodeDft=11382
+End With
+With DEFUNT
+Id=11138
+Nom=MICHELON
+Prenom=ALAIN
+DecesDate=04/07/2017
+CodeDft=11138
+End With
+With DEFUNT
+Id=10314
+Nom=MICONO
+Prenom=MADELEINE
+DecesDate=25/02/2017
+CodeDft=10314
+End With
+With DEFUNT
+Id=10954
+Nom=MIEGE
+Prenom=GILBERT
+DecesDate=06/06/2017
+CodeDft=10954
+End With
+With DEFUNT
+Id=11235
+Nom=MIEGE
+Prenom=JEAN LOUIS
+DecesDate=18/07/2017
+CodeDft=11235
+End With
+With DEFUNT
+Id=9918
+Nom=MIEGE
+Prenom=JOSEPH
+DecesDate=/  /
+CodeDft=9918
+End With
+With DEFUNT
+Id=11619
+Nom=MIGNON
+Prenom=EVELYNE
+DecesDate=17/09/2017
+CodeDft=11619
+End With
+With DEFUNT
+Id=11601
+Nom=MIKHEEVA
+Prenom=TATIANA
+DecesDate=14/09/2017
+CodeDft=11601
+End With
+With DEFUNT
+Id=11572
+Nom=MIKULEC
+Prenom=MARIE
+DecesDate=09/09/2017
+CodeDft=11572
+End With
+With DEFUNT
+Id=10924
+Nom=MILETO
+Prenom=MARTINE
+DecesDate=31/05/2017
+CodeDft=10924
+End With
+With DEFUNT
+Id=10811
+Nom=MILLERA FERRIZ
+Prenom=JUAN
+DecesDate=11/05/2017
+CodeDft=10811
+End With
+With DEFUNT
+Id=10318
+Nom=MILLERET
+Prenom=PIERRE
+DecesDate=25/02/2017
+CodeDft=10318
+End With
+With DEFUNT
+Id=11518
+Nom=MILLET
+Prenom=MARCELLE
+DecesDate=31/08/2017
+CodeDft=11518
+End With
+With DEFUNT
+Id=11075
+Nom=MILLION-BRODAZ
+Prenom=LAURENT
+DecesDate=24/06/2017
+CodeDft=11075
+End With
+With DEFUNT
+Id=10624
+Nom=MILLON
+Prenom=MAGALI
+DecesDate=12/04/2017
+CodeDft=10624
+End With
+With DEFUNT
+Id=11661
+Nom=MILONE
+Prenom=SUZANNE
+DecesDate=22/09/2017
+CodeDft=11661
+End With
+With DEFUNT
+Id=10970
+Nom=MINETTI-VEIA
+Prenom=MARC
+DecesDate=08/06/2017
+CodeDft=10970
+End With
+With DEFUNT
+Id=10073
+Nom=MIQUET
+Prenom=GERMAINE
+DecesDate=25/01/2017
+CodeDft=10073
+End With
+With DEFUNT
+Id=10764
+Nom=MIROLO
+Prenom=GINO
+DecesDate=05/05/2017
+CodeDft=10764
+End With
+With DEFUNT
+Id=10874
+Nom=MISTRAL
+Prenom=GREGORY
+DecesDate=20/05/2017
+CodeDft=10874
+End With
+With DEFUNT
+Id=11315
+Nom=MITEV
+Prenom=DIMITAR
+DecesDate=/  /
+CodeDft=11315
+End With
+With DEFUNT
+Id=9863
+Nom=MOCELLIN
+Prenom=MADELEINE
+DecesDate=03/01/2017
+CodeDft=9863
+End With
+With DEFUNT
+Id=10230
+Nom=MOLES-POIX
+Prenom=HORTENCE
+DecesDate=11/02/2017
+CodeDft=10230
+End With
+With DEFUNT
+Id=11278
+Nom=MOLINIER
+Prenom=RENE
+DecesDate=26/07/2017
+CodeDft=11278
+End With
+With DEFUNT
+Id=10411
+Nom=MOLLARD
+Prenom=MARCEL
+DecesDate=10/03/2017
+CodeDft=10411
+End With
+With DEFUNT
+Id=9953
+Nom=MOLLIEX GOZE
+Prenom=JEANNETTE
+DecesDate=13/01/2017
+CodeDft=9953
+End With
+With DEFUNT
+Id=10121
+Nom=MOLLIEX-DONJON
+Prenom=MARCEL
+DecesDate=30/01/2017
+CodeDft=10121
+End With
+With DEFUNT
+Id=11492
+Nom=MONCEAUX
+Prenom=HENRI
+DecesDate=28/08/2017
+CodeDft=11492
+End With
+With DEFUNT
+Id=10559
+Nom=MONICO
+Prenom=JACQUES
+DecesDate=03/04/2017
+CodeDft=10559
+End With
+With DEFUNT
+Id=10360
+Nom=MONIN
+Prenom=MARCEL
+DecesDate=04/03/2017
+CodeDft=10360
+End With
+With DEFUNT
+Id=11260
+Nom=MONIN
+Prenom=GISELE
+DecesDate=22/07/2017
+CodeDft=11260
+End With
+With DEFUNT
+Id=10626
+Nom=MONNIEZ
+Prenom=MARCEL
+DecesDate=13/04/2017
+CodeDft=10626
+End With
+With DEFUNT
+Id=10946
+Nom=MONOD
+Prenom=PAULINE
+DecesDate=04/06/2017
+CodeDft=10946
+End With
+With DEFUNT
+Id=10586
+Nom=MONTAGNE
+Prenom=IRENE
+DecesDate=08/04/2017
+CodeDft=10586
+End With
+With DEFUNT
+Id=10737
+Nom=MONTET
+Prenom=GILBERT
+DecesDate=30/04/2017
+CodeDft=10737
+End With
+With DEFUNT
+Id=10918
+Nom=MONTET
+Prenom=ADRIEN
+DecesDate=30/05/2017
+CodeDft=10918
+End With
+With DEFUNT
+Id=10773
+Nom=MONTIER
+Prenom=CATHERINE
+DecesDate=27/05/2017
+CodeDft=10773
+End With
+With DEFUNT
+Id=10095
+Nom=MONTMAYEUR
+Prenom=EDITH
+DecesDate=26/01/2017
+CodeDft=10095
+End With
+With DEFUNT
+Id=11209
+Nom=MONTMAYEUR
+Prenom=FABIEN
+DecesDate=15/07/2017
+CodeDft=11209
+End With
+With DEFUNT
+Id=9882
+Nom=MONTMAYEUR
+Prenom=ERIC
+DecesDate=06/01/2017
+CodeDft=9882
+End With
+With DEFUNT
+Id=10450
+Nom=MONTURY
+Prenom=MARY REJANE
+DecesDate=18/03/2017
+CodeDft=10450
+End With
+With DEFUNT
+Id=11266
+Nom=MOQUET
+Prenom=ANDRE
+DecesDate=24/07/2017
+CodeDft=11266
+End With
+With DEFUNT
+Id=10204
+Nom=MORET
+Prenom=PAUL
+DecesDate=09/02/2017
+CodeDft=10204
+End With
+With DEFUNT
+Id=11157
+Nom=MORGILLO
+Prenom=DOMINIQUE
+DecesDate=06/07/2017
+CodeDft=11157
+End With
+With DEFUNT
+Id=11052
+Nom=MORIN
+Prenom=LOUISE
+DecesDate=20/06/2017
+CodeDft=11052
+End With
+With DEFUNT
+Id=10971
+Nom=MORRO
+Prenom=GABRIEL
+DecesDate=08/06/2017
+CodeDft=10971
+End With
+With DEFUNT
+Id=10644
+Nom=MOSELE
+Prenom=JEAN BAPTISTE
+DecesDate=15/04/2017
+CodeDft=10644
+End With
+With DEFUNT
+Id=10036
+Nom=MOSER
+Prenom=ATTILIO
+DecesDate=19/01/2017
+CodeDft=10036
+End With
+With DEFUNT
+Id=10165
+Nom=MOTELEY
+Prenom=MADELEINE
+DecesDate=02/02/2017
+CodeDft=10165
+End With
+With DEFUNT
+Id=11480
+Nom=MOTHERE
+Prenom=GEORGES
+DecesDate=28/08/2017
+CodeDft=11480
+End With
+With DEFUNT
+Id=9820
+Nom=MOTHION
+Prenom=ALAIN
+DecesDate=01/01/2017
+CodeDft=9820
+End With
+With DEFUNT
+Id=11191
+Nom=MOTTE
+Prenom=NORBERT
+DecesDate=11/07/2017
+CodeDft=11191
+End With
+With DEFUNT
+Id=10151
+Nom=MOUTON
+Prenom=PASCAL
+DecesDate=25/01/2017
+CodeDft=10151
+End With
+With DEFUNT
+Id=11709
+Nom=MOUZAOUI
+Prenom=MARGUERITE
+DecesDate=29/09/2017
+CodeDft=11709
+End With
+With DEFUNT
+Id=10922
+Nom=MOYROUD
+Prenom=SIMONE
+DecesDate=30/05/2017
+CodeDft=10922
+End With
+With DEFUNT
+Id=10116
+Nom=MUGNIER
+Prenom=REGINE
+DecesDate=29/01/2017
+CodeDft=10116
+End With
+With DEFUNT
+Id=10930
+Nom=MUGNIER
+Prenom=GISELE
+DecesDate=31/05/2017
+CodeDft=10930
+End With
+With DEFUNT
+Id=10584
+Nom=MULLER
+Prenom=SUZANNE
+DecesDate=05/04/2017
+CodeDft=10584
+End With
+With DEFUNT
+Id=10497
+Nom=MURAT
+Prenom=ANDREE
+DecesDate=25/03/2017
+CodeDft=10497
+End With
+With DEFUNT
+Id=11131
+Nom=MUSCAT
+Prenom=MARIE-CHRISTINE
+DecesDate=02/07/2017
+CodeDft=11131
+End With
+With DEFUNT
+Id=11451
+Nom=MUSSIO
+Prenom=SERGE
+DecesDate=23/08/2017
+CodeDft=11451
+End With
+With DEFUNT
+Id=10103
+Nom=NABOULET
+Prenom=FREDERIQUE
+DecesDate=27/01/2017
+CodeDft=10103
+End With
+With DEFUNT
+Id=10065
+Nom=NARDINI
+Prenom=FRANCOISE
+DecesDate=23/01/2017
+CodeDft=10065
+End With
+With DEFUNT
+Id=10452
+Nom=NEBOUT
+Prenom=MURIEL
+DecesDate=17/03/2017
+CodeDft=10452
+End With
+With DEFUNT
+Id=11590
+Nom=NERINI
+Prenom=CHRISTIAN
+DecesDate=12/09/2017
+CodeDft=11590
+End With
+With DEFUNT
+Id=11608
+Nom=NERVA
+Prenom=JEAN
+DecesDate=14/09/2017
+CodeDft=11608
+End With
+With DEFUNT
+Id=10552
+Nom=NEVE
+Prenom=BEATRICE
+DecesDate=02/04/2017
+CodeDft=10552
+End With
+With DEFUNT
+Id=9945
+Nom=NEYRET
+Prenom=MARIE-THERESE
+DecesDate=13/01/2017
+CodeDft=9945
+End With
+With DEFUNT
+Id=11317
+Nom=NICASTRO
+Prenom=GASPARE
+DecesDate=31/07/2017
+CodeDft=11317
+End With
+With DEFUNT
+Id=11611
+Nom=NICOLETTA
+Prenom=YVONNE
+DecesDate=15/09/2017
+CodeDft=11611
+End With
+With DEFUNT
+Id=10373
+Nom=NICOLIER
+Prenom=BERNARD
+DecesDate=06/03/2017
+CodeDft=10373
+End With
+With DEFUNT
+Id=11236
+Nom=NICOUD
+Prenom=RENE
+DecesDate=19/07/2017
+CodeDft=11236
+End With
+With DEFUNT
+Id=10410
+Nom=NICOULAUD
+Prenom=CHARLES
+DecesDate=10/03/2017
+CodeDft=10410
+End With
+With DEFUNT
+Id=10599
+Nom=NICOULEAU
+Prenom=GUY
+DecesDate=09/04/2017
+CodeDft=10599
+End With
+With DEFUNT
+Id=10263
+Nom=NOE
+Prenom=CLAUDE
+DecesDate=16/02/2017
+CodeDft=10263
+End With
+With DEFUNT
+Id=11434
+Nom=NOIRTIN
+Prenom=PHILIPPE
+DecesDate=18/08/2017
+CodeDft=11434
+End With
+With DEFUNT
+Id=11579
+Nom=NORAZ
+Prenom=JEAN-CLAUDE
+DecesDate=10/09/2017
+CodeDft=11579
+End With
+With DEFUNT
+Id=11222
+Nom=NORD
+Prenom=ROBERT
+DecesDate=16/07/2017
+CodeDft=11222
+End With
+With DEFUNT
+Id=10233
+Nom=NOYER
+Prenom=PAULETTE
+DecesDate=10/02/2017
+CodeDft=10233
+End With
+With DEFUNT
+Id=9831
+Nom=NOYER
+Prenom=HENRI
+DecesDate=31/12/2016
+CodeDft=9831
+End With
+With DEFUNT
+Id=10843
+Nom=OFFNER
+Prenom=YVONNE
+DecesDate=17/05/2017
+CodeDft=10843
+End With
+With DEFUNT
+Id=9808
+Nom=OFFREDI
+Prenom=ANTOINE
+DecesDate=31/12/2016
+CodeDft=9808
+End With
+With DEFUNT
+Id=10255
+Nom=OLIVIER
+Prenom=JULIA
+DecesDate=16/02/2017
+CodeDft=10255
+End With
+With DEFUNT
+Id=10312
+Nom=OLLIER
+Prenom=COLETTE
+DecesDate=24/02/2017
+CodeDft=10312
+End With
+With DEFUNT
+Id=10641
+Nom=OLLIER
+Prenom=AGNES
+DecesDate=13/04/2017
+CodeDft=10641
+End With
+With DEFUNT
+Id=10869
+Nom=OLLINET
+Prenom=LEON
+DecesDate=22/05/2017
+CodeDft=10869
+End With
+With DEFUNT
+Id=11626
+Nom=OLLINET
+Prenom=JOSEPH-
+DecesDate=17/09/2017
+CodeDft=11626
+End With
+With DEFUNT
+Id=10857
+Nom=OMONT
+Prenom=LAURENT
+DecesDate=19/05/2017
+CodeDft=10857
+End With
+With DEFUNT
+Id=11673
+Nom=ORSET
+Prenom=HENRI
+DecesDate=24/09/2017
+CodeDft=11673
+End With
+With DEFUNT
+Id=11274
+Nom=ORTEL
+Prenom=HELENE
+DecesDate=26/07/2017
+CodeDft=11274
+End With
+With DEFUNT
+Id=10548
+Nom=ORTOLLAND
+Prenom=GILBERTE
+DecesDate=02/04/2017
+CodeDft=10548
+End With
+With DEFUNT
+Id=11187
+Nom=OUSSATOFF
+Prenom=MARIE CLAIRE
+DecesDate=10/07/2017
+CodeDft=11187
+End With
+With DEFUNT
+Id=10611
+Nom=OUVRIER
+Prenom=YVES
+DecesDate=10/04/2017
+CodeDft=10611
+End With
+With DEFUNT
+Id=10458
+Nom=PACCALET
+Prenom=HENRI
+DecesDate=19/03/2017
+CodeDft=10458
+End With
+With DEFUNT
+Id=10470
+Nom=PACCALET
+Prenom=AUGUSTE
+DecesDate=19/03/2017
+CodeDft=10470
+End With
+With DEFUNT
+Id=10732
+Nom=PACHE
+Prenom=NICOLE
+DecesDate=01/05/2017
+CodeDft=10732
+End With
+With DEFUNT
+Id=10239
+Nom=PACHOD
+Prenom=MONIQUE
+DecesDate=14/02/2017
+CodeDft=10239
+End With
+With DEFUNT
+Id=10047
+Nom=PACHOUD
+Prenom=GILBERT
+DecesDate=22/01/2017
+CodeDft=10047
+End With
+With DEFUNT
+Id=11358
+Nom=PADEY
+Prenom=RENE
+DecesDate=07/08/2017
+CodeDft=11358
+End With
+With DEFUNT
+Id=9879
+Nom=PAFUNDI
+Prenom=EDWIGE
+DecesDate=05/01/2017
+CodeDft=9879
+End With
+With DEFUNT
+Id=11596
+Nom=PAIN
+Prenom=FELIX
+DecesDate=14/09/2017
+CodeDft=11596
+End With
+With DEFUNT
+Id=11178
+Nom=PAJEAN
+Prenom=MARIE-MICHELLE
+DecesDate=10/07/2017
+CodeDft=11178
+End With
+With DEFUNT
+Id=10616
+Nom=PALUDETTO
+Prenom=HECTOR
+DecesDate=11/04/2017
+CodeDft=10616
+End With
+With DEFUNT
+Id=10739
+Nom=PALY
+Prenom=ALAIN
+DecesDate=01/05/2017
+CodeDft=10739
+End With
+With DEFUNT
+Id=11707
+Nom=PAPILLARD
+Prenom=JACINTHE
+DecesDate=28/09/2017
+CodeDft=11707
+End With
+With DEFUNT
+Id=11221
+Nom=PAQUENTIN
+Prenom=MARCELLE
+DecesDate=16/07/2017
+CodeDft=11221
+End With
+With DEFUNT
+Id=11066
+Nom=PAQUET
+Prenom=GERARD
+DecesDate=22/06/2017
+CodeDft=11066
+End With
+With DEFUNT
+Id=10053
+Nom=PARAGE
+Prenom=GERARD
+DecesDate=22/01/2017
+CodeDft=10053
+End With
+With DEFUNT
+Id=9892
+Nom=PARAVY
+Prenom=CLAUDIA
+DecesDate=07/01/2017
+CodeDft=9892
+End With
+With DEFUNT
+Id=9910
+Nom=PARAVY
+Prenom=MARIE-ANTOINETTE
+DecesDate=09/01/2017
+CodeDft=9910
+End With
+With DEFUNT
+Id=10620
+Nom=PAROLINI
+Prenom=CHARLES
+DecesDate=11/04/2017
+CodeDft=10620
+End With
+With DEFUNT
+Id=10183
+Nom=PARPILLON -FIOLLET
+Prenom=CLAUDE
+DecesDate=05/02/2017
+CodeDft=10183
+End With
+With DEFUNT
+Id=10503
+Nom=PASCAL
+Prenom=MARCEL
+DecesDate=25/03/2017
+CodeDft=10503
+End With
+With DEFUNT
+Id=10661
+Nom=PASCAL
+Prenom=ANNE MARYSE
+DecesDate=18/04/2017
+CodeDft=10661
+End With
+With DEFUNT
+Id=10810
+Nom=PASCAL SUISSE
+Prenom=X
+DecesDate=17/04/2017
+CodeDft=10810
+End With
+With DEFUNT
+Id=10767
+Nom=PASCAL-GIROUD
+Prenom=LOUIS
+DecesDate=06/05/2017
+CodeDft=10767
+End With
+With DEFUNT
+Id=10621
+Nom=PASCOLO
+Prenom=ADELCHI
+DecesDate=11/04/2017
+CodeDft=10621
+End With
+With DEFUNT
+Id=10298
+Nom=PASQUIER
+Prenom=IRMA
+DecesDate=21/02/2017
+CodeDft=10298
+End With
+With DEFUNT
+Id=10741
+Nom=PASQUIER
+Prenom=JEANNE
+DecesDate=01/05/2017
+CodeDft=10741
+End With
+With DEFUNT
+Id=11602
+Nom=PASQUIER
+Prenom=CLOTILDE
+DecesDate=14/09/2017
+CodeDft=11602
+End With
+With DEFUNT
+Id=9814
+Nom=PASSANTE
+Prenom=GISELE
+DecesDate=31/12/2016
+CodeDft=9814
+End With
+With DEFUNT
+Id=10953
+Nom=PASTY
+Prenom=MARIE
+DecesDate=06/06/2017
+CodeDft=10953
+End With
+With DEFUNT
+Id=10630
+Nom=PATAT
+Prenom=MARIE-THERESE
+DecesDate=13/04/2017
+CodeDft=10630
+End With
+With DEFUNT
+Id=11133
+Nom=PATEBEX
+Prenom=MARC
+DecesDate=28/06/2017
+CodeDft=11133
+End With
+With DEFUNT
+Id=10657
+Nom=PAUGET
+Prenom=GABRIELLE
+DecesDate=17/04/2017
+CodeDft=10657
+End With
+With DEFUNT
+Id=11162
+Nom=PAULET
+Prenom=THERESIA
+DecesDate=07/07/2017
+CodeDft=11162
+End With
+With DEFUNT
+Id=10208
+Nom=PAVANETTO
+Prenom=CARMELLA
+DecesDate=10/02/2017
+CodeDft=10208
+End With
+With DEFUNT
+Id=11405
+Nom=PECHERAND-CHARMET
+Prenom=ROBERT
+DecesDate=16/08/2017
+CodeDft=11405
+End With
+With DEFUNT
+Id=10240
+Nom=PEDERSEN
+Prenom=SASSIA
+DecesDate=11/02/2017
+CodeDft=10240
+End With
+With DEFUNT
+Id=10249
+Nom=PEDERSEN
+Prenom=SASSIA
+DecesDate=11/02/2017
+CodeDft=10249
+End With
+With DEFUNT
+Id=10438
+Nom=PEISEY
+Prenom=LINA
+DecesDate=16/03/2017
+CodeDft=10438
+End With
+With DEFUNT
+Id=10246
+Nom=PELLARIN
+Prenom=ROLANDE
+DecesDate=14/02/2017
+CodeDft=10246
+End With
+With DEFUNT
+Id=11383
+Nom=PELLEREY
+Prenom=JEAN
+DecesDate=11/08/2017
+CodeDft=11383
+End With
+With DEFUNT
+Id=10349
+Nom=PELLET
+Prenom=BERNARD
+DecesDate=02/03/2017
+CodeDft=10349
+End With
+With DEFUNT
+Id=10880
+Nom=PELLISSIER
+Prenom=JEAN CLAUDE
+DecesDate=23/05/2017
+CodeDft=10880
+End With
+With DEFUNT
+Id=11193
+Nom=PELLISSIER
+Prenom=LAURENT
+DecesDate=12/07/2017
+CodeDft=11193
+End With
+With DEFUNT
+Id=10516
+Nom=PELLOUX
+Prenom=JOSEPH
+DecesDate=28/03/2017
+CodeDft=10516
+End With
+With DEFUNT
+Id=10080
+Nom=PELTIER
+Prenom=LOUISA
+DecesDate=25/01/2017
+CodeDft=10080
+End With
+With DEFUNT
+Id=11468
+Nom=PENOT
+Prenom=SUZANNE
+DecesDate=25/08/2017
+CodeDft=11468
+End With
+With DEFUNT
+Id=11077
+Nom=PEPIN
+Prenom=AIME
+DecesDate=24/06/2017
+CodeDft=11077
+End With
+With DEFUNT
+Id=10304
+Nom=PEPIN-DONAT
+Prenom=MARCEL
+DecesDate=23/02/2017
+CodeDft=10304
+End With
+With DEFUNT
+Id=10892
+Nom=PERBELLINI
+Prenom=HONORINE
+DecesDate=25/05/2017
+CodeDft=10892
+End With
+With DEFUNT
+Id=10109
+Nom=PERCEVAL
+Prenom=RENE
+DecesDate=27/01/2017
+CodeDft=10109
+End With
+With DEFUNT
+Id=11389
+Nom=PEREIRA
+Prenom=MILA
+DecesDate=11/08/2017
+CodeDft=11389
+End With
+With DEFUNT
+Id=10595
+Nom=PERESSON
+Prenom=DARIO
+DecesDate=08/04/2017
+CodeDft=10595
+End With
+With DEFUNT
+Id=11588
+Nom=PEREZ-GONZALEZ
+Prenom=MARIA DEL CARMEN
+DecesDate=12/09/2017
+CodeDft=11588
+End With
+With DEFUNT
+Id=10035
+Nom=PERIVOLAS
+Prenom=CLAIRE
+DecesDate=19/01/2017
+CodeDft=10035
+End With
+With DEFUNT
+Id=10535
+Nom=PERMEZEL
+Prenom=OLIVIER
+DecesDate=31/03/2017
+CodeDft=10535
+End With
+With DEFUNT
+Id=11117
+Nom=PERNET
+Prenom=ANDRE
+DecesDate=30/06/2017
+CodeDft=11117
+End With
+With DEFUNT
+Id=10040
+Nom=PERNOUD
+Prenom=RAYMOND
+DecesDate=20/01/2017
+CodeDft=10040
+End With
+With DEFUNT
+Id=10359
+Nom=PERONNIER
+Prenom=DENISE
+DecesDate=04/03/2017
+CodeDft=10359
+End With
+With DEFUNT
+Id=10236
+Nom=PERRET
+Prenom=PROSPER
+DecesDate=13/02/2017
+CodeDft=10236
+End With
+With DEFUNT
+Id=10589
+Nom=PERRET
+Prenom=ANDRE
+DecesDate=08/04/2017
+CodeDft=10589
+End With
+With DEFUNT
+Id=10677
+Nom=PERRET
+Prenom=ANDRE
+DecesDate=21/04/2017
+CodeDft=10677
+End With
+With DEFUNT
+Id=11019
+Nom=PERRET
+Prenom=PAUL
+DecesDate=14/06/2017
+CodeDft=11019
+End With
+With DEFUNT
+Id=11147
+Nom=PERRET
+Prenom=ARMAND
+DecesDate=05/07/2017
+CodeDft=11147
+End With
+With DEFUNT
+Id=10010
+Nom=PERRIER
+Prenom=MARCELLE
+DecesDate=19/01/2017
+CodeDft=10010
+End With
+With DEFUNT
+Id=10320
+Nom=PERRIER
+Prenom=MARIE EMILIE
+DecesDate=25/02/2017
+CodeDft=10320
+End With
+With DEFUNT
+Id=10613
+Nom=PERRIER
+Prenom=GEORGES
+DecesDate=10/04/2017
+CodeDft=10613
+End With
+With DEFUNT
+Id=10658
+Nom=PERRIER
+Prenom=ANDRE
+DecesDate=18/04/2017
+CodeDft=10658
+End With
+With DEFUNT
+Id=10143
+Nom=PERRIN-COCON
+Prenom=MARC
+DecesDate=01/02/2017
+CodeDft=10143
+End With
+With DEFUNT
+Id=11711
+Nom=PERROT
+Prenom=JEAN CLAUDE
+DecesDate=28/09/2017
+CodeDft=11711
+End With
+With DEFUNT
+Id=10294
+Nom=PERROUX
+Prenom=HENRI
+DecesDate=20/02/2017
+CodeDft=10294
+End With
+With DEFUNT
+Id=11665
+Nom=PERRUISSET
+Prenom=DANIELLE
+DecesDate=22/09/2017
+CodeDft=11665
+End With
+With DEFUNT
+Id=11234
+Nom=PERRUS
+Prenom=FERNAND
+DecesDate=18/07/2017
+CodeDft=11234
+End With
+With DEFUNT
+Id=11477
+Nom=PETEX
+Prenom=SYLVIE
+DecesDate=27/08/2017
+CodeDft=11477
+End With
+With DEFUNT
+Id=10119
+Nom=PETIT
+Prenom=JEANNE
+DecesDate=30/01/2017
+CodeDft=10119
+End With
+With DEFUNT
+Id=10344
+Nom=PETIT
+Prenom=ELISABETH
+DecesDate=01/03/2017
+CodeDft=10344
+End With
+With DEFUNT
+Id=10768
+Nom=PETIT
+Prenom=JEAN
+DecesDate=06/05/2017
+CodeDft=10768
+End With
+With DEFUNT
+Id=11035
+Nom=PETIT
+Prenom=LOUIS
+DecesDate=14/06/2017
+CodeDft=11035
+End With
+With DEFUNT
+Id=11583
+Nom=PETIT
+Prenom=HERVE
+DecesDate=11/09/2017
+CodeDft=11583
+End With
+With DEFUNT
+Id=9951
+Nom=PETIT
+Prenom=JOEL
+DecesDate=13/01/2017
+CodeDft=9951
+End With
+With DEFUNT
+Id=10262
+Nom=PETITE
+Prenom=MARIE-CLAUDE
+DecesDate=16/02/2017
+CodeDft=10262
+End With
+With DEFUNT
+Id=11361
+Nom=PETITJEAN
+Prenom=PAULETTE
+DecesDate=08/08/2017
+CodeDft=11361
+End With
+With DEFUNT
+Id=10607
+Nom=PETRACIN
+Prenom=JEANNE
+DecesDate=11/04/2017
+CodeDft=10607
+End With
+With DEFUNT
+Id=11452
+Nom=PEYLIN
+Prenom=MICHEL
+DecesDate=22/08/2017
+CodeDft=11452
+End With
+With DEFUNT
+Id=10949
+Nom=PEYRES
+Prenom=GUY
+DecesDate=04/06/2017
+CodeDft=10949
+End With
+With DEFUNT
+Id=10180
+Nom=PHILIBERT
+Prenom=SABINE
+DecesDate=04/02/2017
+CodeDft=10180
+End With
+With DEFUNT
+Id=11498
+Nom=PHILIBERT
+Prenom=SUZANNE
+DecesDate=28/08/2017
+CodeDft=11498
+End With
+With DEFUNT
+Id=10758
+Nom=PHILIPPET
+Prenom=JACQUES
+DecesDate=03/05/2017
+CodeDft=10758
+End With
+With DEFUNT
+Id=11591
+Nom=PICCATO 
+Prenom=JEAN
+DecesDate=12/09/2017
+CodeDft=11591
+End With
+With DEFUNT
+Id=10403
+Nom=PICCOLLET
+Prenom=YVETTE
+DecesDate=10/03/2017
+CodeDft=10403
+End With
+With DEFUNT
+Id=10126
+Nom=PICHOL-THIEVEND
+Prenom=BERNARD
+DecesDate=30/01/2017
+CodeDft=10126
+End With
+With DEFUNT
+Id=10743
+Nom=PICHON
+Prenom=JEANNINE
+DecesDate=30/04/2017
+CodeDft=10743
+End With
+With DEFUNT
+Id=10404
+Nom=PICOLLET
+Prenom=YVETTE
+DecesDate=11/03/2017
+CodeDft=10404
+End With
+With DEFUNT
+Id=10133
+Nom=PICTON
+Prenom=EUGENIE
+DecesDate=31/01/2017
+CodeDft=10133
+End With
+With DEFUNT
+Id=9983
+Nom=PICTON
+Prenom=ALICE
+DecesDate=16/01/2017
+CodeDft=9983
+End With
+With DEFUNT
+Id=10004
+Nom=PIGNOL
+Prenom=ANDRE
+DecesDate=17/01/2017
+CodeDft=10004
+End With
+With DEFUNT
+Id=10250
+Nom=PILLAT
+Prenom=JOSEPHINE
+DecesDate=15/02/2017
+CodeDft=10250
+End With
+With DEFUNT
+Id=10337
+Nom=PILLET
+Prenom=CLAUDETTE
+DecesDate=27/02/2017
+CodeDft=10337
+End With
+With DEFUNT
+Id=10887
+Nom=PILLET
+Prenom=ALICE
+DecesDate=24/05/2017
+CodeDft=10887
+End With
+With DEFUNT
+Id=11642
+Nom=PILLET
+Prenom=AUGUSTA
+DecesDate=20/09/2017
+CodeDft=11642
+End With
+With DEFUNT
+Id=10982
+Nom=PILLON
+Prenom=GEORGES
+DecesDate=09/06/2017
+CodeDft=10982
+End With
+With DEFUNT
+Id=11409
+Nom=PINAL
+Prenom=JACQUELINE
+DecesDate=16/08/2017
+CodeDft=11409
+End With
+With DEFUNT
+Id=11508
+Nom=PINGEON
+Prenom=JEAN
+DecesDate=29/08/2017
+CodeDft=11508
+End With
+With DEFUNT
+Id=10850
+Nom=PINOL
+Prenom=MARIE THERESE
+DecesDate=18/05/2017
+CodeDft=10850
+End With
+With DEFUNT
+Id=11550
+Nom=PIONCHON
+Prenom=LOUISE
+DecesDate=05/09/2017
+CodeDft=11550
+End With
+With DEFUNT
+Id=9942
+Nom=PIROT
+Prenom=JAQUELINE
+DecesDate=12/01/2017
+CodeDft=9942
+End With
+With DEFUNT
+Id=10013
+Nom=PITICCO
+Prenom=ROSA
+DecesDate=18/01/2017
+CodeDft=10013
+End With
+With DEFUNT
+Id=10499
+Nom=PITTION
+Prenom=JACKY
+DecesDate=26/03/2017
+CodeDft=10499
+End With
+With DEFUNT
+Id=11506
+Nom=PITTIOT
+Prenom=ROGER
+DecesDate=29/08/2017
+CodeDft=11506
+End With
+With DEFUNT
+Id=11313
+Nom=PLAISANCE
+Prenom=YVES
+DecesDate=30/07/2017
+CodeDft=11313
+End With
+With DEFUNT
+Id=11363
+Nom=PLAISANCE
+Prenom=SEBASTIEN
+DecesDate=07/08/2017
+CodeDft=11363
+End With
+With DEFUNT
+Id=11445
+Nom=PLAISANCE
+Prenom=NELLY
+DecesDate=22/08/2017
+CodeDft=11445
+End With
+With DEFUNT
+Id=11205
+Nom=PLANCHAT
+Prenom=JEAN
+DecesDate=14/07/2017
+CodeDft=11205
+End With
+With DEFUNT
+Id=10606
+Nom=PLASSIARD
+Prenom=GUY
+DecesDate=11/04/2017
+CodeDft=10606
+End With
+With DEFUNT
+Id=10144
+Nom=POCARD
+Prenom=JEAN
+DecesDate=01/02/2017
+CodeDft=10144
+End With
+With DEFUNT
+Id=10512
+Nom=POCCARD
+Prenom=JEAN
+DecesDate=28/03/2017
+CodeDft=10512
+End With
+With DEFUNT
+Id=11144
+Nom=POENSIN
+Prenom=MICHEL
+DecesDate=/  /
+CodeDft=11144
+End With
+With DEFUNT
+Id=11207
+Nom=POINGT
+Prenom=DELPHIN
+DecesDate=14/07/2017
+CodeDft=11207
+End With
+With DEFUNT
+Id=11392
+Nom=POINT
+Prenom=CLAUDIA
+DecesDate=13/08/2017
+CodeDft=11392
+End With
+With DEFUNT
+Id=10164
+Nom=POIRIER
+Prenom=ARMEL
+DecesDate=08/02/2017
+CodeDft=10164
+End With
+With DEFUNT
+Id=10528
+Nom=POISARD
+Prenom=MICHEL
+DecesDate=30/03/2017
+CodeDft=10528
+End With
+With DEFUNT
+Id=10371
+Nom=POISSON
+Prenom=DENISE
+DecesDate=06/03/2017
+CodeDft=10371
+End With
+With DEFUNT
+Id=10374
+Nom=POISSON
+Prenom=DENISE
+DecesDate=06/03/2017
+CodeDft=10374
+End With
+With DEFUNT
+Id=11334
+Nom=POLIO
+Prenom=DOMINIQUE
+DecesDate=02/08/2017
+CodeDft=11334
+End With
+With DEFUNT
+Id=10085
+Nom=POLLIER
+Prenom=NOELLIE
+DecesDate=25/01/2017
+CodeDft=10085
+End With
+With DEFUNT
+Id=9812
+Nom=POLLIER
+Prenom=MARIE LOUISE
+DecesDate=31/12/2016
+CodeDft=9812
+End With
+With DEFUNT
+Id=10670
+Nom=POMMIER
+Prenom=DANIEL
+DecesDate=19/04/2017
+CodeDft=10670
+End With
+With DEFUNT
+Id=10573
+Nom=PONCET
+Prenom=MICHELLE
+DecesDate=05/04/2017
+CodeDft=10573
+End With
+With DEFUNT
+Id=10713
+Nom=PONCET
+Prenom=PIERRE
+DecesDate=27/04/2017
+CodeDft=10713
+End With
+With DEFUNT
+Id=9940
+Nom=PONCET
+Prenom=HUGUETTE
+DecesDate=12/01/2017
+CodeDft=9940
+End With
+With DEFUNT
+Id=11519
+Nom=PONDRUEL
+Prenom=HUBERT
+DecesDate=31/08/2017
+CodeDft=11519
+End With
+With DEFUNT
+Id=10455
+Nom=PONT
+Prenom=PIERRE
+DecesDate=19/03/2017
+CodeDft=10455
+End With
+With DEFUNT
+Id=10855
+Nom=POPIEUL
+Prenom=DANIEL
+DecesDate=16/05/2017
+CodeDft=10855
+End With
+With DEFUNT
+Id=11360
+Nom=PORTIER
+Prenom=ANDRE
+DecesDate=/  /
+CodeDft=11360
+End With
+With DEFUNT
+Id=9911
+Nom=PORTUGAL
+Prenom=RAYMONDE
+DecesDate=09/01/2017
+CodeDft=9911
+End With
+With DEFUNT
+Id=11194
+Nom=POSTIGO
+Prenom=MANUEL
+DecesDate=11/07/2017
+CodeDft=11194
+End With
+With DEFUNT
+Id=11232
+Nom=POTIGNON
+Prenom=RAYMOND
+DecesDate=18/07/2017
+CodeDft=11232
+End With
+With DEFUNT
+Id=11062
+Nom=POUGETOUX
+Prenom=MARIE
+DecesDate=22/06/2017
+CodeDft=11062
+End With
+With DEFUNT
+Id=9870
+Nom=POULAIN
+Prenom=JOSIANE
+DecesDate=05/01/2017
+CodeDft=9870
+End With
+With DEFUNT
+Id=11511
+Nom=POULIN
+Prenom=LAURENT
+DecesDate=29/08/2017
+CodeDft=11511
+End With
+With DEFUNT
+Id=11219
+Nom=PRABLANC
+Prenom=DANIEL
+DecesDate=16/07/2017
+CodeDft=11219
+End With
+With DEFUNT
+Id=10944
+Nom=PRAIRE
+Prenom=RAYMOND
+DecesDate=04/06/2017
+CodeDft=10944
+End With
+With DEFUNT
+Id=10031
+Nom=PRANDINI
+Prenom=MARIE JEANNE
+DecesDate=19/01/2017
+CodeDft=10031
+End With
+With DEFUNT
+Id=10118
+Nom=PRANDINI
+Prenom=NICOLE
+DecesDate=29/01/2017
+CodeDft=10118
+End With
+With DEFUNT
+Id=10704
+Nom=PRIGENT
+Prenom=ALAIN
+DecesDate=25/04/2017
+CodeDft=10704
+End With
+With DEFUNT
+Id=11657
+Nom=PRIQUELER
+Prenom=MONIQUE
+DecesDate=21/09/2017
+CodeDft=11657
+End With
+With DEFUNT
+Id=10521
+Nom=PROCACCINI
+Prenom=CHRISTIANE
+DecesDate=29/03/2017
+CodeDft=10521
+End With
+With DEFUNT
+Id=10831
+Nom=PROFUMO
+Prenom=JEAN PIERRE
+DecesDate=14/05/2017
+CodeDft=10831
+End With
+With DEFUNT
+Id=10832
+Nom=PROFUMO
+Prenom=JEAN-PIERRE
+DecesDate=14/05/2017
+CodeDft=10832
+End With
+With DEFUNT
+Id=11478
+Nom=PROVENT
+Prenom=ANDRE
+DecesDate=28/08/2017
+CodeDft=11478
+End With
+With DEFUNT
+Id=11708
+Nom=PROVENT
+Prenom=MARIE LINE
+DecesDate=29/09/2017
+CodeDft=11708
+End With
+With DEFUNT
+Id=11491
+Nom=PSZYBYLA
+Prenom=DENISE
+DecesDate=29/08/2017
+CodeDft=11491
+End With
+With DEFUNT
+Id=10885
+Nom=PUGEAT
+Prenom=YVES
+DecesDate=23/05/2017
+CodeDft=10885
+End With
+With DEFUNT
+Id=10237
+Nom=PUTALLAZ
+Prenom=ANTOINE
+DecesDate=31/01/2017
+CodeDft=10237
+End With
+With DEFUNT
+Id=10135
+Nom=PY
+Prenom=ROGER
+DecesDate=30/01/2017
+CodeDft=10135
+End With
+With DEFUNT
+Id=11043
+Nom=PYTHON
+Prenom=PATRICE
+DecesDate=19/06/2017
+CodeDft=11043
+End With
+With DEFUNT
+Id=10251
+Nom=QUAY
+Prenom=RENE
+DecesDate=15/02/2017
+CodeDft=10251
+End With
+With DEFUNT
+Id=10389
+Nom=QUENARD
+Prenom=JEAN PIERRE
+DecesDate=07/03/2017
+CodeDft=10389
+End With
+With DEFUNT
+Id=9864
+Nom=QUENARD
+Prenom=JEAN
+DecesDate=04/01/2017
+CodeDft=9864
+End With
+With DEFUNT
+Id=11108
+Nom=QUILLON
+Prenom=MARTINE
+DecesDate=28/06/2017
+CodeDft=11108
+End With
+With DEFUNT
+Id=10387
+Nom=RACT
+Prenom=JEAN
+DecesDate=07/03/2017
+CodeDft=10387
+End With
+With DEFUNT
+Id=11699
+Nom=RAFFIN
+Prenom=MARIE LOUISE
+DecesDate=28/09/2017
+CodeDft=11699
+End With
+With DEFUNT
+Id=10130
+Nom=RAGE
+Prenom=JACQUES
+DecesDate=30/01/2017
+CodeDft=10130
+End With
+With DEFUNT
+Id=11534
+Nom=RAIA
+Prenom=LUIGI
+DecesDate=02/09/2017
+CodeDft=11534
+End With
+With DEFUNT
+Id=10030
+Nom=RAKOTOBE
+Prenom=REMI
+DecesDate=20/01/2017
+CodeDft=10030
+End With
+With DEFUNT
+Id=10813
+Nom=RAMEL
+Prenom=MARIE-PAULETTE
+DecesDate=12/05/2017
+CodeDft=10813
+End With
+With DEFUNT
+Id=10069
+Nom=RAMS
+Prenom=THOMAS
+DecesDate=21/01/2017
+CodeDft=10069
+End With
+With DEFUNT
+Id=10091
+Nom=RAMUSAT
+Prenom=EDMOND
+DecesDate=/  /
+CodeDft=10091
+End With
+With DEFUNT
+Id=10794
+Nom=RASTELLO
+Prenom=JEAN-JACQUES
+DecesDate=09/05/2017
+CodeDft=10794
+End With
+With DEFUNT
+Id=10213
+Nom=RAT PATRON
+Prenom=GEORGES
+DecesDate=11/02/2017
+CodeDft=10213
+End With
+With DEFUNT
+Id=11195
+Nom=RATEL
+Prenom=EMILE
+DecesDate=12/07/2017
+CodeDft=11195
+End With
+With DEFUNT
+Id=11305
+Nom=RATEL
+Prenom=GILLES
+DecesDate=29/07/2017
+CodeDft=11305
+End With
+With DEFUNT
+Id=10381
+Nom=RATTIN
+Prenom=GERARD
+DecesDate=07/03/2017
+CodeDft=10381
+End With
+With DEFUNT
+Id=10382
+Nom=RATTIN
+Prenom=GERARD
+DecesDate=07/03/2017
+CodeDft=10382
+End With
+With DEFUNT
+Id=10763
+Nom=RAUDET
+Prenom=GEORGETTE
+DecesDate=05/05/2017
+CodeDft=10763
+End With
+With DEFUNT
+Id=10287
+Nom=RAVIER
+Prenom=CHARLES
+DecesDate=18/02/2017
+CodeDft=10287
+End With
+With DEFUNT
+Id=10445
+Nom=RAVIER
+Prenom=GERMAINE
+DecesDate=17/03/2017
+CodeDft=10445
+End With
+With DEFUNT
+Id=11339
+Nom=RAVIER
+Prenom=GERARD
+DecesDate=02/08/2017
+CodeDft=11339
+End With
+With DEFUNT
+Id=11530
+Nom=RAVIER
+Prenom=DANIELLE
+DecesDate=01/09/2017
+CodeDft=11530
+End With
+With DEFUNT
+Id=10765
+Nom=RAVOIRE
+Prenom=ANNA
+DecesDate=05/05/2017
+CodeDft=10765
+End With
+With DEFUNT
+Id=11564
+Nom=RAVOIRE
+Prenom=GILLES
+DecesDate=07/09/2017
+CodeDft=11564
+End With
+With DEFUNT
+Id=11566
+Nom=RAVOIRE
+Prenom=GILLES
+DecesDate=07/09/2017
+CodeDft=11566
+End With
+With DEFUNT
+Id=10827
+Nom=RAYMOND DIT GAILLARD
+Prenom=CAMILLE
+DecesDate=14/05/2017
+CodeDft=10827
+End With
+With DEFUNT
+Id=9873
+Nom=REBATET
+Prenom=RENE
+DecesDate=05/01/2017
+CodeDft=9873
+End With
+With DEFUNT
+Id=10342
+Nom=REBOTON
+Prenom=JACQUES
+DecesDate=01/03/2017
+CodeDft=10342
+End With
+With DEFUNT
+Id=10178
+Nom=REBOURCET
+Prenom=SUZANNE
+DecesDate=04/02/2017
+CodeDft=10178
+End With
+With DEFUNT
+Id=10706
+Nom=RECCO
+Prenom=MARIA  LOUISA
+DecesDate=25/04/2017
+CodeDft=10706
+End With
+With DEFUNT
+Id=11241
+Nom=REFFET
+Prenom=GUY
+DecesDate=20/07/2017
+CodeDft=11241
+End With
+With DEFUNT
+Id=10193
+Nom=REGAIRAZ
+Prenom=GILBERT
+DecesDate=08/02/2017
+CodeDft=10193
+End With
+With DEFUNT
+Id=10248
+Nom=REGAZZONI
+Prenom=ISABELLE
+DecesDate=14/02/2017
+CodeDft=10248
+End With
+With DEFUNT
+Id=11410
+Nom=REGOTTAZ
+Prenom=MAURICE
+DecesDate=16/08/2017
+CodeDft=11410
+End With
+With DEFUNT
+Id=11276
+Nom=REMOLIF
+Prenom=MICHEL
+DecesDate=27/07/2017
+CodeDft=11276
+End With
+With DEFUNT
+Id=10261
+Nom=RENIER
+Prenom=DANIELLE
+DecesDate=16/02/2017
+CodeDft=10261
+End With
+With DEFUNT
+Id=11014
+Nom=REPELLIN
+Prenom=RENE
+DecesDate=14/06/2017
+CodeDft=11014
+End With
+With DEFUNT
+Id=11183
+Nom=REROLLE
+Prenom=YVES
+DecesDate=10/07/2017
+CodeDft=11183
+End With
+With DEFUNT
+Id=10997
+Nom=REUTER
+Prenom=PAULETTE
+DecesDate=12/06/2017
+CodeDft=10997
+End With
+With DEFUNT
+Id=11700
+Nom=REVEILLE
+Prenom=LOUIS
+DecesDate=28/09/2017
+CodeDft=11700
+End With
+With DEFUNT
+Id=10138
+Nom=REVERDY
+Prenom=EUGENIE
+DecesDate=31/01/2017
+CodeDft=10138
+End With
+With DEFUNT
+Id=10833
+Nom=REVERDY
+Prenom=JEANNE
+DecesDate=13/05/2017
+CodeDft=10833
+End With
+With DEFUNT
+Id=11520
+Nom=REVERDY
+Prenom=CLAUDE
+DecesDate=01/09/2017
+CodeDft=11520
+End With
+With DEFUNT
+Id=9811
+Nom=REVERSAT
+Prenom=ODETTE
+DecesDate=31/12/2016
+CodeDft=9811
+End With
+With DEFUNT
+Id=10376
+Nom=REVERT
+Prenom=ANDREE
+DecesDate=06/03/2017
+CodeDft=10376
+End With
+With DEFUNT
+Id=10761
+Nom=REVIL
+Prenom=JEAN
+DecesDate=04/05/2017
+CodeDft=10761
+End With
+With DEFUNT
+Id=10301
+Nom=REVILLET
+Prenom=LUCIE
+DecesDate=22/02/2017
+CodeDft=10301
+End With
+With DEFUNT
+Id=9834
+Nom=REVOL
+Prenom=HERVE
+DecesDate=/  /
+CodeDft=9834
+End With
+With DEFUNT
+Id=10460
+Nom=REY
+Prenom=MARIE
+DecesDate=19/03/2017
+CodeDft=10460
+End With
+With DEFUNT
+Id=10464
+Nom=REY
+Prenom=MARIE
+DecesDate=19/03/2017
+CodeDft=10464
+End With
+With DEFUNT
+Id=11003
+Nom=REY
+Prenom=JACKYE
+DecesDate=12/06/2017
+CodeDft=11003
+End With
+With DEFUNT
+Id=11458
+Nom=REY
+Prenom=ROBERT
+DecesDate=25/08/2017
+CodeDft=11458
+End With
+With DEFUNT
+Id=9848
+Nom=REY
+Prenom=SIMONNE
+DecesDate=04/01/2017
+CodeDft=9848
+End With
+With DEFUNT
+Id=9996
+Nom=REY
+Prenom=MIREILLE
+DecesDate=14/01/2017
+CodeDft=9996
+End With
+With DEFUNT
+Id=10634
+Nom=REYDET
+Prenom=LUCIEN
+DecesDate=10/04/2017
+CodeDft=10634
+End With
+With DEFUNT
+Id=10852
+Nom=REYMOND
+Prenom=ADELPHINE
+DecesDate=18/05/2017
+CodeDft=10852
+End With
+With DEFUNT
+Id=11659
+Nom=REYMOND
+Prenom=DANIELLE
+DecesDate=21/09/2017
+CodeDft=11659
+End With
+With DEFUNT
+Id=10592
+Nom=REYNARD
+Prenom=MARYLINE
+DecesDate=07/04/2017
+CodeDft=10592
+End With
+With DEFUNT
+Id=11629
+Nom=REYNAUD
+Prenom=LUCIE
+DecesDate=17/09/2017
+CodeDft=11629
+End With
+With DEFUNT
+Id=11703
+Nom=REYSSAT
+Prenom=JEAN
+DecesDate=28/09/2017
+CodeDft=11703
+End With
+With DEFUNT
+Id=10179
+Nom=RIBARD
+Prenom=PHILIPPE
+DecesDate=06/02/2017
+CodeDft=10179
+End With
+With DEFUNT
+Id=9891
+Nom=RICARD
+Prenom=MARIE LOUISE
+DecesDate=06/01/2017
+CodeDft=9891
+End With
+With DEFUNT
+Id=11632
+Nom=RICCHI
+Prenom=JEAN-PIERRE
+DecesDate=18/09/2017
+CodeDft=11632
+End With
+With DEFUNT
+Id=10932
+Nom=RICHARD
+Prenom=LIONEL
+DecesDate=01/06/2017
+CodeDft=10932
+End With
+With DEFUNT
+Id=9813
+Nom=RICHARD
+Prenom=LOUIS
+DecesDate=31/12/2016
+CodeDft=9813
+End With
+With DEFUNT
+Id=9989
+Nom=RICHARD
+Prenom=MAURICE
+DecesDate=17/01/2017
+CodeDft=9989
+End With
+With DEFUNT
+Id=9990
+Nom=RICHARD
+Prenom=MAURICE
+DecesDate=17/01/2017
+CodeDft=9990
+End With
+With DEFUNT
+Id=9991
+Nom=RICHARD
+Prenom=MAURICE
+DecesDate=/  /
+CodeDft=9991
+End With
+With DEFUNT
+Id=11547
+Nom=RICHARME
+Prenom=JEAN
+DecesDate=04/09/2017
+CodeDft=11547
+End With
+With DEFUNT
+Id=10566
+Nom=RICHERMOZ
+Prenom=FERNANDE
+DecesDate=04/04/2017
+CodeDft=10566
+End With
+With DEFUNT
+Id=10094
+Nom=RICHON
+Prenom=EMELINE
+DecesDate=23/01/2017
+CodeDft=10094
+End With
+With DEFUNT
+Id=10257
+Nom=RIELLO
+Prenom=ANNIE
+DecesDate=16/02/2017
+CodeDft=10257
+End With
+With DEFUNT
+Id=10590
+Nom=RIEUPE
+Prenom=DENISE
+DecesDate=07/04/2017
+CodeDft=10590
+End With
+With DEFUNT
+Id=9960
+Nom=RIGAUD MODELIN
+Prenom=MARCEL
+DecesDate=14/01/2017
+CodeDft=9960
+End With
+With DEFUNT
+Id=10964
+Nom=RIGAUD-MODELIN
+Prenom=HENRIETTE
+DecesDate=07/06/2017
+CodeDft=10964
+End With
+With DEFUNT
+Id=11516
+Nom=RINCHET
+Prenom=DANIEL
+DecesDate=31/08/2017
+CodeDft=11516
+End With
+With DEFUNT
+Id=11500
+Nom=RINGOT
+Prenom=ANNIE
+DecesDate=29/08/2017
+CodeDft=11500
+End With
+With DEFUNT
+Id=10367
+Nom=RIVIERE 
+Prenom=FERNANDE
+DecesDate=04/03/2017
+CodeDft=10367
+End With
+With DEFUNT
+Id=11539
+Nom=RIZZA
+Prenom=LISETTE
+DecesDate=03/09/2017
+CodeDft=11539
+End With
+With DEFUNT
+Id=11192
+Nom=ROBBA
+Prenom=JEAN-MARCEL
+DecesDate=12/07/2017
+CodeDft=11192
+End With
+With DEFUNT
+Id=10187
+Nom=ROBERT
+Prenom=JEAN
+DecesDate=07/02/2017
+CodeDft=10187
+End With
+With DEFUNT
+Id=10451
+Nom=ROBERT
+Prenom=GENEVIEVE
+DecesDate=18/03/2017
+CodeDft=10451
+End With
+With DEFUNT
+Id=9869
+Nom=ROBERT
+Prenom=GENEVIEVE
+DecesDate=04/01/2017
+CodeDft=9869
+End With
+With DEFUNT
+Id=10975
+Nom=ROBESSON
+Prenom=MARIE
+DecesDate=09/06/2017
+CodeDft=10975
+End With
+With DEFUNT
+Id=10906
+Nom=ROBIN
+Prenom=JULIETTE
+DecesDate=26/05/2017
+CodeDft=10906
+End With
+With DEFUNT
+Id=10636
+Nom=ROCHE
+Prenom=MARIE
+DecesDate=14/04/2017
+CodeDft=10636
+End With
+With DEFUNT
+Id=11111
+Nom=ROCHE
+Prenom=FRANCOIS
+DecesDate=29/06/2017
+CodeDft=11111
+End With
+With DEFUNT
+Id=10436
+Nom=RODRIGUEZ
+Prenom=DENISE
+DecesDate=13/03/2017
+CodeDft=10436
+End With
+With DEFUNT
+Id=10687
+Nom=ROGET
+Prenom=PIERRE
+DecesDate=23/04/2017
+CodeDft=10687
+End With
+With DEFUNT
+Id=11350
+Nom=ROGUET
+Prenom=ROMAIN
+DecesDate=06/08/2017
+CodeDft=11350
+End With
+With DEFUNT
+Id=10815
+Nom=ROHI
+Prenom=DENISE
+DecesDate=12/05/2017
+CodeDft=10815
+End With
+With DEFUNT
+Id=11487
+Nom=ROHMER
+Prenom=ZIAN
+DecesDate=25/08/2017
+CodeDft=11487
+End With
+With DEFUNT
+Id=11488
+Nom=ROHMER
+Prenom=MATIS
+DecesDate=25/08/2017
+CodeDft=11488
+End With
+With DEFUNT
+Id=11501
+Nom=ROHMER
+Prenom=MATIS
+DecesDate=25/08/2017
+CodeDft=11501
+End With
+With DEFUNT
+Id=10668
+Nom=ROISSARD
+Prenom=ALFRED LUCIEN
+DecesDate=19/04/2017
+CodeDft=10668
+End With
+With DEFUNT
+Id=11704
+Nom=ROJON
+Prenom=PIERRE
+DecesDate=28/09/2017
+CodeDft=11704
+End With
+With DEFUNT
+Id=11091
+Nom=ROL
+Prenom=GERARD
+DecesDate=26/06/2017
+CodeDft=11091
+End With
+With DEFUNT
+Id=10173
+Nom=ROLLAND
+Prenom=HENRIETTE
+DecesDate=05/01/2017
+CodeDft=10173
+End With
+With DEFUNT
+Id=11503
+Nom=ROLLAND
+Prenom=GUY
+DecesDate=29/08/2017
+CodeDft=11503
+End With
+With DEFUNT
+Id=10507
+Nom=ROLLET
+Prenom=ANGELE
+DecesDate=27/03/2017
+CodeDft=10507
+End With
+With DEFUNT
+Id=11297
+Nom=ROMAN
+Prenom=JEAN
+DecesDate=28/07/2017
+CodeDft=11297
+End With
+With DEFUNT
+Id=11372
+Nom=ROMAN DIEZ
+Prenom=VENTURA
+DecesDate=10/08/2017
+CodeDft=11372
+End With
+With DEFUNT
+Id=9786
+Nom=ROMANG
+Prenom=JOSETTE
+DecesDate=28/12/2016
+CodeDft=9786
+End With
+With DEFUNT
+Id=9919
+Nom=ROMEO
+Prenom=FRANCOIS
+DecesDate=01/01/2017
+CodeDft=9919
+End With
+With DEFUNT
+Id=9800
+Nom=ROMET
+Prenom=SIMONE
+DecesDate=30/12/2016
+CodeDft=9800
+End With
+With DEFUNT
+Id=11121
+Nom=ROQUIER-VICAT
+Prenom=VINCENT
+DecesDate=29/06/2017
+CodeDft=11121
+End With
+With DEFUNT
+Id=11637
+Nom=ROSAIRE
+Prenom=ELISABETH
+DecesDate=19/09/2017
+CodeDft=11637
+End With
+With DEFUNT
+Id=11384
+Nom=ROSAT
+Prenom=SYLVIE
+DecesDate=12/08/2017
+CodeDft=11384
+End With
+With DEFUNT
+Id=11386
+Nom=ROSAY
+Prenom=JACQUES
+DecesDate=10/08/2017
+CodeDft=11386
+End With
+With DEFUNT
+Id=10817
+Nom=ROSSAT
+Prenom=REMY
+DecesDate=  /  /
+CodeDft=10817
+End With
+With DEFUNT
+Id=11267
+Nom=ROSSAT
+Prenom=BERNARD
+DecesDate=25/07/2017
+CodeDft=11267
+End With
+With DEFUNT
+Id=10324
+Nom=ROSSET
+Prenom=RENE
+DecesDate=26/02/2017
+CodeDft=10324
+End With
+With DEFUNT
+Id=10520
+Nom=ROSSET
+Prenom=NICOLE
+DecesDate=28/03/2017
+CodeDft=10520
+End With
+With DEFUNT
+Id=10424
+Nom=ROSSETTO-GIACCHERI
+Prenom=XXX
+DecesDate=28/02/2017
+CodeDft=10424
+End With
+With DEFUNT
+Id=10417
+Nom=ROSSI
+Prenom=RENE
+DecesDate=11/03/2017
+CodeDft=10417
+End With
+With DEFUNT
+Id=10697
+Nom=ROSSI
+Prenom=RENE
+DecesDate=/  /
+CodeDft=10697
+End With
+With DEFUNT
+Id=11060
+Nom=ROSSI
+Prenom=CLAUDE
+DecesDate=21/06/2017
+CodeDft=11060
+End With
+With DEFUNT
+Id=10940
+Nom=ROSSO
+Prenom=LOUIS
+DecesDate=01/06/2017
+CodeDft=10940
+End With
+With DEFUNT
+Id=10188
+Nom=ROUAUD
+Prenom=VERONIQUE
+DecesDate=07/02/2017
+CodeDft=10188
+End With
+With DEFUNT
+Id=9847
+Nom=ROUGE DIT GAILLARD
+Prenom=CLAUDE
+DecesDate=02/01/2017
+CodeDft=9847
+End With
+With DEFUNT
+Id=10651
+Nom=ROUGIER
+Prenom=JEAN CLAUDE
+DecesDate=17/04/2017
+CodeDft=10651
+End With
+With DEFUNT
+Id=10362
+Nom=ROULET
+Prenom=HENRIETTE
+DecesDate=04/03/2017
+CodeDft=10362
+End With
+With DEFUNT
+Id=10363
+Nom=ROULET
+Prenom=HENRIETTE
+DecesDate=04/03/2017
+CodeDft=10363
+End With
+With DEFUNT
+Id=11655
+Nom=ROUSSEAU
+Prenom=RICHARD
+DecesDate=21/09/2017
+CodeDft=11655
+End With
+With DEFUNT
+Id=9981
+Nom=ROUSSEL
+Prenom=RENEE
+DecesDate=15/01/2017
+CodeDft=9981
+End With
+With DEFUNT
+Id=10937
+Nom=ROUSSIN
+Prenom=PATRICE
+DecesDate=09/05/2017
+CodeDft=10937
+End With
+With DEFUNT
+Id=10926
+Nom=ROUTET
+Prenom=DENISE
+DecesDate=30/05/2017
+CodeDft=10926
+End With
+With DEFUNT
+Id=11523
+Nom=ROUTHIER
+Prenom=MARIE-MADELEINE
+DecesDate=01/09/2017
+CodeDft=11523
+End With
+With DEFUNT
+Id=9930
+Nom=ROUTIN
+Prenom=MARGUERITE
+DecesDate=10/01/2017
+CodeDft=9930
+End With
+With DEFUNT
+Id=10696
+Nom=ROUVEYRE
+Prenom=MADELEINE
+DecesDate=25/04/2017
+CodeDft=10696
+End With
+With DEFUNT
+Id=10129
+Nom=ROUX
+Prenom=ANNE
+DecesDate=30/01/2017
+CodeDft=10129
+End With
+With DEFUNT
+Id=10513
+Nom=ROUX
+Prenom=CLAUDIA
+DecesDate=28/03/2017
+CodeDft=10513
+End With
+With DEFUNT
+Id=10823
+Nom=ROUX
+Prenom=JEAN FRANCOIS
+DecesDate=13/05/2017
+CodeDft=10823
+End With
+With DEFUNT
+Id=11079
+Nom=ROUX
+Prenom=GILBERT
+DecesDate=25/06/2017
+CodeDft=11079
+End With
+With DEFUNT
+Id=11182
+Nom=ROUX
+Prenom=JEAN-PHILIPPE
+DecesDate=  /  /
+CodeDft=11182
+End With
+With DEFUNT
+Id=9784
+Nom=ROUX
+Prenom=MARGUERITE
+DecesDate=27/12/2016
+CodeDft=9784
+End With
+With DEFUNT
+Id=9935
+Nom=ROUX
+Prenom=GEORGETTE
+DecesDate=11/01/2017
+CodeDft=9935
+End With
+With DEFUNT
+Id=10756
+Nom=ROUX LATOUR
+Prenom=ERNEST
+DecesDate=03/05/2017
+CodeDft=10756
+End With
+With DEFUNT
+Id=10414
+Nom=ROUX MOLLARD
+Prenom=FREDERIQUE
+DecesDate=10/03/2017
+CodeDft=10414
+End With
+With DEFUNT
+Id=10511
+Nom=ROVELLI
+Prenom=FRANCOISE
+DecesDate=27/03/2017
+CodeDft=10511
+End With
+With DEFUNT
+Id=11607
+Nom=ROYER
+Prenom=ROBERT
+DecesDate=14/09/2017
+CodeDft=11607
+End With
+With DEFUNT
+Id=11571
+Nom=ROZENBAUM
+Prenom=LUCETTE
+DecesDate=09/09/2017
+CodeDft=11571
+End With
+With DEFUNT
+Id=11570
+Nom=RUAZ
+Prenom=NORBERT
+DecesDate=08/09/2017
+CodeDft=11570
+End With
+With DEFUNT
+Id=10845
+Nom=RUBAT
+Prenom=LUCIENNE
+DecesDate=18/05/2017
+CodeDft=10845
+End With
+With DEFUNT
+Id=11206
+Nom=RUBAT
+Prenom=MARIUS
+DecesDate=15/07/2017
+CodeDft=11206
+End With
+With DEFUNT
+Id=11212
+Nom=RUBAUD
+Prenom=LOUIS
+DecesDate=14/07/2017
+CodeDft=11212
+End With
+With DEFUNT
+Id=11173
+Nom=RUFFIER  MONET
+Prenom=MAURICE
+DecesDate=08/07/2017
+CodeDft=11173
+End With
+With DEFUNT
+Id=11563
+Nom=RUFFIER DES AIMES
+Prenom=ALAIN
+DecesDate=07/09/2017
+CodeDft=11563
+End With
+With DEFUNT
+Id=10806
+Nom=RUGGIERO
+Prenom=SYLVIE
+DecesDate=10/05/2017
+CodeDft=10806
+End With
+With DEFUNT
+Id=9899
+Nom=RUIZ PERALES
+Prenom=LIETTE
+DecesDate=08/01/2017
+CodeDft=9899
+End With
+With DEFUNT
+Id=11143
+Nom=RUSPINI
+Prenom=LOUIS
+DecesDate=05/07/2017
+CodeDft=11143
+End With
+With DEFUNT
+Id=10016
+Nom=SAEZLOZANO
+Prenom=JESUS
+DecesDate=19/01/2017
+CodeDft=10016
+End With
+With DEFUNT
+Id=11670
+Nom=SAGE
+Prenom=PIERRE
+DecesDate=23/09/2017
+CodeDft=11670
+End With
+With DEFUNT
+Id=10901
+Nom=SAIA
+Prenom=PAOLA
+DecesDate=27/05/2017
+CodeDft=10901
+End With
+With DEFUNT
+Id=10666
+Nom=SAIGNIE
+Prenom=PIERRETTE
+DecesDate=19/04/2017
+CodeDft=10666
+End With
+With DEFUNT
+Id=11321
+Nom=SAILLARD
+Prenom=ROLANDE
+DecesDate=31/07/2017
+CodeDft=11321
+End With
+With DEFUNT
+Id=11653
+Nom=SAINT MARTIN TILLET
+Prenom=NADEGE
+DecesDate=21/09/2017
+CodeDft=11653
+End With
+With DEFUNT
+Id=11568
+Nom=SALLARD
+Prenom=YVON
+DecesDate=07/09/2017
+CodeDft=11568
+End With
+With DEFUNT
+Id=11047
+Nom=SALMERON
+Prenom=ANDRE
+DecesDate=19/06/2017
+CodeDft=11047
+End With
+With DEFUNT
+Id=10604
+Nom=SALOMON
+Prenom=ELIANE
+DecesDate=09/04/2017
+CodeDft=10604
+End With
+With DEFUNT
+Id=11067
+Nom=SALOMON
+Prenom=DANIEL
+DecesDate=/  /
+CodeDft=11067
+End With
+With DEFUNT
+Id=9827
+Nom=SALOMON
+Prenom=SANDRA
+DecesDate=01/01/2016
+CodeDft=9827
+End With
+With DEFUNT
+Id=10523
+Nom=SALVADORI
+Prenom=SERGE
+DecesDate=29/03/2017
+CodeDft=10523
+End With
+With DEFUNT
+Id=10655
+Nom=SANCEY RICHARD
+Prenom=PHILIPPE
+DecesDate=17/04/2017
+CodeDft=10655
+End With
+With DEFUNT
+Id=10243
+Nom=SANTARELLI
+Prenom=MATTEW
+DecesDate=03/11/2003
+CodeDft=10243
+End With
+With DEFUNT
+Id=9900
+Nom=SARRET
+Prenom=LOIC
+DecesDate=06/01/2017
+CodeDft=9900
+End With
+With DEFUNT
+Id=10793
+Nom=SARTOR
+Prenom=HELENE
+DecesDate=09/05/2017
+CodeDft=10793
+End With
+With DEFUNT
+Id=10099
+Nom=SAUNIER-CAILLY
+Prenom=HENRI
+DecesDate=26/01/2017
+CodeDft=10099
+End With
+With DEFUNT
+Id=10027
+Nom=SAUTHIER
+Prenom=FLORENT
+DecesDate=19/01/2017
+CodeDft=10027
+End With
+With DEFUNT
+Id=10034
+Nom=SAUTHIER
+Prenom=RENE
+DecesDate=19/01/2017
+CodeDft=10034
+End With
+With DEFUNT
+Id=11020
+Nom=SAUTHIER
+Prenom=IRENE
+DecesDate=14/06/2017
+CodeDft=11020
+End With
+With DEFUNT
+Id=11168
+Nom=SAVARY
+Prenom=JEAN PIERRE
+DecesDate=08/07/2017
+CodeDft=11168
+End With
+With DEFUNT
+Id=11261
+Nom=SCARAMIGLIA
+Prenom=DENISE
+DecesDate=/  /
+CodeDft=11261
+End With
+With DEFUNT
+Id=11438
+Nom=SCHLAUDER
+Prenom=JACQUES
+DecesDate=21/08/2017
+CodeDft=11438
+End With
+With DEFUNT
+Id=11398
+Nom=SCHLICKSUPP
+Prenom=RUDOLF
+DecesDate=13/08/2017
+CodeDft=11398
+End With
+With DEFUNT
+Id=10305
+Nom=SCHMIDT
+Prenom=GERTRAUD AGNES
+DecesDate=23/02/2017
+CodeDft=10305
+End With
+With DEFUNT
+Id=10876
+Nom=SCORTANI
+Prenom=JULIETTE
+DecesDate=23/05/2017
+CodeDft=10876
+End With
+With DEFUNT
+Id=11139
+Nom=SEBE
+Prenom=GISELE
+DecesDate=04/07/2017
+CodeDft=11139
+End With
+With DEFUNT
+Id=11142
+Nom=SEBE
+Prenom=GISELE
+DecesDate=04/07/2017
+CodeDft=11142
+End With
+With DEFUNT
+Id=9885
+Nom=SEBERT
+Prenom=GABRIEL
+DecesDate=04/01/2017
+CodeDft=9885
+End With
+With DEFUNT
+Id=10345
+Nom=SELLA
+Prenom=ANTONIO
+DecesDate=01/03/2017
+CodeDft=10345
+End With
+With DEFUNT
+Id=11262
+Nom=SELLA-LECOEUR
+Prenom=ANITA
+DecesDate=21/07/2017
+CodeDft=11262
+End With
+With DEFUNT
+Id=10334
+Nom=SÉNÉCHAL
+Prenom=ROBERT
+DecesDate=27/02/2017
+CodeDft=10334
+End With
+With DEFUNT
+Id=9854
+Nom=SERAIN
+Prenom=JEAN JACQUES
+DecesDate=29/12/2015
+CodeDft=9854
+End With
+With DEFUNT
+Id=10228
+Nom=SERENA-TIANO
+Prenom=HUGUETTE
+DecesDate=10/02/2017
+CodeDft=10228
+End With
+With DEFUNT
+Id=11387
+Nom=SERLAY
+Prenom=MARCEL
+DecesDate=12/08/2017
+CodeDft=11387
+End With
+With DEFUNT
+Id=9920
+Nom=SERPOLLET
+Prenom=DENISE
+DecesDate=10/01/2017
+CodeDft=9920
+End With
+With DEFUNT
+Id=11419
+Nom=SERRANO
+Prenom=HUGUETTE
+DecesDate=18/08/2017
+CodeDft=11419
+End With
+With DEFUNT
+Id=10227
+Nom=SERRE
+Prenom=RENE
+DecesDate=12/02/2017
+CodeDft=10227
+End With
+With DEFUNT
+Id=11100
+Nom=SERRE
+Prenom=HENRI
+DecesDate=28/06/2017
+CodeDft=11100
+End With
+With DEFUNT
+Id=10117
+Nom=SESTIER
+Prenom=DENISE
+DecesDate=29/01/2017
+CodeDft=10117
+End With
+With DEFUNT
+Id=10067
+Nom=SIBUET
+Prenom=RENE
+DecesDate=24/01/2017
+CodeDft=10067
+End With
+With DEFUNT
+Id=11312
+Nom=SICARD
+Prenom=JEAN-MARIE
+DecesDate=29/07/2017
+CodeDft=11312
+End With
+With DEFUNT
+Id=10840
+Nom=SICCO
+Prenom=ROBERT
+DecesDate=17/05/2017
+CodeDft=10840
+End With
+With DEFUNT
+Id=10956
+Nom=SILVESTRE
+Prenom=SIMONE
+DecesDate=06/06/2017
+CodeDft=10956
+End With
+With DEFUNT
+Id=11495
+Nom=SIMON
+Prenom=AIMEE
+DecesDate=29/08/2017
+CodeDft=11495
+End With
+With DEFUNT
+Id=11103
+Nom=SIMOND
+Prenom=PAULETTE
+DecesDate=28/06/2017
+CodeDft=11103
+End With
+With DEFUNT
+Id=10728
+Nom=SIMONETTO
+Prenom=NICOLO
+DecesDate=28/04/2017
+CodeDft=10728
+End With
+With DEFUNT
+Id=11460
+Nom=SISTI
+Prenom=MARIE
+DecesDate=25/08/2017
+CodeDft=11460
+End With
+With DEFUNT
+Id=11174
+Nom=SITBON
+Prenom=MICHELE
+DecesDate=10/07/2017
+CodeDft=11174
+End With
+With DEFUNT
+Id=11181
+Nom=SITBON
+Prenom=MICHELE
+DecesDate=10/07/2017
+CodeDft=11181
+End With
+With DEFUNT
+Id=11426
+Nom=SLEIJSER
+Prenom=RICHARD
+DecesDate=19/08/2017
+CodeDft=11426
+End With
+With DEFUNT
+Id=11616
+Nom=SNIADY
+Prenom=FELIX
+DecesDate=16/09/2017
+CodeDft=11616
+End With
+With DEFUNT
+Id=11101
+Nom=SOLEILLANT
+Prenom=MARIE-CHRISTINE
+DecesDate=27/06/2017
+CodeDft=11101
+End With
+With DEFUNT
+Id=11090
+Nom=SOLLIER
+Prenom=X
+DecesDate=12/06/2017
+CodeDft=11090
+End With
+With DEFUNT
+Id=10742
+Nom=SONZONI
+Prenom=GENEVIEVE
+DecesDate=/  /
+CodeDft=10742
+End With
+With DEFUNT
+Id=11411
+Nom=SOUDIN
+Prenom=RENEE
+DecesDate=16/08/2017
+CodeDft=11411
+End With
+With DEFUNT
+Id=10495
+Nom=SPADILIERO
+Prenom=ROBERT
+DecesDate=24/03/2017
+CodeDft=10495
+End With
+With DEFUNT
+Id=11706
+Nom=SPECHT
+Prenom=MONIQUE
+DecesDate=29/09/2017
+CodeDft=11706
+End With
+With DEFUNT
+Id=10038
+Nom=SPECIA
+Prenom=DOMINIQUE
+DecesDate=20/01/2017
+CodeDft=10038
+End With
+With DEFUNT
+Id=10792
+Nom=SPELTA 
+Prenom=MADELEINE
+DecesDate=09/05/2017
+CodeDft=10792
+End With
+With DEFUNT
+Id=10948
+Nom=SPEZZATO
+Prenom=MARIA ROSA
+DecesDate=05/06/2017
+CodeDft=10948
+End With
+With DEFUNT
+Id=9936
+Nom=SPINOSI
+Prenom=SERGIO
+DecesDate=12/01/2017
+CodeDft=9936
+End With
+With DEFUNT
+Id=10284
+Nom=SPYROGLOU
+Prenom=GEORGES
+DecesDate=19/02/2017
+CodeDft=10284
+End With
+With DEFUNT
+Id=10989
+Nom=STEPHAN
+Prenom=PASCAL
+DecesDate=11/06/2017
+CodeDft=10989
+End With
+With DEFUNT
+Id=11362
+Nom=STINDER
+Prenom=LAURE
+DecesDate=08/08/2017
+CodeDft=11362
+End With
+With DEFUNT
+Id=10701
+Nom=STOCCHINO
+Prenom=BERNADETTE
+DecesDate=23/04/2017
+CodeDft=10701
+End With
+With DEFUNT
+Id=10427
+Nom=STOJANOVIC
+Prenom=RADOSAV
+DecesDate=13/03/2017
+CodeDft=10427
+End With
+With DEFUNT
+Id=10420
+Nom=STRASSEELE
+Prenom=BERNADETTE
+DecesDate=11/03/2017
+CodeDft=10420
+End With
+With DEFUNT
+Id=10419
+Nom=STRASSEL
+Prenom=?
+DecesDate=11/03/2017
+CodeDft=10419
+End With
+With DEFUNT
+Id=11559
+Nom=STROUPPE
+Prenom=JEAN
+DecesDate=07/09/2017
+CodeDft=11559
+End With
+With DEFUNT
+Id=10991
+Nom=STUTZMANN
+Prenom=EUGENIE
+DecesDate=10/06/2017
+CodeDft=10991
+End With
+With DEFUNT
+Id=10729
+Nom=SUAREZ SILVA
+Prenom=MANUEL
+DecesDate=28/04/2017
+CodeDft=10729
+End With
+With DEFUNT
+Id=11475
+Nom=SUBIT
+Prenom=X
+DecesDate=17/08/2017
+CodeDft=11475
+End With
+With DEFUNT
+Id=9967
+Nom=SUBLET
+Prenom=GERARD
+DecesDate=14/01/2017
+CodeDft=9967
+End With
+With DEFUNT
+Id=9880
+Nom=SUEUR
+Prenom=JEAN CLAUDE
+DecesDate=05/01/2017
+CodeDft=9880
+End With
+With DEFUNT
+Id=10329
+Nom=SULPICE
+Prenom=GEORGES
+DecesDate=26/02/2017
+CodeDft=10329
+End With
+With DEFUNT
+Id=9915
+Nom=SULPICE
+Prenom=ERNEST
+DecesDate=09/01/2017
+CodeDft=9915
+End With
+With DEFUNT
+Id=11719
+Nom=SUZET
+Prenom=GUY
+DecesDate=30/09/2017
+CodeDft=11719
+End With
+With DEFUNT
+Id=11228
+Nom=TAESH
+Prenom=ANNABEL
+DecesDate=18/07/2017
+CodeDft=11228
+End With
+With DEFUNT
+Id=10627
+Nom=TALLON
+Prenom=DENIS
+DecesDate=12/04/2017
+CodeDft=10627
+End With
+With DEFUNT
+Id=10025
+Nom=TAMPU
+Prenom=FLOARE
+DecesDate=20/01/2017
+CodeDft=10025
+End With
+With DEFUNT
+Id=10858
+Nom=TANTOLIN
+Prenom=GEORGES
+DecesDate=19/05/2017
+CodeDft=10858
+End With
+With DEFUNT
+Id=10012
+Nom=TARDY
+Prenom=GILBERT
+DecesDate=18/01/2017
+CodeDft=10012
+End With
+With DEFUNT
+Id=10708
+Nom=TARDY
+Prenom=MARIE-LOUISE
+DecesDate=18/04/2017
+CodeDft=10708
+End With
+With DEFUNT
+Id=11210
+Nom=TARDY
+Prenom=CHRISTOPHE
+DecesDate=15/07/2017
+CodeDft=11210
+End With
+With DEFUNT
+Id=10028
+Nom=TARNOLDI
+Prenom=ERMINIA
+DecesDate=20/01/2017
+CodeDft=10028
+End With
+With DEFUNT
+Id=11160
+Nom=TARTARAT-BARDET
+Prenom=HENRI
+DecesDate=06/07/2017
+CodeDft=11160
+End With
+With DEFUNT
+Id=10898
+Nom=TASHI
+Prenom=DAWA
+DecesDate=26/05/2017
+CodeDft=10898
+End With
+With DEFUNT
+Id=11128
+Nom=TASSET
+Prenom=SUZANNE
+DecesDate=03/07/2017
+CodeDft=11128
+End With
+With DEFUNT
+Id=10738
+Nom=TAVEL
+Prenom=FABRICE
+DecesDate=30/04/2017
+CodeDft=10738
+End With
+With DEFUNT
+Id=10207
+Nom=TEIXEIRA PINTO
+Prenom=SALVADOR
+DecesDate=08/02/2017
+CodeDft=10207
+End With
+With DEFUNT
+Id=11094
+Nom=THEOT
+Prenom=EDMONDE
+DecesDate=26/06/2017
+CodeDft=11094
+End With
+With DEFUNT
+Id=10615
+Nom=THERAULAZ
+Prenom=HELENE
+DecesDate=12/04/2017
+CodeDft=10615
+End With
+With DEFUNT
+Id=10092
+Nom=THERME
+Prenom=RITA
+DecesDate=26/01/2017
+CodeDft=10092
+End With
+With DEFUNT
+Id=9921
+Nom=THIELEN
+Prenom=JEAN
+DecesDate=07/01/2017
+CodeDft=9921
+End With
+With DEFUNT
+Id=10379
+Nom=THIERRIN
+Prenom=MICHEL
+DecesDate=07/03/2017
+CodeDft=10379
+End With
+With DEFUNT
+Id=9878
+Nom=THIERRY
+Prenom=MARCEL
+DecesDate=06/01/2017
+CodeDft=9878
+End With
+With DEFUNT
+Id=9907
+Nom=THIEVENAZ
+Prenom=HENRI
+DecesDate=08/01/2017
+CodeDft=9907
+End With
+With DEFUNT
+Id=10986
+Nom=THIZZY
+Prenom=JACQUES
+DecesDate=09/06/2017
+CodeDft=10986
+End With
+With DEFUNT
+Id=10378
+Nom=THOMAS
+Prenom=DENISE
+DecesDate=07/03/2017
+CodeDft=10378
+End With
+With DEFUNT
+Id=10541
+Nom=THOMAS
+Prenom=GERMAIN
+DecesDate=01/04/2017
+CodeDft=10541
+End With
+With DEFUNT
+Id=10542
+Nom=THOMAS
+Prenom=GERMAIN
+DecesDate=01/04/2017
+CodeDft=10542
+End With
+With DEFUNT
+Id=10778
+Nom=THOMAS
+Prenom=GILBERT
+DecesDate=08/05/2017
+CodeDft=10778
+End With
+With DEFUNT
+Id=11202
+Nom=THOMAS
+Prenom=EMMA
+DecesDate=13/07/2017
+CodeDft=11202
+End With
+With DEFUNT
+Id=11281
+Nom=THOMAS
+Prenom=CHRISTIAN
+DecesDate=26/07/2017
+CodeDft=11281
+End With
+With DEFUNT
+Id=11385
+Nom=THOMAS
+Prenom=SIMONE
+DecesDate=11/08/2017
+CodeDft=11385
+End With
+With DEFUNT
+Id=9888
+Nom=THOMAS
+Prenom=CECILE
+DecesDate=07/01/2017
+CodeDft=9888
+End With
+With DEFUNT
+Id=11280
+Nom=THOMAS 
+Prenom=CHRISTIAN
+DecesDate=26/07/2017
+CodeDft=11280
+End With
+With DEFUNT
+Id=11004
+Nom=THOMASSET
+Prenom=JANINE
+DecesDate=12/06/2017
+CodeDft=11004
+End With
+With DEFUNT
+Id=10935
+Nom=THOUVENOT
+Prenom=CLAUDE
+DecesDate=31/05/2017
+CodeDft=10935
+End With
+With DEFUNT
+Id=10017
+Nom=THULIEZ
+Prenom=BERNARD
+DecesDate=19/01/2017
+CodeDft=10017
+End With
+With DEFUNT
+Id=10795
+Nom=TIERZ
+Prenom=CESAR
+DecesDate=08/05/2017
+CodeDft=10795
+End With
+With DEFUNT
+Id=11105
+Nom=TINNER
+Prenom=ROBERT
+DecesDate=16/06/2017
+CodeDft=11105
+End With
+With DEFUNT
+Id=11430
+Nom=TIROZZINI
+Prenom=MAURIZIO
+DecesDate=20/08/2017
+CodeDft=11430
+End With
+With DEFUNT
+Id=10693
+Nom=TIVOLLE
+Prenom=JEAN LOUIS
+DecesDate=24/04/2017
+CodeDft=10693
+End With
+With DEFUNT
+Id=9853
+Nom=TIVOLLIER
+Prenom=X
+DecesDate=23/12/2016
+CodeDft=9853
+End With
+With DEFUNT
+Id=10105
+Nom=TLILI
+Prenom=OUIZA
+DecesDate=27/01/2017
+CodeDft=10105
+End With
+With DEFUNT
+Id=10822
+Nom=TLILI
+Prenom=ELYES
+DecesDate=10/05/2017
+CodeDft=10822
+End With
+With DEFUNT
+Id=10157
+Nom=TOBARUELA
+Prenom=HENRIETTE
+DecesDate=02/02/2017
+CodeDft=10157
+End With
+With DEFUNT
+Id=11606
+Nom=TOFFOLO
+Prenom=MARIE-CLAIRE
+DecesDate=14/09/2017
+CodeDft=11606
+End With
+With DEFUNT
+Id=10295
+Nom=TOLLET
+Prenom=MARINETTE
+DecesDate=21/02/2017
+CodeDft=10295
+End With
+With DEFUNT
+Id=9908
+Nom=TOMAMICHEL
+Prenom=ROBERT
+DecesDate=09/01/2017
+CodeDft=9908
+End With
+With DEFUNT
+Id=10089
+Nom=TORDI
+Prenom=BERNARD
+DecesDate=25/01/2017
+CodeDft=10089
+End With
+With DEFUNT
+Id=9855
+Nom=TOSI
+Prenom=HUGO
+DecesDate=02/09/1996
+CodeDft=9855
+End With
+With DEFUNT
+Id=10225
+Nom=TOUBEAU
+Prenom=CLAUDE
+DecesDate=11/02/2017
+CodeDft=10225
+End With
+With DEFUNT
+Id=10024
+Nom=TOURNASSAT
+Prenom=SYLVIE
+DecesDate=19/01/2017
+CodeDft=10024
+End With
+With DEFUNT
+Id=9835
+Nom=TOUVET
+Prenom=HENRI
+DecesDate=03/01/2017
+CodeDft=9835
+End With
+With DEFUNT
+Id=10726
+Nom=TRANIN
+Prenom=MARIE ANTOINETTE
+DecesDate=29/04/2017
+CodeDft=10726
+End With
+With DEFUNT
+Id=11130
+Nom=TRAULLE
+Prenom=STELLA
+DecesDate=22/04/2017
+CodeDft=11130
+End With
+With DEFUNT
+Id=11323
+Nom=TREILLY
+Prenom=CLAUDE
+DecesDate=31/07/2017
+CodeDft=11323
+End With
+With DEFUNT
+Id=10256
+Nom=TRIBECHE
+Prenom=NADJIB
+DecesDate=15/02/2017
+CodeDft=10256
+End With
+With DEFUNT
+Id=10549
+Nom=TRIBERT
+Prenom=GEORGETTE
+DecesDate=12/04/2017
+CodeDft=10549
+End With
+With DEFUNT
+Id=10551
+Nom=TRIBERT
+Prenom=GEORGETTE
+DecesDate=02/04/2017
+CodeDft=10551
+End With
+With DEFUNT
+Id=11319
+Nom=TRICOT
+Prenom=ALICE
+DecesDate=29/07/2017
+CodeDft=11319
+End With
+With DEFUNT
+Id=11190
+Nom=TRIQUET
+Prenom=PIERRE
+DecesDate=11/07/2017
+CodeDft=11190
+End With
+With DEFUNT
+Id=10639
+Nom=TROCCAZ
+Prenom=JACQUELINE
+DecesDate=14/04/2017
+CodeDft=10639
+End With
+With DEFUNT
+Id=11167
+Nom=TROCCAZ
+Prenom=MIREILLE
+DecesDate=08/07/2017
+CodeDft=11167
+End With
+With DEFUNT
+Id=11034
+Nom=TROLLIET
+Prenom=ALICE
+DecesDate=16/06/2017
+CodeDft=11034
+End With
+With DEFUNT
+Id=10633
+Nom=TROMBERT
+Prenom=JEANNINE
+DecesDate=13/04/2017
+CodeDft=10633
+End With
+With DEFUNT
+Id=10591
+Nom=TRONCHY
+Prenom=GERMAINE
+DecesDate=07/04/2017
+CodeDft=10591
+End With
+With DEFUNT
+Id=10199
+Nom=TRONEL
+Prenom=MARCEL
+DecesDate=09/02/2017
+CodeDft=10199
+End With
+With DEFUNT
+Id=11086
+Nom=TRUCHET
+Prenom=HONORE
+DecesDate=26/06/2017
+CodeDft=11086
+End With
+With DEFUNT
+Id=11355
+Nom=TRUNGU
+Prenom=NERENZA
+DecesDate=01/08/2017
+CodeDft=11355
+End With
+With DEFUNT
+Id=10131
+Nom=TRUSZCZYNSKI
+Prenom=JUVENILE
+DecesDate=30/01/2017
+CodeDft=10131
+End With
+With DEFUNT
+Id=10562
+Nom=TUCCI
+Prenom=PAOLO
+DecesDate=04/04/2017
+CodeDft=10562
+End With
+With DEFUNT
+Id=11255
+Nom=TURON
+Prenom=MARCELLE
+DecesDate=22/07/2017
+CodeDft=11255
+End With
+With DEFUNT
+Id=11177
+Nom=UMLOR
+Prenom=LUCIENNE
+DecesDate=/  /
+CodeDft=11177
+End With
+With DEFUNT
+Id=10878
+Nom=URSELLA
+Prenom=RENE
+DecesDate=23/05/2017
+CodeDft=10878
+End With
+With DEFUNT
+Id=11432
+Nom=UTTNER
+Prenom=CHARLES
+DecesDate=20/08/2017
+CodeDft=11432
+End With
+With DEFUNT
+Id=11032
+Nom=VACCA
+Prenom=CLAUDINE
+DecesDate=16/06/2017
+CodeDft=11032
+End With
+With DEFUNT
+Id=10335
+Nom=VACLE
+Prenom=HENRIETTE
+DecesDate=28/02/2017
+CodeDft=10335
+End With
+With DEFUNT
+Id=11394
+Nom=VALENTIN
+Prenom=HUBERT
+DecesDate=13/08/2017
+CodeDft=11394
+End With
+With DEFUNT
+Id=10083
+Nom=VALLET
+Prenom=MARCEL
+DecesDate=24/01/2017
+CodeDft=10083
+End With
+With DEFUNT
+Id=10111
+Nom=VALLET
+Prenom=MARCEL
+DecesDate=24/01/2017
+CodeDft=10111
+End With
+With DEFUNT
+Id=10275
+Nom=VALLETOUT
+Prenom=JEANNE
+DecesDate=19/02/2017
+CodeDft=10275
+End With
+With DEFUNT
+Id=9974
+Nom=VAN GINNEKEN
+Prenom=PIERRETTE
+DecesDate=14/01/2017
+CodeDft=9974
+End With
+With DEFUNT
+Id=10226
+Nom=VANDERLYNDEN
+Prenom=IRENE
+DecesDate=12/02/2017
+CodeDft=10226
+End With
+With DEFUNT
+Id=9993
+Nom=VANDEUR
+Prenom=ELIANE
+DecesDate=17/01/2017
+CodeDft=9993
+End With
+With DEFUNT
+Id=11351
+Nom=VANHOVE
+Prenom=PAULETTE
+DecesDate=05/08/2017
+CodeDft=11351
+End With
+With DEFUNT
+Id=10718
+Nom=VANOUDHEUSDEN
+Prenom=YVETTE
+DecesDate=28/04/2017
+CodeDft=10718
+End With
+With DEFUNT
+Id=10055
+Nom=VAQUAISE
+Prenom=CHRISTINE
+DecesDate=23/01/2017
+CodeDft=10055
+End With
+With DEFUNT
+Id=10406
+Nom=VARRAZ
+Prenom=MARIANNE
+DecesDate=10/03/2017
+CodeDft=10406
+End With
+With DEFUNT
+Id=10063
+Nom=VARREL
+Prenom=CLAUDE
+DecesDate=23/01/2017
+CodeDft=10063
+End With
+With DEFUNT
+Id=10883
+Nom=VASSALLO
+Prenom=ANGELA
+DecesDate=23/05/2017
+CodeDft=10883
+End With
+With DEFUNT
+Id=11080
+Nom=VASSALLO
+Prenom=GIUSEPPE
+DecesDate=25/06/2017
+CodeDft=11080
+End With
+With DEFUNT
+Id=10201
+Nom=VATTEONI
+Prenom=ANDREE
+DecesDate=08/02/2017
+CodeDft=10201
+End With
+With DEFUNT
+Id=9777
+Nom=VAUDAGNA
+Prenom=LUCETTE
+DecesDate=27/12/2016
+CodeDft=9777
+End With
+With DEFUNT
+Id=10315
+Nom=VAUDEY
+Prenom=MARGUERITE
+DecesDate=21/02/2017
+CodeDft=10315
+End With
+With DEFUNT
+Id=10139
+Nom=VAUSSANT
+Prenom=PATRICK
+DecesDate=01/02/2017
+CodeDft=10139
+End With
+With DEFUNT
+Id=10904
+Nom=VEILLE
+Prenom=JEAN- ERIC
+DecesDate=28/05/2017
+CodeDft=10904
+End With
+With DEFUNT
+Id=11136
+Nom=VELIU
+Prenom=NURA
+DecesDate=30/06/2017
+CodeDft=11136
+End With
+With DEFUNT
+Id=11610
+Nom=VENTURINI
+Prenom=JEAN-BAPTISTE
+DecesDate=15/09/2017
+CodeDft=11610
+End With
+With DEFUNT
+Id=11388
+Nom=VERDUSCHI
+Prenom=DENISE
+DecesDate=11/08/2017
+CodeDft=11388
+End With
+With DEFUNT
+Id=9939
+Nom=VERGUET
+Prenom=MARIE MARTHE
+DecesDate=12/01/2017
+CodeDft=9939
+End With
+With DEFUNT
+Id=10555
+Nom=VESCO
+Prenom=BRUNO
+DecesDate=10/02/2017
+CodeDft=10555
+End With
+With DEFUNT
+Id=11161
+Nom=VETTOVALLI
+Prenom=ALBERT
+DecesDate=07/07/2017
+CodeDft=11161
+End With
+With DEFUNT
+Id=11324
+Nom=VEYRAT
+Prenom=THERESE
+DecesDate=01/08/2017
+CodeDft=11324
+End With
+With DEFUNT
+Id=10487
+Nom=VIALE
+Prenom=PAUL
+DecesDate=21/03/2017
+CodeDft=10487
+End With
+With DEFUNT
+Id=10052
+Nom=VIALLET
+Prenom=ERNEST
+DecesDate=21/01/2017
+CodeDft=10052
+End With
+With DEFUNT
+Id=9792
+Nom=VIAND- PORRAZ
+Prenom=ANGELE
+DecesDate=28/12/2016
+CodeDft=9792
+End With
+With DEFUNT
+Id=11089
+Nom=VIANEY
+Prenom=CHRISTIAN
+DecesDate=26/06/2017
+CodeDft=11089
+End With
+With DEFUNT
+Id=11663
+Nom=VIARD CRETAT 
+Prenom=ROLAND
+DecesDate=22/09/2017
+CodeDft=11663
+End With
+With DEFUNT
+Id=10368
+Nom=VIBERT
+Prenom=CHRISTIAN
+DecesDate=04/03/2017
+CodeDft=10368
+End With
+With DEFUNT
+Id=11068
+Nom=VIBOUD
+Prenom=NICOLAS
+DecesDate=22/06/2017
+CodeDft=11068
+End With
+With DEFUNT
+Id=11473
+Nom=VICARINI
+Prenom=PIERRE
+DecesDate=26/08/2017
+CodeDft=11473
+End With
+With DEFUNT
+Id=10501
+Nom=VICENTINI
+Prenom=IDA
+DecesDate=26/03/2017
+CodeDft=10501
+End With
+With DEFUNT
+Id=11536
+Nom=VICQ
+Prenom=GEORGETTE
+DecesDate=01/09/2017
+CodeDft=11536
+End With
+With DEFUNT
+Id=10617
+Nom=VIGLINO
+Prenom=SIMONE
+DecesDate=12/04/2017
+CodeDft=10617
+End With
+With DEFUNT
+Id=10062
+Nom=VIGNE 
+Prenom=SERGE
+DecesDate=23/01/2017
+CodeDft=10062
+End With
+With DEFUNT
+Id=10632
+Nom=VIGNOUD
+Prenom=GEORGETTE
+DecesDate=14/04/2017
+CodeDft=10632
+End With
+With DEFUNT
+Id=10070
+Nom=VIGOUROUX
+Prenom=GERMAINE
+DecesDate=24/01/2017
+CodeDft=10070
+End With
+With DEFUNT
+Id=11425
+Nom=VILLAIN
+Prenom=CATHERINE
+DecesDate=19/08/2017
+CodeDft=11425
+End With
+With DEFUNT
+Id=11721
+Nom=VILLARD
+Prenom=JEANNE
+DecesDate=01/10/2017
+CodeDft=11721
+End With
+With DEFUNT
+Id=9926
+Nom=VILLEMUS
+Prenom=RAYMONDE
+DecesDate=10/01/2017
+CodeDft=9926
+End With
+With DEFUNT
+Id=11469
+Nom=VILLIBORD
+Prenom=RAYMOND
+DecesDate=25/08/2017
+CodeDft=11469
+End With
+With DEFUNT
+Id=9821
+Nom=VILLIERMET
+Prenom=MONIQUE
+DecesDate=01/01/2017
+CodeDft=9821
+End With
+With DEFUNT
+Id=11141
+Nom=VILLOUD
+Prenom=GEORGETTE
+DecesDate=04/07/2017
+CodeDft=11141
+End With
+With DEFUNT
+Id=10260
+Nom=VINCENT
+Prenom=EMILIE
+DecesDate=16/02/2017
+CodeDft=10260
+End With
+With DEFUNT
+Id=10740
+Nom=VINCENT
+Prenom=MARC
+DecesDate=01/05/2017
+CodeDft=10740
+End With
+With DEFUNT
+Id=11499
+Nom=VINCENT
+Prenom=BERNARD
+DecesDate=29/08/2017
+CodeDft=11499
+End With
+With DEFUNT
+Id=11589
+Nom=VINCENT
+Prenom=ERIC
+DecesDate=10/09/2017
+CodeDft=11589
+End With
+With DEFUNT
+Id=9837
+Nom=VIONNET
+Prenom=MONIQUE
+DecesDate=03/01/2017
+CodeDft=9837
+End With
+With DEFUNT
+Id=10156
+Nom=VIONNET-FUASSET
+Prenom=FELIX
+DecesDate=02/02/2017
+CodeDft=10156
+End With
+With DEFUNT
+Id=11484
+Nom=VIQUERAT
+Prenom=HENRI
+DecesDate=28/08/2017
+CodeDft=11484
+End With
+With DEFUNT
+Id=10928
+Nom=VIVET
+Prenom=SUZANNE
+DecesDate=31/05/2017
+CodeDft=10928
+End With
+With DEFUNT
+Id=10293
+Nom=VIVIAND
+Prenom=ANNIE
+DecesDate=21/02/2017
+CodeDft=10293
+End With
+With DEFUNT
+Id=11129
+Nom=VIVIER
+Prenom=JEANNE
+DecesDate=01/07/2017
+CodeDft=11129
+End With
+With DEFUNT
+Id=10656
+Nom=VOIRIN BOULANGER
+Prenom=SEBASTIEN
+DecesDate=12/04/2017
+CodeDft=10656
+End With
+With DEFUNT
+Id=10816
+Nom=VOIRON
+Prenom=ANGELE
+DecesDate=11/05/2017
+CodeDft=10816
+End With
+With DEFUNT
+Id=11264
+Nom=VOIRON
+Prenom=SUZANNE
+DecesDate=15/07/2017
+CodeDft=11264
+End With
+With DEFUNT
+Id=10098
+Nom=VOLLUET
+Prenom=GREGOIRE
+DecesDate=26/01/2017
+CodeDft=10098
+End With
+With DEFUNT
+Id=10771
+Nom=VOLPI
+Prenom=MARIANNA
+DecesDate=06/05/2017
+CodeDft=10771
+End With
+With DEFUNT
+Id=9917
+Nom=VOLPI
+Prenom=STEPHANE
+DecesDate=09/01/2017
+CodeDft=9917
+End With
+With DEFUNT
+Id=9979
+Nom=VOLTZENLOGEL
+Prenom=ROGER
+DecesDate=15/01/2017
+CodeDft=9979
+End With
+With DEFUNT
+Id=11380
+Nom=VORONI
+Prenom=CHRISTIAN
+DecesDate=11/08/2017
+CodeDft=11380
+End With
+With DEFUNT
+Id=10195
+Nom=VUILLERMET
+Prenom=MONIQUE
+DecesDate=08/02/2017
+CodeDft=10195
+End With
+With DEFUNT
+Id=10338
+Nom=VUILLERMET
+Prenom=LOUIS
+DecesDate=28/02/2017
+CodeDft=10338
+End With
+With DEFUNT
+Id=10600
+Nom=VUILLERMET
+Prenom=JOANNES
+DecesDate=09/04/2017
+CodeDft=10600
+End With
+With DEFUNT
+Id=10689
+Nom=VUILLERMOT
+Prenom=PATRICIA
+DecesDate=23/04/2017
+CodeDft=10689
+End With
+With DEFUNT
+Id=11675
+Nom=VUKAJLOVIC
+Prenom=MILUTIN
+DecesDate=23/09/2017
+CodeDft=11675
+End With
+With DEFUNT
+Id=10727
+Nom=VULLIEN
+Prenom=PIERRE
+DecesDate=28/04/2017
+CodeDft=10727
+End With
+With DEFUNT
+Id=10787
+Nom=VULLIEN
+Prenom=BERNARD
+DecesDate=09/05/2017
+CodeDft=10787
+End With
+With DEFUNT
+Id=9790
+Nom=VULLIEN
+Prenom=MARIE-LOUISE
+DecesDate=29/12/2016
+CodeDft=9790
+End With
+With DEFUNT
+Id=11574
+Nom=VULLIERME
+Prenom=ANDREE
+DecesDate=09/09/2017
+CodeDft=11574
+End With
+With DEFUNT
+Id=10931
+Nom=WALLERS
+Prenom=AUGUSTA
+DecesDate=31/05/2017
+CodeDft=10931
+End With
+With DEFUNT
+Id=10134
+Nom=WANTELLET
+Prenom=JEAN PAUL
+DecesDate=30/01/2017
+CodeDft=10134
+End With
+With DEFUNT
+Id=11524
+Nom=WEBER
+Prenom=JEANNOT
+DecesDate=31/08/2017
+CodeDft=11524
+End With
+With DEFUNT
+Id=11253
+Nom=WERKMEISTER
+Prenom=CLAUDE
+DecesDate=23/07/2017
+CodeDft=11253
+End With
+With DEFUNT
+Id=10712
+Nom=WESCHE
+Prenom=HELIANE
+DecesDate=27/04/2017
+CodeDft=10712
+End With
+With DEFUNT
+Id=11330
+Nom=WILK
+Prenom=ANDRE
+DecesDate=01/08/2017
+CodeDft=11330
+End With
+With DEFUNT
+Id=10068
+Nom=WINDEBANK
+Prenom=WILLIAM
+DecesDate=19/01/2017
+CodeDft=10068
+End With
+With DEFUNT
+Id=10710
+Nom=WINDELS
+Prenom=EVELYNE
+DecesDate=24/04/2017
+CodeDft=10710
+End With
+With DEFUNT
+Id=11247
+Nom=WOODWARD
+Prenom=MALCOLM
+DecesDate=21/07/2017
+CodeDft=11247
+End With
+With DEFUNT
+Id=11538
+Nom=YVROUX
+Prenom=EMILIE
+DecesDate=02/09/2017
+CodeDft=11538
+End With
+With DEFUNT
+Id=11399
+Nom=ZAGO
+Prenom=YVONNE
+DecesDate=13/08/2017
+CodeDft=11399
+End With
+With DEFUNT
+Id=11029
+Nom=ZAMBIANCHI
+Prenom=ALBERT
+DecesDate=15/06/2017
+CodeDft=11029
+End With
+With DEFUNT
+Id=11263
+Nom=ZAMPOLLI
+Prenom=IRENE
+DecesDate=23/07/2017
+CodeDft=11263
+End With
+With DEFUNT
+Id=9980
+Nom=ZANARDI
+Prenom=ANTOINE
+DecesDate=13/01/2017
+CodeDft=9980
+End With
+With DEFUNT
+Id=10753
+Nom=ZANCHETTA
+Prenom=ANTOINE
+DecesDate=02/05/2017
+CodeDft=10753
+End With
+With DEFUNT
+Id=10008
+Nom=ZUCCA HURE
+Prenom=JEANNIE
+DecesDate=13/06/2004
+CodeDft=10008
+End With
+With DEFUNT
+Id=11461
+Nom=ZUCCHI
+Prenom=ODILE
+DecesDate=24/08/2017
+CodeDft=11461
+End With
+With DEFUNT
+Id=11483
+Nom=ZWANK
+Prenom=BERNADETTE
+DecesDate=27/08/2017
+CodeDft=11483
+End With
+With DEFUNT
+Id=11725
+Nom=HEUDES
+Prenom=JULIEN
+DecesDate=30/09/2017
+CodeDft=11725
+End With
+With DEFUNT
+Id=11726
+Nom=OZIL
+Prenom=BERNADETTE
+DecesDate=02/10/2017
+CodeDft=11726
+End With
+With DEFUNT
+Id=11727
+Nom=BARBIER
+Prenom=EUGENIE
+DecesDate=01/10/2017
+CodeDft=11727
+End With
+With DEFUNT
+Id=11728
+Nom=CONCHON
+Prenom=CLAUDE
+DecesDate=01/10/2017
+CodeDft=11728
+End With
+With DEFUNT
+Id=11729
+Nom=DUCROS
+Prenom=THERESE
+DecesDate=01/10/2017
+CodeDft=11729
+End With
+With DEFUNT
+Id=11730
+Nom=ALLOMBERT-BLANC
+Prenom=JACQUES
+DecesDate=30/09/2017
+CodeDft=11730
+End With
+With DEFUNT
+Id=11731
+Nom=LARRAS
+Prenom=MARINETTE
+DecesDate=03/10/2017
+CodeDft=11731
+End With
+With DEFUNT
+Id=11732
+Nom=RENAU
+Prenom=ROBERT
+DecesDate=30/09/2017
+CodeDft=11732
+End With
+With DEFUNT
+Id=11733
+Nom=CURT
+Prenom=PIERRE
+DecesDate=01/10/2017
+CodeDft=11733
+End With
+With DEFUNT
+Id=11734
+Nom=BAN
+Prenom=TONG
+DecesDate=02/10/2017
+CodeDft=11734
+End With
+With DEFUNT
+Id=11735
+Nom=FEUILLASSIER
+Prenom=HUGUES
+DecesDate=03/10/2017
+CodeDft=11735
+End With
+With DEFUNT
+Id=11736
+Nom=SABATINO
+Prenom=MARIA
+DecesDate=03/10/2017
+CodeDft=11736
+End With
+With DEFUNT
+Id=11737
+Nom=DECORBEZ
+Prenom=ARLETTE
+DecesDate=03/10/2017
+CodeDft=11737
+End With
+With DEFUNT
+Id=11738
+Nom=SIMON
+Prenom=GERARD
+DecesDate=02/10/2017
+CodeDft=11738
+End With
+With DEFUNT
+Id=11739
+Nom=FRESCHI
+Prenom=MARCEL
+DecesDate=03/10/2017
+CodeDft=11739
+End With
+With DEFUNT
+Id=11740
+Nom=DELLA VECCHIA
+Prenom=CLARA
+DecesDate=02/10/2017
+CodeDft=11740
+End With
+With DEFUNT
+Id=11741
+Nom=RENAUT
+Prenom=MARIE
+DecesDate=03/10/2017
+CodeDft=11741
+End With
+With DEFUNT
+Id=11742
+Nom=VIARD-GAUDIN
+Prenom=RENEE
+DecesDate=04/10/2017
+CodeDft=11742
+End With
+With DEFUNT
+Id=11743
+Nom=PELLICIER
+Prenom=SIMONE
+DecesDate=03/10/2017
+CodeDft=11743
+End With
+With DEFUNT
+Id=11744
+Nom=TREPSAT
+Prenom=CHRISTIANE
+DecesDate=04/10/2017
+CodeDft=11744
+End With
+With DEFUNT
+Id=11745
+Nom=HEURTIER
+Prenom=CAMILLE
+DecesDate=02/10/2017
+CodeDft=11745
+End With
+With DEFUNT
+Id=11746
+Nom=CASANO
+Prenom=JEANNINE
+DecesDate=04/10/2017
+CodeDft=11746
+End With
+With DEFUNT
+Id=11747
+Nom=CAPARELLO
+Prenom=LOUIS
+DecesDate=04/10/2017
+CodeDft=11747
+End With
+With DEFUNT
+Id=11748
+Nom=CHICHIGNOUD
+Prenom=MICHELE
+DecesDate=04/10/2017
+CodeDft=11748
+End With
+With DEFUNT
+Id=11749
+Nom=RATTIN
+Prenom=NICOLE
+DecesDate=04/10/2017
+CodeDft=11749
+End With
+With DEFUNT
+Id=11750
+Nom=SORREL
+Prenom=GISELE
+DecesDate=04/10/2017
+CodeDft=11750
+End With
+With DEFUNT
+Id=11751
+Nom=COUTAZ
+Prenom=DENISE
+DecesDate=05/10/2017
+CodeDft=11751
+End With
+With DEFUNT
+Id=11752
+Nom=RAIMOND
+Prenom=JEANNE
+DecesDate=04/10/2017
+CodeDft=11752
+End With
+With DEFUNT
+Id=11753
+Nom=BESSON
+Prenom=MARIE-LOUISE
+DecesDate=05/10/2017
+CodeDft=11753
+End With
+With DEFUNT
+Id=11754
+Nom=FAVARIO
+Prenom=ALAIN
+DecesDate=05/10/2017
+CodeDft=11754
+End With
+With DEFUNT
+Id=11755
+Nom=LENOUVEL
+Prenom=ODILE
+DecesDate=05/10/2017
+CodeDft=11755
+End With
+With DEFUNT
+Id=11756
+Nom=ZERMATTEN
+Prenom=CHRISTIANE
+DecesDate=05/10/2017
+CodeDft=11756
+End With
+With DEFUNT
+Id=11757
+Nom=GUINNET
+Prenom=JEAN -JACQUES
+DecesDate=03/10/2017
+CodeDft=11757
+End With
+With DEFUNT
+Id=11758
+Nom=TAHRI
+Prenom=MOHAMMED
+DecesDate=29/09/2017
+CodeDft=11758
+End With
+With DEFUNT
+Id=11759
+Nom=GROS
+Prenom=GILBERT
+DecesDate=06/10/2017
+CodeDft=11759
+End With
+With DEFUNT
+Id=11760
+Nom=ZEN
+Prenom=JEAN-CLAUDE
+DecesDate=05/10/2017
+CodeDft=11760
+End With
+With DEFUNT
+Id=11761
+Nom=RIGUET
+Prenom=GERARD
+DecesDate=06/10/2017
+CodeDft=11761
+End With
+With DEFUNT
+Id=11762
+Nom=SONNEFRAUD
+Prenom=PAUL
+DecesDate=05/10/2017
+CodeDft=11762
+End With
+With DEFUNT
+Id=11763
+Nom=CAILLE
+Prenom=EUGENE
+DecesDate=06/10/2017
+CodeDft=11763
+End With
+With DEFUNT
+Id=11764
+Nom=LAMBERT
+Prenom=ERNEST
+DecesDate=07/10/2017
+CodeDft=11764
+End With
+With DEFUNT
+Id=11765
+Nom=LAMBERT
+Prenom=ERNEST
+DecesDate=07/10/2017
+CodeDft=11765
+End With
+With DEFUNT
+Id=11766
+Nom=PLOQUIN
+Prenom=ALAIN
+DecesDate=07/10/2017
+CodeDft=11766
+End With

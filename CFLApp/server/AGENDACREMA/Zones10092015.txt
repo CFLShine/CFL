@@ -1,0 +1,159 @@
+Id=10092015
+Jourdate=10/09/2015
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=6409
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=FRANCO
+Prenom_ceremonie=CHRISTIAN
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de PONTCHARRA
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6409
+Pf_cremation=PF BAUDRION
+Nom_cremation=FRANCO
+Prenom_cremation=CHRISTIAN
+EvenementArrivee_cremation=Arrivée de PONTCHARRA
+HeuretArrivee_ceremonie=
+FicheOccupe=Libre
+NoOrdre=1321
+Four=2
+End With
+With ZONE
+Id=0
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=6411
+Pf_ceremonie=PFM
+Nom_ceremonie=MERMILLIOD
+Prenom_ceremonie=YVETTE
+CodeDft_cremation=6411
+Pf_cremation=PFM
+Nom_cremation=MERMILLIOD
+Prenom_cremation=YVETTE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=1320
+Four=1
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=6405
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=COURAGEUX
+Prenom_ceremonie=ERIKA
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM LA FAMILLE RECUPERE L'URNE
+CodeDft_cremation=6405
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=COURAGEUX
+Prenom_cremation=ERIKA
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=1322
+Four=1
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=6412
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=DELAUNE
+Prenom_ceremonie=CAMILLE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de LA MOTTE SERVOLEX
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL PIN   LES PF RECUPERE L'URNE
+CodeDft_cremation=6412
+Pf_cremation=PFG MACHE
+Nom_cremation=DELAUNE
+Prenom_cremation=CAMILLE
+EvenementArrivee_cremation=Arrivée de LA MOTTE SERVOLEX
+FicheOccupe=Libre
+NoOrdre=1323
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE FAMILLE 
+SaisieOccupe=Libre
+CodeDft_ceremonie=6407
+Pf_ceremonie=PF PECH
+Nom_ceremonie=LOMBARD
+Prenom_ceremonie=SIMONE
+HeureArrivee_ceremonie=15:00
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=15:00
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie PAS DE CEREMONIE Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6407
+Pf_cremation=PF PECH
+Nom_cremation=LOMBARD
+Prenom_cremation=SIMONE
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=1324
+Four=1
+End With
+With ZONE
+Id=6
+EvenementCommentaire= PA S DE CREMATION    SEB PFM
+SaisieOccupe=Libre
+CodeDft_ceremonie=6410
+Pf_ceremonie=PFM
+Nom_ceremonie=BUDOR
+Prenom_ceremonie=MICHELINE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=False
+End With
+With ZONE
+Id=7
+End With

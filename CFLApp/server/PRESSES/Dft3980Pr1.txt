@@ -1,0 +1,18 @@
+Id=-1
+Type=Erratum
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chignin,\f1\par<Ret>\b0\f0 Dans l'avis de d\'e9c\'e8s\f1\par<Ret>\pard\qc\b\f0 Juliette CARTIER\f1\par<Ret>\pard\b0\f0 il fallait lire : c\'e9r\'e9monie le mercredi 15.\par<Ret>}<Ret>
+CodeDft=3980
+Tarif=55
+NbLignes=5
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=14/10/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

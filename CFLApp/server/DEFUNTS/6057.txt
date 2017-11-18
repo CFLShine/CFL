@@ -1,0 +1,15 @@
+DefuntNom=MAHUTEAU
+DefuntPrenom=ROGER
+DefuntDecesDate=17/07/2015
+ArriveeCommune=CHAMBERY
+ArriveeDate=23/07/2015
+ArriveeHeure=16:15
+PfArrivee=PF CHAMBERIENNES
+PfCeremonie=PF CHAMBERIENNES
+CeremonieCrematoriumDate=23/07/2015
+CeremonieCrematoriumHeure=16:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Religieuse
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=6057
+Id=6057

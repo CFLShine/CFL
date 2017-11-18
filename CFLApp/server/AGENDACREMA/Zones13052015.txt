@@ -1,0 +1,177 @@
+Id=13052015
+Jourdate=13/05/2015
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5479
+Pf_ceremonie=PFM
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_crema=
+Prenom_crema=
+HeuretArrivee_ceremonie=
+Nom_cremation=
+Prenom=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=5462
+Pf_ceremonie=PF PECH
+Nom_ceremonie=BERTHET
+Prenom_ceremonie=FRANCOIS
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_crema=16:15
+EvenementArrivee_crema=Arrivée de UGINE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5462
+Pf_cremation=PF PECH
+Nom_crema=BERTHET
+Prenom_crema=FRANCOIS
+NoOrdre=745
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft_ceremonie=5466
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=SAUTERON
+Prenom_ceremonie=SUZANNE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de LA MOTTE SERVOLEX
+HeureArrivee_crema=15:15
+EvenementArrivee_crema=Arrivée de LA MOTTE SERVOLEX
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5466
+Pf_cremation=PFG MACHE
+Nom_crema=SAUTERON
+Prenom_crema=SUZANNE
+NoOrdre=744
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=5467
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=HEL
+Prenom_ceremonie=ODETTE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_crema=14:15
+EvenementArrivee_crema=Arrivée de BELLEY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM 
+CodeDft_cremation=5467
+Pf_cremation=PF TONIN COIFFET
+Nom_crema=HEL
+Prenom_crema=ODETTE
+NoOrdre=743
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=5470
+Pf_ceremonie=POMMAT
+Nom_ceremonie=VOCHER
+Prenom_ceremonie=CECILE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_crema=10:15
+EvenementArrivee_crema=Arrivée de ALBERTVILLE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5470
+Pf_cremation=POMMAT
+Nom_crema=VOCHER
+Prenom_crema=CECILE
+NoOrdre=741
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5476
+Pf_ceremonie=PFM
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=4
+EvenementCommentaire=CERCUEIL CREMATION  FAMILLE RECUPERE
+SaisieOccupe=Libre
+CodeDft_ceremonie=5475
+Pf_ceremonie=PF BOUVIER
+Nom_ceremonie=DENIS
+Prenom_ceremonie=CLAUDIA
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de AIX-LES-BAINS
+HeureArrivee_crema=12:15
+EvenementArrivee_crema=Arrivée de AIX-LES-BAINS
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5475
+Pf_cremation=PF BOUVIER
+Nom_crema=DENIS
+Prenom_crema=CLAUDIA
+NoOrdre=742
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

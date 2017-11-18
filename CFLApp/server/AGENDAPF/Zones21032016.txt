@@ -1,0 +1,185 @@
+Id=21032016
+JourDate=21/03/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7820
+Comment_0=DEPART INHUMATION LA RAVOIRE
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=7824
+Comment_0=PLEINE TERRE NOUVELLE
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=60
+EquipeId_1=17
+EquipeId_2=5
+EquipeId_3=6
+Ordo=KAELBERER Eric
+Equipe_0=DUMAZ Rémy
+Equipe_1=MEGHEZZI Marc
+Equipe_2=MILLON Patrick
+Equipe_3=PINTOUT Bruno
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=7828
+Comment_0=LA FAMILLE RECUPERE LES CENDRES
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=7
+EquipeId_1=8
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=JACQUIER Michel
+Equipe_1=ESPINOZA François
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7836
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=7844
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=7
+EquipeId_1=5
+EquipeId_2=6
+EquipeId_3=11
+Ordo=KAELBERER Eric
+Equipe_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+Equipe_2=PINTOUT Bruno
+Equipe_3=FAVRIN Thierry
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7854
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=6
+CodeDft=7855
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=7
+CodeDft=7863
+DemiJour=0
+Pos=2
+UsedBy=
+End With
+With ZONE
+Id=8
+CodeDft=7862
+DemiJour=1
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=9
+CodeDft=7861
+DemiJour=1
+Pos=2
+UsedBy=
+End With
+With ZONE
+Id=10
+CodeDft=7864
+DemiJour=1
+Pos=3
+UsedBy=Libre
+End With
+With ZONE
+Id=11
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=7871
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With

@@ -1,0 +1,170 @@
+Id=30012013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=2
+NoZONE=2
+AdresseFicheDefunt=\DONNEES\DONNEES2013\223.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=PF TONIN COIFFET
+Nom=ALVAREZ
+Prenom=MARIA
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie GESTE D'ADIEU 
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=223
+End With
+With ZONE
+Id=3
+NoZONE=3
+AdresseFicheDefunt=\DONNEES\DONNEES2013\225.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=PFM
+Nom=DROGUET
+Prenom=GENEVIEVE
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=225
+End With
+With ZONE
+Id=4
+NoZONE=4
+AdresseFicheDefunt=\DONNEES\DONNEES2013\233.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PFG CHAMBERY
+Nom=VILLESSECHE
+Prenom=GEORGES
+NoOrdre=
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie GESTE D'ADIEU 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=233
+End With
+With ZONE
+Id=5
+NoZONE=5
+AdresseFicheDefunt=\DONNEES\DONNEES2013\218.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=PF LA BALME
+Nom=CRESPO
+Prenom=DENISE
+NoOrdre=
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION PAR NOS SOINS VOIR AVEC LA FAMILLE
+CodeDft=218
+End With
+With ZONE
+Id=6
+NoZONE=6
+AdresseFicheDefunt=\DONNEES\DONNEES2013\221.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=PF TONIN COIFFET
+Nom=RUBOD
+Prenom=ANDRE
+NoOrdre=
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie GESTE D' ADIEU 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE LE JOUR MEME
+CodeDft=221
+End With
+With ZONE
+Id=7
+NoZONE=7
+AdresseFicheDefunt=\DONNEES\DONNEES2013\222.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=PF BALDINI
+Nom=BELLAMY
+Prenom=LAURENT
+NoOrdre=
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie GESTE D'ADIEU 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE
+CodeDft=222
+End With

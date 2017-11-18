@@ -1,0 +1,5 @@
+Agent=boulet
+Provenance=hopital chambery
+Nature=2 foetus
+Four=1
+NoOrdre=315

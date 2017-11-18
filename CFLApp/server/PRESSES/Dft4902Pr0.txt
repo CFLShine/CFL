@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Barberaz,\f1\par<Ret>\b0\f0 Jean, son \'e9poux; ses enfants; sa belle-fille; ses petits-enfants et arri\'e8re-petits-enfants; et toute sa famille, vous font part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Yvonne JACQUET\f1\par<Ret>\pard\b0\f0 survenu dans sa 82\'e8me ann\'e9e.\f1\par<Ret>\f0 La c\'e9r\'e9monie aura lieu le jeudi 26 f\'e9vrier 2015 \'e0 quinze heures en l'\'e9glise de Barberaz.\f1\par<Ret>\f0 Condol\'e9ances sur registres.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\f1\par<Ret>\f0 La famille remercie le Cabinet d'infirmiers de Barberaz pour leur gentillesse et leur d\'e9vouement.\f1\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=4902
+Tarif=208
+NbLignes=19
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=3
+Date=25/02/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

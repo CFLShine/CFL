@@ -1,0 +1,5 @@
+Id=-1
+With CONVERSATION
+Id=7
+conversation=[enter]-----------------------[enter]PINET Marie-Pierre[enter][enter]RDV ORDONNATEUR[enter][enter]-----------------------[enter]BORDEILER Jeanine[enter][enter]Message bien reçu.[enter]
+End With

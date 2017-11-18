@@ -1,0 +1,141 @@
+Id=15072014
+Jourdate=15/07/2014
+Version=NouveauFormat
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+HeureCeremonie=
+HeureCremation=
+HeureCommentaire=
+EvenementArrivee=
+EvenementCeremonie=
+EvenementCremation=
+EvenementCommentaire=
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3465
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=COLLOMB
+Prenom=SERGE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCEUIL EN CHENE  NE PAS SCELLER L'URNE
+NoOrdre=859
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3468
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=COLLET
+Prenom=LOUIS
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+NoOrdre=863
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3469
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=CARRON
+Prenom=ALFRED
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=860
+Four=1
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3470
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=NICOL
+Prenom=SERGE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=862
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3471
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=DEBONBOURG
+Prenom=BENOIT
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=861
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+End With
+With ZONE
+Id=4
+End With

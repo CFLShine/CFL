@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Pontcharra,\f1\par<Ret>\b0\f0 Toute sa famille vous fait part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Louise BARTOLAMI\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 81ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie civile aura lieu le samedi 3 janvier 2015 \'e0 seize heures quinze au Centre Fun\'e9raire de Chamb\'e9ry.\par<Ret>}<Ret>
+CodeDft=4457
+Tarif=154
+NbLignes=9
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=02/01/2015
+End With
+With DEPARTEMENT
+Id=5
+Name=ISERE
+End With

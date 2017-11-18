@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=660
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Chamb\'e9ry, Cognac,\f1\par<Ret>\f0 Madame Renaud Josette, son \'e9pouse,\f1\par<Ret>\f0 St\'e9phane et David, ses fils,\f1\par<Ret>\f0 Sandrine, sa belle fille,\f1\par<Ret>\f0 Dorian, Melvin, Ga\'ebl, ses petits enfants ch\'e9ris,\f1\par<Ret>\f0 Jacqueline et Christiane, ses soeurs,\f1\par<Ret>\f0 Liliane, sa belle soeur,\f1\par<Ret>\f0 Les familles Mercier, Baert, Naud, Renaud et Groo,\f1\par<Ret>\f0 Beaux fr\'e8res, neveux et ni\'e8ces ainsi que toute la famille,\f1\par<Ret>\pard\f0 Ont la tristesse de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Monsieur Bernard RENAUD\b0\f1\par<Ret>\pard\f0 la c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e \'e0 l'Eglise Notre Dame de Chamb\'e9ry le Jeudi 20 Novembre 2014 \'e0 dix heures, suivie de la cr\'e9mation dans la stricte intimit\'e9e familiale,\f1\par<Ret>\f0 pas de fleurs ni de plaques,\f1\par<Ret>\f0 recueil de dons pour la recherche contre le cancer,\f1\par<Ret>\f0 La famille rem\'e8rcie le personnel de l'hopital de Chamb\'e9ry,\f1\par<Ret>\f0 cet avis tient lieu de faire et de rem\'e8rciements.\f1\par<Ret>\pard\qc\f0\par<Ret>}<Ret>
+CodeDft=4165
+Tarif=290
+NbLignes=31
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=18/11/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

@@ -1,0 +1,144 @@
+Id=3102015
+Jourdate=03/10/2015
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6579
+Pf_ceremonie=PFM
+Nom_ceremonie=DUISIT
+Prenom_ceremonie=ROLAND
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6579
+Pf_cremation=PFM
+Nom_cremation=DUISIT
+Prenom_cremation=ROLAND
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1425
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6568
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=CHAPUIS
+Prenom_ceremonie=BERNARD
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6568
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=CHAPUIS
+Prenom_cremation=BERNARD
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1426
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=6572
+Pf_ceremonie=PFM
+Nom_ceremonie=SCHULZE
+Prenom_ceremonie=ALAIN
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6572
+Pf_cremation=PFM
+Nom_cremation=SCHULZE
+Prenom_cremation=ALAIN
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+Police=True
+FicheOccupe=Libre
+NoOrdre=1422
+Four=2
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=6577
+Pf_ceremonie=PFG MACHE
+Nom_ceremonie=COLLET
+Prenom_ceremonie=ANNIE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+CodeDft_cremation=6577
+Pf_cremation=PFG MACHE
+Nom_cremation=COLLET
+Prenom_cremation=ANNIE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1423
+Four=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6578
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=PITTON
+Prenom_ceremonie=ERNEST
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de LYON
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6578
+Pf_cremation=PF MOUCHE
+Nom_cremation=PITTON
+Prenom_cremation=ERNEST
+EvenementArrivee_cremation=Arrivée de LYON
+FicheOccupe=Libre
+NoOrdre=1424
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+End With
+With ZONE
+Id=5
+End With

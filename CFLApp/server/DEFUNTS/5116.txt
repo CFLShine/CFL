@@ -1,0 +1,17 @@
+Id=5116
+CremationArriveeDe=ST LAURENT DU PONT
+ArriveeDate=24/03/2015
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=
+CremationHeure=
+CremationCommune=
+PfCremation=PF PENA
+DefuntNom=SAMSON
+DefuntPrenom=GISELLE
+DefuntDecesDate=20/03/2015
+ReservCrema=Marie-Pierre PINET
+PfArrivee=PF PENA
+CodeDefunt=5116

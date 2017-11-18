@@ -1,0 +1,149 @@
+Id=10112014
+Jourdate=10/11/2014
+Version=NouveauFormat
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4112
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=CUCHER
+Prenom=JEANNE  MARIE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1376
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4116
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=MONIN
+Prenom=JEAN-CLAUDE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:30
+EvenementCeremonie=Cérémonie Religieuse EGLISE ST JEAN D'ARVEY
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1373
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4115
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=MARIN
+Prenom=AIMEE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:30
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE LA MOTTE SERVOLEX
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1371
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4118
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=TASSARA
+Prenom=JEAN
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1372
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4119
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=FRANCOIS
+Prenom=LOUIS
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM  DEPOT CERCUEIL FIN DE MATINEE
+NoOrdre=1374
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4120
+Pf=PF CARTIER  LANGE
+Conseiller=Marie-Pierre PINET
+Nom=VILBAS
+Prenom=MICHEL
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de HOPITAL  CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1370
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4117
+Pf=PFG CHAMBERY
+Conseiller=MP PINET
+Nom=ARBONA
+Prenom=ROSE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1375
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

@@ -1,0 +1,135 @@
+Id=26032013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\627.txt
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=BRUNIN
+Prenom=EVA
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de ALBERVILLE
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+NoOrdre=396
+Four=1
+CodeDft=627
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\624.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=CELEGATO
+Prenom=JEAN-CLAUDE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de LA MOTTE SERVOLEX 
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=397
+Four=2
+CodeDft=624
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\626.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=DAMEVIN
+Prenom=JACQUES
+HeureArrivee=11:00
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUERENT PLUS TARD POUR DISPERSION
+Police=True
+NoOrdre=398
+Four=1
+CodeDft=626
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\630.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=MILLION  BRODAZ
+Prenom=RENE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=339
+Four=1
+CodeDft=630
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\629.txt
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=CHAUTAIN
+Prenom=DOMINIQUE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=400
+Four=2
+CodeDft=629
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With

@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, Mauguio.\f1\par<Ret>\b0\f0 Sylvie BURDET et Pascale BATTUT, ses filles;\f1\par<Ret>\f0 Alain BATTUT, son gendre et Am\'e9lie et L\'e9o, ses petits-enfants;\f1\par<Ret>\f0 ses soeurs;\f1\par<Ret>\f0 neveux et ni\'e8ces;\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Aim\'e9e BURDET\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 83 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse a eu lieu le Mercredi 8 Avril 2015 dans l'intimit\'e9 familiale.\f1\par<Ret>\f0 Elle repose d\'e9sormais au cimeti\'e8re de Charri\'e8re-Neuve.\par<Ret>}<Ret>
+CodeDft=5214
+Tarif=165
+NbLignes=17
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=09/04/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

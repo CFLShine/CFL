@@ -1,0 +1,144 @@
+Id=5052015
+Jourdate=05/05/2015
+With ZONE
+Id=4
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_crema=
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERE L'URNE
+CodeDft_ceremonie=5419
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=MEUNIER
+Prenom_ceremonie=VERONIQUE
+CodeDft_cremation=5419
+Pf_cremation=PF MOUCHE
+Nom_crema=MEUNIER
+Prenom_crema=VERONIQUE
+NoOrdre=707
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=CERCUIEL EN PIN
+SaisieOccupe=Libre
+CodeDft_ceremonie=5411
+Pf_ceremonie=PFG CHAMBERY
+Nom_ceremonie=BERNINET
+Prenom_ceremonie=DENIS
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5411
+Pf_cremation=PFG CHAMBERY
+Nom_crema=BERNINET
+Prenom_crema=DENIS
+NoOrdre=706
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5418
+Pf_ceremonie=PF FLORET
+Nom_ceremonie=MARTIN
+Prenom_ceremonie=FERDINAND
+HeureArrivee_ceremonie=14:30
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de ALBERTVILLE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5418
+Pf_cremation=PF FLORET
+Nom_crema=MARTIN
+Prenom_crema=FERDINAND
+HeuretArrivee_ceremonie=
+Nom_cremation=
+Prenom=
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+NoOrdre=708
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=5420
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=CHAPPELLAZ
+Prenom_ceremonie=FERNAND
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de SAINT JEAN DE MAURIENNE
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=5420
+Pf_cremation=PF MAURIENNAISES
+Nom_crema=CHAPPELLAZ
+Prenom_crema=FERNAND
+NoOrdre=704
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=5422
+Pf_ceremonie=PFM
+Nom_ceremonie=GAMEN
+Prenom_ceremonie=SIMONE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=705
+Four=1
+FicheOccupe=Libre
+CodeDft_cremation=5422
+Pf_cremation=PFM
+Nom_crema=GAMEN
+Prenom_crema=SIMONE
+End With
+With ZONE
+Id=6
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=7
+End With

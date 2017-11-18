@@ -1,0 +1,132 @@
+Id=19032014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2777.txt
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=GIRARD MADOUX
+Prenom=LAURE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=356
+Four=1
+CodeDft=2777
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2781.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=GAROFOLIN
+Prenom=JEANNE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=358
+Four=2
+FicheOccupe=Libre
+CodeDft=2781
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2785.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=FRISON
+Prenom=EUGENE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=359
+Four=1
+FicheOccupe=Libre
+CodeDft=2785
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2786.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=COLLOMBET
+Prenom=NICOLE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=357
+Four=2
+CodeDft=2786
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2787.txt
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=LOUVEL
+Prenom=REMI
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=360
+Four=2
+FicheOccupe=Libre
+CodeDft=2787
+End With
+With ZONE
+Id=1
+EvenementCommentaire=LA FAMILLE RECUPERENT L'URNE  NE PAS  SCELLER 
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2789.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Marie-Pierre PINET
+Nom=MESAS-LOPEZ
+Prenom=MANUEL
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=355
+Four=2
+FicheOccupe=Libre
+CodeDft=2789
+End With

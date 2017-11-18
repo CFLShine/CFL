@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 St Alban Leysse.\f1\par<Ret>\f0 M.Roger Ortolland, son \'e9poux,\f1\par<Ret>\f0 ses enfants : Marl\'e8ne et Alain, \f1\par<Ret>\f0 leurs conjoints, Jean-Eric Duch\'e2tel et Val\'e9rie Ribault,\f1\par<Ret>\f0 ses petits-enfants : Daphn\'e9e, Quentin, Guillaume, Fabien,\f1\par<Ret>\f0 ses belle-soeur et beau-fr\'e8re, \f1\par<Ret>\f0 toute sa famille, \f1\par<Ret>\f0  ont la douleur de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Mme\b0  \b Andr\'e9e ORTOLLAND\par<Ret>n\'e9e DUNAND\b0\f1\par<Ret>\pard\f0 la c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e le jeudi 14 ao\'fbt 2014 \'e0 dix heures en l'\'e9glise de St Alban Leysse.\f1\par<Ret>\f0 Condoleances sur registre.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part.\b\f1\par<Ret>\pard\qc\b0\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=3634
+Tarif=208
+NbLignes=21
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=3
+Date=12/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

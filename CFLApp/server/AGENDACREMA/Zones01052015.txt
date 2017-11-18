@@ -1,0 +1,32 @@
+Id=-1
+With ZONE
+Id=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

@@ -1,0 +1,53 @@
+Id=1052013
+With ZONE
+Id=5
+CodeZone=5
+Pos=0
+DemiJour=0
+AdressDft=\DONNEES\DONNEES2013\864.txt
+Ordo=
+OrdoOk=white
+Equipe_0=PINTOUT Bruno
+Equipe_1=EHNY Maxime
+Equipe_2=
+Equipe_3=
+EquipeOk_0=red
+EquipeOk_1=red
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Marion TREBOUTE
+Pf=PFM
+DefuntNom=PORRAL
+DefuntPrenom=ODETTE JOSEPHINE
+Saisie=TAMB1
+Heure_0=11:27
+Ev_0=TAMB depuis CLOS ST JOSEPH vers Centre funéraire
+Comment_0=
+CodeDft=864
+End With
+With ZONE
+Id=6
+CodeZone=6
+Pos=1
+DemiJour=0
+AdressDft=\DONNEES\DONNEES2013\865.txt
+Ordo=
+OrdoOk=white
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Marie-Pierre PINET
+Pf=PFG MACHE
+DefuntNom=FUMAT
+DefuntPrenom=DENISE
+Saisie=TAMB1
+Heure_0=11:20
+Ev_0=TAMB depuis CHALLES LES EAUX  vers Centre funéraire
+Comment_0=
+CodeDft=865
+End With

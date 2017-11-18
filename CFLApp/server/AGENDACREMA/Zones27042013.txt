@@ -1,0 +1,163 @@
+Id=27042013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\816.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=GRANIER
+Prenom=ALFRED
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM POUR PF MOUCHE RDV FAMILLE A 9H POUR PREPARATION
+NoOrdre=535
+Four=1
+CodeDft=816
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\827.txt
+Pf=PF PENA
+Conseiller=Marie-Pierre PINET
+Nom=PICARD
+Prenom=MICHEL
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM POUR FP PENA
+NoOrdre=536
+Four=2
+CodeDft=827
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\820.txt
+Pf=PF BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=CONREUR
+Prenom=DANIEL
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=537
+Four=1
+CodeDft=820
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\831.txt
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=LEJOSNE
+Prenom=SANDRINE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 15H
+NoOrdre=538
+Four=2
+CodeDft=831
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\821.txt
+Pf=PFG MOUTIERS
+Conseiller=Marie-Pierre PINET
+Nom=BORNAND
+Prenom=ANNE-MARIE
+HeureArrivee=
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=539
+Four=2
+CodeDft=821
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\822.txt
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=EMMENECKER
+Prenom=MAX
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=540
+Four=1
+CodeDft=822
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\824.txt
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=GUESNON
+Prenom=GENEVIEVE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=541
+Four=2
+CodeDft=824
+End With

@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Chamb\'e9ry, Le Bourget-du-Lac,\f1\par<Ret>\f0 Jean-Pierre, son \'e9poux,\f1\par<Ret>\f0 Dominique, Olivier, Bernard, Marie-Laure, Sophie et St\'e9phane, ses enfants et leurs conjoints,\f1\par<Ret>\f0 ses quatorze petits enfants et ses dix arri\'e8res petits enfants,\f1\par<Ret>\f0 son fr\'e8re et sa soeur,\f1\par<Ret>\f0 son beau fr\'e8re, sa belle soeur, et leurs familles,\f1\par<Ret>\f0 parents et amis,\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Madame Monique PRUD'HOMME\f1\par<Ret>\f0 N\'e9e MILLION\f1\par<Ret>\pard\b0\f0 la c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e en l'Eglise du\f1\par<Ret>\f0 Bourget-du-Lac le Samedi 13 D\'e9cembre 2014 \'e0 dix heures.\par<Ret>}<Ret>
+CodeDft=4311
+Tarif=208
+NbLignes=20
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=12/12/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

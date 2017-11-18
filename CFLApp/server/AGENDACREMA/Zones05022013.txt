@@ -1,0 +1,177 @@
+Id=5022013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+Four=
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+AdresseFicheDefunt=\DONNEES\DONNEES2013\268.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Lo�c TREVARAIN
+Pf=PF TONIN COIFFET
+Nom=PERCEBOIS 
+Prenom=DANIEL
+NoOrdre=175
+HeureArrivee=09:15
+EvenementArrivee=Arriv�e de CULOZ
+HeureCeremonie=09:15
+EvenementCeremonie=C�r�monie PAS DE FAMILLE 
+HeureCremation=10:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=DISPERSION PAR NOS SOINS PAS DE FAMILLE
+Four=2
+CodeDft=268
+End With
+With ZONE
+Id=2
+NoZONE=2
+AdresseFicheDefunt=\DONNEES\DONNEES2013\272.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Pascal MARIE
+Pf=PFM
+Nom=MANILOFF
+Prenom=GEORGES
+NoOrdre=176
+HeureArrivee=10:15
+EvenementArrivee=Arriv�e de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=C�r�monie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=RECUEILLEMENT CIVIL INTIMIT�  4/5 PERS
+Four=1
+CodeDft=272
+End With
+With ZONE
+Id=3
+NoZONE=3
+AdresseFicheDefunt=\DONNEES\DONNEES2013\267.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Marie-Pierre PINET
+Pf=PF SEDRAN
+Nom=VARET
+Prenom=JEANNINE
+NoOrdre=177
+HeureArrivee=11:15
+EvenementArrivee=Arriv�e de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=C�r�monie Geste d'adieu 
+HeureCremation=12:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=
+Four=2
+CodeDft=267
+End With
+With ZONE
+Id=4
+NoZONE=4
+AdresseFicheDefunt=\DONNEES\DONNEES2013\269.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Lo�c TREVARAIN
+Pf=PF FLORET
+Nom=DEL NEGRO
+Prenom=ALESSANDRO
+NoOrdre=178
+HeureArrivee=12:15
+EvenementArrivee=Arriv�e de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=C�r�monie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+Four=1
+CodeDft=269
+End With
+With ZONE
+Id=5
+NoZONE=5
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+Four=
+CodeDft=
+End With
+With ZONE
+Id=6
+NoZONE=6
+AdresseFicheDefunt=\DONNEES\DONNEES2013\270.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Lo�c TREVARAIN
+Pf=PF LA BALME
+Nom=BOUVIER-GARZON
+Prenom=SUZANNE 
+NoOrdre=179
+HeureArrivee=15:15
+EvenementArrivee=Arriv�e de MOUTIERS
+HeureCeremonie=15:15
+EvenementCeremonie=C�r�monie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Cr�mation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE   PREVOIR ORDO PFM
+Four=2
+CodeDft=270
+End With
+With ZONE
+Id=7
+NoZONE=7
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With

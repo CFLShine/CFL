@@ -1,0 +1,190 @@
+Id=31102014
+JourDate=31/10/2014
+With ZONE
+Id=0
+Saisie=Ceremonie
+Pos=0
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4067
+Pf=PFM
+Conseiller=Marie-Pierre PINET
+DefuntNom=KUZAJ
+DefuntPrenom=MICHELLE
+Heure_0=10:15
+Ev_0=Cérémonie Civile Cf salle omnicultes
+Comment_0=ORDONNATEUR PFM POUR PF MOUCHE
+Comment_1=FAMILLE PRESENTE A 9H45  POUR PREPARATION / 3 texts lus par famille, 1 ou 2 morceaux de musique à passer
+Ordo=FAVRIN Thierry
+OrdoId=11
+End With
+With ZONE
+Id=1
+Saisie=Ceremonie
+Pos=0
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4068
+Pf=PFM
+Conseiller=Marie-Pierre PINET
+DefuntNom=MASCIA
+DefuntPrenom=EMANUELE
+Heure_0=14:15
+Ev_0=Cérémonie Civile Cf salle omnicultes
+Comment_0=ORDONNATEUR PFM POUR PF DE LA VANOISE
+Comment_1=PREPARATION  A  14H 
+Ordo=FAVRIN Thierry
+OrdoId=11
+End With
+With ZONE
+Id=2
+Saisie=Ceremonie
+Pos=1
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4070
+Pf=PFM
+Conseiller=Marie-Pierre PINET
+DefuntNom=AUBERT
+DefuntPrenom=RENE
+Heure_0=11:15
+Ev_0=Cérémonie Civile Cf salle omnicultes
+Comment_0=ORDONNATEUR PFM POUR PF PENA 
+Comment_1=FAMILLE PRESENTE A 10H45 POUR PREPARATION
+Ordo=KAELBERER Eric
+OrdoId=14
+End With
+With ZONE
+Id=3
+Saisie=TAMB
+Pos=2
+DemiJour=0
+CodeDft=4081
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=BREDA
+DefuntPrenom=JEAN
+Heure_0=11:28
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=ESPINOZA François
+Equipe_1=PEYREDIEU JLUC
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=4
+Saisie=TAMB
+Pos=3
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4082
+Pf=PF BAUDRION
+Conseiller=Marie-Pierre PINET
+DefuntNom=RODIER
+DefuntPrenom=ROSETTE
+Heure_0=12:00
+Ev_0=TAMB depuis PONTCHARRA vers Centre funéraire
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=5
+Saisie=TAMB
+Pos=4
+DemiJour=1
+CodeDft=4083
+Pf=PFM
+Conseiller=
+DefuntNom=ANDREI
+DefuntPrenom=SYLVESTRE
+Heure_0=14:45
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MARIE Pascal
+Equipe_1=
+End With
+With ZONE
+Id=6
+Saisie=Soins
+Pos=2
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4082
+Pf=PF BAUDRION
+Conseiller=Marie-Pierre PINET
+DefuntNom=RODIER
+DefuntPrenom=ROSETTE
+Heure_0=16:30
+Ev_0=Soins de thanatopraxie par  HYGECO
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=7
+Saisie=TAMB
+Pos=5
+DemiJour=1
+CodeDft=4085
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=VIDONI
+DefuntPrenom=ROBERT
+Heure_0=17:09
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=FAVRIN Thierry
+Equipe_1=
+End With
+With ZONE
+Id=8
+Saisie=Soins
+Pos=4
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4083
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=ANDREI
+DefuntPrenom=SYLVESTRE
+Heure_0=15:00
+Ev_0=Soins de thanatopraxie par Marion TREBOUTE
+Comment_0=Salon Busserole
+Comment_1=
+End With

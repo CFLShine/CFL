@@ -1,0 +1,22 @@
+Id=19102014
+JourDate=19/10/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=1
+CodeDft=4016
+Pf=PFM
+Conseiller=
+DefuntNom=FABRE DES ESSARTS
+DefuntPrenom=CHRISTIAN
+Heure_0=12:09
+Ev_0=TAMB depuis VIVIERS DU LAC vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=KAELBERER
+End With

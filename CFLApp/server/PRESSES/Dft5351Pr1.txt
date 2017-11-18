@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=520
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, st Barth\'e9l\'e9my de Beaurepaire.\b0\par<Ret>Lucienne Laffond, son \'e9pouse;\par<Ret>Fran\'e7oise et Philippe, ses enfants;\par<Ret>Viviane, sa belle-fille; Ben, son deuxi\'e8me fils; ses petits enfants tant aim\'e9s, Laure, Marianne, Joan,Claire, Charl\'e8ne et leurs conjoints; ses arri\'e8re petits-enfants tant ch\'e9ris, Jade, Noah, Elya et Nelly; sa soeur, Roberte Pellat; ses beaux fr\'e8res et belles soeurs; sa famille et ses amis\par<Ret>ont la douleur de vous faire part du d\'e9c\'e8s de \par<Ret>\pard\qc\b Raymond LAFFOND\par<Ret>\b0 Survenu dans sa 84 \'e8me ann\'e9e\par<Ret>\pard La c\'e9r\'e9monie religieuse aura lieu le samedi 25 avril 2015 \'e0 seize heure quinze au Centre Fun\'e9raire de Chamb\'e9ry.\par<Ret>La famille rappelle \'e0 votre souvenir son fr\'e8re Ren\'e9.\par<Ret>}<Ret>
+CodeDft=5351
+Tarif=328
+NbLignes=24
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=6
+Date=25/04/2015
+End With
+With DEPARTEMENT
+Id=5
+Name=ISERE
+End With

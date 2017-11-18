@@ -1,0 +1,173 @@
+Id=5072016
+Jourdate=05/07/2016
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8555
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=DUMOULIN MINGUET
+Prenom_ceremonie=FLORIAN
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8555
+Pf_cremation=PF POMMAT
+Nom_cremation=DUMOULIN MINGUET
+Prenom_cremation=FLORIAN
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=985
+Four=2
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=8577
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=PERRIN
+Prenom_ceremonie=MAURICE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 14H
+CodeDft_cremation=8577
+Pf_cremation=PF BALDINI
+Nom_cremation=PERRIN
+Prenom_cremation=MAURICE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=984
+Four=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=8553
+Pf_ceremonie=PFM
+Nom_ceremonie=BENOIT
+Prenom_ceremonie=SUZANNE
+CodeDft_cremation=8553
+Pf_cremation=PFM
+Nom_cremation=BENOIT
+Prenom_cremation=SUZANNE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=scelles a 11h00
+FicheOccupe=Libre
+Police=True
+NoOrdre=986
+Four=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8559
+Pf_ceremonie=PFM
+Nom_ceremonie=COLLOMB GRIS
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8559
+Pf_cremation=PFM
+Nom_cremation=COLLOMB GRIS
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+Police=True
+FicheOccupe=Libre
+NoOrdre=987
+Four=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8568
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=LEDAIN
+Prenom_ceremonie=LOUIS
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8568
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=LEDAIN
+Prenom_cremation=LOUIS
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=988
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=DISPERSION PAR NOS SOINS A 17H30  AVEC LA FAMILLE  
+SaisieOccupe=Libre
+CodeDft_ceremonie=8569
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=FERRARI
+Prenom_ceremonie=LEONTE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=17:30
+CodeDft_cremation=8569
+Pf_cremation=PF MOUCHE
+Nom_cremation=FERRARI
+Prenom_cremation=LEONTE
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+FicheOccupe=Libre
+NoOrdre=989
+Four=11
+End With
+With ZONE
+Id=6
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

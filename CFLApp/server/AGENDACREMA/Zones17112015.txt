@@ -1,0 +1,126 @@
+Id=17112015
+Jourdate=17/11/2015
+With ZONE
+Id=1
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft_ceremonie=6884
+Pf_ceremonie=PFM
+Nom_ceremonie=DESMEAUX
+Prenom_ceremonie=YVONNE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6884
+Pf_cremation=PFM
+Nom_cremation=DESMEAUX
+Prenom_cremation=YVONNE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+Police=True
+NoOrdre=1633
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=6894
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=BETTANIN
+Prenom_ceremonie=LEONIE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de BOURG ST MAURICE
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS DE FAMILLE
+CodeDft_cremation=6894
+Pf_cremation=PF DE SAVOY
+Nom_cremation=BETTANIN
+Prenom_cremation=LEONIE
+EvenementArrivee_cremation=Arrivée de BOURG ST MAURICE
+FicheOccupe=Libre
+NoOrdre=1632
+Four=1
+End With
+With ZONE
+Id=2
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+End With
+With ZONE
+Id=5
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=6907
+Pf_ceremonie=PF BOUVIER
+Nom_ceremonie=BOISSAY
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6907
+Pf_cremation=PF BOUVIER
+Nom_cremation=BOISSAY
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1634
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6891
+Pf_ceremonie=PFM
+Nom_ceremonie=BUGNET
+Prenom_ceremonie=NELLY
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6891
+Pf_cremation=PFM
+Nom_cremation=BUGNET
+Prenom_cremation=NELLY
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1635
+Four=2
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+NoOrdre=
+Four=
+End With

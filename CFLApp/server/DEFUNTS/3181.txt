@@ -1,0 +1,16 @@
+Id=3181
+CodeDefunt=3181
+DefuntNom=THERME
+DefuntPrenom=PAULINE
+DefuntDecesDate=23/05/2014
+ReceptionDate=23/05/2014
+CremationArriveeDe=CHAMBERY  HOPTAL
+ArriveeDate=26/05/2014
+CeremonieCrematoriumDate=26/05/2014
+CeremonieCrematoriumHeure=16:15
+CeremonieCrematoriumLieu=Cf salle omnicultes
+CeremonieCrematoriumType=Civile
+CremationDate=
+CremationCommune=
+Conseiller=Marie-Pierre PINET
+PfArrivee=PF AJEPI SAVOIE

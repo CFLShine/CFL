@@ -1,0 +1,2164 @@
+Id=-1
+With URNE
+Id=47
+DftNomPrenom=OTTOBON RICHARD
+CodeDft=2888
+CremationDate=04/04/2014
+PfCremation=PF PENA
+End With
+With URNE
+Id=48
+DftNomPrenom=PERNET-POIL-CHEVRIER MAURICE
+CodeDft=2889
+CremationDate=04/04/2014
+PfCremation=AJEPI SAVOIE
+End With
+With URNE
+Id=115
+DftNomPrenom=PITAUT IRENE
+CodeDft=2990
+CremationDate=22/04/2014
+PfCremation=PFM
+End With
+With URNE
+Id=128
+DftNomPrenom=GAMBALUNGA JEAN PIERRE
+CodeDft=3007
+CremationDate=25/04/2014
+PfCremation=BOUVIER RUMILLY
+End With
+With URNE
+Id=145
+DftNomPrenom=MITHIEUX MARIE AUDE
+CodeDft=3017
+CremationDate=28/04/2014
+PfCremation=PFM
+End With
+With URNE
+Id=170
+DftNomPrenom=TARGET REMI
+CodeDft=3056
+CremationDate=02/05/2014
+PfCremation=PFM VOIRON
+End With
+With URNE
+Id=270
+DftNomPrenom=MASTROSIMONE ANTONIO
+CodeDft=3187
+CremationDate=27/05/2014
+PfCremation=PFM
+End With
+With URNE
+Id=284
+DftNomPrenom=BLASZCZYNSKI MADELEINE
+CodeDft=3205
+CremationDate=28/05/2014
+PfCremation=PFM
+End With
+With URNE
+Id=385
+DftNomPrenom=RUBAUD SIMONE
+CodeDft=3342
+CremationDate=24/06/2014
+PfCremation=PFM
+End With
+With URNE
+Id=400
+DftNomPrenom=CARRON GEORGES
+CodeDft=3363
+CremationDate=27/06/2014
+PfCremation=PFM
+End With
+With URNE
+Id=430
+DftNomPrenom=RASSAT GEORGES
+CodeDft=3406
+CremationDate=03/07/2014
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=442
+DftNomPrenom=BAKANYI THERESE
+CodeDft=3426
+CremationDate=07/07/2014
+PfCremation=PF DE SAVOY
+End With
+With URNE
+Id=466
+DftNomPrenom=PENELLE JOANNY
+CodeDft=3456
+CremationDate=11/07/2014
+PfCremation=PFM
+End With
+With URNE
+Id=477
+DftNomPrenom=CARRON ALFRED
+CodeDft=3469
+CremationDate=15/07/2014
+PfCremation=PFM
+End With
+With URNE
+Id=494
+DftNomPrenom=PARLAGRECO/BIGILLON NOLAN/   FELIX
+CodeDft=3493
+CremationDate=17/07/2014
+PfCremation=PFM VOIRON
+End With
+With URNE
+Id=506
+DftNomPrenom=parlagreco NOLAN
+CodeDft=3509
+CremationDate=18/07/2014
+PfCremation=VOIRON
+End With
+With URNE
+Id=746
+DftNomPrenom=MERMET ANDRE
+CodeDft=3828
+CremationDate=19/09/2014
+PfCremation=PF BALDINI
+End With
+With URNE
+Id=747
+DftNomPrenom=RAMI SABRINA
+CodeDft=3829
+CremationDate=19/09/2014
+PfCremation=PFM VOIRON
+End With
+With URNE
+Id=754
+DftNomPrenom=CAIRE JOSEPH  ET   MARIE
+CodeDft=3838
+CremationDate=18/09/2014
+PfCremation=PF DE LA VANOISE
+End With
+With URNE
+Id=755
+DftNomPrenom=CAIRE LOUISE
+CodeDft=3839
+CremationDate=18/09/2014
+PfCremation=PF DE LA VANOISE
+End With
+With URNE
+Id=762
+DftNomPrenom=BROCHIER PAUL
+CodeDft=3847
+CremationDate=23/09/2014
+PfCremation=PF BALDINI
+End With
+With URNE
+Id=860
+DftNomPrenom=GATTI RAYMOND
+CodeDft=3963
+CremationDate=11/10/2014
+PfCremation=PFM
+End With
+With URNE
+Id=900
+DftNomPrenom=THOMASSON ANGELE
+CodeDft=4014
+CremationDate=20/10/2014
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=918
+DftNomPrenom=COMMUNAL GILBERT
+CodeDft=4034
+CremationDate=25/10/2014
+PfCremation=PFG MACHE
+End With
+With URNE
+Id=969
+DftNomPrenom=COMBAZ MAURICE
+CodeDft=4091
+CremationDate=04/11/2014
+PfCremation=PF BOUVIER
+End With
+With URNE
+Id=970
+DftNomPrenom=DECROUX MARTHE
+CodeDft=4092
+CremationDate=06/11/2014
+PfCremation=PF CHAMBERIENNES
+End With
+With URNE
+Id=1027
+DftNomPrenom=BOITEL RAYMONDE
+CodeDft=4163
+CremationDate=19/11/2014
+PfCremation=PF POMMAT
+End With
+With URNE
+Id=1056
+DftNomPrenom=BORNAND JEAN PIERRE
+CodeDft=4198
+CremationDate=25/11/2014
+PfCremation=PF DE SAVOY
+End With
+With URNE
+Id=1057
+DftNomPrenom=PUGEY PIERRE
+CodeDft=4199
+CremationDate=26/11/2014
+PfCremation=PFM
+End With
+With URNE
+Id=1088
+DftNomPrenom=CHAUMONTET LEON
+CodeDft=4235
+CremationDate=12/09/2011
+PfCremation=
+End With
+With URNE
+Id=1102
+DftNomPrenom=LAUFER LILIANE
+CodeDft=4255
+CremationDate=03/12/2014
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=1114
+DftNomPrenom=CHASSAGNE DANIELLE
+CodeDft=4269
+CremationDate=02/08/2014
+PfCremation=PFG MONTMELIAN
+End With
+With URNE
+Id=1128
+DftNomPrenom=DALBERTO MARCELLE
+CodeDft=4290
+CremationDate=11/12/2014
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=1218
+DftNomPrenom=CAUDEVILLE FRANCOISE
+CodeDft=4404
+CremationDate=27/12/2014
+PfCremation=PFG AIX LES BAINS
+End With
+With URNE
+Id=1223
+DftNomPrenom=GONNOT YVETTE
+CodeDft=4406
+CremationDate=29/12/2014
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=1348
+DftNomPrenom=REVILLET GAETAN
+CodeDft=4569
+CremationDate=17/01/2015
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=1356
+DftNomPrenom=BONNEL GEORGES
+CodeDft=-1
+CremationDate=11/06/2015
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=1362
+DftNomPrenom=CHAMIOT JACQUELINE
+CodeDft=4585
+CremationDate=20/01/2015
+PfCremation=PFM
+End With
+With URNE
+Id=1387
+DftNomPrenom=GOMEZ MICHEL
+CodeDft=4622
+CremationDate=26/01/2015
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=1485
+DftNomPrenom=MAGNIN YVONNE
+CodeDft=4856
+CremationDate=21/02/2015
+PfCremation=PFM
+End With
+With URNE
+Id=1508
+DftNomPrenom=DEVASSE MICHEL
+CodeDft=4907
+CremationDate=26/02/2015
+PfCremation=PFM
+End With
+With URNE
+Id=1639
+DftNomPrenom=SOHY ANDRE
+CodeDft=5273
+CremationDate=16/04/2015
+PfCremation=PFM
+End With
+With URNE
+Id=1681
+DftNomPrenom=PAYET ALINE
+CodeDft=5356
+CremationDate=28/04/2015
+PfCremation=PF BOUDRIER
+End With
+With URNE
+Id=1682
+DftNomPrenom=PAYET ALINE
+CodeDft=5356
+CremationDate=28/04/2015
+PfCremation=PF BOUDRIER
+End With
+With URNE
+Id=1685
+DftNomPrenom=PRAMAGGIORE MARIE CHRISTINE
+CodeDft=5355
+CremationDate=29/04/2015
+PfCremation=PFM
+End With
+With URNE
+Id=1705
+DftNomPrenom=MERLO PIERRE
+CodeDft=5391
+CremationDate=02/05/2015
+PfCremation=PF MAURIENNAISES
+End With
+With URNE
+Id=1746
+DftNomPrenom=PESQUIDOUS MARIE LAURENCE
+CodeDft=5458
+CremationDate=11/05/2015
+PfCremation=PFM
+End With
+With URNE
+Id=1765
+DftNomPrenom=SCHMITT JOANNE
+CodeDft=5490
+CremationDate=15/05/2015
+PfCremation=PFM
+End With
+With URNE
+Id=1768
+DftNomPrenom= BORG PAUL
+CodeDft=5500
+CremationDate=15/05/2015
+PfCremation=PFM
+End With
+With URNE
+Id=1772
+DftNomPrenom=PUGET GERMAINE
+CodeDft=5508
+CremationDate=18/05/2015
+PfCremation=PFM
+End With
+With URNE
+Id=1791
+DftNomPrenom=BERNARDI PATRICK
+CodeDft=5543
+CremationDate=18/05/2015
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=1795
+DftNomPrenom=DENIS  MADELEINE
+CodeDft=5575
+CremationDate=22/05/2015
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=1796
+DftNomPrenom=BAUDET BIANCA
+CodeDft=5576
+CremationDate=22/05/2015
+PfCremation=PFG MACHE
+End With
+With URNE
+Id=1829
+DftNomPrenom=MATTEI CHRISTIAN
+CodeDft=5631
+CremationDate=26/05/2015
+PfCremation=
+End With
+With URNE
+Id=1836
+DftNomPrenom=DESCHAMPS OCEANE
+CodeDft=5645
+CremationDate=27/05/2015
+PfCremation=PFM
+End With
+With URNE
+Id=1851
+DftNomPrenom=BOIS VICTOR HACHILLE
+CodeDft=5667
+CremationDate=02/06/2015
+PfCremation=PF MAURIENNAISES
+End With
+With URNE
+Id=1885
+DftNomPrenom=BOMTRON GERARD
+CodeDft=5727
+CremationDate=09/06/2015
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=1902
+DftNomPrenom=GONIN CHRISTIAN
+CodeDft=5767
+CremationDate=13/06/2015
+PfCremation=PF SAVOY
+End With
+With URNE
+Id=1919
+DftNomPrenom=THIROT PATRICIA
+CodeDft=5784
+CremationDate=23/05/2008
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=1934
+DftNomPrenom=MONACHON JOSETTE
+CodeDft=5803
+CremationDate=19/06/2015
+PfCremation=
+End With
+With URNE
+Id=1954
+DftNomPrenom=JANAN ANDRE
+CodeDft=0
+CremationDate=06/04/2017
+PfCremation=DE SAVOY
+End With
+With URNE
+Id=1976
+DftNomPrenom=MILLION JEAN CLAUDE
+CodeDft=5871
+CremationDate=25/06/2015
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=1985
+DftNomPrenom=MARTIN ANDRE
+CodeDft=5853
+CremationDate=27/06/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2013
+DftNomPrenom=MOSNIER BLANCHE
+CodeDft=5926
+CremationDate=04/07/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2015
+DftNomPrenom=ROUGON CHARLES
+CodeDft=5928
+CremationDate=04/07/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2020
+DftNomPrenom=ULMANS BERGER JACQUELINE
+CodeDft=5934
+CremationDate=04/07/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2024
+DftNomPrenom=GRANDJEAN MARCELLE
+CodeDft=5938
+CremationDate=06/07/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2028
+DftNomPrenom=LEGER GERMAINE
+CodeDft=5944
+CremationDate=08/07/2015
+PfCremation=PFG MACHE
+End With
+With URNE
+Id=2076
+DftNomPrenom=BOTTOLI PASCALINE 
+CodeDft=6017
+CremationDate=18/07/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2120
+DftNomPrenom=CHABERT MARGUERITE
+CodeDft=6084
+CremationDate=27/07/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2163
+DftNomPrenom=MONTELLO  HENRI 
+CodeDft=6151
+CremationDate=06/08/2015
+PfCremation=PFM 
+End With
+With URNE
+Id=2171
+DftNomPrenom=DANDEL ANDRE
+CodeDft=6164
+CremationDate=08/08/2015
+PfCremation=PF BOUDRIER
+End With
+With URNE
+Id=2180
+DftNomPrenom=DUBRAY CLAUDE
+CodeDft=6171
+CremationDate=08/08/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2192
+DftNomPrenom=SCHINDLER ODETTE
+CodeDft=6188
+CremationDate=14/08/2015
+PfCremation=PF CHAMBERIENNES
+End With
+With URNE
+Id=2223
+DftNomPrenom=REULIER ALICE
+CodeDft=6237
+CremationDate=18/08/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2247
+DftNomPrenom=BESSON YRENE
+CodeDft=6276
+CremationDate=21/08/2015
+PfCremation=PENAT
+End With
+With URNE
+Id=2249
+DftNomPrenom=CHEVALLIER 
+CodeDft=6279
+CremationDate=22/08/2015
+PfCremation=
+End With
+With URNE
+Id=2261
+DftNomPrenom=FORRAY MADELEINE
+CodeDft=6292
+CremationDate=24/08/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2309
+DftNomPrenom=FLATTOT JOSIANE
+CodeDft=6369
+CremationDate=04/09/2015
+PfCremation=PF BERGER
+End With
+With URNE
+Id=2331
+DftNomPrenom=FRANCO CHRISTIAN
+CodeDft=6401
+CremationDate=10/09/2015
+PfCremation=PF BAUDRION
+End With
+With URNE
+Id=2344
+DftNomPrenom=BEGUIN JEAN NOEL
+CodeDft=6433
+CremationDate=14/09/2015
+PfCremation=PFG CHAMBERY
+End With
+With URNE
+Id=2345
+DftNomPrenom=TAGANI SERGE
+CodeDft=6435
+CremationDate=14/09/2015
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=2382
+DftNomPrenom=MATHIEUX ANDRE
+CodeDft=6495
+CremationDate=21/09/2015
+PfCremation=PFG CHAMBERY
+End With
+With URNE
+Id=2391
+DftNomPrenom=MR DANDRIEUX CLAUDE  
+CodeDft=6509
+CremationDate=22/09/2015
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=2422
+DftNomPrenom=MARTINENGO FRANCOISE
+CodeDft=6552
+CremationDate=29/09/2015
+PfCremation=PFG AIX LES BAINS
+End With
+With URNE
+Id=2436
+DftNomPrenom=LUTINIER PATRICE
+CodeDft=6574
+CremationDate=02/10/2015
+PfCremation=PF DE SAVOY
+End With
+With URNE
+Id=2479
+DftNomPrenom=BENETTINI ANGELO
+CodeDft=6635
+CremationDate=09/09/2009
+PfCremation=PFG
+End With
+With URNE
+Id=2491
+DftNomPrenom=MALIVERNEY GERMAINE
+CodeDft=6660
+CremationDate=16/10/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2497
+DftNomPrenom=CANTOINE JACQUES
+CodeDft=6674
+CremationDate=17/10/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2501
+DftNomPrenom=RAISIN GILBERTE
+CodeDft=6677
+CremationDate=17/10/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2543
+DftNomPrenom=HENRIQUET JOSEPH
+CodeDft=6739
+CremationDate=23/10/2015
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=2554
+DftNomPrenom=MACCHIERALDO GINETTE
+CodeDft=6753
+CremationDate=26/10/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2564
+DftNomPrenom=BONFILS JACQUES
+CodeDft=6777
+CremationDate=29/10/2015
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=2572
+DftNomPrenom=CHENIN CAMILLE
+CodeDft=6785
+CremationDate=30/10/2015
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=2579
+DftNomPrenom=DEPIERRE MARIE-MARGUERITE
+CodeDft=6792
+CremationDate=31/10/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2597
+DftNomPrenom=GIVONETTI MARIE CHARLOTTE
+CodeDft=6817
+CremationDate=04/11/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2618
+DftNomPrenom=SCHOBERT GEORGES
+CodeDft=6848
+CremationDate=10/11/2015
+PfCremation=PF BAUDRION
+End With
+With URNE
+Id=2622
+DftNomPrenom=CIRALI MONIQUE
+CodeDft=6854
+CremationDate=12/11/2015
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=2626
+DftNomPrenom=POUZET DE LAROCHE EDDA
+CodeDft=6863
+CremationDate=12/11/2015
+PfCremation=FUNE CAP PASCAL LECLERC
+End With
+With URNE
+Id=2647
+DftNomPrenom=REYNAUD-SERPOLET BLANCHE
+CodeDft=6899
+CremationDate=18/11/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2675
+DftNomPrenom=JACQUET MARGUERITE
+CodeDft=6939
+CremationDate=23/11/2015
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=2676
+DftNomPrenom=MELCHIORRE FIORAVANTE
+CodeDft=6940
+CremationDate=23/11/2015
+PfCremation=PF MAURIENNAISES
+End With
+With URNE
+Id=2681
+DftNomPrenom=MANIGLIER  MICHELINE
+CodeDft=6951
+CremationDate=24/11/2015
+PfCremation=PF FLORET
+End With
+With URNE
+Id=2683
+DftNomPrenom=FILLION-NICOULLET GEORGES
+CodeDft=6956
+CremationDate=24/11/2015
+PfCremation=PF  FLORET
+End With
+With URNE
+Id=2767
+DftNomPrenom=BLANCHET LUCIA
+CodeDft=7082
+CremationDate=14/12/2015
+PfCremation=PF DE SAVOY
+End With
+With URNE
+Id=2810
+DftNomPrenom=REBOUL LOUIS
+CodeDft=7134
+CremationDate=22/12/2015
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=2827
+DftNomPrenom=GASNIER MAURICE
+CodeDft=7156
+CremationDate=24/12/2015
+PfCremation=PF BERGER
+End With
+With URNE
+Id=2830
+DftNomPrenom=COLOMBO JULIEN
+CodeDft=7160
+CremationDate=26/12/2015
+PfCremation=PFG AIX LES BAINS
+End With
+With URNE
+Id=2877
+DftNomPrenom=DEBRANDT  ALAIN
+CodeDft=7223
+CremationDate=31/12/2015
+PfCremation=BOUDRIER
+End With
+With URNE
+Id=2880
+DftNomPrenom=TREVARAIN LOIC
+CodeDft=7226
+CremationDate=27/12/2015
+PfCremation=PFM
+End With
+With URNE
+Id=2888
+DftNomPrenom=PICOT FRANCOISE
+CodeDft=7237
+CremationDate=07/01/2016
+PfCremation=PFM
+End With
+With URNE
+Id=2890
+DftNomPrenom=POMIN JACQUES
+CodeDft=7240
+CremationDate=06/01/2016
+PfCremation=PASCAL LECLERC
+End With
+With URNE
+Id=2895
+DftNomPrenom=VIVET GROS MARIN 
+CodeDft=7250
+CremationDate=04/01/2016
+PfCremation=DE SAVOY
+End With
+With URNE
+Id=2909
+DftNomPrenom=POLLAK PAULETTE
+CodeDft=7262
+CremationDate=08/01/2016
+PfCremation=PFM
+End With
+With URNE
+Id=2928
+DftNomPrenom=SERLAT ODILE
+CodeDft=7293
+CremationDate=11/01/2016
+PfCremation=PFG
+End With
+With URNE
+Id=2936
+DftNomPrenom=CAUDERA JACQUES
+CodeDft=7284
+CremationDate=13/01/2016
+PfCremation=PFM
+End With
+With URNE
+Id=2947
+DftNomPrenom=MICHEL CHARVET
+CodeDft=7312
+CremationDate=13/01/2016
+PfCremation=PF MERCIER
+End With
+With URNE
+Id=2954
+DftNomPrenom=MAGNIN JOSEPH
+CodeDft=7325
+CremationDate=15/01/2016
+PfCremation=PF MAURIENNAISES
+End With
+With URNE
+Id=2969
+DftNomPrenom=BALLY GEORGES
+CodeDft=7340
+CremationDate=16/01/2016
+PfCremation=PF BALDINI
+End With
+With URNE
+Id=2971
+DftNomPrenom=MORISSE JACQUES
+CodeDft=7342
+CremationDate=15/01/2016
+PfCremation=PF BALDINI
+End With
+With URNE
+Id=2987
+DftNomPrenom=BURY BRUNO
+CodeDft=7361
+CremationDate=19/01/2016
+PfCremation=PF PECH
+End With
+With URNE
+Id=3038
+DftNomPrenom=FROQUET SIMONE
+CodeDft=7438
+CremationDate=29/01/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3050
+DftNomPrenom=MARRET JEANNE MARIE
+CodeDft=7451
+CremationDate=30/01/2016
+PfCremation=
+End With
+With URNE
+Id=3053
+DftNomPrenom=DAUBIGNY EMMANUEL
+CodeDft=7455
+CremationDate=01/02/2016
+PfCremation=PF BOUDRIER
+End With
+With URNE
+Id=3085
+DftNomPrenom=WELBI PHILIPPE
+CodeDft=7506
+CremationDate=06/02/2016
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=3097
+DftNomPrenom=BERTHET LYLA
+CodeDft=7520
+CremationDate=09/02/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3106
+DftNomPrenom=KLEININGE INGE
+CodeDft=7530
+CremationDate=10/02/2016
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=3110
+DftNomPrenom=LEBLOND PATRICE
+CodeDft=7535
+CremationDate=12/02/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3120
+DftNomPrenom=MERCIER NOEL
+CodeDft=7556
+CremationDate=11/02/2016
+PfCremation=FLORET
+End With
+With URNE
+Id=3127
+DftNomPrenom=JOSEPH SIMONE
+CodeDft=7566
+CremationDate=14/02/2016
+PfCremation=PASCAL LECLERC
+End With
+With URNE
+Id=3138
+DftNomPrenom=ROCHAIX NOELLE
+CodeDft=7578
+CremationDate=15/02/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3139
+DftNomPrenom=THOUMELIN YVES
+CodeDft=7581
+CremationDate=16/02/2016
+PfCremation=PF POMMAT
+End With
+With URNE
+Id=3169
+DftNomPrenom=HOIRET MARIE-ROSE
+CodeDft=7631
+CremationDate=24/02/2016
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=3179
+DftNomPrenom=LEGAL PHILIPPE
+CodeDft=7639
+CremationDate=26/02/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3227
+DftNomPrenom=FENETRIER MARINA
+CodeDft=7705
+CremationDate=05/03/2016
+PfCremation=PF BALDINI
+End With
+With URNE
+Id=3285
+DftNomPrenom=MOLLIER GENERAZ RENE
+CodeDft=7782
+CremationDate=13/03/2016
+PfCremation=PF PECH
+End With
+With URNE
+Id=3316
+DftNomPrenom=GRANDJEAN ANNIE
+CodeDft=7827
+CremationDate=22/03/2016
+PfCremation=POMMAT
+End With
+With URNE
+Id=3372
+DftNomPrenom=VIBERT ROSE GABRIELLE
+CodeDft=7910
+CremationDate=30/03/2016
+PfCremation=de SAVOY
+End With
+With URNE
+Id=3400
+DftNomPrenom=CHALANSONNET JULIETTE
+CodeDft=7954
+CremationDate=05/04/2016
+PfCremation=PF CHAMBERIENNES
+End With
+With URNE
+Id=3403
+DftNomPrenom=FLORIANO BERNARD
+CodeDft=7958
+CremationDate=05/04/2016
+PfCremation=PF ROC ECLERC
+End With
+With URNE
+Id=3441
+DftNomPrenom=PAQUET ANNIE
+CodeDft=8002
+CremationDate=06/04/2016
+PfCremation=PFG BOURG ST MAURICE
+End With
+With URNE
+Id=3479
+DftNomPrenom=SERAIN JEREMIE
+CodeDft=8051
+CremationDate=20/04/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3502
+DftNomPrenom=VIGLIETTI SIENNA
+CodeDft=8083
+CremationDate=22/04/2016
+PfCremation=PFM VOIRON
+End With
+With URNE
+Id=3503
+DftNomPrenom=CORNET GASPARD
+CodeDft=8080
+CremationDate=23/04/2016
+PfCremation=
+End With
+With URNE
+Id=3504
+DftNomPrenom=BLANC PAUL
+CodeDft=8088
+CremationDate=22/04/2016
+PfCremation=TONIN COIFFET
+End With
+With URNE
+Id=3505
+DftNomPrenom=SETTI JACQUES
+CodeDft=8089
+CremationDate=25/04/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3598
+DftNomPrenom=GERMANAZ MERAND JEANNINE
+CodeDft=8209
+CremationDate=12/05/2016
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=3628
+DftNomPrenom=JUTTET BERTHE
+CodeDft=8242
+CremationDate=17/05/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3629
+DftNomPrenom=CHENAL HENRIETTE
+CodeDft=8243
+CremationDate=18/05/2016
+PfCremation=PFG BOURG ST MAURICE
+End With
+With URNE
+Id=3689
+DftNomPrenom=FALQUET JEAN-CLAUDE
+CodeDft=8324
+CremationDate=27/05/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3692
+DftNomPrenom=ZACHARIE MONIQUE
+CodeDft=8328
+CremationDate=30/05/2016
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=3699
+DftNomPrenom=ROL JEAN
+CodeDft=8337
+CremationDate=01/06/2016
+PfCremation=VIAL CONDEMINE
+End With
+With URNE
+Id=3703
+DftNomPrenom=FANTONE MAURICE
+CodeDft=8342
+CremationDate=01/06/2016
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=3712
+DftNomPrenom=RAFFATELLI CLAUDE
+CodeDft=8319
+CremationDate=04/06/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3720
+DftNomPrenom=GALLOIS JEAN-LOUIS
+CodeDft=8360
+CremationDate=04/06/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3764
+DftNomPrenom=GREMEAUX JOEL
+CodeDft=8423
+CremationDate=15/06/2016
+PfCremation=PFG AIX LES BAINS
+End With
+With URNE
+Id=3785
+DftNomPrenom=ATTAWAY GABRIEL
+CodeDft=8455
+CremationDate=18/06/2016
+PfCremation=PF BOUDRIER
+End With
+With URNE
+Id=3793
+DftNomPrenom=BRUNETTI JEANNE
+CodeDft=8463
+CremationDate=21/06/2016
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=3794
+DftNomPrenom=BRUNETTI JEANNE
+CodeDft=8464
+CremationDate=20/06/2016
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=3811
+DftNomPrenom=MAGNIN 
+CodeDft=8491
+CremationDate=23/06/2016
+PfCremation=PF PENA
+End With
+With URNE
+Id=3835
+DftNomPrenom=MIARI ARLETTE
+CodeDft=8527
+CremationDate=29/06/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3838
+DftNomPrenom=BAILLY JEANNE
+CodeDft=8531
+CremationDate=02/07/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3845
+DftNomPrenom=DEVILLIERS YANNICK
+CodeDft=8541
+CremationDate=29/06/2016
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=3923
+DftNomPrenom=MARCHIOL SERGIO
+CodeDft=8636
+CremationDate=15/07/2016
+PfCremation=PF DE SAVOIE
+End With
+With URNE
+Id=3932
+DftNomPrenom=PERUCHON JACQUES
+CodeDft=8658
+CremationDate=18/07/2016
+PfCremation=PF PECH
+End With
+With URNE
+Id=3941
+DftNomPrenom=TROCCAZ NICOLLE
+CodeDft=8675
+CremationDate=17/07/2016
+PfCremation=PF BALDINI
+End With
+With URNE
+Id=3947
+DftNomPrenom=BETEMPS HENRI
+CodeDft=8678
+CremationDate=21/07/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3962
+DftNomPrenom=ESSAIE TRUC
+CodeDft=8697
+CremationDate=29/07/2016
+PfCremation=PFG MACHE
+End With
+With URNE
+Id=3974
+DftNomPrenom=LAPIERRE SIMONE
+CodeDft=8711
+CremationDate=26/07/2016
+PfCremation=PFM
+End With
+With URNE
+Id=3986
+DftNomPrenom=RELIQUAIRE 
+CodeDft=8727
+CremationDate=29/07/2016
+PfCremation=PF BAUDRION
+End With
+With URNE
+Id=3990
+DftNomPrenom=LASSIMOULIE KARINE
+CodeDft=8731
+CremationDate=28/07/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4033
+DftNomPrenom=SPILTHOOREN LUDOVIC
+CodeDft=8793
+CremationDate=06/08/2016
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=4094
+DftNomPrenom=CHIROIX LILIANE
+CodeDft=8885
+CremationDate=22/08/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4129
+DftNomPrenom=ISABELLI IRENE
+CodeDft=8938
+CremationDate=30/08/2016
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=4146
+DftNomPrenom=BARDET RENEE
+CodeDft=8966
+CremationDate=05/09/2016
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=4154
+DftNomPrenom=BOUSSENARD DANIELLE
+CodeDft=8976
+CremationDate=06/09/2016
+PfCremation=PF BAUDRION
+End With
+With URNE
+Id=4160
+DftNomPrenom=HIERRO SUZANNE
+CodeDft=8982
+CremationDate=06/09/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4161
+DftNomPrenom=NEVEUX ODETTE
+CodeDft=8988
+CremationDate=07/09/2016
+PfCremation=PFG AIX LES BAINS
+End With
+With URNE
+Id=4196
+DftNomPrenom=POUJOLS Adrienne
+CodeDft=9034
+CremationDate=15/09/2016
+PfCremation=PF MAURIENNAISES
+End With
+With URNE
+Id=4227
+DftNomPrenom=DOMENECH DOLORES
+CodeDft=9081
+CremationDate=21/09/2016
+PfCremation=PF POMMAT
+End With
+With URNE
+Id=4250
+DftNomPrenom=BURG MARGUERITE
+CodeDft=9110
+CremationDate=28/09/2016
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=4251
+DftNomPrenom=MARIOTTI ROLANDE
+CodeDft=9111
+CremationDate=29/09/2016
+PfCremation=PF PECH
+End With
+With URNE
+Id=4275
+DftNomPrenom=MOSSER LOUIS
+CodeDft=9147
+CremationDate=01/10/2016
+PfCremation=POMMAT
+End With
+With URNE
+Id=4303
+DftNomPrenom=LOPEZ ETHAN
+CodeDft=9183
+CremationDate=07/10/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4340
+DftNomPrenom=EZZINE OMAIMA
+CodeDft=9170
+CremationDate=18/10/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4344
+DftNomPrenom=DAVID MARC
+CodeDft=9238
+CremationDate=19/10/2016
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=4353
+DftNomPrenom=FRANCOIS JEAN-CHARLES
+CodeDft=9250
+CremationDate=20/10/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4387
+DftNomPrenom=BERTRAND DAVID
+CodeDft=9295
+CremationDate=29/10/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4405
+DftNomPrenom=BOTTI MARIUS
+CodeDft=9309
+CremationDate=28/10/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4437
+DftNomPrenom=MICHAUD ROBERT
+CodeDft=9360
+CremationDate=07/11/2016
+PfCremation=PFG AIX LES BAINS
+End With
+With URNE
+Id=4443
+DftNomPrenom=GOY ELIANE
+CodeDft=9369
+CremationDate=08/11/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4478
+DftNomPrenom=RIVOIRE RENE
+CodeDft=9409
+CremationDate=14/11/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4509
+DftNomPrenom=PAPIS YVES
+CodeDft=9459
+CremationDate=19/11/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4512
+DftNomPrenom=AUDE YVETTE
+CodeDft=9464
+CremationDate=21/11/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4537
+DftNomPrenom=DOMA FERENC
+CodeDft=9503
+CremationDate=24/11/2016
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=4565
+DftNomPrenom=DRENIERE MARIE-JOSE
+CodeDft=9543
+CremationDate=30/11/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4632
+DftNomPrenom=BLANC JEAN
+CodeDft=9638
+CremationDate=13/12/2016
+PfCremation=DE SAVOY
+End With
+With URNE
+Id=4668
+DftNomPrenom=GRANGEAT PIERRE
+CodeDft=9680
+CremationDate=21/12/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4675
+DftNomPrenom=BRUYERE YANNICK
+CodeDft=9697
+CremationDate=21/12/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4700
+DftNomPrenom=BEN ATAR SALOMON
+CodeDft=9729
+CremationDate=27/12/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4709
+DftNomPrenom=DAMIEN LOUISE
+CodeDft=9741
+CremationDate=28/12/2016
+PfCremation=PF POMMAT
+End With
+With URNE
+Id=4724
+DftNomPrenom=COELLO MARCEL
+CodeDft=9755
+CremationDate=29/12/2016
+PfCremation=PFM
+End With
+With URNE
+Id=4738
+DftNomPrenom=CHEVALLIER MARTHE
+CodeDft=9779
+CremationDate=31/12/2016
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=4752
+DftNomPrenom=DENAJAR SANDRINE
+CodeDft=9799
+CremationDate=02/01/2017
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=4756
+DftNomPrenom=ROMET SIMONE
+CodeDft=9800
+CremationDate=04/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4760
+DftNomPrenom=RICHARD LOUIS
+CodeDft=9813
+CremationDate=04/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4763
+DftNomPrenom=PASSANTE GISELE
+CodeDft=9814
+CremationDate=05/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4772
+DftNomPrenom=BIRGOLOTTI DANIEL
+CodeDft=9828
+CremationDate=05/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4775
+DftNomPrenom=ESSAI ESSAI
+CodeDft=9834
+CremationDate=01/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4784
+DftNomPrenom=HABABOU Nessim
+CodeDft=9846
+CremationDate=07/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4788
+DftNomPrenom=TIVOLLIER X
+CodeDft=9853
+CremationDate=09/01/2017
+PfCremation=PFM DE VOIRON
+End With
+With URNE
+Id=4802
+DftNomPrenom=POULAIN JOSIANE
+CodeDft=9870
+CremationDate=10/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4814
+DftNomPrenom=CHAZERAND GILLES
+CodeDft=9883
+CremationDate=16/01/2017
+PfCremation=PFG AIX LES BAINS
+End With
+With URNE
+Id=4817
+DftNomPrenom=HABABOU GENEVIEVE
+CodeDft=9890
+CremationDate=11/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4826
+DftNomPrenom=MERCONE PASCALE
+CodeDft=9906
+CremationDate=13/01/2017
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=4852
+DftNomPrenom=HERVIEUX LUCIENNE
+CodeDft=9938
+CremationDate=16/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4859
+DftNomPrenom=VERGUET MARIE MARTHE
+CodeDft=9939
+CremationDate=16/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4912
+DftNomPrenom=PERNOUD RAYMOND
+CodeDft=10040
+CremationDate=25/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4924
+DftNomPrenom=FRASSON PEIGUET PIERRE
+CodeDft=10044
+CremationDate=26/01/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4949
+DftNomPrenom=TORDI BERNARD
+CodeDft=10089
+CremationDate=05/02/2017
+PfCremation=PF  BOUDRIER
+End With
+With URNE
+Id=4961
+DftNomPrenom=VALLET MARCEL
+CodeDft=10111
+CremationDate=22/01/2017
+PfCremation=SEDRAN
+End With
+With URNE
+Id=4965
+DftNomPrenom=BRUN JOSEPHINE
+CodeDft=10112
+CremationDate=01/02/2017
+PfCremation=PFM
+End With
+With URNE
+Id=4971
+DftNomPrenom=BERGER MARIA
+CodeDft=10125
+CremationDate=02/02/2017
+PfCremation=PF DU PLATEAU
+End With
+With URNE
+Id=4981
+DftNomPrenom=DIJOUX MARIE
+CodeDft=10140
+CremationDate=04/02/2017
+PfCremation=PF BALDINI
+End With
+With URNE
+Id=4987
+DftNomPrenom=POCARD JEAN
+CodeDft=10144
+CremationDate=06/02/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5011
+DftNomPrenom=CAZAURAN ANDRE
+CodeDft=10181
+CremationDate=09/02/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5021
+DftNomPrenom=PELTIER LOUISA
+CodeDft=10080
+CremationDate=13/02/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5052
+DftNomPrenom=PUTALLAZ ANTOINE
+CodeDft=10237
+CremationDate=17/02/2017
+PfCremation=PF TONIN COIFFET
+End With
+With URNE
+Id=5054
+DftNomPrenom=LLORCA STEPHANE
+CodeDft=10241
+CremationDate=18/02/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5163
+DftNomPrenom=CLARET FRANCIS
+CodeDft=10388
+CremationDate=11/03/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5180
+DftNomPrenom=STRASSEL ?
+CodeDft=10419
+CremationDate=15/03/2017
+PfCremation=DE SAVOY
+End With
+With URNE
+Id=5184
+DftNomPrenom=ROSSETTO-GIACCHERI XXX
+CodeDft=10424
+CremationDate=15/03/2017
+PfCremation=PFM VOIRON
+End With
+With URNE
+Id=5186
+DftNomPrenom=GORRE VINCENT
+CodeDft=10408
+CremationDate=16/03/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5203
+DftNomPrenom=BEGET JEAN-CLAUDE
+CodeDft=10447
+CremationDate=22/03/2017
+PfCremation=PF POMMAT
+End With
+With URNE
+Id=5248
+DftNomPrenom=LACAZE COLETTE
+CodeDft=10509
+CremationDate=01/04/2017
+PfCremation=PF BAUDRION
+End With
+With URNE
+Id=5252
+DftNomPrenom=AHNOUCHE NADINE
+CodeDft=10514
+CremationDate=31/03/2017
+PfCremation=BOUVIER
+End With
+With URNE
+Id=5255
+DftNomPrenom=LORET ODETTE
+CodeDft=10517
+CremationDate=03/04/2017
+PfCremation=PF PECH
+End With
+With URNE
+Id=5287
+DftNomPrenom=MAYET LOUIS
+CodeDft=10570
+CremationDate=12/04/2017
+PfCremation=PFG AIX LES BAINS
+End With
+With URNE
+Id=5288
+DftNomPrenom=LO M
+CodeDft=10571
+CremationDate=08/04/2017
+PfCremation=PFM VOIRON
+End With
+With URNE
+Id=5293
+DftNomPrenom=BERTRAND MATHIEUX
+CodeDft=10577
+CremationDate=10/04/2017
+PfCremation=PF POMMAT
+End With
+With URNE
+Id=5296
+DftNomPrenom=HIVERT JACQUES
+CodeDft=10581
+CremationDate=10/04/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5314
+DftNomPrenom=SALOMON ELIANE
+CodeDft=10604
+CremationDate=13/04/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5359
+DftNomPrenom=DAL MAGRO X
+CodeDft=10676
+CremationDate=26/04/2017
+PfCremation=PFM VOIRON
+End With
+With URNE
+Id=5372
+DftNomPrenom=CHARTON DANIEL
+CodeDft=10691
+CremationDate=27/04/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5389
+DftNomPrenom=EVE JACQUES
+CodeDft=10715
+CremationDate=29/04/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5400
+DftNomPrenom=PACHE NICOLE
+CodeDft=10732
+CremationDate=05/05/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5448
+DftNomPrenom=PASCAL SUISSE X
+CodeDft=10810
+CremationDate=15/05/2017
+PfCremation=PFM  VOIRON
+End With
+With URNE
+Id=5461
+DftNomPrenom=PROFUMO JEAN PIERRE
+CodeDft=10831
+CremationDate=18/05/2017
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=5471
+DftNomPrenom=LAVARENNE ANNIE
+CodeDft=10848
+CremationDate=23/05/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5487
+DftNomPrenom=JAFFRE ROGER
+CodeDft=10873
+CremationDate=27/05/2017
+PfCremation=PF POMMAT
+End With
+With URNE
+Id=5492
+DftNomPrenom=BAL PIERRE
+CodeDft=10879
+CremationDate=29/05/2017
+PfCremation=BOUVIER
+End With
+With URNE
+Id=5507
+DftNomPrenom=FAIVRE MADELEINE
+CodeDft=10899
+CremationDate=31/05/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5515
+DftNomPrenom=FOSSO AGATA
+CodeDft=10911
+CremationDate=01/06/2017
+PfCremation=PFG AIX LES BAINS
+End With
+With URNE
+Id=5577
+DftNomPrenom=DALBAN-PILON THERESE
+CodeDft=10984
+CremationDate=14/06/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5592
+DftNomPrenom=JULLIARD JEAN 
+CodeDft=11009
+CremationDate=17/06/2017
+PfCremation=POMMAT
+End With
+With URNE
+Id=5598
+DftNomPrenom=MESERE JACKIE
+CodeDft=11025
+CremationDate=19/06/2017
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=5609
+DftNomPrenom=LAAGER MICHEL
+CodeDft=11037
+CremationDate=21/06/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5624
+DftNomPrenom=BLIN RUAUDEL FRANCOISE
+CodeDft=11058
+CremationDate=24/06/2017
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=5640
+DftNomPrenom=COTE DANIEL
+CodeDft=11084
+CremationDate=29/06/2017
+PfCremation=PF BALDINI
+End With
+With URNE
+Id=5652
+DftNomPrenom=AUCLAIR JEAN
+CodeDft=11097
+CremationDate=03/07/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5659
+DftNomPrenom=ECALE PAULETTE
+CodeDft=11109
+CremationDate=01/07/2017
+PfCremation=PFG CHAMBERY
+End With
+With URNE
+Id=5680
+DftNomPrenom=PATEBEX MARC
+CodeDft=11133
+CremationDate=06/07/2017
+PfCremation=PFG CHAMBERY
+End With
+With URNE
+Id=5686
+DftNomPrenom=MICHELON ALAIN
+CodeDft=11138
+CremationDate=08/07/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5710
+DftNomPrenom=SITBON MICHELLE
+CodeDft=11174
+CremationDate=12/07/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5778
+DftNomPrenom=MATHIEU BERNARD
+CodeDft=11256
+CremationDate=26/07/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5799
+DftNomPrenom=CHASSY SOLANGE
+CodeDft=11277
+CremationDate=31/07/2017
+PfCremation=PFM
+End With
+With URNE
+Id=5803
+DftNomPrenom=COSTA SUZANNE
+CodeDft=11284
+CremationDate=29/07/2017
+PfCremation=PF POMMAT
+End With
+With URNE
+Id=5837
+DftNomPrenom=CIELI VICTORINE
+CodeDft=11335
+CremationDate=07/08/2017
+PfCremation=PF BAUDRION
+End With
+With URNE
+Id=5853
+DftNomPrenom=ROSELIER CHARLOTTE
+CodeDft=11359
+CremationDate=26/10/2001
+PfCremation=PFM
+End With
+With URNE
+Id=5864
+DftNomPrenom=HUART ALAIN
+CodeDft=11379
+CremationDate=17/08/2017
+PfCremation=PF BALDINI
+End With
+With URNE
+Id=5866
+DftNomPrenom=KONRAD JEAN PIERRE
+CodeDft=11378
+CremationDate=16/08/2017
+PfCremation=TONIN COIFFET
+End With
+With URNE
+Id=5883
+DftNomPrenom=GAUTHIER EMMANUEL
+CodeDft=11404
+CremationDate=18/08/2017
+PfCremation=PFG MACHE
+End With
+With URNE
+Id=5889
+DftNomPrenom=DUCI BERNARD
+CodeDft=11412
+CremationDate=22/08/2017
+PfCremation=PF PECH
+End With
+With URNE
+Id=5919
+DftNomPrenom=LAZ JANINE
+CodeDft=11455
+CremationDate=28/08/2017
+PfCremation=PFG AIX
+End With
+With URNE
+Id=5932
+DftNomPrenom=GARCIA FRANCOIS
+CodeDft=11471
+CremationDate=31/08/2017
+PfCremation=PF BALDINI
+End With
+With URNE
+Id=5934
+DftNomPrenom=SUBIT X
+CodeDft=11475
+CremationDate=29/08/2017
+PfCremation=PFM VOIRON
+End With
+With URNE
+Id=5964
+DftNomPrenom=GRANVEAU LIAM
+CodeDft=11515
+CremationDate=02/09/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=5985
+DftNomPrenom=JACONELLI GEORGES
+CodeDft=11543
+CremationDate=07/09/2017
+PfCremation=PFG AIX LES BAINS
+End With
+With URNE
+Id=5994
+DftNomPrenom=CHARPIN SIMONE
+CodeDft=11552
+CremationDate=09/09/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6031
+DftNomPrenom=PETIT HERVE
+CodeDft=11583
+CremationDate=16/09/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6042
+DftNomPrenom=SNIADY FELIX
+CodeDft=11616
+CremationDate=19/09/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6049
+DftNomPrenom=CANAUD MATHILDE
+CodeDft=11624
+CremationDate=22/09/2017
+PfCremation=PFM VOIRON
+End With
+With URNE
+Id=6055
+DftNomPrenom=REYNAUD LUCIE
+CodeDft=11629
+CremationDate=22/09/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6056
+DftNomPrenom=RICCHI JEAN-PIERRE
+CodeDft=11632
+CremationDate=22/09/2017
+PfCremation=PF FLORET
+End With
+With URNE
+Id=6064
+DftNomPrenom=LAVY MONIQUE
+CodeDft=11643
+CremationDate=23/09/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6065
+DftNomPrenom=PILLET AUGUSTA
+CodeDft=11642
+CremationDate=25/09/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6067
+DftNomPrenom=CARLE MONIQUE
+CodeDft=11646
+CremationDate=23/09/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6072
+DftNomPrenom=ROUSSEAU RICHARD
+CodeDft=11655
+CremationDate=26/09/2017
+PfCremation=PF FLORET
+End With
+With URNE
+Id=6119
+DftNomPrenom=HEUDES JULIEN
+CodeDft=11725
+CremationDate=05/10/2017
+PfCremation=PF BAUDRION
+End With
+With URNE
+Id=6125
+DftNomPrenom=LARRAS MARINETTE
+CodeDft=11731
+CremationDate=07/10/2017
+PfCremation=PF BOUVIER
+End With
+With URNE
+Id=6126
+DftNomPrenom=RENAU ROBERT
+CodeDft=11732
+CremationDate=07/10/2017
+PfCremation=PFG AIX LES BAINS
+End With
+With URNE
+Id=6127
+DftNomPrenom=BAN TONG
+CodeDft=11734
+CremationDate=07/10/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6131
+DftNomPrenom=FRESCHI MARCEL
+CodeDft=11739
+CremationDate=07/10/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6134
+DftNomPrenom=CURT PIERRE
+CodeDft=11733
+CremationDate=16/10/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6135
+DftNomPrenom=HEURTIER CAMILLE
+CodeDft=11745
+CremationDate=07/10/2017
+PfCremation=PF MAURIENNAISES
+End With
+With URNE
+Id=6136
+DftNomPrenom=TREPSAT CHRISTIANE
+CodeDft=11744
+CremationDate=07/10/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6137
+DftNomPrenom=CASANO JEANNINE
+CodeDft=11746
+CremationDate=09/10/2017
+PfCremation=PFG MACHE
+End With
+With URNE
+Id=6138
+DftNomPrenom=CHICHIGNOUD MICHELE
+CodeDft=11748
+CremationDate=07/10/2017
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=6139
+DftNomPrenom=SORREL GISELE
+CodeDft=11750
+CremationDate=07/10/2017
+PfCremation=PF DE SAVOY
+End With
+With URNE
+Id=6140
+DftNomPrenom=COUTAZ DENISE
+CodeDft=11751
+CremationDate=10/10/2017
+PfCremation=PF POMMAT
+End With
+With URNE
+Id=6141
+DftNomPrenom=RAIMOND JEANNE
+CodeDft=11752
+CremationDate=10/10/2017
+PfCremation=PF MOUCHE
+End With
+With URNE
+Id=6142
+DftNomPrenom=BESSON MARIE-LOUISE
+CodeDft=11753
+CremationDate=09/10/2017
+PfCremation=PF DE SAVOY
+End With
+With URNE
+Id=6143
+DftNomPrenom=FAVARIO ALAIN
+CodeDft=11754
+CremationDate=10/10/2017
+PfCremation=PF BALDINI
+End With
+With URNE
+Id=6144
+DftNomPrenom=LENOUVEL ODILE
+CodeDft=11755
+CremationDate=09/10/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6145
+DftNomPrenom=GUINNET JEAN -JACQUES
+CodeDft=11757
+CremationDate=09/10/2017
+PfCremation=PF MERCIER
+End With
+With URNE
+Id=6146
+DftNomPrenom=ZEN JEAN-CLAUDE
+CodeDft=11760
+CremationDate=09/10/2017
+PfCremation=PF SEDRAN
+End With
+With URNE
+Id=6147
+DftNomPrenom=LAMBERT ERNEST
+CodeDft=11764
+CremationDate=10/10/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6148
+DftNomPrenom=SONNEFRAUD PAUL
+CodeDft=11762
+CremationDate=11/10/2017
+PfCremation=PFCCA
+End With
+With URNE
+Id=6149
+DftNomPrenom=CAILLE EUGENE
+CodeDft=11763
+CremationDate=09/10/2017
+PfCremation=PFCCA
+End With

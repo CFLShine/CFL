@@ -1,0 +1,15 @@
+Id=8090
+DefuntNom=ROMANELLI
+DefuntPrenom=JEAN
+DefuntDecesDate=19/04/2016
+ArriveeCommune=CHAMBERY
+ArriveeDate=23/04/2016
+ArriveeHeure=10:15
+PfArrivee=PF PASCAL LECLERC
+PfCeremonie=PF PASCAL LECLERC
+CeremonieCrematoriumDate=23/04/2016
+CeremonieCrematoriumHeure=10:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Civile
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=8090

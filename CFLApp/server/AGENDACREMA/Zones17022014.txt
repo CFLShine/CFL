@@ -1,0 +1,148 @@
+Id=17022014
+Version=NouveauFormat
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2592.txt
+Pf=PF PECH
+Conseiller=Loïc TREVARAIN
+Nom=ROBIQUET
+Prenom=HENRI
+HeureArrivee=
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=16:30
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=224
+Four=2
+FicheOccupe=Libre
+CodeDft=2592
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2594.txt
+Pf=PF FLORET
+Conseiller=Loïc TREVARAIN
+Nom=GINET
+Prenom=BERNARD
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION - PF RECUPERENT
+NoOrdre=222
+Four=2
+FicheOccupe=Libre
+CodeDft=2594
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION  
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2595.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=COPPA
+Prenom=ANDREE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+FicheOccupe=Libre
+CodeDft=2595
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2599.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Marie-Pierre PINET
+Nom=MICHAUD
+Prenom=EDOUARD
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=221
+Four=1
+FicheOccupe=Libre
+CodeDft=2599
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2600.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=ARNAULT
+Prenom=CLAUDE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=220
+Four=2
+FicheOccupe=Libre
+CodeDft=2600
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2601.txt
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=BETAUX
+Prenom=PATRICK
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=223
+Four=1
+FicheOccupe=Libre
+CodeDft=2601
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2610.txt
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=HUGUENIN
+Prenom=MARIE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de AIX-LES-BAINS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=219
+Four=1
+FicheOccupe=Libre
+CodeDft=2610
+End With

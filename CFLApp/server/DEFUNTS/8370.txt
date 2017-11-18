@@ -1,0 +1,15 @@
+Id=8370
+DefuntNom=MATHELIN
+DefuntPrenom=JEANINE
+DefuntDecesDate=31/05/2016
+ArriveeCommune=CHAMBERY  
+ArriveeDate=06/06/2016
+ArriveeHeure=15:15
+PfArrivee=PFG CHAMBERY
+PfCeremonie=PFG CHAMBERY
+CeremonieCrematoriumDate=06/06/2016
+CeremonieCrematoriumHeure=15:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Civile
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=8370

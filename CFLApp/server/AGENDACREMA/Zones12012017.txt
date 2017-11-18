@@ -1,0 +1,180 @@
+Id=12012017
+Jourdate=12/01/2017
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9899
+Pf_ceremonie=PFM
+Nom_ceremonie=RUIZ PERALES
+Prenom_ceremonie=LIETTE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9899
+Pf_cremation=PFM
+Nom_cremation=RUIZ PERALES
+Prenom_cremation=LIETTE
+FicheOccupe=Libre
+Police=True
+NoOrdre=74
+Four=2
+End With
+With ZONE
+Id=1
+EvenementCommentaire=NE PAS PRENDRE DE CREMATION  
+SaisieOccupe=Libre
+CodeDft_ceremonie=9910
+Pf_ceremonie=PFM
+Nom_ceremonie=PARAVY
+Prenom_ceremonie=MARIE-ANTOINETTE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=False
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9900
+Pf_ceremonie=PFM
+Nom_ceremonie=SARRET
+Prenom_ceremonie=LOIC
+CodeDft_cremation=9900
+Pf_cremation=PFM
+Nom_cremation=SARRET
+Prenom_cremation=LOIC
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=75
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=NE PAS PRENDRE DE CREMATION
+End With
+With ZONE
+Id=4
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9891
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=RICARD
+Prenom_ceremonie=MARIE LOUISE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9891
+Pf_cremation=PF BALDINI
+Nom_cremation=RICARD
+Prenom_cremation=MARIE LOUISE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=76
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=9884
+Pf_ceremonie=PFM
+Nom_ceremonie=LODI
+Prenom_ceremonie=ROGER
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LES PF RECUPERENT L'urne
+SaisieOccupe=Libre
+CodeDft_ceremonie=9885
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=SEBERT
+Prenom_ceremonie=GABRIEL
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY HOPITAL
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9885
+Pf_cremation=PF SEDRAN
+Nom_cremation=SEBERT
+Prenom_cremation=GABRIEL
+EvenementArrivee_cremation=Arrivée de CHAMBERY HOPITAL
+NoOrdre=78
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LES PF RECUPERENT 
+SaisieOccupe=Libre
+CodeDft_ceremonie=9878
+Pf_ceremonie=PFM
+Nom_ceremonie=THIERRY
+Prenom_ceremonie=MARCEL
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9878
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=THIERRY
+Prenom_cremation=MARCEL
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=79
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

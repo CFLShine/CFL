@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=540
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry, Albertville,\f1\par<Ret>\b0\f0 Maryse, Mich\'e8le et Paul, ses enfants; Maxime Sermoz et Audrey; les familles Giraudon, Morel, Plantier, Raffin et Vuillermet, ont la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Monsieur Edmond RAFFIN\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 95 ans.\f1\par<Ret>\f0 les obs\'e8ques seront c\'e9l\'e9br\'e9es le mercredi 13 mai 2015 dans l'intimit\'e9 familiale au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 La famille remercie le personnel de l'EHPAD de Montm\'e9lian pour sa gentillesse et son d\'e9vouement de chaque instant. Merci au Dr Sermoz pour son pr\'e9cieux accompagnement.\f1\par<Ret>\f0 La famille rappelle \'e0 votre souvenir son \'e9pouse\f1\par<Ret>\pard\qc\b\f0 Suzanne\f1\par<Ret>\pard\b0\f0 d\'e9c\'e9d\'e9e en 2013.\par<Ret>}<Ret>
+CodeDft=5479
+Tarif=250
+NbLignes=23
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=12/05/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

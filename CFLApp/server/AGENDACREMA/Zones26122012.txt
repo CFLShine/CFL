@@ -1,0 +1,176 @@
+Id=26122012
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+AdresseFicheDefunt=
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=
+Pf=
+Nom=
+Prenom=
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+AdresseFicheDefunt=\DONNEES\DONNEES2012\4.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=LA BALME
+Nom=VANDINI 
+Prenom=HENRIETTE
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=Arrivée de LA BALME
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=4
+End With
+With ZONE
+Id=2
+NoZONE=2
+AdresseFicheDefunt=\DONNEES\DONNEES2012\5.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=ALPES SAVOIE
+Nom=ROSSETTO 
+Prenom=JOSEPH
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=5
+End With
+With ZONE
+Id=3
+NoZONE=3
+AdresseFicheDefunt=\DONNEES\DONNEES2012\6.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=
+Nom=BOTTIERO- CONCA
+Prenom=MARIE ALBERTE
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE
+CodeDft=6
+End With
+With ZONE
+Id=4
+NoZONE=4
+AdresseFicheDefunt=\DONNEES\DONNEES2012\7.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=PENA
+Nom=BENEDETTI
+Prenom=MARIE THERESE
+NoOrdre=
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de SAINT LAURENT DU PONT
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE
+CodeDft=7
+End With
+With ZONE
+Id=5
+NoZONE=5
+AdresseFicheDefunt=\DONNEES\DONNEES2012\8.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=
+Nom=DA LUZ DE MATOS
+Prenom=JOSÉ
+NoOrdre=
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE
+CodeDft=8
+End With
+With ZONE
+Id=6
+NoZONE=6
+AdresseFicheDefunt=\DONNEES\DONNEES2012\9.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=PFG MACHÉ
+Nom=MICHAUT 
+Prenom=LOUISE
+NoOrdre=
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft=9
+End With
+With ZONE
+Id=7
+NoZONE=7
+AdresseFicheDefunt=\DONNEES\DONNEES2012\10.txt
+SaisieOccupe=Libre
+FicheOccupe=Libre
+Conseiller=Loïc TREVARAIN
+Pf=POMMAT
+Nom=CHEVROT 
+Prenom=SUZANNE
+NoOrdre=
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+CodeDft=10
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

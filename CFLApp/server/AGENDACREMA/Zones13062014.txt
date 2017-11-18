@@ -1,0 +1,165 @@
+Id=13062014
+Jourdate=13/06/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3282
+Pf=PF BALDINI
+Conseiller=Pascal MARIE
+Nom=TOURAINE
+Prenom=YVES
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=726
+Four=2
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3286
+Pf=PF DE SAVOY
+Conseiller=Pascal MARIE
+Nom=BESSON
+Prenom=GILBERT
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=727
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3288
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=LANDEL
+Prenom=BERNARD
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=723
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3296
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=GRANGER
+Prenom=ANDRE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=725
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3289
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=BISSONNIER
+Prenom=EMILE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=NORMALEMENT SANS FAMILLE A CONFIRMER AVEC LE CHAUFFEUR
+NoOrdre=721
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+EvenementCommentaire=ON GARDE L'URNE  AU CREMATORIUM
+CodeDft=3290
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=CHARVET
+Prenom=RENEE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=722
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3291
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=HERMEN
+Prenom=THIERRY
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=724
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3293
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=BOS
+Prenom=JACQUES
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=728
+Four=2
+FicheOccupe=Libre
+End With

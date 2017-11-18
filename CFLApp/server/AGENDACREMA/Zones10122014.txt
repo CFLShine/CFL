@@ -1,0 +1,99 @@
+Id=10122014
+Jourdate=10/12/2014
+Version=NouveauFormat
+With ZONE
+Id=6
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4289
+Pf=PF PENA
+Conseiller=Loïc TREVARAIN
+Nom=BRUN
+Prenom=MARIE-CLAUDE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de SAINT-LAURENT-DU-PONT
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=INFO + TARD QUI RECUPERE     ORDONNATEUR PFM  MAXIME
+NoOrdre=1499
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4297
+Pf=PF MERCIER
+Conseiller=Marie-Pierre PINET
+Nom=MADAIRE
+Prenom=ALAIN
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de DES AVENIERES
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+NoOrdre=1500
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4292
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=PERSONNAZ
+Prenom=ALEXIS
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1501
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4296
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=ONGARO
+Prenom=FRANCOISE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE ST VALENTIN BISSY
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=1502
+Four=1
+End With
+With ZONE
+Id=0
+End With

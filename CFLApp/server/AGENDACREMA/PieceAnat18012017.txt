@@ -1,0 +1,6 @@
+Id=18012017
+Agent=MULDER
+Provenance=MEDIPOLE DE SAVOIE
+Nature=PIECE ANATOMIQUE
+Four=1
+NoOrdre=114

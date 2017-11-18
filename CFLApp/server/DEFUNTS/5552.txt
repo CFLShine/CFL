@@ -1,0 +1,14 @@
+DefuntNom=TARTARAT-BARDET
+DefuntPrenom=FELICIEN
+DefuntDecesDate=16/05/2015
+ArriveeCommune=ALBERTVILLE
+ArriveeDate=20/05/2015
+ArriveeHeure=11:45
+PfArrivee=PF FLORET
+CeremonieCrematoriumDate=20/05/2015
+CeremonieCrematoriumHeure=11:45
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Geste d'adieu
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5552
+Id=5552

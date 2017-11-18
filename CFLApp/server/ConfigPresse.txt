@@ -1,0 +1,909 @@
+<METASF>
+Id=0
+Departement=RHONE
+Erratum=61
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=158
+TarifAutres=59
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=227
+TarifAutres=86
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=248
+TarifAutres=92
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=304
+TarifAutres=114
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=375
+TarifAutres=143
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=457
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=532
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=701
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=787
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=869
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=1
+Departement=AIN
+Erratum=36
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=93
+TarifAutres=32
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=131
+TarifAutres=45
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=145
+TarifAutres=52
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=179
+TarifAutres=63
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=227
+TarifAutres=84
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=271
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=311
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=411
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=459
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=509
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=2
+Departement=LOIRE
+Erratum=36
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=96
+TarifAutres=33
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=134
+TarifAutres=48
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=144
+TarifAutres=52
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=181
+TarifAutres=63
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=232
+TarifAutres=84
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=279
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=326
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=429
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=485
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=538
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=3
+Departement=HAUTE LOIRE
+Erratum=15
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=25
+TarifAutres=8
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=29
+TarifAutres=9
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=32
+TarifAutres=10
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=39
+TarifAutres=11
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=46
+TarifAutres=16
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=53
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=58
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=83
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=92
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=102
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=4
+Departement=JURA
+Erratum=29
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=77
+TarifAutres=26
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=108
+TarifAutres=39
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=118
+TarifAutres=43
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=141
+TarifAutres=49
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=181
+TarifAutres=63
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=215
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=250
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=331
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=370
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=408
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=5
+Departement=ISERE
+Erratum=71
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=107
+TarifAutres=71
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=154
+TarifAutres=110
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=172
+TarifAutres=124
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=214
+TarifAutres=154
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=272
+TarifAutres=201
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=328
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=381
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=496
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=542
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=586
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=6
+Departement=SAVOIE
+Erratum=55
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=84
+TarifAutres=55
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=118
+TarifAutres=84
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=134
+TarifAutres=94
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=165
+TarifAutres=115
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=208
+TarifAutres=150
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=250
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=290
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=379
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=411
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=445
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=7
+Departement=HAUTE SAVOIE
+Erratum=60
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=91
+TarifAutres=60
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=133
+TarifAutres=93
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=147
+TarifAutres=105
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=183
+TarifAutres=129
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=232
+TarifAutres=169
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=280
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=324
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=420
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=460
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=498
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=8
+Departement=PAYS DE GEX
+Erratum=23
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=40
+TarifAutres=22
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=53
+TarifAutres=35
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=59
+TarifAutres=40
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=74
+TarifAutres=48
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=93
+TarifAutres=62
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=111
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=128
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=167
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=181
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=195
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=9
+Departement=DROME ARDECHE
+Erratum=69
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=104
+TarifAutres=69
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=149
+TarifAutres=106
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=167
+TarifAutres=120
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=205
+TarifAutres=149
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=263
+TarifAutres=195
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=317
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=368
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=480
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=523
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=565
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=10
+Departement=HAUTES ALPES
+Erratum=49
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=71
+TarifAutres=49
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=104
+TarifAutres=73
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=116
+TarifAutres=86
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=145
+TarifAutres=104
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=187
+TarifAutres=138
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=223
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=260
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=339
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=370
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=399
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=11
+Departement=VAUCLUSE
+Erratum=29
+With MODULE
+Id=0
+LignesDe=1
+LignesA=7
+TarifAvis=45
+TarifAutres=29
+End With
+With MODULE
+Id=1
+LignesDe=8
+LignesA=10
+TarifAvis=61
+TarifAutres=41
+End With
+With MODULE
+Id=2
+LignesDe=11
+LignesA=13
+TarifAvis=68
+TarifAutres=47
+End With
+With MODULE
+Id=3
+LignesDe=14
+LignesA=17
+TarifAvis=87
+TarifAutres=57
+End With
+With MODULE
+Id=4
+LignesDe=18
+LignesA=22
+TarifAvis=109
+TarifAutres=73
+End With
+With MODULE
+Id=5
+LignesDe=23
+LignesA=27
+TarifAvis=131
+TarifAutres=
+End With
+With MODULE
+Id=6
+LignesDe=28
+LignesA=35
+TarifAvis=150
+TarifAutres=
+End With
+With MODULE
+Id=7
+LignesDe=36
+LignesA=42
+TarifAvis=196
+TarifAutres=
+End With
+With MODULE
+Id=8
+LignesDe=43
+LignesA=49
+TarifAvis=213
+TarifAutres=
+End With
+With MODULE
+Id=9
+LignesDe=50
+LignesA=55
+TarifAvis=229
+TarifAutres=
+End With
+<\METASF>
+<METASF>
+Id=12
+Data=
+DepSup=40
+JoursSup=60
+Insertion=28.50
+TextZoneWidth=236
+Conditions=Pompes Funèbres Municipales<Ret>86, square Louis Sève<Ret>73000 CHAMBERY<Ret>Tél : 04 79 60 50 70<Ret>Fax : 04 79 60 50 85<Ret>N° de compte 00 71 873                 <Ret>_______________________________<Ret><Ret>Je soussigné(e) avoir qualité pour pourvoir<Ret>aux funérailles et m’engage sans aucune <Ret>réserve à régler les P.F.M de Chambéry<Ret>du montant ci-dessus inscrit.<Ret>La mise en page et les caractères peuvent<Ret>différer de ceux du Dauphiné Libéré, et<Ret>entraîner un nombre de lignes différent<Ret>à la parution.<Ret>Je m’engage à régler la différence de prix <Ret>qui résulterait de cet écart.<Ret>Par ailleurs, je reconnais la relecture du texte et <Ret>l’accepte.<Ret><Ret>Fait à Chambéry, le………………………<Ret>Signature précédée de la mention « lu et approuvé » <Ret>
+<\METASF>

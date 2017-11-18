@@ -1,0 +1,75 @@
+Id=5022014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2512.txt
+Pf=
+Conseiller=Pascal MARIE
+Nom=PONCET
+Prenom=MARIE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+CodeDft=2512
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2515.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=FERNANDEZ
+Prenom=DIDIER
+HeureArrivee=14:00
+EvenementArrivee=Arrivée de chambéry 
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION
+FicheOccupe=Libre
+CodeDft=2515
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2530.txt
+Pf=PF TONIN COIFFET
+Conseiller=Marie-Pierre PINET
+Nom=CLERC-RENAUD
+Prenom=MARIE-THERESE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de BELLEY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM  LAFAMILLE RECUPERE L'URNE
+NoOrdre=163
+Four=2
+FicheOccupe=Libre
+CodeDft=2530
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=6
+End With

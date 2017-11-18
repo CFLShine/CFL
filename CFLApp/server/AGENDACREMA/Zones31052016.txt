@@ -1,0 +1,110 @@
+Id=31052016
+Jourdate=31/05/2016
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=8338
+Pf_ceremonie=PF MERCIER
+Nom_ceremonie=POIRIER DIT CAULIER
+Prenom_ceremonie=GUY
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de DES AVENIERES
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8338
+Pf_cremation=PF MERCIER
+Nom_cremation=POIRIER DIT CAULIER
+Prenom_cremation=GUY
+EvenementArrivee_cremation=Arrivée de DES AVENIERES
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+NoOrdre=825
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=8344
+Pf_ceremonie=PFM
+Nom_ceremonie=FLORET
+Prenom_ceremonie=CHARLES
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION  INHUMATION CHARRIERE NEUVE
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=8330
+Pf_ceremonie=PF PENA
+Nom_ceremonie=LANDRIN
+Prenom_ceremonie=JEAN-CLAUDE
+CodeDft_cremation=8330
+Pf_cremation=PF PENA
+Nom_cremation=LANDRIN
+Prenom_cremation=JEAN-CLAUDE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=11:15
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=824
+Four=2
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=8334
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=COUDURIER
+Prenom_ceremonie=GILBERT
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8334
+Pf_cremation=PF BALDINI
+Nom_cremation=COUDURIER
+Prenom_cremation=GILBERT
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=826
+Four=2
+End With

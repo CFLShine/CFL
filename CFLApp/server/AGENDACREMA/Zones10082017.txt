@@ -1,0 +1,123 @@
+Id=10082017
+Jourdate=10/08/2017
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=11351
+Pf_ceremonie=BOUDRIER
+Nom_ceremonie=VANHOVE
+Prenom_ceremonie=PAULETTE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L URNE
+CodeDft_cremation=11351
+Pf_cremation=BOUDRIER
+Nom_cremation=VANHOVE
+Prenom_cremation=PAULETTE
+EvenementArrivee_cremation=Arrivée de MORESTEL
+FicheOccupe=Libre
+NoOrdre=1105
+Four=FTX
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=4
+EvenementCommentaire=CERCUEIL PIN, NEE LE 18/06/1927
+SaisieOccupe=Libre
+CodeDft_ceremonie=11367
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=DECEGLIE
+Prenom_ceremonie=ARMANDE
+HeureArrivee_ceremonie=11:30
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=11:30
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=11367
+Pf_cremation=PF BALDINI
+Nom_cremation=DECEGLIE
+Prenom_cremation=ARMANDE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=1106
+Four=FT3
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=11354
+Pf_ceremonie=TONIN COIFFET
+Nom_ceremonie=ARNAUD
+Prenom_ceremonie=MARIE CLAUDE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDO PFCCA  
+CodeDft_cremation=11354
+Pf_cremation=TONIN COIFFET
+Nom_cremation=ARNAUD
+Prenom_cremation=MARIE CLAUDE
+EvenementArrivee_cremation=Arrivée de BELLEY
+NoOrdre=1107
+Four=FTX
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+EvenementCommentaire=FAMILLE RECUPERE LE JOUR MEME!
+SaisieOccupe=Libre
+CodeDft_ceremonie=11363
+Pf_ceremonie=PFCCA
+Nom_ceremonie=PLAISANCE
+Prenom_ceremonie=SEBASTIEN
+CodeDft_cremation=11363
+Pf_cremation=PFCCA
+Nom_cremation=PLAISANCE
+Prenom_cremation=SEBASTIEN
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1108
+Four=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

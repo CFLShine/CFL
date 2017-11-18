@@ -1,0 +1,198 @@
+Id=24012015
+JourDate=24/01/2015
+With ZONE
+Id=0
+Pos=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4599
+Comment_0=PREVOIR ORDO PFM POUR ACCUEIL FAMILLE
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+Pos=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=4605
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=17
+EquipeId_1=26
+EquipeId_2=48
+EquipeId_3=50
+Ordo=FAVRIN Thierry
+Equipe_0=MEGHEZZI Marc
+Equipe_1=WALLYN Benoît
+Equipe_2=CITRINO Sèbastien
+Equipe_3=MARIE TRISTAN
+End With
+With ZONE
+Id=2
+Pos=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=4607
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=31
+EquipeId_1=47
+EquipeId_2=51
+EquipeId_3=16
+Ordo=KAELBERER Eric
+Equipe_0=BRUN Mickaël
+Equipe_1=RIVIERE Thomas
+Equipe_2=POIRAUD Guy
+Equipe_3=MILESI Robert
+End With
+With ZONE
+Id=3
+Pos=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=4610
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=17
+EquipeId_1=26
+EquipeId_2=48
+EquipeId_3=50
+Ordo=TREVARAIN Loïc
+Equipe_0=MEGHEZZI Marc
+Equipe_1=WALLYN Benoît
+Equipe_2=CITRINO Sèbastien
+Equipe_3=MARIE TRISTAN
+End With
+With ZONE
+Id=4
+Pos=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=4611
+Comment_0=Famille n'assiste pas a MEB. Famille n'assiste pas a dispersion
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=17
+EquipeId_1=26
+EquipeId_2=50
+EquipeId_3=31
+Ordo=FAVRIN Thierry
+Equipe_0=MEGHEZZI Marc
+Equipe_1=WALLYN Benoît
+Equipe_2=MARIE TRISTAN
+Equipe_3=BRUN Mickaël
+End With
+With ZONE
+Id=6
+Pos=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=4613
+Comment_0=CREMATION 15H00
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=17
+EquipeId_1=26
+EquipeId_2=50
+EquipeId_3=31
+Ordo=KAELBERER Eric
+Equipe_0=MEGHEZZI Marc
+Equipe_1=WALLYN Benoît
+Equipe_2=MARIE TRISTAN
+Equipe_3=BRUN Mickaël
+End With
+With ZONE
+Id=7
+Pos=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4619
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=12
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=TREVARAIN Loïc
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=8
+CodeDft=4638
+DemiJour=1
+Pos=4
+UsedBy=
+End With
+With ZONE
+Id=9
+CodeDft=4639
+DemiJour=1
+Pos=5
+UsedBy=
+End With
+With ZONE
+Id=10
+CodeDft=4640
+DemiJour=1
+Pos=6
+UsedBy=
+End With

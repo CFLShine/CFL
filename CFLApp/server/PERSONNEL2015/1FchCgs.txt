@@ -1,0 +1,103 @@
+Id=1
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=63:00
+EpargneesFC=98:00
+varHeuresSupAnDernier=00:00
+With LigneConges
+Id=0
+varPrisDu=14/01/15
+varPrisAu=14/01/15
+varDemandeDate=15/01/15
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=15/01/15
+varVisaDirecteur=15/01/15
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=27/01/15
+varPrisAu=31/01/15
+varDemandeDate=24/01/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=24/01/15
+varVisaDirecteur=24/01/15
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=02/01/15
+varPrisAu=03/01/15
+varDemandeDate=24/01/15
+varAnnuel=16:00
+varRecup=
+varEpargne=
+varVisaChef=24/01/15
+varVisaDirecteur=24/01/15
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=20/04/15
+varPrisAu=25/04/15
+varDemandeDate=18/04/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=18/04/15
+varVisaDirecteur=18/04/15
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=17/08/15
+varPrisAu=29/08/15
+varDemandeDate=14/08/15
+varAnnuel=72:00
+varRecup=
+varEpargne=
+varVisaChef=14/08/15
+varVisaDirecteur=14/08/15
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=21/10/15
+varPrisAu=22/10/15
+varDemandeDate=20/10/15
+varAnnuel=16:00
+varRecup=
+varEpargne=
+varVisaChef=20/10/15
+varVisaDirecteur=20/10/15
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=28/10/15
+varPrisAu=29/10/15
+varDemandeDate=27/10/15
+varAnnuel=16:00
+varRecup=
+varEpargne=
+varVisaChef=27/10/15
+varVisaDirecteur=27/10/15
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=26/12/15
+varPrisAu=26/12/15
+varDemandeDate=23/12/15
+varAnnuel=08:00
+varRecup=
+varEpargne=
+varVisaChef=23/12/15
+varVisaDirecteur=
+varRetourDate=
+End With

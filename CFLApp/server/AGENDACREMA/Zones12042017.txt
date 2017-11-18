@@ -1,0 +1,143 @@
+Id=12042017
+Jourdate=12/04/2017
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=10599
+Pf_ceremonie=PFM
+Nom_ceremonie=NICOULEAU
+Prenom_ceremonie=GUY
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10599
+Pf_cremation=PFM
+Nom_cremation=NICOULEAU
+Prenom_cremation=GUY
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+HeuretArrivee_ceremonie=
+NoOrdre=559
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 14H
+SaisieOccupe=Libre
+CodeDft_ceremonie=10601
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=MERCIER
+Prenom_ceremonie=YOLANDE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10601
+Pf_cremation=PF SEDRAN
+Nom_cremation=MERCIER
+Prenom_cremation=YOLANDE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=558
+Four=1
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=10589
+Pf_ceremonie=PF SAVOY MOUTIERS
+Nom_ceremonie=PERRET
+Prenom_ceremonie=ANDRE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=15:00
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10589
+Pf_cremation=PF SAVOY MOUTIERS
+Nom_cremation=PERRET
+Prenom_cremation=ANDRE
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+FicheOccupe=Libre
+NoOrdre=560
+Four=1
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PAS DE CREMATION - NE DIVULGUER AUCUNE INFO
+SaisieOccupe=Libre
+CodeDft_ceremonie=10585
+Pf_ceremonie=PFM
+Nom_ceremonie=BOISSON
+Prenom_ceremonie=RENE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=10594
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=EYNARD-MACHET
+Prenom_ceremonie=GERARD
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=MAITRE DE CEREMONIE PFM  / RENDEZ VOUS AVEC FAMILLE 16H
+CodeDft_cremation=10594
+Pf_cremation=PF MOUCHE
+Nom_cremation=EYNARD-MACHET
+Prenom_cremation=GERARD
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+NoOrdre=561
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

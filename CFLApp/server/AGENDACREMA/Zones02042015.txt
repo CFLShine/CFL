@@ -1,0 +1,96 @@
+Id=2042015
+Jourdate=02/04/2015
+Version=NouveauFormat
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5177
+Pf=PF PENA
+Conseiller=Marie-Pierre PINET
+Nom=PENET
+Prenom=CHARLES
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=543
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5179
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=PETITTI
+Prenom=HENRI
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=545
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5180
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=AUPETIT
+Prenom=MARCELLE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:30
+EvenementCeremonie=Cérémonie Religieuse Eglise St Alban Leysse
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=544
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=5193
+Pf=PF  BOUVIER
+Conseiller=Marie-Pierre PINET
+Nom=PEYSSONS
+Prenom=LUCAS ET MANON
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=BB
+NoOrdre=546
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=7
+End With

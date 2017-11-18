@@ -1,0 +1,36 @@
+Id=-1
+With TIERS
+Id=1
+Code=1
+Name=HOPITAL DE CHAMBERY
+Var1=
+Var2=
+Var3=CHAMBERY
+Var4=04 56 80 82 33
+Var5=
+Var6=
+End With
+With TIERS
+Id=2
+Code=2
+Name=PFI GRENOBLE
+Var1=
+Var2=
+Var3=LA TRONCHE
+Var4=
+Var5=
+Var6=
+Var7=60
+End With
+With TIERS
+Id=3
+Code=0
+Name=CF
+Var1=
+Var2=
+Var3=
+Var4=
+Var5=
+Var6=
+Var7=
+End With

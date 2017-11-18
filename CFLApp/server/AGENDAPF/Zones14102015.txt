@@ -1,0 +1,140 @@
+Id=14102015
+JourDate=14/10/2015
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Green
+EquipeOk_1=Green
+EquipeOk_2=Green
+EquipeOk_3=Red
+CodeDft=6642
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=1
+EquipeId_0=18
+EquipeId_1=16
+EquipeId_2=58
+EquipeId_3=6
+Ordo=EHNY Maxime
+Equipe_0=E.SPRINGOLO Eric
+Equipe_1=MILESI Robert
+Equipe_2=MULDER Michaël
+Equipe_3=PINTOUT Bruno
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6647
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=7
+EquipeId_1=5
+EquipeId_2=6
+EquipeId_3=17
+Ordo=FAVRIN Thierry
+Equipe_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+Equipe_2=PINTOUT Bruno
+Equipe_3=MEGHEZZI Marc
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6643
+Comment_0=DEPART POUR PONTCHARRA
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Green
+EquipeOk_0=Red
+EquipeOk_1=Green
+EquipeOk_2=Green
+EquipeOk_3=White
+CodeDft=6652
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=5
+EquipeId_1=54
+EquipeId_2=17
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=MILLON Patrick
+Equipe_1=BRUN Tony
+Equipe_2=MEGHEZZI Marc
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6663
+Comment_0=EXHUMATION,REDUCTION ET REINHUMATION DE 2 CORPS : MONTAGNER ALDO 1982
+Comment_1=MONTAGNER FLAVIA 1969
+HeureComment=  :
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Green
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6665
+Comment_0=CARRE MUSULMAN
+Comment_1=
+HeureComment=  :
+OrdoId=7
+EquipeId_0=21
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=JACQUIER Michel
+Equipe_0=VINCENT Judicael
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=6
+CodeDft=6677
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=7
+CodeDft=6684
+DemiJour=1
+Pos=1
+UsedBy=
+End With

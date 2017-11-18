@@ -1,0 +1,22 @@
+Id=1958
+With DEFUNT
+Id=3838
+Nom=CAIRE
+Prenom=JOSEPH  ET   MARIE
+DecesDate=01/01/1958
+CodeDft=3838
+End With
+With DEFUNT
+Id=1446
+Nom=GAZET
+Prenom=RENE
+DecesDate=01/11/1958
+CodeDft=1446
+End With
+With DEFUNT
+Id=1447
+Nom=GAZET
+Prenom=RENE ET LUCIE
+DecesDate=01/11/1958
+CodeDft=1447
+End With

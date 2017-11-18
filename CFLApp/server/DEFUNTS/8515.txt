@@ -1,0 +1,15 @@
+Id=8515
+DefuntNom=MACERA
+DefuntPrenom=PASQUALE
+DefuntDecesDate=  /  /
+ArriveeCommune=
+ArriveeDate=27/06/2016
+ArriveeHeure=14:15
+PfArrivee=PFM
+PfCeremonie=PFM
+CeremonieCrematoriumDate=27/06/2016
+CeremonieCrematoriumHeure=14:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Civile
+ReservCrema=Jeanine BORDEILER
+CodeDefunt=8515

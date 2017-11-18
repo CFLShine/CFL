@@ -1,0 +1,15 @@
+DefuntNom=MOUNIER
+DefuntPrenom=ROGER
+DefuntDecesDate=15/09/2016
+ArriveeCommune=CHAMBERY
+ArriveeDate=19/09/2016
+ArriveeHeure=16:15
+PfArrivee=PFG CHAMBERY
+PfCeremonie=PFG CHAMBERY
+CeremonieCrematoriumDate=19/09/2016
+CeremonieCrematoriumHeure=16:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Religieuse
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=9071
+Id=9071

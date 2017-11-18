@@ -1,0 +1,67 @@
+Id=9032017
+JourDate=09/03/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10366
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=17
+EquipeId_1=60
+EquipeId_2=6
+EquipeId_3=16
+Ordo=FAVRIN Thierry
+Equipe_0=MEGHEZZI Marc
+Equipe_1=DUMAZ Rémy
+Equipe_2=PINTOUT Bruno
+Equipe_3=MILESI Robert
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=10373
+Comment_0=LA FAMILLE RECUPERE L'URNE 
+Comment_1=DONNER LES ACTES DE DECES A LA FILLE 
+HeureComment=  :
+OrdoId=26
+EquipeId_0=7
+EquipeId_1=14
+EquipeId_2=5
+EquipeId_3=8
+Ordo=WALLYN Benoît
+Equipe_0=JACQUIER Michel
+Equipe_1=KAELBERER Eric
+Equipe_2=MILLON Patrick
+Equipe_3=ESPINOZA François
+End With
+With ZONE
+Id=2
+CodeDft=10391
+DemiJour=1
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+End With

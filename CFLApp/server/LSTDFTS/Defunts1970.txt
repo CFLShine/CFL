@@ -1,0 +1,15 @@
+Id=1970
+With DEFUNT
+Id=3833
+Nom=MERMOZ
+Prenom=ANGELE
+DecesDate=01/01/1970
+CodeDft=3833
+End With
+With DEFUNT
+Id=7063
+Nom=ROUX
+Prenom=LOUIS
+DecesDate=26/02/1970
+CodeDft=7063
+End With

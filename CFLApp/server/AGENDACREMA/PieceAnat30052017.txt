@@ -1,0 +1,6 @@
+Id=30052017
+Agent=RIVIERE THOMAS
+Provenance=HOPITAL CHAMBERY
+Nature=2  FOETUS
+Four=2
+NoOrdre=755

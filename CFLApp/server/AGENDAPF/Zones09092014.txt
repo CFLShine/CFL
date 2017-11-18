@@ -1,0 +1,80 @@
+Id=9092014
+JourDate=09/09/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+CodeDft=3792
+Pf=PFM
+Conseiller=Marion TREBOUTE
+DefuntNom=DOUS
+DefuntPrenom=MESSAOUDA
+Heure_0=00:33
+Ev_0=TAMB depuis  vers 
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=TREVARAIN Loïc
+Equipe_1=PACHOUD Nicolas
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=2
+Saisie=Soins
+Pos=2
+DemiJour=0
+CodeDft=3791
+Pf=PFM
+Conseiller=
+DefuntNom=BEDIOT
+DefuntPrenom=GISELE
+Heure_0=08:15
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+End With
+With ZONE
+Id=3
+Saisie=TAMB
+Pos=3
+DemiJour=1
+CodeDft=3793
+Pf=PFM
+Conseiller=Pascal MARIE
+DefuntNom=LEZIER
+DefuntPrenom=PASCAL
+Heure_0=12:39
+Ev_0=TAMB depuis PIERRE BENITE vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=PINTOUT Bruno
+End With
+With ZONE
+Id=4
+Saisie=Soins
+Pos=4
+DemiJour=1
+CodeDft=3793
+Pf=PFM
+Conseiller=Pascal MARIE
+DefuntNom=LEZIER
+DefuntPrenom=PASCAL
+Heure_0=12:30
+Ev_0=Soins de thanatopraxie parGONDIN Jean-Claude
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+End With

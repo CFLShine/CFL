@@ -1,0 +1,165 @@
+Id=27072015
+Jourdate=27/07/2015
+With ZONE
+Id=6
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=6084
+Pf_ceremonie=PFM
+Nom_ceremonie=CHABERT
+Prenom_ceremonie=MARGUERITE
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_cremation=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementArrivee_crema=
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=  :
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=BEBE PAS DE FAMILLE 
+HeuretArrivee_ceremonie=
+CodeDft_cremation=6090
+Pf_cremation=DE SAVOY
+Nom_cremation=ROLLIER-SIGALLET
+Prenom_cremation=ROSE
+EvenementArrivee_cremation=Arrivée de BOURG SAINT MAURICE
+FicheOccupe=Libre
+NoOrdre=1114
+Four=1
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=6087
+Pf_ceremonie=PF BAUDRION
+Nom_ceremonie=HEBRARD
+Prenom_ceremonie=JACQUES
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de PONTCHARRA
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=6087
+Pf_cremation=PF BAUDRION
+Nom_cremation=HEBRARD
+Prenom_cremation=JACQUES
+EvenementArrivee_cremation=Arrivée de PONTCHARRA
+FicheOccupe=Libre
+NoOrdre=1115
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=CERCUEIL CREMATION  PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=6095
+Pf_ceremonie=SEDRAN
+Nom_ceremonie=SIBUET BIZET
+Prenom_ceremonie=GILBERT
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=6095
+Pf_cremation=SEDRAN
+Nom_cremation=SIBUET BIZET
+Prenom_cremation=GILBERT
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1116
+Four=2
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=6085
+Pf_ceremonie=PFM
+Nom_ceremonie=FOSCHIA
+Prenom_ceremonie=MICHEL
+CodeDft_cremation=6085
+Pf_cremation=PFM
+Nom_cremation=FOSCHIA
+Prenom_cremation=MICHEL
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=11:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=1117
+Four=1
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=6092
+Pf_ceremonie=BALDINI
+Nom_ceremonie=PERROUD
+Prenom_ceremonie=FERNAND
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  FAMILLE RECUPERE
+CodeDft_cremation=6092
+Pf_cremation=BALDINI
+Nom_cremation=PERROUD
+Prenom_cremation=FERNAND
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+NoOrdre=1118
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+End With

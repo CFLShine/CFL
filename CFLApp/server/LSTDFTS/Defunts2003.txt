@@ -1,0 +1,43 @@
+Id=2003
+With DEFUNT
+Id=6857
+Nom=BOUDJEMA
+Prenom=MOHAMMED
+DecesDate=30/09/2003
+CodeDft=6857
+End With
+With DEFUNT
+Id=1617
+Nom=CAGLIONI
+Prenom=Herve
+DecesDate=27/11/2003
+CodeDft=1617
+End With
+With DEFUNT
+Id=95
+Nom=CARROCCIA
+Prenom=SACHA
+DecesDate=28/01/2003
+CodeDft=95
+End With
+With DEFUNT
+Id=4708
+Nom=NOGHEROTTO
+Prenom=ONDINE
+DecesDate=06/05/2003
+CodeDft=4708
+End With
+With DEFUNT
+Id=10243
+Nom=SANTARELLI
+Prenom=MATTEW
+DecesDate=03/11/2003
+CodeDft=10243
+End With
+With DEFUNT
+Id=4475
+Nom=WANEGUE
+Prenom=TEO
+DecesDate=17/09/2003
+CodeDft=4475
+End With

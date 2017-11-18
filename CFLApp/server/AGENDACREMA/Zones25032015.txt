@@ -1,0 +1,148 @@
+Id=25032015
+Jourdate=25/03/2015
+Version=NouveauFormat
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5120
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=VANOVERBERGHE
+Prenom=CAMILLE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=503
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=5121
+Pf=PFG MACHE
+Conseiller=Loïc TREVARAIN
+Nom=JACQUOT
+Prenom=GILBERTE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=500
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=5122
+Pf=PFG AIX LES BAINS
+Conseiller=Nicolas PACHOUD
+Nom=PRINCIC
+Prenom=JEANNE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE
+NoOrdre=501
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=5125
+Pf=PF MOUCHE
+Conseiller=Loïc TREVARAIN
+Nom=GAY
+Prenom=FRANCIS
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 15H
+NoOrdre=502
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=5124
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=BARRAL
+Prenom=YVETTE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:00
+EvenementCeremonie=Cérémonie Religieuse EGLISE CHY LE HAUT
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=505
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=5126
+Pf=PF BALDINI
+Conseiller=Marion TREBOUTE
+Nom=YERLY
+Prenom=PEGGY
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=504
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=5138
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=LECLERCQ
+Prenom=RENE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de ST JEAN 
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=499
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

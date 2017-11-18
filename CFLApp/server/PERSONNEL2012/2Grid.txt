@@ -1,0 +1,860 @@
+<METASF>
+Id=11
+With CELL
+Id=1
+Txt=Repos
+Type=
+Date=01/11/2012
+DemiJour=0
+End With
+With CELL
+Id=2
+Txt=Repos
+Type=
+Date=01/11/2012
+DemiJour=1
+End With
+With CELL
+Id=3
+Txt=Repos
+Type=
+Date=02/11/2012
+DemiJour=0
+End With
+With CELL
+Id=4
+Txt=
+Type=Normal
+Date=02/11/2012
+DemiJour=1
+End With
+With CELL
+Id=5
+Txt=
+Type=Normal
+Date=03/11/2012
+DemiJour=0
+End With
+With CELL
+Id=6
+Txt=
+Type=Normal
+Date=03/11/2012
+DemiJour=1
+End With
+With CELL
+Id=7
+Txt=
+Type=Normal
+Date=04/11/2012
+DemiJour=0
+End With
+With CELL
+Id=8
+Txt=
+Type=Normal
+Date=04/11/2012
+DemiJour=1
+End With
+With CELL
+Id=9
+Txt=
+Type=Normal
+Date=05/11/2012
+DemiJour=0
+End With
+With CELL
+Id=10
+Txt=
+Type=Normal
+Date=05/11/2012
+DemiJour=1
+End With
+With CELL
+Id=11
+Txt=
+Type=Normal
+Date=06/11/2012
+DemiJour=0
+End With
+With CELL
+Id=12
+Txt=
+Type=Normal
+Date=06/11/2012
+DemiJour=1
+End With
+With CELL
+Id=13
+Txt=
+Type=Normal
+Date=07/11/2012
+DemiJour=0
+End With
+With CELL
+Id=14
+Txt=
+Type=Normal
+Date=07/11/2012
+DemiJour=1
+End With
+With CELL
+Id=15
+Txt=Repos
+Type=Normal
+Date=08/11/2012
+DemiJour=0
+End With
+With CELL
+Id=16
+Txt=Repos
+Type=Normal
+Date=08/11/2012
+DemiJour=1
+End With
+With CELL
+Id=17
+Txt=Repos
+Type=Normal
+Date=09/11/2012
+DemiJour=0
+End With
+With CELL
+Id=18
+Txt=
+Type=Normal
+Date=09/11/2012
+DemiJour=1
+End With
+With CELL
+Id=19
+Txt=
+Type=Normal
+Date=10/11/2012
+DemiJour=0
+End With
+With CELL
+Id=20
+Txt=
+Type=Maladie
+Date=10/11/2012
+DemiJour=1
+End With
+With CELL
+Id=21
+Txt=
+Type=Normal
+Date=11/11/2012
+DemiJour=0
+End With
+With CELL
+Id=22
+Txt=
+Type=Normal
+Date=11/11/2012
+DemiJour=1
+End With
+With CELL
+Id=23
+Txt=
+Type=Normal
+Date=12/11/2012
+DemiJour=0
+End With
+With CELL
+Id=24
+Txt=
+Type=Normal
+Date=12/11/2012
+DemiJour=1
+End With
+With CELL
+Id=25
+Txt=
+Type=Normal
+Date=13/11/2012
+DemiJour=0
+End With
+With CELL
+Id=26
+Txt=
+Type=Normal
+Date=13/11/2012
+DemiJour=1
+End With
+With CELL
+Id=27
+Txt=
+Type=Normal
+Date=14/11/2012
+DemiJour=0
+End With
+With CELL
+Id=28
+Txt=
+Type=Normal
+Date=14/11/2012
+DemiJour=1
+End With
+With CELL
+Id=29
+Txt=Repos
+Type=Normal
+Date=15/11/2012
+DemiJour=0
+End With
+With CELL
+Id=30
+Txt=Repos
+Type=Normal
+Date=15/11/2012
+DemiJour=1
+End With
+With CELL
+Id=31
+Txt=Repos
+Type=Normal
+Date=16/11/2012
+DemiJour=0
+End With
+With CELL
+Id=32
+Txt=
+Type=Normal
+Date=16/11/2012
+DemiJour=1
+End With
+With CELL
+Id=33
+Txt=
+Type=Normal
+Date=17/11/2012
+DemiJour=0
+End With
+With CELL
+Id=34
+Txt=
+Type=Normal
+Date=17/11/2012
+DemiJour=1
+End With
+With CELL
+Id=35
+Txt=
+Type=Normal
+Date=18/11/2012
+DemiJour=0
+End With
+With CELL
+Id=36
+Txt=
+Type=Normal
+Date=18/11/2012
+DemiJour=1
+End With
+With CELL
+Id=37
+Txt=
+Type=Normal
+Date=19/11/2012
+DemiJour=0
+End With
+With CELL
+Id=38
+Txt=
+Type=Normal
+Date=19/11/2012
+DemiJour=1
+End With
+With CELL
+Id=39
+Txt=
+Type=Normal
+Date=20/11/2012
+DemiJour=0
+End With
+With CELL
+Id=40
+Txt=
+Type=Normal
+Date=20/11/2012
+DemiJour=1
+End With
+With CELL
+Id=41
+Txt=
+Type=Normal
+Date=21/11/2012
+DemiJour=0
+End With
+With CELL
+Id=42
+Txt=
+Type=Normal
+Date=21/11/2012
+DemiJour=1
+End With
+With CELL
+Id=43
+Txt=Repos
+Type=Normal
+Date=22/11/2012
+DemiJour=0
+End With
+With CELL
+Id=44
+Txt=Repos
+Type=Normal
+Date=22/11/2012
+DemiJour=1
+End With
+With CELL
+Id=45
+Txt=Repos
+Type=Normal
+Date=23/11/2012
+DemiJour=0
+End With
+With CELL
+Id=46
+Txt=
+Type=Normal
+Date=23/11/2012
+DemiJour=1
+End With
+With CELL
+Id=47
+Txt=
+Type=Normal
+Date=24/11/2012
+DemiJour=0
+End With
+With CELL
+Id=48
+Txt=
+Type=Normal
+Date=24/11/2012
+DemiJour=1
+End With
+With CELL
+Id=49
+Txt=
+Type=Normal
+Date=25/11/2012
+DemiJour=0
+End With
+With CELL
+Id=50
+Txt=
+Type=Normal
+Date=25/11/2012
+DemiJour=1
+End With
+With CELL
+Id=51
+Txt=
+Type=Normal
+Date=26/11/2012
+DemiJour=0
+End With
+With CELL
+Id=52
+Txt=
+Type=Normal
+Date=26/11/2012
+DemiJour=1
+End With
+With CELL
+Id=53
+Txt=
+Type=Normal
+Date=27/11/2012
+DemiJour=0
+End With
+With CELL
+Id=54
+Txt=
+Type=Normal
+Date=27/11/2012
+DemiJour=1
+End With
+With CELL
+Id=55
+Txt=
+Type=Normal
+Date=28/11/2012
+DemiJour=0
+End With
+With CELL
+Id=56
+Txt=
+Type=Normal
+Date=28/11/2012
+DemiJour=1
+End With
+With CELL
+Id=57
+Txt=Repos
+Type=Normal
+Date=29/11/2012
+DemiJour=0
+End With
+With CELL
+Id=58
+Txt=Repos
+Type=Normal
+Date=29/11/2012
+DemiJour=1
+End With
+With CELL
+Id=59
+Txt=Repos
+Type=Normal
+Date=30/11/2012
+DemiJour=0
+End With
+With CELL
+Id=60
+Txt=
+Type=Normal
+Date=30/11/2012
+DemiJour=1
+End With
+<\METASF>
+<METASF>
+Id=12
+With CELL
+Id=1
+Txt=
+Type=Normal
+Date=01/12/2012
+DemiJour=0
+End With
+With CELL
+Id=2
+Txt=
+Type=Normal
+Date=01/12/2012
+DemiJour=1
+End With
+With CELL
+Id=3
+Txt=
+Type=Normal
+Date=02/12/2012
+DemiJour=0
+End With
+With CELL
+Id=4
+Txt=
+Type=Normal
+Date=02/12/2012
+DemiJour=1
+End With
+With CELL
+Id=5
+Txt=
+Type=Normal
+Date=03/12/2012
+DemiJour=0
+End With
+With CELL
+Id=6
+Txt=
+Type=Normal
+Date=03/12/2012
+DemiJour=1
+End With
+With CELL
+Id=7
+Txt=
+Type=Normal
+Date=04/12/2012
+DemiJour=0
+End With
+With CELL
+Id=8
+Txt=
+Type=Normal
+Date=04/12/2012
+DemiJour=1
+End With
+With CELL
+Id=9
+Txt=
+Type=Normal
+Date=05/12/2012
+DemiJour=0
+End With
+With CELL
+Id=10
+Txt=
+Type=Normal
+Date=05/12/2012
+DemiJour=1
+End With
+With CELL
+Id=11
+Txt=
+Type=Normal
+Date=06/12/2012
+DemiJour=0
+End With
+With CELL
+Id=12
+Txt=
+Type=Normal
+Date=06/12/2012
+DemiJour=1
+End With
+With CELL
+Id=13
+Txt=
+Type=Normal
+Date=07/12/2012
+DemiJour=0
+End With
+With CELL
+Id=14
+Txt=
+Type=Normal
+Date=07/12/2012
+DemiJour=1
+End With
+With CELL
+Id=15
+Txt=
+Type=Normal
+Date=08/12/2012
+DemiJour=0
+End With
+With CELL
+Id=16
+Txt=
+Type=Normal
+Date=08/12/2012
+DemiJour=1
+End With
+With CELL
+Id=17
+Txt=
+Type=Normal
+Date=09/12/2012
+DemiJour=0
+End With
+With CELL
+Id=18
+Txt=
+Type=Normal
+Date=09/12/2012
+DemiJour=1
+End With
+With CELL
+Id=19
+Txt=
+Type=Normal
+Date=10/12/2012
+DemiJour=0
+End With
+With CELL
+Id=20
+Txt=
+Type=Normal
+Date=10/12/2012
+DemiJour=1
+End With
+With CELL
+Id=21
+Txt=
+Type=Normal
+Date=11/12/2012
+DemiJour=0
+End With
+With CELL
+Id=22
+Txt=
+Type=Normal
+Date=11/12/2012
+DemiJour=1
+End With
+With CELL
+Id=23
+Txt=
+Type=Normal
+Date=12/12/2012
+DemiJour=0
+End With
+With CELL
+Id=24
+Txt=
+Type=Normal
+Date=12/12/2012
+DemiJour=1
+End With
+With CELL
+Id=25
+Txt=
+Type=Normal
+Date=13/12/2012
+DemiJour=0
+End With
+With CELL
+Id=26
+Txt=
+Type=Normal
+Date=13/12/2012
+DemiJour=1
+End With
+With CELL
+Id=27
+Txt=
+Type=Normal
+Date=14/12/2012
+DemiJour=0
+End With
+With CELL
+Id=28
+Txt=
+Type=Normal
+Date=14/12/2012
+DemiJour=1
+End With
+With CELL
+Id=29
+Txt=
+Type=Normal
+Date=15/12/2012
+DemiJour=0
+End With
+With CELL
+Id=30
+Txt=
+Type=Normal
+Date=15/12/2012
+DemiJour=1
+End With
+With CELL
+Id=31
+Txt=
+Type=Normal
+Date=16/12/2012
+DemiJour=0
+End With
+With CELL
+Id=32
+Txt=
+Type=Normal
+Date=16/12/2012
+DemiJour=1
+End With
+With CELL
+Id=33
+Txt=
+Type=Normal
+Date=17/12/2012
+DemiJour=0
+End With
+With CELL
+Id=34
+Txt=
+Type=Normal
+Date=17/12/2012
+DemiJour=1
+End With
+With CELL
+Id=35
+Txt=
+Type=Normal
+Date=18/12/2012
+DemiJour=0
+End With
+With CELL
+Id=36
+Txt=
+Type=Normal
+Date=18/12/2012
+DemiJour=1
+End With
+With CELL
+Id=37
+Txt=
+Type=Normal
+Date=19/12/2012
+DemiJour=0
+End With
+With CELL
+Id=38
+Txt=
+Type=Normal
+Date=19/12/2012
+DemiJour=1
+End With
+With CELL
+Id=39
+Txt=
+Type=Normal
+Date=20/12/2012
+DemiJour=0
+End With
+With CELL
+Id=40
+Txt=
+Type=Normal
+Date=20/12/2012
+DemiJour=1
+End With
+With CELL
+Id=41
+Txt=
+Type=Normal
+Date=21/12/2012
+DemiJour=0
+End With
+With CELL
+Id=42
+Txt=
+Type=Normal
+Date=21/12/2012
+DemiJour=1
+End With
+With CELL
+Id=43
+Txt=
+Type=Normal
+Date=22/12/2012
+DemiJour=0
+End With
+With CELL
+Id=44
+Txt=
+Type=Normal
+Date=22/12/2012
+DemiJour=1
+End With
+With CELL
+Id=45
+Txt=
+Type=Normal
+Date=23/12/2012
+DemiJour=0
+End With
+With CELL
+Id=46
+Txt=
+Type=Normal
+Date=23/12/2012
+DemiJour=1
+End With
+With CELL
+Id=47
+Txt=
+Type=Normal
+Date=24/12/2012
+DemiJour=0
+End With
+With CELL
+Id=48
+Txt=
+Type=Normal
+Date=24/12/2012
+DemiJour=1
+End With
+With CELL
+Id=49
+Txt=
+Type=Normal
+Date=25/12/2012
+DemiJour=0
+End With
+With CELL
+Id=50
+Txt=
+Type=Normal
+Date=25/12/2012
+DemiJour=1
+End With
+With CELL
+Id=51
+Txt=
+Type=Normal
+Date=26/12/2012
+DemiJour=0
+End With
+With CELL
+Id=52
+Txt=
+Type=Normal
+Date=26/12/2012
+DemiJour=1
+End With
+With CELL
+Id=53
+Txt=
+Type=Normal
+Date=27/12/2012
+DemiJour=0
+End With
+With CELL
+Id=54
+Txt=
+Type=Normal
+Date=27/12/2012
+DemiJour=1
+End With
+With CELL
+Id=55
+Txt=
+Type=Normal
+Date=28/12/2012
+DemiJour=0
+End With
+With CELL
+Id=56
+Txt=
+Type=Normal
+Date=28/12/2012
+DemiJour=1
+End With
+With CELL
+Id=57
+Txt=
+Type=Normal
+Date=29/12/2012
+DemiJour=0
+End With
+With CELL
+Id=58
+Txt=
+Type=Normal
+Date=29/12/2012
+DemiJour=1
+End With
+With CELL
+Id=59
+Txt=
+Type=Normal
+Date=30/12/2012
+DemiJour=0
+End With
+With CELL
+Id=60
+Txt=
+Type=Normal
+Date=30/12/2012
+DemiJour=1
+End With
+With CELL
+Id=61
+Txt=
+Type=Normal
+Date=31/12/2012
+DemiJour=0
+End With
+With CELL
+Id=62
+Txt=
+Type=Normal
+Date=31/12/2012
+DemiJour=1
+End With
+<\METASF>

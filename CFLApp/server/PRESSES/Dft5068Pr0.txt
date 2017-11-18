@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 St Alban-Leysse, Chamb\'e9ry.\f1\par<Ret>\b0\f0 Michel et Ren\'e9 FOURNIER,\f1\par<Ret>\f0 ses fr\'e8res;\f1\par<Ret>\f0 Elisabeth Christian et Alexandre FOURNIER, ses neveux;\f1\par<Ret>\f0 ont le regret de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\b\f0 Christiane FOURNIER\f1\par<Ret>\pard\b0\f0 survenu dans sa 70eme ann\'e9e.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse aura lieu en l'\'e9glise de St Alban-Leysse le lundi 16 mars 2015 \'e0 quinze heures, suivi de l'inhumation au cimeti\'e8re de\f1\par<Ret>\f0 St Alban-Leysse.\par<Ret>}<Ret>
+CodeDft=5068
+Tarif=165
+NbLignes=15
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=2
+Date=14/03/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

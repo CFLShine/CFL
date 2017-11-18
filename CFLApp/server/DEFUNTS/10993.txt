@@ -1,0 +1,354 @@
+Id=10993
+CodeDefunt=10993
+DefuntNationalite=
+DefuntTitre=Mr
+DefuntAdresse2=
+DefuntProfession=
+DefuntAdresseCommune=
+DefuntAdresseCodPost=
+DefuntAdresse=
+DefuntNaissancePays=
+DefuntNaissanceDepartement=
+DefuntNaissanceCommune=
+DefuntPrenoms=
+DefuntPrenom=GUSTAVE
+DefuntNomJF=
+DefuntNom=JACQUIER
+DefuntNaissanceDate=10/01/1924
+DefuntDecesDate=12/06/2017
+DefuntDecesHeure=:
+DefuntDecesAdresse=Hôpital de Chambéry
+DefuntDecesMedecin=
+DefuntDecesPays=
+DefuntDecesCommune=
+DefuntMereDecede=False
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=
+DefuntMereNom=
+DefuntPereDecede=False
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=
+DefuntPereNom=
+DefuntMariageDate=/  /
+DefuntDivorseDate=/  /
+DefuntSituationDecesDate=/  /
+DefuntSituationNaissanceDate=/  /
+DefuntNbEnfantsVivants=
+DefuntNbEnfants=
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=
+DefuntSituationNom=
+PouvQualite=Conjoint
+PouvNom=
+PouvPrenom=
+PouvNomJF=
+PouvAdresse=
+PouvAdresse2=
+PouvCodePost=
+PouvCommune=
+PouvTel1=
+PouvTel2=
+PouvMail=
+ReceptionDate=12/06/2017
+Conseiller=Pascal MARIE
+TAMB1Vehicule=
+PfTAMB1=
+TAMB1ArriveeLieu=
+TAMB1DepartLieu=
+TAMB1Date=/  /
+TAMB1ArriveeHeure=:
+Requisition=False
+TAMB2Vehicule=
+PfTAMB2=
+TAMB2ArriveeLieu=
+TAMB2DepartLieu=
+TAMB2Date=/  /
+TAMB2ArriveeHeure=:
+PfMEB=PFM
+MEBCommune=
+ArriveeCommune=
+MEBDate=16/06/2017
+ArriveeDate=
+MEBHeure=08:30
+ArriveeHeure=
+MEBLieu=CF
+ArriveeLieu=
+MEBDistanceCf=
+Salon=True
+SalonCase_Name=Anémone
+CeremonieDate=16/06/2017
+CeremonieHeure=10:30
+CeremonieLieu=EGLISE ST ALBAN LEYSSE
+CeremonieType=Religieuse
+PfCeremonie=PFM
+CeremonieDistanceCf=
+CeremonieRegistre=True
+Presse=True
+BourseADons=False
+PfTransport=
+TransportDate=  /  /
+TransportDepartLieu=
+TransportArriveeLieu=
+TransportDepartHeure=  :
+TransportArriveeHeure=  :
+TransportVehicule=
+TransportDistanceCf=
+PfInhumation=PFM
+InhumationDate=16/06/2017
+InhumationHeure=:
+InhumationSepulture=1
+PfInhumation2=
+Inhumation2Date=/  /
+Inhumation2Heure=:
+Inhumation2Sepulture=
+ExhumationSepulture=1
+PfExhumation=PFM
+SepultureTombe=
+SepultureLigne=
+SepultureCarre=
+SepultureSection=
+SepultureDivision=
+ExhumationDate=16/06/2017
+ExhumationHeure=08:30
+DispersionDate=  /  /
+DispersionHeure=  :
+DispersionLieu=
+DispersionCommune=
+PfDispersion=
+RDVOrdonnateurDate=
+RDVOrdonnateurHeure=
+SepultureCimetiere=
+SepultureCommune=ST ALBAN LEYSSE
+SepultureType=Caveau ouverture devant
+Concessionaire=False
+AyantDroit=False
+SepultureProvisoire=False
+ConcessionDPINom=JACQUIER
+ConcessionDPINomJF=MONACHON
+ConcessionDPIPrenom=LUCIENNE
+ConcessionDPIAnnee=2013
+ConcessionAquiseParNom=
+ConcessionAquiseParPrenom=
+ConcessionAquiseDate=  /  /
+ConcessionDuree=
+ConcessionDesignation=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+SoinsDate=13/06/2017
+CremationDate=
+PfArrivee=PFM
+AdmissionDate=12/06/2017
+AdmissionHeure=15:11
+AdmissionAgent1=KAELBERER Eric
+AdmissionAgent2=PIERRE Hugo
+AdmissionOrdreNo=475
+AdmissionArriveeDe=HOPITAL DE CHAMBERY
+AdmissionTaille=170/55
+AdmissionDepartDate=16/06/2017
+AdmissionDepartHeure=08:30
+AdmissionCorpsArriveHabille=True
+AdmissionVetementsArrivesAvecDefunt=True
+AdmissionHabillageParNous=True
+AdmissionChaussures=True
+AdmissionCorpsPresentable=True
+AdmissionObstacleJudiciaire=False
+AdmissionHousseRequis=False
+PaceMaker=False
+AdmissionValeur1=
+AdmissionValeur2=
+AdmissionValeur3=
+AdmissionValeur4=
+AdmissionValeur5=
+AdmissionValeur6=
+AdmissionValeur7=
+AdmissionValeur8=
+AdmissionValeur9=
+AdmissionValeur10=
+AdmissionValeur11=
+AdmissionValeur12=
+AdmissionValeur13=
+AdmissionValeur14=
+AdmissionValeurAutre1=
+AdmissionValeurAutre2=
+AdmissionValeursRemisesANomPrenom=
+AdmissionValeursRemisesAAdresse=
+AdmissionValeursRemisesAQualite=
+AdmissionValeursRemisesDate=
+AdmissionCommentaire=
+SoinsSavedByThanato=True
+SoinsThanatoNom=GONDIN
+SoinsThanatoPrenom=Jean-Claude
+SoinsThanatoSociete=PFM
+SoinsThanatoCode=0
+SoinsThanatoStagiaires=FELARD_ALEXIA_2017;
+SoinsHeure=08:00
+SoinsType=Normal
+SoinsCommentaire=aucun objet de valeur
+SoinsLieu=Centre funéraire
+PfSoins=PFM
+With A FAIRE
+Id=0
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=12/06/2017 12:43:32
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul21]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=12/06/2017 17:06:16
+FaitPar=Sébastien CITRINO
+End With
+With A FAIRE
+Id=2
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=12/06/2017 14:48:58
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=3
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=12/06/2017 14:15:59
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=4
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=13/06/2017 08:19:50
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=5
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=12/06/2017 14:49:03
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=6
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=13/06/2017 08:19:51
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=7
+Intitule=[Intitul4]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=12/06/2017 14:16:05
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=8
+Intitule=[Intitul3]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=12/06/2017 12:43:36
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=9
+Intitule=[Intitul16]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=12/06/2017 17:06:18
+FaitPar=Sébastien CITRINO
+End With
+With A FAIRE
+Id=10
+Intitule=[Intitul10]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=12/06/2017 14:16:09
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=11
+Intitule=[Intitul11]
+Fait=True
+Perso=False
+DateAFaire=12/06/2017 09:05:17
+DateFait=12/06/2017 14:48:53
+FaitPar=Pascal MARIE
+End With
+With EXHUM
+Id=0
+Nom=DONAZ
+NomJF=
+Prenom=Marie
+NaissanceAnnee=
+DecesAnnee=1948
+ExhumationDate=16/06/2017
+Sepulture=
+End With
+With EXHUM
+Id=1
+Nom=DONAZ
+NomJF=
+Prenom=Eugénie
+NaissanceAnnee=
+DecesAnnee=1968
+ExhumationDate=16/06/2017
+Sepulture=
+End With
+With EXHUM
+Id=2
+Nom=DONAZ
+NomJF=
+Prenom=Albertine
+NaissanceAnnee=
+DecesAnnee=1974
+ExhumationDate=16/06/2017
+Sepulture=
+End With
+With EXHUM
+Id=3
+Nom=JACQUIER
+NomJF=
+Prenom=Lucie
+NaissanceAnnee=
+DecesAnnee=1985
+ExhumationDate=16/06/2017
+Sepulture=
+End With
+With EXHUM
+Id=4
+Nom=JACQUIER
+NomJF=
+Prenom=Emmanuel
+NaissanceAnnee=
+DecesAnnee=1988
+ExhumationDate=16/06/2017
+Sepulture=
+End With

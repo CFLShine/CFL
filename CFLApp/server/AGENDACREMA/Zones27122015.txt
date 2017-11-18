@@ -1,0 +1,116 @@
+Id=27122015
+Jourdate=27/12/2015
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=7220
+Pf_ceremonie=MAURIENNAISES
+Nom_ceremonie=ROTA 
+Prenom_ceremonie=VIRGIL
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CREMATION DU 29/12/2015 A 14H00
+CodeDft_cremation=7220
+Pf_cremation=MAURIENNAISES
+Nom_cremation=ROTA 
+Prenom_cremation=VIRGIL
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1832
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=7201
+Pf_ceremonie=DE SAVOY
+Nom_ceremonie=BILLAT
+Prenom_ceremonie=MICHEL
+CodeDft_cremation=7201
+Pf_cremation=DE SAVOY
+Nom_cremation=BILLAT
+Prenom_cremation=MICHEL
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de MOUTIERS
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de MOUTIERS
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CREMATION DU 30/12/15  à 14h00
+NoOrdre=1840
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=7204
+Pf_ceremonie=MAURIENNAISES
+Nom_ceremonie=RAPIN
+Prenom_ceremonie=CYRIL
+CodeDft_cremation=7204
+Pf_cremation=MAURIENNAISES
+Nom_cremation=RAPIN
+Prenom_cremation=CYRIL
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CREMATION DU 31 31/12/2015 A 14H00
+NoOrdre=1848
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+HeuretArrivee_ceremonie=
+End With

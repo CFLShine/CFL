@@ -1,0 +1,62 @@
+Id=1062014
+JourDate=01/06/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=0
+CodeDft=3235
+Pf=PFM
+Conseiller=
+DefuntNom=CAILLE
+DefuntPrenom=JEAN EMILE
+Heure_0=07:55
+Ev_0=TAMB depuis LA PASTORALE vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=PACHOUD Nicolas
+Equipe_1=MEGHEZZI Marc
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=1
+DemiJour=0
+CodeDft=3238
+Pf=PFM
+Conseiller=
+DefuntNom=X
+DefuntPrenom=X
+Heure_0=11:58
+Ev_0=TAMB depuis AVENUE D'AIX LES BAINS CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=PACHOUD Nicolas
+Equipe_1=MEGHEZZI Marc
+End With
+With ZONE
+Id=2
+Saisie=TAMB
+Pos=2
+DemiJour=1
+CodeDft=3239
+Pf=PFM
+Conseiller=
+DefuntNom=PERROT
+DefuntPrenom=VLADIMIRA
+Heure_0=23:47
+Ev_0=TAMB depuis CLOS ST JOSEPH vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=PACHOUD Nicolas
+Equipe_1=WALLYN Benoît
+End With

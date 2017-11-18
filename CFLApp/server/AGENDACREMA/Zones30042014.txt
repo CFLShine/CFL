@@ -1,0 +1,144 @@
+Id=30042014
+Jourdate=30/04/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=3036
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=BRISSE
+Prenom=DANIELE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:00
+EvenementCeremonie=Cérémonie Religieuse CATHEDRALE BELLEY
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=545
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3042
+Pf=PF SEDRAN
+Conseiller=Ginette GAYRAUD
+Nom=MORIN
+Prenom=FRANCIS
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL  CREMATION   PF RECUPERENT
+NoOrdre=543
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3045
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=VIOLET
+Prenom=PAULETTE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=546
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3044
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=POLLET
+Prenom=JEAN
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:30
+EvenementCeremonie=Cérémonie Religieuse EGLISE DE ST OMBRE
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=542
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3047
+Pf=PF BALDINI
+Conseiller=Marion TREBOUTE
+Nom=BOIS
+Prenom=PATRICK
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE LES CENDRES 
+NoOrdre=544
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=3050
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=CALDARONI
+Prenom=ROCH
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=547
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=3052
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=PISTORELLO
+Prenom=GERMAINE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=541
+Four=2
+FicheOccupe=Libre
+End With

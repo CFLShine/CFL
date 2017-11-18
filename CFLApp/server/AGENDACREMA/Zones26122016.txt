@@ -1,0 +1,146 @@
+Id=26122016
+Jourdate=26/12/2016
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9726
+Pf_ceremonie=PFM
+Nom_ceremonie=PLAT
+Prenom_ceremonie=CHANTAL
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:30
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9726
+Pf_cremation=PFM
+Nom_cremation=PLAT
+Prenom_cremation=CHANTAL
+FicheOccupe=Libre
+NoOrdre=1829
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=ORDONNATEUR PFM  LA FAMILLE RECUPERE L'URNE A 14H
+SaisieOccupe=Libre
+CodeDft_ceremonie=9728
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=GUERRE
+Prenom_ceremonie=PIERRE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9728
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=GUERRE
+Prenom_cremation=PIERRE
+EvenementArrivee_cremation=Arrivée de BELLEY
+NoOrdre=1828
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=9734
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=CHARTON
+Prenom_ceremonie=MARIE-LOUISE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=9734
+Pf_cremation=PF BALDINI
+Nom_cremation=CHARTON
+Prenom_cremation=MARIE-LOUISE
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=1830
+Four=2
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9730
+Pf_ceremonie=PFM
+Nom_ceremonie=SALLETTAZ
+Prenom_ceremonie=ADELE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9730
+Pf_cremation=PFM
+Nom_cremation=SALLETTAZ
+Prenom_cremation=ADELE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+NoOrdre=1831
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=9732
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=CHATELAIN
+Prenom_ceremonie=JACQUES
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE   LES PF RECUPERENT L'URNE
+CodeDft_cremation=9732
+Pf_cremation=PF POMMAT
+Nom_cremation=CHATELAIN
+Prenom_cremation=JACQUES
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+NoOrdre=1832
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

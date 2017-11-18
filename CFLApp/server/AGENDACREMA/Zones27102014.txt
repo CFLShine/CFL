@@ -1,0 +1,134 @@
+Id=27102014
+Jourdate=27/10/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4036
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=MOLLIERE
+Prenom=GASTON
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 17H
+NoOrdre=1305
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4042
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=COULOUVRAT
+Prenom=MONIQUE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1306
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4040
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=RAVIER
+Prenom=RENE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1302
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4039
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=GROSAY
+Prenom=BRUNO
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1303
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4045
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=BERTRAND
+Prenom=MARTINE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1307
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4050
+Pf=PF DU PLATEAU
+Conseiller=Marie-Pierre PINET
+Nom=MARRIETTE
+Prenom=MAURICE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de ST RAMBERT
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1304
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=1
+End With

@@ -1,0 +1,17 @@
+Id=27112013
+With ZONE
+Id=2
+PoliceChecked=True
+End With
+With ZONE
+Id=4
+PoliceChecked=True
+End With
+With ZONE
+Id=6
+PoliceChecked=True
+End With
+With ZONE
+Id=7
+PoliceChecked=True
+End With

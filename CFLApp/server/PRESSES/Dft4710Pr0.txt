@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Cognin,\f1\par<Ret>\f0 Le personnel de la M\'e9tallerie PELLEGRIN Yves est dans une profonde tristesse apr\'e8s le d\'e9part brutal de leur collaborateur et ami de longue date :\f1\par<Ret>\pard\qc\b\f0 Jean Philippe BUSILLET\f1\par<Ret>\pard\b0\f0 Nous restons aux c\'f4t\'e9s de son \'e9pouse, ses enfants, sa maman, ses fr\'e8res et toute sa famille \'e0 qui nous adressons notre sympathie et notre soutien\par<Ret>}<Ret>
+CodeDft=4710
+Tarif=134
+NbLignes=13
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=05/02/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

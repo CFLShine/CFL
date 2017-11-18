@@ -1,0 +1,147 @@
+Id=2042014
+Jourdate=02/04/2014
+Version=NouveauFormat
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=2853
+Pf=PF BOUVIER
+Conseiller=Pascal MARIE
+Nom=PELISSIER
+Prenom=YVON
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=420
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION     CEREMONIE DEVANT URNE
+CodeDft=2855
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=ORCELLET
+Prenom=ALEXANDRE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de LYON
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=2820
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=ALSAC
+Prenom=LIONEL
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=419
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=2857
+Pf=PF DE LA VANOISE
+Conseiller=Marie-Pierre PINET
+Nom=SARI
+Prenom=MARIO
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de MODANE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR ORDONNATEUR PFM
+NoOrdre=417
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=2865
+Pf=PF BALDINI
+Conseiller=Loïc TREVARAIN
+Nom=CHEN
+Prenom=MARIA AURORA
+HeureArrivee=
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  FAMILLE RECUPERE
+FicheOccupe=Libre
+NoOrdre=418
+Four=1
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=2862
+Pf=PFM
+Conseiller=
+Nom=CHATEL
+Prenom=SERGE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=415
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=2870
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=PERRET
+Prenom=COLETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=FAMILLE RECUPERE
+Police=True
+NoOrdre=416
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

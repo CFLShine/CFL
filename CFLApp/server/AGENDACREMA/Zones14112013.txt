@@ -1,0 +1,164 @@
+Id=14112013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=PF RECUPERENT
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1993.txt
+Pf=PFG MACHE
+Conseiller=
+Nom=GUILHOT
+Prenom=RAYMOND
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1369
+Four=2
+CodeDft=1993
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2005.txt
+Pf=PF DE SAVOY
+Conseiller=Ginette GAYRAUD
+Nom=CATELLA
+Prenom=NATHALIE
+HeureArrivee=
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1370
+Four=1
+CodeDft=2005
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2003.txt
+Pf=PF BALDINI
+Conseiller=Ginette GAYRAUD
+Nom=GUILLAUD
+Prenom=MARIE RENEE
+HeureArrivee=11:30
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=11:30
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE
+NoOrdre=1371
+Four=2
+CodeDft=2003
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1999.txt
+Pf=PF POMMAT
+Conseiller=Loïc TREVARAIN
+Nom=CIDRERA-ROMERO
+Prenom=LAURENT
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT + CERCUEIL PIN
+NoOrdre=1372
+Four=1
+CodeDft=1999
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2006.txt
+Pf=AJEPI SUBLIMATORIUM
+Conseiller=Ginette GAYRAUD
+Nom=ZAMALO
+Prenom=MARIE JEANNE
+HeureArrivee=
+HeureCeremonie=14:15
+HeureCremation=15:00
+HeureCommentaire=
+EvenementArrivee=Arrivée de CHAMBERY
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+EvenementCremation=Crémation
+EvenementCommentaire=LES PF RECUPERENT
+NoOrdre=1373
+Four=2
+CodeDft=2006
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\2010.txt
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=VAILLAND
+Prenom=JACQUELINE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1374
+Four=1
+CodeDft=2010
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1992.txt
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=BUSEYNE
+Prenom=JEROME
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1375
+Four=2
+CodeDft=1992
+End With

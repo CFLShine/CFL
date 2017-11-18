@@ -1,0 +1,22 @@
+Id=1966
+With DEFUNT
+Id=3210
+Nom=BURILLE
+Prenom=BRIGITTE
+DecesDate=19/02/1966
+CodeDft=3210
+End With
+With DEFUNT
+Id=10007
+Nom=HURE
+Prenom=ALBERT
+DecesDate=06/12/1966
+CodeDft=10007
+End With
+With DEFUNT
+Id=10022
+Nom=LEON
+Prenom=LUIS  /  JUANA
+DecesDate=06/06/1966
+CodeDft=10022
+End With

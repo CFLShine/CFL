@@ -1,0 +1,115 @@
+Id=24112014
+Jourdate=24/11/2014
+Version=NouveauFormat
+With ZONE
+Id=5
+EvenementCommentaire=BEBE
+SaisieOccupe=Libre
+CodeDft=4171
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=VASSEUR
+Prenom=EZIO
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:30
+EvenementCeremonie=Cérémonie Civile 
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1426
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=4181
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=MARIN-LAMELLET
+Prenom=GEORGES
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1423
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4183
+Pf=PF FAURE
+Conseiller=Marie-Pierre PINET
+Nom=BIANCO
+Prenom=ANDRE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de MODANE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1427
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4192
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=FERROUD
+Prenom=ODETTE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=1424
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4193
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=CAVEX
+Prenom=JOSEPHINE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1425
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With

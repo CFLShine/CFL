@@ -1,0 +1,937 @@
+Id=4072015
+Jourdate=04/07/2015
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5932
+Pf_ceremonie=PF MERCIER
+Nom_ceremonie=SZWEDZKI
+Prenom_ceremonie=CATHERINE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de AVENIERES
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5932
+Pf_cremation=PF MERCIER
+Nom_cremation=SZWEDZKI
+Prenom_cremation=CATHERINE
+EvenementArrivee_cremation=Arrivée de AVENIERES
+Police=False
+HeuretArrivee_ceremonie=
+FicheOccupe=Libre
+NoOrdre=1008
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=5913
+Pf_ceremonie=PFM
+Nom_ceremonie=PINTO
+Prenom_ceremonie=CHRISTOPHE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PAS DE CREMATION 
+SaisieOccupe=Libre
+CodeDft_ceremonie=5926
+Pf_ceremonie=PFM
+Nom_ceremonie=MOSNIER
+Prenom_ceremonie=BLANCHE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=5930
+Pf_ceremonie=PF FAURE
+Nom_ceremonie=JAZGIER
+Prenom_ceremonie=DANIEL
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 15H
+CodeDft_cremation=5930
+Pf_cremation=PF FAURE
+Nom_cremation=JAZGIER
+Prenom_cremation=DANIEL
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+NoOrdre=1009
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PREVOIR ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft_ceremonie=5924
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=COLLONGE
+Prenom_ceremonie=JEAN PIERRE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5924
+Pf_cremation=PF MOUCHE
+Nom_cremation=COLLONGE
+Prenom_cremation=JEAN PIERRE
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+NoOrdre=1010
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=5928
+Pf_ceremonie=PFM
+Nom_ceremonie=ROUGON
+Prenom_ceremonie=CHARLES
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5934
+Pf_ceremonie=PFM
+Nom_ceremonie=ULMANS BERGER
+Prenom_ceremonie=JACQUELINE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5934
+Pf_cremation=PFM
+Nom_cremation=ULMANS BERGER
+Prenom_cremation=JACQUELINE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+Police=True
+NoOrdre=1011
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With
+With ZONE
+Id=10
+End With
+With ZONE
+Id=11
+End With
+With ZONE
+Id=12
+End With
+With ZONE
+Id=13
+End With
+With ZONE
+Id=14
+End With
+With ZONE
+Id=15
+End With
+With ZONE
+Id=16
+End With
+With ZONE
+Id=17
+End With
+With ZONE
+Id=18
+End With
+With ZONE
+Id=19
+End With
+With ZONE
+Id=20
+End With
+With ZONE
+Id=21
+End With
+With ZONE
+Id=22
+End With
+With ZONE
+Id=23
+End With
+With ZONE
+Id=24
+End With
+With ZONE
+Id=25
+End With
+With ZONE
+Id=26
+End With
+With ZONE
+Id=27
+End With
+With ZONE
+Id=28
+End With
+With ZONE
+Id=29
+End With
+With ZONE
+Id=30
+End With
+With ZONE
+Id=31
+End With
+With ZONE
+Id=32
+End With
+With ZONE
+Id=33
+End With
+With ZONE
+Id=34
+End With
+With ZONE
+Id=35
+End With
+With ZONE
+Id=36
+End With
+With ZONE
+Id=37
+End With
+With ZONE
+Id=38
+End With
+With ZONE
+Id=39
+End With
+With ZONE
+Id=40
+End With
+With ZONE
+Id=41
+End With
+With ZONE
+Id=42
+End With
+With ZONE
+Id=43
+End With
+With ZONE
+Id=44
+End With
+With ZONE
+Id=45
+End With
+With ZONE
+Id=46
+End With
+With ZONE
+Id=47
+End With
+With ZONE
+Id=48
+End With
+With ZONE
+Id=49
+End With
+With ZONE
+Id=50
+End With
+With ZONE
+Id=51
+End With
+With ZONE
+Id=52
+End With
+With ZONE
+Id=53
+End With
+With ZONE
+Id=54
+End With
+With ZONE
+Id=55
+End With
+With ZONE
+Id=56
+End With
+With ZONE
+Id=57
+End With
+With ZONE
+Id=58
+End With
+With ZONE
+Id=59
+End With
+With ZONE
+Id=60
+End With
+With ZONE
+Id=61
+End With
+With ZONE
+Id=62
+End With
+With ZONE
+Id=63
+End With
+With ZONE
+Id=64
+End With
+With ZONE
+Id=65
+End With
+With ZONE
+Id=66
+End With
+With ZONE
+Id=67
+End With
+With ZONE
+Id=68
+End With
+With ZONE
+Id=69
+End With
+With ZONE
+Id=70
+End With
+With ZONE
+Id=71
+End With
+With ZONE
+Id=72
+End With
+With ZONE
+Id=73
+End With
+With ZONE
+Id=74
+End With
+With ZONE
+Id=75
+End With
+With ZONE
+Id=76
+End With
+With ZONE
+Id=77
+End With
+With ZONE
+Id=78
+End With
+With ZONE
+Id=79
+End With
+With ZONE
+Id=80
+End With
+With ZONE
+Id=81
+End With
+With ZONE
+Id=82
+End With
+With ZONE
+Id=83
+End With
+With ZONE
+Id=84
+End With
+With ZONE
+Id=85
+End With
+With ZONE
+Id=86
+End With
+With ZONE
+Id=87
+End With
+With ZONE
+Id=88
+End With
+With ZONE
+Id=89
+End With
+With ZONE
+Id=90
+End With
+With ZONE
+Id=91
+End With
+With ZONE
+Id=92
+End With
+With ZONE
+Id=93
+End With
+With ZONE
+Id=94
+End With
+With ZONE
+Id=95
+End With
+With ZONE
+Id=96
+End With
+With ZONE
+Id=97
+End With
+With ZONE
+Id=98
+End With
+With ZONE
+Id=99
+End With
+With ZONE
+Id=100
+End With
+With ZONE
+Id=101
+End With
+With ZONE
+Id=102
+End With
+With ZONE
+Id=103
+End With
+With ZONE
+Id=104
+End With
+With ZONE
+Id=105
+End With
+With ZONE
+Id=106
+End With
+With ZONE
+Id=107
+End With
+With ZONE
+Id=108
+End With
+With ZONE
+Id=109
+End With
+With ZONE
+Id=110
+End With
+With ZONE
+Id=111
+End With
+With ZONE
+Id=112
+End With
+With ZONE
+Id=113
+End With
+With ZONE
+Id=114
+End With
+With ZONE
+Id=115
+End With
+With ZONE
+Id=116
+End With
+With ZONE
+Id=117
+End With
+With ZONE
+Id=118
+End With
+With ZONE
+Id=119
+End With
+With ZONE
+Id=120
+End With
+With ZONE
+Id=121
+End With
+With ZONE
+Id=122
+End With
+With ZONE
+Id=123
+End With
+With ZONE
+Id=124
+End With
+With ZONE
+Id=125
+End With
+With ZONE
+Id=126
+End With
+With ZONE
+Id=127
+End With
+With ZONE
+Id=128
+End With
+With ZONE
+Id=129
+End With
+With ZONE
+Id=130
+End With
+With ZONE
+Id=131
+End With
+With ZONE
+Id=132
+End With
+With ZONE
+Id=133
+End With
+With ZONE
+Id=134
+End With
+With ZONE
+Id=135
+End With
+With ZONE
+Id=136
+End With
+With ZONE
+Id=137
+End With
+With ZONE
+Id=138
+End With
+With ZONE
+Id=139
+End With
+With ZONE
+Id=140
+End With
+With ZONE
+Id=141
+End With
+With ZONE
+Id=142
+End With
+With ZONE
+Id=143
+End With
+With ZONE
+Id=144
+End With
+With ZONE
+Id=145
+End With
+With ZONE
+Id=146
+End With
+With ZONE
+Id=147
+End With
+With ZONE
+Id=148
+End With
+With ZONE
+Id=149
+End With
+With ZONE
+Id=150
+End With
+With ZONE
+Id=151
+End With
+With ZONE
+Id=152
+End With
+With ZONE
+Id=153
+End With
+With ZONE
+Id=154
+End With
+With ZONE
+Id=155
+End With
+With ZONE
+Id=156
+End With
+With ZONE
+Id=157
+End With
+With ZONE
+Id=158
+End With
+With ZONE
+Id=159
+End With
+With ZONE
+Id=160
+End With
+With ZONE
+Id=161
+End With
+With ZONE
+Id=162
+End With
+With ZONE
+Id=163
+End With
+With ZONE
+Id=164
+End With
+With ZONE
+Id=165
+End With
+With ZONE
+Id=166
+End With
+With ZONE
+Id=167
+End With
+With ZONE
+Id=168
+End With
+With ZONE
+Id=169
+End With
+With ZONE
+Id=170
+End With
+With ZONE
+Id=171
+End With
+With ZONE
+Id=172
+End With
+With ZONE
+Id=173
+End With
+With ZONE
+Id=174
+End With
+With ZONE
+Id=175
+End With
+With ZONE
+Id=176
+End With
+With ZONE
+Id=177
+End With
+With ZONE
+Id=178
+End With
+With ZONE
+Id=179
+End With
+With ZONE
+Id=180
+End With
+With ZONE
+Id=181
+End With
+With ZONE
+Id=182
+End With
+With ZONE
+Id=183
+End With
+With ZONE
+Id=184
+End With
+With ZONE
+Id=185
+End With
+With ZONE
+Id=186
+End With
+With ZONE
+Id=187
+End With
+With ZONE
+Id=188
+End With
+With ZONE
+Id=189
+End With
+With ZONE
+Id=190
+End With
+With ZONE
+Id=191
+End With
+With ZONE
+Id=192
+End With
+With ZONE
+Id=193
+End With
+With ZONE
+Id=194
+End With
+With ZONE
+Id=195
+End With
+With ZONE
+Id=196
+End With
+With ZONE
+Id=197
+End With
+With ZONE
+Id=198
+End With
+With ZONE
+Id=199
+End With
+With ZONE
+Id=200
+End With
+With ZONE
+Id=201
+End With
+With ZONE
+Id=202
+End With
+With ZONE
+Id=203
+End With
+With ZONE
+Id=204
+End With
+With ZONE
+Id=205
+End With
+With ZONE
+Id=206
+End With
+With ZONE
+Id=207
+End With
+With ZONE
+Id=208
+End With
+With ZONE
+Id=209
+End With
+With ZONE
+Id=210
+End With
+With ZONE
+Id=211
+End With
+With ZONE
+Id=212
+End With
+With ZONE
+Id=213
+End With
+With ZONE
+Id=214
+End With
+With ZONE
+Id=215
+End With
+With ZONE
+Id=216
+End With
+With ZONE
+Id=217
+End With
+With ZONE
+Id=218
+End With
+With ZONE
+Id=219
+End With
+With ZONE
+Id=220
+End With
+With ZONE
+Id=221
+End With
+With ZONE
+Id=222
+End With
+With ZONE
+Id=223
+End With
+With ZONE
+Id=224
+End With
+With ZONE
+Id=225
+End With
+With ZONE
+Id=226
+End With
+With ZONE
+Id=227
+End With
+With ZONE
+Id=228
+End With
+With ZONE
+Id=229
+End With
+With ZONE
+Id=230
+End With
+With ZONE
+Id=231
+End With
+With ZONE
+Id=232
+End With
+With ZONE
+Id=233
+End With
+With ZONE
+Id=234
+End With
+With ZONE
+Id=235
+End With
+With ZONE
+Id=236
+End With
+With ZONE
+Id=237
+End With
+With ZONE
+Id=238
+End With
+With ZONE
+Id=239
+End With
+With ZONE
+Id=240
+End With
+With ZONE
+Id=241
+End With
+With ZONE
+Id=242
+End With
+With ZONE
+Id=243
+End With
+With ZONE
+Id=244
+End With
+With ZONE
+Id=245
+End With
+With ZONE
+Id=246
+End With
+With ZONE
+Id=247
+End With
+With ZONE
+Id=248
+End With
+With ZONE
+Id=249
+End With
+With ZONE
+Id=250
+End With
+With ZONE
+Id=251
+End With
+With ZONE
+Id=252
+End With
+With ZONE
+Id=253
+End With
+With ZONE
+Id=0
+EvenementCommentaire=CERCUEIL EN PIN
+SaisieOccupe=Libre
+CodeDft_ceremonie=5927
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=BECKER
+Prenom_ceremonie=ROGER
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5927
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=BECKER
+Prenom_cremation=ROGER
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+NoOrdre=1007
+Four=1
+FicheOccupe=Libre
+End With

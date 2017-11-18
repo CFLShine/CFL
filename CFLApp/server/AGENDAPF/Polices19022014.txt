@@ -1,0 +1,25 @@
+Id=19022014
+With ZONE
+Id=0
+PoliceChecked=True
+End With
+With ZONE
+Id=1
+PoliceChecked=True
+End With
+With ZONE
+Id=2
+PoliceChecked=True
+End With
+With ZONE
+Id=5
+PoliceChecked=True
+End With
+With ZONE
+Id=8
+PoliceChecked=True
+End With
+With ZONE
+Id=3
+PoliceChecked=True
+End With

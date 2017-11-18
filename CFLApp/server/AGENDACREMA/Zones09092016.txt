@@ -1,0 +1,165 @@
+Id=9092016
+Jourdate=09/09/2016
+With ZONE
+Id=7
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9006
+Pf_ceremonie=PF PECH
+Nom_ceremonie=SIOCCA
+Prenom_ceremonie=GERARD
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9006
+Pf_cremation=PF PECH
+Nom_cremation=SIOCCA
+Prenom_cremation=GERARD
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=1307
+Four=2
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9007
+Pf_ceremonie=PFM
+Nom_ceremonie=DUPUIS
+Prenom_ceremonie=MARIE-FRANCOISE
+CodeDft_cremation=9007
+Pf_cremation=PFM
+Nom_cremation=DUPUIS
+Prenom_cremation=MARIE-FRANCOISE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=1301
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9014
+Pf_ceremonie=PF PECH
+Nom_ceremonie=ROSSETTO
+Prenom_ceremonie=BRUNO
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9014
+Pf_cremation=PF PECH
+Nom_cremation=ROSSETTO
+Prenom_cremation=BRUNO
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=1302
+Four=2
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=9008
+Pf_ceremonie=POMMAT
+Nom_ceremonie=KHACHATRYAN
+Prenom_ceremonie=ZHENYA
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=9008
+Pf_cremation=POMMAT
+Nom_cremation=KHACHATRYAN
+Prenom_cremation=ZHENYA
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1304
+Four=1
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9009
+Pf_ceremonie=PFG MONTMELIAN
+Nom_ceremonie=MESTRALLET
+Prenom_ceremonie=YVONNE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de MONTMELIAN
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9009
+Pf_cremation=PFG MONTMELIAN
+Nom_cremation=MESTRALLET
+Prenom_cremation=YVONNE
+EvenementArrivee_cremation=Arrivée de MONTMELIAN
+FicheOccupe=Libre
+NoOrdre=1305
+Four=2
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9012
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=PETIT
+Prenom_ceremonie=JEAN
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9012
+Pf_cremation=PF SEDRAN
+Nom_cremation=PETIT
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1306
+Four=1
+End With

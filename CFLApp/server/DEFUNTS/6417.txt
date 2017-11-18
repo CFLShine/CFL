@@ -1,0 +1,15 @@
+Id=6417
+DefuntNom=KIZILARSLAN
+DefuntPrenom=
+DefuntDecesDate=  /  /
+ArriveeCommune=
+ArriveeDate=09/09/2015
+ArriveeHeure=  :
+PfArrivee=
+PfCeremonie=
+CeremonieCrematoriumDate=09/09/2015
+CeremonieCrematoriumHeure=14:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=6417

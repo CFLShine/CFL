@@ -1,0 +1,8 @@
+Id=26122016
+Jourdate=26/12/2016
+FactureZone3=true
+FactureZone2=true
+FactureZone6=true
+FactureZone7=true
+FactureZone4=true
+FactureZone8=False

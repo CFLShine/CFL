@@ -1,0 +1,22 @@
+Id=21122014
+JourDate=21/12/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=1
+CodeDft=4388
+Pf=PFM
+Conseiller=
+DefuntNom=GOLIN
+DefuntPrenom=NICOLE
+Heure_0=21:37
+Ev_0=TAMB depuis  vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=MILLON Patrick
+Equipe_1=ERIC AIX
+End With

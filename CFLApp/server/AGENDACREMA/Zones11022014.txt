@@ -1,0 +1,136 @@
+Id=11022014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2550.txt
+Pf=PF PENA
+Conseiller=Marie-Pierre PINET
+Nom=TREVISAN
+Prenom=MARCEL
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ST LAURENT DU PONT
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=193
+Four=2
+FicheOccupe=Libre
+CodeDft=2550
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2551.txt
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BOUVIER
+Prenom=Marie-Louise
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=194
+Four=2
+FicheOccupe=Libre
+CodeDft=2551
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2558.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=VAUTEY
+Prenom=RAYMOND
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de LA ROCHETTE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=195
+Four=1
+FicheOccupe=Libre
+CodeDft=2558
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2557.txt
+Pf=AJEPI SAVOIE
+Conseiller=Marie-Pierre PINET
+Nom=PAVAN
+Prenom=PASCAL
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de CHAMBERY  HOPITAL
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=196
+Four=2
+FicheOccupe=Libre
+CodeDft=2557
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2560.txt
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=FERROUX
+Prenom=ALPHONSINE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CREMATION  
+Police=True
+NoOrdre=191
+Four=2
+FicheOccupe=Libre
+CodeDft=2560
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2014\2561.txt
+Pf=PFG AIX-LES-BAINS
+Conseiller=Loïc TREVARAIN
+Nom=DURRENMATT
+Prenom=GUY
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN PIN
+NoOrdre=192
+Four=1
+FicheOccupe=Libre
+CodeDft=2561
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=
+End With

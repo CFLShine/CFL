@@ -1,0 +1,76 @@
+Id=8082017
+JourDate=08/08/2017
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11144
+Comment_0=3 EXHUMATIONS + REDUCTIONS
+Comment_1=
+HeureComment=  :
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=11339
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=14
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=KAELBERER Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=11342
+Comment_0=DEPOT EN L'EGLISE A 14H30, ATTENTION MESSE - BOURSE A DONS 
+Comment_1=ATTENTION: MUSIQUE + CLE USB AVEC PHOTOS POUR DERNIER RECUEILLEMENT CF
+HeureComment=  :
+OrdoId=11
+EquipeId_0=76
+EquipeId_1=60
+EquipeId_2=5
+EquipeId_3=6
+Ordo=FAVRIN Thierry
+Equipe_0=PIERRE Hugo
+Equipe_1=DUMAZ Rémy
+Equipe_2=MILLON Patrick
+Equipe_3=PINTOUT Bruno
+End With
+With ZONE
+Id=3
+CodeDft=11355
+DemiJour=0
+Pos=1
+End With
+With ZONE
+Id=4
+CodeDft=11362
+DemiJour=1
+Pos=1
+End With

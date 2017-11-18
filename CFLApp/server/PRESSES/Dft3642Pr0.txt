@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Le Bourget du Lac.\f1\par<Ret>\f0 Daniel Blanc, son \'e9poux; \f1\par<Ret>\f0 Christelle et  Patrick, ses enfants; Marcel Blanc, son beau-fr\'e8re\f1\par<Ret>\f0 ont la grande tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Rolande BLANC\f1\par<Ret>\f0 le mardi 12 Ao\'fbt 2014\f1\par<Ret>\pard\b0\f0 La cr\'e9mation a eu lieu dans la plus stricte intimit\'e9 familiale.\f1\par<Ret>\f0 La famille assure de sa profonde gratitude toutes les personnes qui ont pris ou prendront part \'e0 leur peine.\par<Ret>}<Ret>
+CodeDft=3642
+Tarif=165
+NbLignes=14
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=18/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

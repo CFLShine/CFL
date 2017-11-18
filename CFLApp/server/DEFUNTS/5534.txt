@@ -1,0 +1,251 @@
+Id=-1
+CodeDefunt=5534
+SepultureCimetiere=
+SepultureCommune=LA BALME
+SepultureType=
+Concessionaire=False
+AyantDroit=False
+SepultureProvisoire=False
+ConcessionDPINom=
+ConcessionDPINomJF=
+ConcessionDPIPrenom=
+ConcessionDPIAnnee=
+ConcessionAquiseParNom=
+ConcessionAquiseParPrenom=
+ConcessionAquiseDate=  /  /
+ConcessionDuree=
+ConcessionDesignation=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+SepultureDivision=
+SepultureSection=
+SepultureCarre=
+SepultureLigne=
+SepultureTombe=
+DefuntNationalite=
+DefuntTitre=Madame
+DefuntAdresse2=
+DefuntProfession=
+DefuntAdresseCommune=
+DefuntAdresseCodPost=
+DefuntAdresse=
+DefuntNaissancePays=
+DefuntNaissanceDepartement=
+DefuntNaissanceCommune=
+DefuntPrenoms=
+DefuntPrenom=MARCELLE
+DefuntNomJF=
+DefuntNom=LAFAIT
+DefuntNaissanceDate=  /  /
+DefuntDecesDate=  /  /
+DefuntDecesHeure=  :
+DefuntDecesAdresse=
+DefuntDecesMedecin=
+DefuntDecesPays=
+DefuntDecesCommune=
+DefuntMereDecede=False
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=
+DefuntMereNom=
+DefuntPereDecede=False
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=
+DefuntPereNom=
+DefuntMariageDate=  /  /
+DefuntDivorseDate=  /  /
+DefuntSituationDecesDate=  /  /
+DefuntSituationNaissanceDate=  /  /
+DefuntNbEnfantsVivants=
+DefuntNbEnfants=
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=
+DefuntSituationNom=
+PouvQualite=Conjoint
+PouvNom=
+PouvPrenom=
+PouvNomJF=
+PouvAdresse=
+PouvAdresse2=
+PouvCodePost=
+PouvCommune=
+PouvTel1=
+PouvTel2=
+PouvMail=
+ReceptionDate=15/05/2015
+Conseiller=Marion TREBOUTE
+TAMB1Vehicule=
+PfTAMB1=
+TAMB1ArriveeLieu=
+TAMB1DepartLieu=
+TAMB1Date=  /  /
+TAMB1ArriveeHeure=  :
+Requisition=False
+TAMB2Vehicule=
+PfTAMB2=
+TAMB2ArriveeLieu=
+TAMB2DepartLieu=
+TAMB2Date=  /  /
+TAMB2ArriveeHeure=  :
+PfMEB=PFM
+MEBCommune=
+ArriveeCommune=
+MEBDate=19/05/2015
+ArriveeDate=
+MEBHeure=09:00
+ArriveeHeure=
+MEBLieu=HOPITAL DE CHAMBERY
+ArriveeLieu=
+MEBDistanceCf=
+Salon=False
+SalonCase_Name=
+CeremonieDate=19/05/2015
+CeremonieHeure=10:30
+CeremonieLieu=EGLISE DE LA BALME
+CeremonieType=Religieuse
+PfCeremonie=PFM
+CeremonieDistanceCf=
+CeremonieRegistre=True
+Presse=True
+BourseADons=False
+PfTransport=
+TransportDate=  /  /
+TransportDepartLieu=
+TransportArriveeLieu=
+TransportDepartHeure=  :
+TransportArriveeHeure=  :
+TransportVehicule=
+TransportDistanceCf=
+PfInhumation=PFM
+InhumationDate=19/05/2015
+InhumationHeure=  :
+InhumationSepulture=1
+PfInhumation2=
+Inhumation2Date=  /  /
+Inhumation2Heure=  :
+Inhumation2Sepulture=
+DispersionDate=  /  /
+DispersionHeure=  :
+DispersionLieu=
+DispersionCommune=
+PfDispersion=
+RDVOrdonnateurHeure=
+RDVOrdonnateurDate=
+SoinsDate=
+CremationDate=
+ExhumationDate=
+With A FAIRE
+Id=0
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=15/05/2015 11:58:02
+DateFait=16/05/2015 11:15:07
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=15/05/2015 11:58:02
+DateFait=16/05/2015 11:15:08
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=2
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=15/05/2015 11:58:02
+DateFait=16/05/2015 11:15:08
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=3
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=15/05/2015 11:58:02
+DateFait=16/05/2015 11:15:09
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=4
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=15/05/2015 11:58:02
+DateFait=16/05/2015 11:15:10
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=5
+Intitule=[Intitul4]
+Fait=True
+Perso=False
+DateAFaire=15/05/2015 11:58:02
+DateFait=16/05/2015 11:15:14
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=6
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=16/05/2015 11:14:44
+DateFait=16/05/2015 11:15:17
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=7
+Intitule=[Intitul21]
+Fait=True
+Perso=False
+DateAFaire=16/05/2015 11:14:44
+DateFait=19/05/2015 14:38:45
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=8
+Intitule=[Intitul3]
+Fait=True
+Perso=False
+DateAFaire=16/05/2015 11:14:44
+DateFait=16/05/2015 11:15:19
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=9
+Intitule=[Intitul16]
+Fait=True
+Perso=False
+DateAFaire=16/05/2015 11:14:44
+DateFait=19/05/2015 14:38:46
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=10
+Intitule=[Intitul10]
+Fait=True
+Perso=False
+DateAFaire=16/05/2015 16:29:51
+DateFait=16/05/2015 16:29:56
+FaitPar=Marion TREBOUTE
+End With
+With A FAIRE
+Id=11
+Intitule=[Intitul11]
+Fait=True
+Perso=False
+DateAFaire=16/05/2015 16:29:51
+DateFait=16/05/2015 16:29:56
+FaitPar=Marion TREBOUTE
+End With

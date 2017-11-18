@@ -1,0 +1,102 @@
+Id=1082014
+Jourdate=01/08/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3563
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=LASSIA
+Prenom=ROGER
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+FicheOccupe=Libre
+NoOrdre=940
+Four=1
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3562
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=RAYE
+Prenom=MATHIEU
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=939
+Four=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3564
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=BIRON
+Prenom=LOUIS
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=941
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 18H00
+SaisieOccupe=Libre
+CodeDft=3571
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=TRUCHY
+Prenom=RICHARD
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=942
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=7
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

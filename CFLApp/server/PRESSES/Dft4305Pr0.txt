@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=500
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Chamb\'e9ry-Bissy, Aix-Les-Bains, Paris, La Motte-Servolex,\f1\par<Ret>\b0\f0 Marie-France Bouvier et Marc, Guy et Nathalie Ratel, ses enfants; ses petits-enfants; son arri\'e8re-petit-fils; Ida Janex et Raymond, sa soeur; Raymond et Nicole Janex, son fr\'e8re; et toute sa famille, ont la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\f0  \b Henriette RATEL\f1\par<Ret>\f0 n\'e9e JANEX\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 87 ans.\b\f1\par<Ret>\b0\f0 La c\'e9r\'e9monie religieuse aura lieu le samedi 13 d\'e9cembre 2014 \'e0 dix heures au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 La famille remercie le Personnel de la R\'e9sidence "Les Charmilles" pour sa gentillesse et son d\'e9vouement.\f1\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=4305
+Tarif=250
+NbLignes=23
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=11/12/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

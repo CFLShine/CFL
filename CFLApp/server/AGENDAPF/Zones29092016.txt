@@ -1,0 +1,111 @@
+Id=29092016
+JourDate=29/09/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=9129
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=58
+EquipeId_1=60
+EquipeId_2=17
+EquipeId_3=16
+Ordo=FAVRIN Thierry
+Equipe_0=MULDER Michaël
+Equipe_1=DUMAZ Rémy
+Equipe_2=MEGHEZZI Marc
+Equipe_3=MILESI Robert
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=9133
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=5
+EquipeId_1=8
+EquipeId_2=50
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=MILLON Patrick
+Equipe_1=ESPINOZA François
+Equipe_2=MARIE Tristan
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9133
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9124
+Comment_0=ORDONNATEUR PFM POUR PF MAURIENNAISES
+Comment_1=ACCUEIL FAMILLE
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+CodeDft=9138
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=5
+CodeDft=9156
+DemiJour=1
+Pos=1
+End With

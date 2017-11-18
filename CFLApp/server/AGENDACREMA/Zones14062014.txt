@@ -1,0 +1,166 @@
+Id=14062014
+Jourdate=14/06/2014
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=3297
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=BUSILLET
+Prenom=SIMONE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=732
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3295
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=MARTINET
+Prenom=JANINE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=731
+Four=2
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=3301
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=SCHULLER
+Prenom=CLAUDE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=734
+Four=2
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3299
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=KIEFFER
+Prenom=IRENE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=730
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=3302
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=BASTIDE
+Prenom=ROGER
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=736
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3304
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=RIONDY
+Prenom=JOSEPH
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNE A 18H
+NoOrdre=735
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=3308
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=LEGAT
+Prenom=ANDRE
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=729
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE 
+SaisieOccupe=Libre
+CodeDft=3311
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=DURAND
+Prenom=GABRIEL
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMBERY HOPITAL
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie TEMOIN   DE   JEHOVAH Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=733
+Four=1
+FicheOccupe=Libre
+End With

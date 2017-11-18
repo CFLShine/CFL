@@ -1,0 +1,149 @@
+Id=9072014
+Jourdate=09/07/2014
+Version=NouveauFormat
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=3434
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=BOTTURA
+Prenom=PHILIPPE
+HeureArrivee=10:00
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=833
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=3436
+Pf=PF FLORET
+Conseiller=Pascal MARIE
+Nom=VIEILLE GROSJEAN
+Prenom=JEANNINE
+HeureArrivee=
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=835
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=CERCUEIL EN CHENE
+SaisieOccupe=Libre
+CodeDft=3442
+Pf=PFG MACHE
+Conseiller=Marie-Pierre PINET
+Nom=GIRARD
+Prenom=JEANNE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=832
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3441
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=MAMELI-MERCHI
+Prenom=ANNA MARIA
+HeureArrivee=14:30
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=836
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3445
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=VINCENT
+Prenom=PHILIP
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=838
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=3443
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=AVRILLIER
+Prenom=GERMAINE
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=837
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=3435
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=FERRONT
+Prenom=AGNES
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=834
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

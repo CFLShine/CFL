@@ -1,0 +1,162 @@
+Id=4042017
+Jourdate=04/04/2017
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=10534
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=GIULIANI
+Prenom_ceremonie=YVONNE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10534
+Pf_cremation=PF POMMAT
+Nom_cremation=GIULIANI
+Prenom_cremation=YVONNE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=521
+Four=2
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft_ceremonie=10540
+Pf_ceremonie=PFM
+Nom_ceremonie=HERTZLER
+Prenom_ceremonie=JEANNE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=10540
+Pf_cremation=PFM
+Nom_cremation=HERTZLER
+Prenom_cremation=JEANNE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=517
+Four=1
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+End With
+With ZONE
+Id=2
+EvenementCommentaire=NORMALEMENT PAS DE FAMILLE A LA CREMATION  
+SaisieOccupe=Libre
+CodeDft_ceremonie=10538
+Pf_ceremonie=PFM
+Nom_ceremonie=JEANNOLIN
+Prenom_ceremonie=PIERRE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMOUX SUR GELON
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10538
+Pf_cremation=PF MOUCHE
+Nom_cremation=JEANNOLIN
+Prenom_cremation=PIERRE
+EvenementArrivee_cremation=Arrivée de CHAMOUX SUR GELON
+NoOrdre=518
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft_ceremonie=10535
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=PERMEZEL
+Prenom_ceremonie=OLIVIER
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PREVOIR PRET TABLE A REGISTRE BCP MONDE
+CodeDft_cremation=10535
+Pf_cremation=PF BALDINI
+Nom_cremation=PERMEZEL
+Prenom_cremation=OLIVIER
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=519
+Four=1
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+HeuretArrivee_ceremonie=
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft_ceremonie=10543
+Pf_ceremonie=BOUVIER
+Nom_ceremonie=BERTONCINO
+Prenom_ceremonie=JEANNE
+CodeDft_cremation=10543
+Pf_cremation=BOUVIER
+Nom_cremation=BERTONCINO
+Prenom_cremation=JEANNE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=14:15
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=520
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+End With

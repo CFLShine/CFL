@@ -1,0 +1,88 @@
+Id=7062016
+JourDate=07/06/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=8385
+Comment_0=Levage monument et creusement par nos services 
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=7
+EquipeId_1=5
+EquipeId_2=6
+EquipeId_3=11
+Ordo=WALLYN Benoît
+Equipe_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+Equipe_2=PINTOUT Bruno
+Equipe_3=FAVRIN Thierry
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8396
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=8390
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=7
+EquipeId_0=14
+EquipeId_1=5
+EquipeId_2=8
+EquipeId_3=-1
+Ordo=JACQUIER Michel
+Equipe_0=KAELBERER Eric
+Equipe_1=MILLON Patrick
+Equipe_2=ESPINOZA François
+Equipe_3=
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=8406
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With

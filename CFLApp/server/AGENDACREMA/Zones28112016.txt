@@ -1,0 +1,165 @@
+Id=28112016
+Jourdate=28/11/2016
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9524
+Pf_ceremonie=PFM
+Nom_ceremonie=MENARD
+Prenom_ceremonie=PIERRE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9524
+Pf_cremation=PFM
+Nom_cremation=MENARD
+Prenom_cremation=PIERRE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1683
+Four=1
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+End With
+With ZONE
+Id=2
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9532
+Pf_ceremonie=PF BOUVIER
+Nom_ceremonie=JUMETZ
+Prenom_ceremonie=JEAn
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de HOPITAL CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9532
+Pf_cremation=PF BOUVIER
+Nom_cremation=JUMETZ
+Prenom_cremation=JEAN
+EvenementArrivee_cremation=Arrivée de HOPITAL CHAMBERY
+FicheOccupe=Libre
+NoOrdre=1679
+Four=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9523
+Pf_ceremonie=PFM
+Nom_ceremonie=PERRIN ROUVET
+Prenom_ceremonie=JOSIANE
+CodeDft_cremation=9523
+Pf_cremation=PFM
+Nom_cremation=PERRIN ROUVET
+Prenom_cremation=JOSIANE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=1680
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9529
+Pf_ceremonie=PF PENA
+Nom_ceremonie=REY
+Prenom_ceremonie=ROGER
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9529
+Pf_cremation=PF PENA
+Nom_cremation=REY
+Prenom_cremation=ROGER
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=1681
+Four=1
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9531
+Pf_ceremonie=PFM
+Nom_ceremonie=NICOLELLO
+Prenom_ceremonie=MARIE 
+CodeDft_cremation=9531
+Pf_cremation=PFM
+Nom_cremation=NICOLELLO
+Prenom_cremation=MARIE 
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+Police=True
+NoOrdre=1684
+Four=2
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9533
+Pf_ceremonie=PF DE SAVOY
+Nom_ceremonie=POSSOZ
+Prenom_ceremonie=LOUIS
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de BOURG ST MAURICE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9533
+Pf_cremation=PF DE SAVOY
+Nom_cremation=POSSOZ
+Prenom_cremation=LOUIS
+EvenementArrivee_cremation=Arrivée de BOURG ST MAURICE
+FicheOccupe=Libre
+NoOrdre=1685
+Four=1
+End With

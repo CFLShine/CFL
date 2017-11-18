@@ -1,0 +1,16 @@
+Id=13112016
+JourDate=13/11/2016
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=9437
+Comment_0=
+Comment_1=
+HeureComment=  :
+End With

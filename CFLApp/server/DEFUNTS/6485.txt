@@ -1,0 +1,15 @@
+Id=6485
+DefuntNom=CAILLY
+DefuntPrenom=RENE
+DefuntDecesDate=15/09/2015
+ArriveeCommune=SAINT ALBAN LEYSSE
+ArriveeDate=19/09/2015
+ArriveeHeure=  :
+PfArrivee=PFG MACHE
+PfCeremonie=PFG MACHE
+CeremonieCrematoriumDate=19/09/2015
+CeremonieCrematoriumHeure=10:15
+CeremonieCrematoriumLieu=Centre funéraire
+CeremonieCrematoriumType=Civile
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=6485

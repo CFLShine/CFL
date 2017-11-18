@@ -1,0 +1,40 @@
+Id=22032015
+Jourdate=22/03/2015
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=
+Pf=
+Conseiller=
+Nom=
+Prenom=
+HeureArrivee=
+HeureCeremonie=
+HeureCremation=
+HeureCommentaire=
+EvenementArrivee=
+EvenementCeremonie=
+EvenementCremation=
+EvenementCommentaire=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With
+With ZONE
+Id=2
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=5
+End With
+With ZONE
+Id=6
+End With
+With ZONE
+Id=7
+End With

@@ -1,0 +1,269 @@
+Id=-1
+With PERSONNEL
+Id=0
+Nom=PACHOUD
+Prenom=Bernard
+Pass=PB
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AFaires=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=1
+Nom=TREVARAIN
+Prenom=Loïc
+Pass=LT
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=2
+Nom=MARIE
+Prenom=Pascal
+Pass=admin
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AFaires=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+Admin=True
+End With
+With PERSONNEL
+Id=3
+Nom=PEYREDIEU
+Prenom=Jean-Luc
+Pass=050795
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AFaires=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=4
+Nom=EHNY
+Prenom=Maxime
+Pass=ME
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AFaires=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=5
+Nom=TREBOUTE
+Prenom=Marion
+Pass=LUCITA
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AFaires=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=6
+Nom=GAYRAUD
+Prenom=Ginette
+Pass=GINOU
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AFaires=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=7
+Nom=PINET
+Prenom=Marie-Pierre
+Pass=LEA
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+FicheCremation=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=8
+Nom=BORDEILER
+Prenom=Jeanine
+Pass=BJ
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=9
+Nom=ESPINOZA
+Prenom=François
+Pass=fe
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=10
+Nom=BASSY
+Prenom=Martyne
+Pass=CIMETIERES
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=11
+Nom=NANTOIS
+Prenom=B
+Pass=four
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=12
+Nom=Pf
+Prenom=PORTEURS
+Pass=PORTEURS
+AffichageAgendaPf=True
+End With
+With PERSONNEL
+Id=13
+Nom=ADMISSIONS
+Prenom=AGENTS
+Pass=ADMISSIONS
+Admissions=True
+End With
+With PERSONNEL
+Id=14
+Nom=KRAUT
+Prenom=Stanislas
+Pass=stan
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=15
+Nom=VERONESE
+Prenom=Christian
+Pass=chris
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+End With
+With PERSONNEL
+Id=16
+Nom=BORDEILLER
+Prenom=Jeanine
+Pass=JB
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+FicheCremation=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=17
+Nom=GONDIN
+Prenom=Jean-Claude
+Pass=JC
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+FicheCremation=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With
+With PERSONNEL
+Id=18
+Nom=PACHOUD
+Prenom=Nicolas
+Pass=NP
+Presence=True
+DonneesPersonnel=True
+SaisieAgendaPf=True
+AFaires=True
+AffichageAgendaPf=True
+AgendaCrematorium=True
+Admissions=True
+ChambreFuneraire=True
+Communes=True
+OutilsLogiciel=True
+End With

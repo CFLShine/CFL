@@ -1,0 +1,27 @@
+Id=30062013
+With ZONE
+Id=18
+CodeZone=18
+Pos=0
+DemiJour=1
+AdressDft=\DONNEES\DONNEES2013\1232.txt
+Ordo=
+OrdoOk=white
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+Conseiller=Marie-Pierre PINET
+Pf=PFG CHAMBERY
+DefuntNom=MACHET
+DefuntPrenom=JOSETTE
+Saisie=TAMB1
+Heure_0=19:03
+Ev_0=TAMB depuis LA MOTTE SERVOLEX  DOMICILE vers Centre funéraire
+Comment_0=
+CodeDft=1232
+End With

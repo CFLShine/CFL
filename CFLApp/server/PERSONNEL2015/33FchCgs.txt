@@ -1,0 +1,154 @@
+Id=33
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=00:00
+EpargneesFC=63:00
+varHeuresSupAnDernier=00:00
+With LigneConges
+Id=0
+varPrisDu=12/04/15
+varPrisAu=19/04/15
+varDemandeDate=11/04/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=19/04/15
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=06/03/15
+varPrisAu=22/03/15
+varDemandeDate=20/04/15
+varAnnuel=72:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=20/04/15
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=06/09/15
+varPrisAu=10/09/15
+varDemandeDate=14/09/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=14/09/15
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=18/10/15
+varPrisAu=25/10/15
+varDemandeDate=08/10/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=08/10/15
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=11/10/15
+varPrisAu=25/10/15
+varDemandeDate=08/10/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=08/10/15
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=12/11/15
+varPrisAu=12/11/15
+varDemandeDate=13/11/15
+varAnnuel=
+varRecup=08:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=10/11/15
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=15/12/15
+varPrisAu=17/12/15
+varDemandeDate=14/12/15
+varAnnuel=27:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=14/12/15
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=16/06/15
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=17/06/15
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=2
+varDateHeuresSup=23/06/15
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=3
+varDateHeuresSup=24/06/15
+varNbHeuresSup=3:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=4
+varDateHeuresSup=30/06/15
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=5
+varDateHeuresSup=01/07/18
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=6
+varDateHeuresSup=20/08/15
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=7
+varDateHeuresSup=29/09/15
+varNbHeuresSup=3:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=8
+varDateHeuresSup=30/09/15
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With

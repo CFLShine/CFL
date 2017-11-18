@@ -1,0 +1,162 @@
+Id=20032015
+Jourdate=20/03/2015
+Version=NouveauFormat
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=5086
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=COURTOIS
+Prenom=MAURICE
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de BOURG ST MAURICE
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=481
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=FAMILLE RECUPERE
+SaisieOccupe=Libre
+CodeDft=5097
+Pf=PF DE SAVOY
+Conseiller=Jean-Luc PEYREDIEU
+Nom=SAULNIER
+Prenom=BASTIEN
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=483
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft=5095
+Pf=P F M
+Conseiller=MICKAEL
+Nom=GOBBO
+Prenom=ATILIO
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=PAS DE CREMATION INHUMATION LA RAVOIRE  POSE DES SCELLES  PFM CHY
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+EvenementCommentaire=PAS DE CREMATION   PFM
+CodeDft=5093
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=CASTELL ROIG
+Prenom=DANIEL
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=5100
+Pf=PFM
+Conseiller=Loïc TREVARAIN
+Nom=ASSER
+Prenom=MARCEL
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=480
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=5109
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=JANIN
+Prenom=GEORGES
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Centre funéraire
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=482
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=5110
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=BRONDEL
+Prenom=ANNE MARIE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Centre funéraire
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=479
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=5112
+Pf=PFM VOIRON
+Conseiller=Marie-Pierre PINET
+Nom=ALLOUCHE
+Prenom=DESTINE
+HeureArrivee=
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=BEBE  PAS DE FAMILLE DISPERSION JDS  ALLOUCHE ESPERANCE ET DESTINE 
+NoOrdre=478
+Four=1
+FicheOccupe=Libre
+End With

@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=540
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Bonvillaret, Chamb\'e9ry,\f1\par<Ret>\b0\f0 Claude, son \'e9poux; Didier et Emmanuelle, ses enfants; Florence et Philippe, leurs conjoints; Viol\'e8ne et Damien, Margaux et Florian, Julie et Lionel, Charlotte, Juliette, Valentine, Tom-Hugo, ses petits-enfants; Mathis, son arri\'e8re-petit-fils; son fr\'e8re et ses soeurs; ses belles-soeurs et ses beaux-fr\'e8res; tous ses parents et amis, ont la douleur de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Marcelle AUPETIT\f1\par<Ret>\f0 n\'e9e FAVRE\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'aube de ses 76 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie sera c\'e9l\'e9br\'e9e le jeudi 2 avril 2015 \'e0 dix heures trente en l'\'e9glise de St Alban Leysse, suivie de la cr\'e9mation.\f1\par<Ret>\f0 Fleurs naturelles uniquement.\f1\par<Ret>\f0 Cet avis tient lieu de faire part.\par<Ret>}<Ret>
+CodeDft=5180
+Tarif=250
+NbLignes=23
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=1
+Date=31/03/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

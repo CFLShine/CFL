@@ -1,0 +1,25 @@
+Id=2012
+With ADMISSION
+Id=1
+Nom=BATAILLARD
+Prenom=SOLANGE
+CodeDft=1
+AdmissionDate=23/12/2012
+NoOrdre=1
+End With
+With ADMISSION
+Id=3
+Nom=DIJOUD
+Prenom=PAUL
+CodeDft=3
+AdmissionDate=19/12/2012
+NoOrdre=2
+End With
+With ADMISSION
+Id=39
+Nom=CHIODIN
+Prenom=LEONELLA-ODILLE
+CodeDft=39
+AdmissionDate=31/12/2012
+NoOrdre=4
+End With

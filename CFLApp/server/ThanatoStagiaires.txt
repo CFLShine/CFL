@@ -1,0 +1,119 @@
+Id=-1
+With STAGIAIRE
+Id=0
+Nom=GRICOURT
+Prenom=ALEXIA
+AnneeStage=2013
+End With
+With STAGIAIRE
+Id=1
+Nom=GALLAND
+Prenom=GENEVIEVE
+AnneeStage=2013
+End With
+With STAGIAIRE
+Id=2
+Nom=BISCHOFF
+Prenom=PEGGY
+AnneeStage=2014
+End With
+With STAGIAIRE
+Id=3
+Nom=COELHO
+Prenom=SYLVIE
+Adresse=
+CodePost=
+Commune=
+Tel=
+AnneeStage=2014
+End With
+With STAGIAIRE
+Id=4
+Nom=VOLLE
+Prenom=MARION
+Adresse=
+CodePost=
+Commune=
+Tel=0686847978
+AnneeStage=2015
+End With
+With STAGIAIRE
+Id=5
+Nom=ANGELIER
+Prenom=CLHOE
+Adresse=
+CodePost=
+Commune=
+Tel=
+AnneeStage=2015
+End With
+With STAGIAIRE
+Id=6
+Nom=MARIE
+Prenom=PASCAL
+Adresse=
+CodePost=
+Commune=
+Tel=
+AnneeStage=2016
+End With
+With STAGIAIRE
+Id=7
+Nom=CHAMBONNEAU
+Prenom=Léa
+Adresse=
+CodePost=
+Commune=
+Tel=
+AnneeStage=2016
+End With
+With STAGIAIRE
+Id=8
+Nom=MAISONNIER
+Prenom=LISA
+Adresse=
+CodePost=
+Commune=
+Tel=
+AnneeStage=2016
+End With
+With STAGIAIRE
+Id=9
+Nom=MOREIRA
+Prenom=MARIE
+Adresse=
+CodePost=
+Commune=
+Tel=
+AnneeStage=2017
+End With
+With STAGIAIRE
+Id=10
+Nom=FELARD
+Prenom=ALEXIA
+Adresse=
+CodePost=
+Commune=
+Tel=
+AnneeStage=2017
+End With
+With STAGIAIRE
+Id=11
+Nom=DIMEUR
+Prenom=MORGANE
+Adresse=
+CodePost=
+Commune=
+Tel=
+AnneeStage=2017
+End With
+With STAGIAIRE
+Id=12
+Nom=GENEVIER
+Prenom=MARIE-ANGE
+Adresse=
+CodePost=
+Commune=
+Tel=
+AnneeStage=2017
+End With

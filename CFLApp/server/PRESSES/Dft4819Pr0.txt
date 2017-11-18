@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=520
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 Les Marches, Saint Andr\'e9.\f1\par<Ret>\b0\f0 Mr Gilbert Grelin, son \'e9poux;\f1\par<Ret>\f0 Bernard, Philippe, Denis, Dominique, Jean-Yves, ses fils\f1\par<Ret>\f0  et leurs compagnes; \f1\par<Ret>\f0 Nancy, Alexandre, Guillaume, Quentin,L\'e9o, Matt\'e9o, \f1\par<Ret>\f0 ses petits-enfants; \f1\par<Ret>\f0 parents et amis;\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Madame Paulette GRELIN\f1\par<Ret>\f0 N\'e9e BESSON\f1\par<Ret>\pard\b0\f0 survenu \'e0 l'\'e2ge de 81 ans.\f1\par<Ret>\f0 La c\'e9l\'e9bration religieuse aura lieu le mercredi 18 F\'e9vrier 2015 \'e0 quinze heures en l'\'e9glise de Les Marches suivie de l'inhumation au cimeti\'e8re de Les Marches.\f1\par<Ret>\f0 Condol\'e9ances sur registre.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=4819
+Tarif=250
+NbLignes=23
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=15/02/2015
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

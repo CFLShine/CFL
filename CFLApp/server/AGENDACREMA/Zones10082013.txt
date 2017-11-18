@@ -1,0 +1,163 @@
+Id=10082013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1430.txt
+Pf=PF POMMAT
+Conseiller=Marion TREBOUTE
+Nom=LEURS
+Prenom=MICHEL
+HeureArrivee=08:15
+EvenementArrivee=ArrivÃ©e de ALBERTVILLE
+HeureCeremonie=08:15
+EvenementCeremonie=CÃ©rÃ©monie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=CrÃ©mation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERES CERCUEIL CHENE
+NoOrdre=965
+Four=2
+CodeDft=1430
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1434.txt
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=PASQUIER
+Prenom=JEAN-CLAUDE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=966
+Four=1
+CodeDft=1434
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1435.txt
+Pf=PF DE SAVOY
+Conseiller=Marie-Pierre PINET
+Nom=SORREL
+Prenom=MARCEL
+HeureArrivee=
+EvenementArrivee=Arrivée de MOUTIERS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=967
+Four=2
+CodeDft=1435
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1426.txt
+Pf=PFM
+Conseiller=Ginette GAYRAUD
+Nom=BLANC
+Prenom=ROGER
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=968
+Four=2
+CodeDft=1426
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+EvenementCommentaire=
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1431.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=GOBBO
+Prenom=YVAN
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de CHAMOUX
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=969
+Four=1
+CodeDft=1431
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1439.txt
+Pf=PF DU PLATEAU
+Conseiller=Marie-Pierre PINET
+Nom=BURLET
+Prenom=LILIANE
+HeureArrivee=
+EvenementArrivee=Arrivée de HAUTEVILLE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 17H
+NoOrdre=970
+Four=2
+CodeDft=1439
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\1443.txt
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=LEFEBVRE
+Prenom=MICHEL
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LES PF RECUPERENT L'URNEA 18H
+NoOrdre=971
+Four=2
+CodeDft=1443
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With

@@ -1,0 +1,137 @@
+Id=2122014
+JourDate=02/12/2014
+With ZONE
+Id=0
+Saisie=Convoi
+Pos=0
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+Heure_0=14:00
+Heure_1=15:00
+Heure_2=
+Heure_3=
+Ev_0=Mise en bière HOPITAL DE CHAMBERY à CHAMBERY
+Ev_1=Cérémonie Religieuse EGLISE CHAMBERY LE HAUT
+Ev_2=
+Ev_3=Inhumation CHARRIERE NEUVE à CHAMBERY Pleine terre
+DefuntNom=FERREIRA RELVA
+DefuntPrenom=ORLANDO
+Conseiller=Pascal MARIE
+Pf=PFM
+Comment_0=
+CodeDft=4247
+Ordo=FAVRIN Thierry
+OrdoId=11
+Equipe_0=JACQUIER Michel
+EquipeId_0=JACQUIER Michel
+Equipe_1=MILLON Patrick
+EquipeId_1=MILLON Patrick
+Equipe_2=PINTOUT Bruno
+EquipeId_2=PINTOUT Bruno
+Equipe_3=ESPINOZA François
+EquipeId_3=ESPINOZA François
+End With
+With ZONE
+Id=1
+Saisie=TAMB
+Pos=0
+DemiJour=0
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4258
+Pf=PF SAVOYARDES
+Conseiller=Marie-Pierre PINET
+DefuntNom=MERMET
+DefuntPrenom=MARCEL
+Ev_0=TAMB depuis HOPITAL BELLEY vers Centre funéraire
+Comment_0=
+Comment_1=
+Heure_0=11:06
+End With
+With ZONE
+Id=2
+Saisie=TAMB
+Pos=1
+DemiJour=1
+CodeDft=4261
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+DefuntNom=GIET
+DefuntPrenom=GABRIELLE
+Heure_0=14:56
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=TREVARAIN Loïc
+Equipe_1=
+End With
+With ZONE
+Id=3
+Saisie=TAMB
+Pos=2
+DemiJour=1
+CodeDft=4259
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+DefuntNom=RICHEL
+DefuntPrenom=VICTOR
+Heure_0=15:04
+Ev_0=TAMB depuis HOPITAL DE CHAMBERY vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=TREVARAIN Loïc
+Equipe_1=
+End With
+With ZONE
+Id=4
+Saisie=TAMB
+Pos=3
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4264
+Pf=PF CHAMBERIENNES
+Conseiller=Marie-Pierre PINET
+DefuntNom=BURDIN
+DefuntPrenom=ELIANE
+Heure_0=23:00
+Ev_0=TAMB depuis Centre funéraire vers Centre funéraire
+Comment_0=
+Comment_1=
+End With
+With ZONE
+Id=5
+Saisie=TAMB
+Pos=4
+DemiJour=1
+OrdoOk=White
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=4263
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+DefuntNom=GUENNEC
+DefuntPrenom=JEAN PIERRE
+Heure_0=18:45
+Ev_0=TAMB depuis DOMICILE CHAMBERY vers Centre funéraire
+Comment_0=
+Comment_1=
+End With

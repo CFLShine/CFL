@@ -1,0 +1,189 @@
+Id=31052017
+Jourdate=31/05/2017
+With ZONE
+Id=0
+EvenementCommentaire=PAS DE FAMILLE A LA CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=10902
+Pf_ceremonie=PFM
+Nom_ceremonie=BABOULAZ
+Prenom_ceremonie=CLAUDE
+CodeDft_cremation=10902
+Pf_cremation=PFM
+Nom_cremation=BABOULAZ
+Prenom_cremation=CLAUDE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=08:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=756
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=ORDONNATEUR PFM  LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=10904
+Pf_ceremonie=PF DE LA VANOISE
+Nom_ceremonie=VEILLE
+Prenom_ceremonie=JEAN- ERIC
+HeureArrivee_ceremonie=13:15
+EvenementArrivee_ceremonie=Arrivée de MODANE
+HeureArrivee_cremation=13:15
+EvenementArrivee_crema=
+HeureCeremonie=13:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=14:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10904
+Pf_cremation=PF DE LA VANOISE
+Nom_cremation=VEILLE
+Prenom_cremation=JEAN- ERIC
+EvenementArrivee_cremation=Arrivée de MODANE
+FicheOccupe=Libre
+NoOrdre=759
+Four=
+End With
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=7
+EvenementCommentaire=CERCUEIL EN CHENE  NE PAS SCELLER L'URNE  LA FAMILLR RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=10885
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=PUGEAT
+Prenom_ceremonie=YVES
+HeureArrivee_ceremonie=17:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=17:15
+EvenementArrivee_crema=
+HeureCeremonie=17:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=18:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10885
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=PUGEAT
+Prenom_cremation=YVES
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=761
+Four=
+End With
+With ZONE
+Id=1
+EvenementCommentaire=3 coeurs
+SaisieOccupe=Libre
+CodeDft_ceremonie=10899
+Pf_ceremonie=PFM
+Nom_ceremonie=FAIVRE
+Prenom_ceremonie=MADELEINE
+CodeDft_cremation=10899
+Pf_cremation=PFM
+Nom_cremation=FAIVRE
+Prenom_cremation=MADELEINE
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=757
+Four=
+End With
+With ZONE
+Id=2
+EvenementCommentaire=CREMATION LE JEUDI 1 JUIN A 8H
+SaisieOccupe=Libre
+CodeDft_ceremonie=10905
+Pf_ceremonie=PFM
+Nom_ceremonie=LANFREY-LAPERRIERE
+Prenom_ceremonie=MARCELLE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=3
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=10895
+Pf_ceremonie=PF PENA
+Nom_ceremonie=MERMIN
+Prenom_ceremonie=PEARL
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de ST LAURENT DU PONT
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10895
+Pf_cremation=PF PENA
+Nom_cremation=MERMIN
+Prenom_cremation=PEARL
+EvenementArrivee_cremation=Arrivée de ST LAURENT DU PONT
+FicheOccupe=Libre
+NoOrdre=758
+Four=
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=10896
+Pf_ceremonie=PFG MONTMELIAN
+Nom_ceremonie=DECRAENE
+Prenom_ceremonie=JEAN MARIE
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de LA MOTTE SERVOLEX
+HeureArrivee_cremation=15:15
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=10896
+Pf_cremation=PFG MONTMELIAN
+Nom_cremation=DECRAENE
+Prenom_cremation=JEAN MARIE
+EvenementArrivee_cremation=Arrivée de LA MOTTE SERVOLEX
+NoOrdre=760
+Four=
+FicheOccupe=Libre
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

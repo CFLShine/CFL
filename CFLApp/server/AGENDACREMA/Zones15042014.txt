@@ -1,0 +1,126 @@
+Id=15042014
+Jourdate=15/04/2014
+Version=NouveauFormat
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=2942
+Pf=PFM DE VOIRON
+Conseiller=Marie-Pierre PINET
+Nom=POULLET
+Prenom=RAPHAEL
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=08:15
+EvenementCeremonie=
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ENFANT NE SANS VIE PAS DE FAMILLE
+FicheOccupe=Libre
+NoOrdre=471
+Four=1
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=2943
+Pf=PFM DE VOIRON
+Conseiller=Pascal MARIE
+Nom=TARLET
+Prenom=AURELIE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de VOIRON
+HeureCeremonie=09:15
+EvenementCeremonie=
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ENFANT NE SANS VIE  PAS DE FAMILLE
+NoOrdre=472
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=2948
+Pf=PF MAURIENNAISES
+Conseiller=Marie-Pierre PINET
+Nom=BERTINO
+Prenom=JOSEPH
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de ST JEAN DE MAURIENNE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 17H
+FicheOccupe=Libre
+NoOrdre=475
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=CERCUEIL CREMATION   PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft=2959
+Pf=PF SEDRAN
+Conseiller=Loïc TREVARAIN
+Nom=BARON
+Prenom=GISELE
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=473
+Four=1
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=2955
+Pf=PFG MACHE
+Conseiller=Loïc TREVARAIN
+Nom=DELFORGE
+Prenom=AUGUSTIN
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERENT
+NoOrdre=474
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=2936
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=MACAQUE
+Prenom=JEAN-MARIE
+HeureArrivee=15:15
+EvenementArrivee=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+End With
+With ZONE
+Id=4
+End With
+With ZONE
+Id=7
+End With

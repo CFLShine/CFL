@@ -1,0 +1,139 @@
+Id=1122014
+Jourdate=01/12/2014
+Version=NouveauFormat
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4226
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=PALLOIX
+Prenom=PAUL
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:30
+EvenementCeremonie=Cérémonie Religieuse Eglise de Bissy
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=1465
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4236
+Pf=PF BALDINI
+Conseiller=Marie-Pierre PINET
+Nom=BIZZOZERO
+Prenom=JOSEPH
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de PONT DE BEAUVOISIN
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ON CONSERVE L' URNE  A FACTURER
+NoOrdre=1463
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4237
+Pf=PF FLORET
+Conseiller=Marie-Pierre PINET
+Nom=DALBY
+Prenom=CLAUDE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=10:0
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=1461
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+SaisieOccupe=Libre
+CodeDft=4239
+Pf=AJEPI
+Conseiller=Marie-Pierre PINET
+Nom=JUGLARET
+Prenom=MARIE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de MONTMELIAN
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=1462
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+CodeDft=4238
+Pf=PF TONIN COIFFET
+Conseiller=MP PINET
+Nom=DUROT
+Prenom=EMILE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM + MISE EN BIERE  
+Police=True
+FicheOccupe=Libre
+NoOrdre=1464
+Four=2
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft=4241
+Pf=PF POMMAT
+Conseiller=Marie-Pierre PINET
+Nom=VIARD
+Prenom=ROLAND
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=1466
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

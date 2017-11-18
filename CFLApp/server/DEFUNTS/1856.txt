@@ -1,0 +1,17 @@
+Id=1856
+New=
+DefuntNom=ALAIN
+DefuntPrenom=HENRI
+DefuntDecesDate=29/12/2012
+CremationArriveeDe=
+CeremonieCrematoriumDate=03/01/2013
+CeremonieCrematoriumHeure=10:15
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+CremationDate=03/01/2013
+CremationHeure=11:00
+CremationCommune=Chambéry
+Conseiller=B NANTOIS
+PfCremation=PFM
+PfArrivee=PFM
+CodeDefunt=1856

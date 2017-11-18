@@ -1,0 +1,149 @@
+Id=10082016
+Jourdate=10/08/2016
+With ZONE
+Id=7
+EvenementCommentaire=LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=8806
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=SPILTHOOREN
+Prenom_ceremonie=LUDOVIC
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8806
+Pf_cremation=PF SEDRAN
+Nom_cremation=SPILTHOOREN
+Prenom_cremation=LUDOVIC
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1178
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=8814
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=GERVASONI
+Prenom_ceremonie=MICHEL
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de SAINT JEAN DE MAURIENNE
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PAS D'ORDO   FAMILLE RECUPERE
+CodeDft_cremation=8814
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=GERVASONI
+Prenom_cremation=MICHEL
+EvenementArrivee_cremation=Arrivée de SAINT JEAN DE MAURIENNE
+NoOrdre=1174
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=LES PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft_ceremonie=8810
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=MARCHANDON
+Prenom_ceremonie=JEAN-MICHEL
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8810
+Pf_cremation=PF SEDRAN
+Nom_cremation=MARCHANDON
+Prenom_cremation=JEAN-MICHEL
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1175
+Four=1
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+EvenementCommentaire=FAMILLE RECUPERE ORDONNATEUR PFM POUR GESTE D'ADIEU
+SaisieOccupe=Libre
+CodeDft_ceremonie=8807
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=MAZZOLENI
+Prenom_ceremonie=FRANCESCO
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de BELLEY
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8807
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=MAZZOLENI
+Prenom_cremation=FRANCESCO
+EvenementArrivee_cremation=Arrivée de BELLEY
+FicheOccupe=Libre
+NoOrdre=1176
+Four=2
+End With
+With ZONE
+Id=5
+EvenementCommentaire=LES PF RECUPERENT  CERCUEIL CHENE
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_ceremonie=8821
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=BONNET-LIGEON
+Prenom_ceremonie=GILBERTE
+CodeDft_cremation=8821
+Pf_cremation=PF POMMAT
+Nom_cremation=BONNET-LIGEON
+Prenom_cremation=GILBERTE
+EvenementArrivee_cremation=Arrivée de ALBERTVILLE
+FicheOccupe=Libre
+NoOrdre=1177
+Four=2
+End With
+With ZONE
+Id=6
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

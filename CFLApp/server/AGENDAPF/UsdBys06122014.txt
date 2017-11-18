@@ -1,0 +1,34 @@
+Id=6122014
+JourDate=06/12/2014
+With ZONE
+Id=0
+UsedBy=Libre
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+End With

@@ -1,0 +1,575 @@
+Id=4141
+CodeDefunt=4141
+DefuntNom=POUPART
+DefuntPrenom=JEROME
+DefuntDecesDate=12/11/2014
+PfArrivee=PFM
+AdmissionDate=12/11/2014
+AdmissionHeure=14:09
+AdmissionAgent1=WALLYN Benoît
+AdmissionAgent2=KAELBERER
+AdmissionOrdreNo=634
+AdmissionArriveeDe=CHAMBERY DOMICILE
+AdmissionTaille=178/55
+AdmissionDepartDate=22/11/2014
+AdmissionDepartHeure=13:45
+Requisition=False
+AdmissionCorpsArriveHabille=True
+AdmissionVetementsArrivesAvecDefunt=True
+AdmissionHabillageParNous=False
+AdmissionChaussures=False
+AdmissionCorpsPresentable=False
+AdmissionObstacleJudiciaire=True
+AdmissionHousseRequis=False
+PaceMaker=False
+AdmissionValeur1=
+AdmissionValeur2=
+AdmissionValeur3=
+AdmissionValeur4=
+AdmissionValeur5=
+AdmissionValeur6=
+AdmissionValeur7=
+AdmissionValeur8=
+AdmissionValeur9=
+AdmissionValeur10=
+AdmissionValeur11=1 CHAINE
+AdmissionValeur12=
+AdmissionValeur13=1 BOUCLE D OREILLE
+AdmissionValeur14=1 GOURMETTE
+AdmissionValeurAutre1=
+AdmissionValeurAutre2=
+AdmissionValeursRemisesANomPrenom=
+AdmissionValeursRemisesAAdresse=
+AdmissionValeursRemisesAQualite=
+AdmissionValeursRemisesDate=
+AdmissionCommentaire=
+PfTAMB1=PFM
+TAMB1ArriveeHeure=14:09
+TAMB1ArriveeLieu=Cf
+CodeTAMB1=12/11/2014_1
+DefuntNationalite=
+DefuntTitre=Monsieur
+DefuntAdresse2=
+DefuntProfession=
+DefuntAdresseCommune=
+DefuntAdresseCodPost=
+DefuntAdresse=
+DefuntNaissancePays=
+DefuntNaissanceDepartement=
+DefuntNaissanceCommune=
+DefuntPrenoms=
+DefuntNomJF=
+DefuntNaissanceDate=  /  /
+DefuntDecesHeure=  :
+DefuntDecesAdresse=1423 AVENUE DES LANDIERS
+DefuntDecesMedecin=GRENIER
+DefuntDecesPays=FRANCE
+DefuntDecesCommune=CHAMBERY
+DefuntMereDecede=False
+DefuntMereAdresse2=
+DefuntMereAdressePays=
+DefuntMereAdresseCommune=
+DefuntMereAdresseCodPost=
+DefuntMereAdresse=
+DefuntMerePrenom=
+DefuntMereNom=
+DefuntPereDecede=False
+DefuntPereAdresse2=
+DefuntPereAdressePays=
+DefuntPereAdresseCommune=
+DefuntPereAdresseCodPost=
+DefuntPereAdresse=
+DefuntPerePrenom=
+DefuntPereNom=
+DefuntMariageDate=  /  /
+DefuntDivorseDate=  /  /
+DefuntSituationDecesDate=  /  /
+DefuntSituationNaissanceDate=  /  /
+DefuntNbEnfantsVivants=
+DefuntNbEnfants=
+DefuntSituationDecesCommune=
+DefuntSituationPrenoms=
+DefuntSituationNom=
+PouvQualite=Conjoint
+PouvNom=POUPART
+PouvPrenom=JOCELYNE
+PouvNomJF=
+PouvAdresse=
+PouvAdresse2=
+PouvCodePost=
+PouvCommune=
+PouvTel1=06 34 12 34 10
+PouvTel2=
+PouvMail=
+ReceptionDate=12/11/2014
+Conseiller=Pascal MARIE
+TAMB2Vehicule=
+PfTAMB2=PFM
+TAMB2ArriveeLieu=IML GRENOBLE
+TAMB2DepartLieu=Centre funéraire
+TAMB2Date=14/11/2014
+TAMB2ArriveeHeure=08:00
+CodeTAMB2=14/11/2014_0_2
+RDVOrdonnateurDate=21/11/2014
+RDVOrdonnateurHeure=13:15
+CodeRDVOrdo=21/11/2014_1_10
+CeremonieDate=22/11/2014
+CeremonieHeure=14:15
+CeremonieLieu=Cf salle omnicultes
+CeremonieType=Civile
+PfCeremonie=PFM
+CeremonieDistanceCf=0
+CeremonieRegistre=True
+Presse=True
+BourseADons=False
+PfMEB=PFM
+MEBCommune=CHAMBERY
+ArriveeCommune=
+MEBDate=22/11/2014
+ArriveeDate=17/12/2014
+MEBHeure=13:45
+ArriveeHeure=
+MEBLieu=Centre funéraire
+ArriveeLieu=
+MEBDistanceCf=0
+Salon=False
+SalonCase_Name=Case
+PfTransport=
+TransportDate=  /  /
+TransportDepartLieu=
+TransportArriveeLieu=
+TransportDepartHeure=  :
+TransportArriveeHeure=  :
+TransportVehicule=
+TransportDistanceCf=
+CremationDate=17/12/2014
+CremationHeure=13:00
+CeremonieCrematoriumLieu=Cf salle omnicultes
+CeremonieCrematoriumHeure=14:15
+CeremonieCrematoriumType=Civile
+PfCremation=PFM
+CendresDestination=Inhumation
+DispersionDate=  /  /
+DispersionHeure=  :
+DispersionLieu=
+DispersionCommune=
+PfDispersion=
+PfInhumation=PFM
+InhumationDate=22/11/2014
+InhumationHeure=  :
+InhumationSepulture=1
+CodeConvoit=22/11/2014_1_0
+SepultureCimetiere=CHARRIERE NEUVE
+SepultureCommune=CHAMBERY
+SepultureType=
+Concessionaire=False
+AyantDroit=False
+SepultureProvisoire=False
+ConcessionDPINom=POUPART
+ConcessionDPINomJF=
+ConcessionDPIPrenom=GEORGES
+ConcessionDPIAnnee=2011
+ConcessionAquiseParNom=
+ConcessionAquiseParPrenom=
+ConcessionAquiseDate=  /  /
+ConcessionDuree=
+ConcessionDesignation=
+SepultureCarreGen=False
+SepultureCarreEnf=False
+SepultureDivision=
+SepultureSection=
+SepultureCarre=
+SepultureLigne=
+SepultureTombe=
+CremationArriveeDe=CHAMBERY
+CeremonieCrematoriumDate=22/11/2014
+CremationCommune=Chambéry
+ReservCrema=Pascal MARIE
+CodeMEB=
+Sepulture2Cimetiere=
+Sepulture2Commune=LA MOTTE SERVOLEX
+Sepulture2Type=Case columbarium
+Concessionaire2=False
+AyantDroit2=False
+Sepulture2Provisoire=False
+Concession2DPINom=POUPART
+Concession2DPINomJF=
+Concession2DPIPrenom=GEORGES
+Concession2DPIAnnee=2001
+Concession2AquiseParNom=
+Concession2AquiseParPrenom=
+Concession2AquiseDate=  /  /
+Concession2Duree=
+Concession2Designation=
+Sepulture2CarreGen=False
+Sepulture2CarreEnf=False
+Sepulture2Division=
+Sepulture2Section=
+Sepulture2Carre=
+Sepulture2Ligne=
+Sepulture2Tombe=
+CodeCremation=17/12/2014_1_1
+PfInhumation2=PFM
+Inhumation2Date=17/12/2014
+Inhumation2Heure=16:00
+Inhumation2Sepulture=2
+CodeInhumation2=17/12/2014_1_2
+ExhumationSepulture=1
+PfExhumation=PFM
+ExhumationDate=17/12/2014
+ExhumationHeure=08:30
+CodeExhumation=17/12/2014_0_3
+CremationOperateur=NANTOIS Bernard
+CremationNoOrdre=1537
+CremationHeureDebut=13:10
+CremationHeureFin=14:45
+CremationAutorisationDate=09/12/2014
+CremationAttestationDate=17/12/2014
+CremationAutorisationCommune=CHAMBERY
+CremationCendresRemisDate=17/12/2014
+CremationCendresRemisANom=TREVARAIN
+CremationCendresRemisAPreNom=LOIC
+CremationCendresRemisAAdresse=
+CremationCendresRemisACodePost=
+CremationCendresRemisACommune=CHAMBERY
+CremationCendresRemisAQualite=PFM
+CremationCercueilType=Bois blanc
+With A FAIRE
+Id=0
+Intitule=[Intitul2]
+Fait=True
+Perso=False
+DateAFaire=12/11/2014 17:01:15
+DateFait=17/11/2014 14:56:27
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=1
+Intitule=[Intitul13]
+Fait=True
+Perso=False
+DateAFaire=12/11/2014 17:01:15
+DateFait=20/11/2014 12:40:08
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=2
+Intitule=[Intitul1]
+Fait=True
+Perso=False
+DateAFaire=15/11/2014 10:58:48
+DateFait=11/12/2014 15:00:16
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=6
+Intitule=[Intitul10]
+Fait=True
+Perso=False
+DateAFaire=15/11/2014 10:58:48
+DateFait=20/11/2014 13:52:00
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=9
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=15/11/2014 11:00:48
+DateFait=20/11/2014 14:20:56
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=10
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=15/11/2014 11:00:48
+DateFait=22/11/2014 08:15:41
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=11
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=15/11/2014 11:00:48
+DateFait=20/11/2014 14:19:08
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=12
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=15/11/2014 11:00:48
+DateFait=22/11/2014 08:15:56
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=13
+Intitule=[Intitul3]
+Fait=True
+Perso=False
+DateAFaire=18/11/2014 10:22:47
+DateFait=20/11/2014 12:40:42
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=14
+Intitule=[Intitul16]
+Fait=True
+Perso=False
+DateAFaire=18/11/2014 10:22:47
+DateFait=20/11/2014 12:41:41
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=15
+Intitule=[Intitul11]
+Fait=True
+Perso=False
+DateAFaire=20/11/2014 13:55:19
+DateFait=20/11/2014 14:17:49
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=16
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 12:42:07
+DateFait=12/12/2014 14:54:06
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=17
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 12:42:07
+DateFait=12/12/2014 14:54:06
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=18
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 12:42:07
+DateFait=12/12/2014 14:54:09
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=19
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 12:42:07
+DateFait=12/12/2014 14:54:10
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=20
+Intitule=[Intitul6]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 12:42:07
+DateFait=12/12/2014 14:54:15
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=21
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 14:09:29
+DateFait=12/12/2014 14:56:00
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=22
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 14:09:29
+DateFait=12/12/2014 14:56:07
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=23
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 14:09:29
+DateFait=12/12/2014 14:56:08
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=24
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 14:09:29
+DateFait=12/12/2014 14:56:09
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=25
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 15:00:16
+DateFait=12/12/2014 14:56:10
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=26
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 15:00:16
+DateFait=12/12/2014 14:56:11
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=27
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 15:00:16
+DateFait=12/12/2014 14:56:13
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=28
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=11/12/2014 15:00:16
+DateFait=12/12/2014 14:56:14
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=29
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=12/12/2014 08:37:18
+DateFait=13/12/2014 12:51:49
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=30
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=12/12/2014 08:37:18
+DateFait=13/12/2014 12:51:50
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=31
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=12/12/2014 08:37:18
+DateFait=13/12/2014 12:51:51
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=32
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=12/12/2014 08:37:18
+DateFait=13/12/2014 12:51:51
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=33
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=12/12/2014 14:54:01
+DateFait=13/12/2014 12:51:52
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=34
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=12/12/2014 14:54:01
+DateFait=13/12/2014 12:51:53
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=35
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=12/12/2014 14:54:01
+DateFait=13/12/2014 12:51:53
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=36
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=12/12/2014 14:54:01
+DateFait=13/12/2014 12:51:54
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=37
+Intitule=[Intitul5]
+Fait=True
+Perso=False
+DateAFaire=13/12/2014 12:51:46
+DateFait=13/12/2014 12:51:54
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=38
+Intitule=[Intitul14]
+Fait=True
+Perso=False
+DateAFaire=13/12/2014 12:51:46
+DateFait=13/12/2014 12:51:56
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=39
+Intitule=[Intitul8]
+Fait=True
+Perso=False
+DateAFaire=13/12/2014 12:51:46
+DateFait=13/12/2014 12:51:57
+FaitPar=Pascal MARIE
+End With
+With A FAIRE
+Id=40
+Intitule=[Intitul9]
+Fait=True
+Perso=False
+DateAFaire=13/12/2014 12:51:46
+DateFait=13/12/2014 12:51:57
+FaitPar=Pascal MARIE
+End With
+With PRESSE
+Id=0
+Type=Avis
+Parution=21/11/2014
+End With
+With EXHUM
+Id=0
+Nom=[Defunt]
+NomJF=
+Prenom=
+NaissanceAnnee=
+DecesAnnee=2014
+ExhumationDate=17/12/2014
+Sepulture=1
+End With

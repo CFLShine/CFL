@@ -1,0 +1,540 @@
+<METASF>
+Id=0
+Name=Traveaux marbrerie
+With TYPEDOC
+Id=0
+TypeDoc=Pf
+End With
+With SHAPE
+Id=22
+Name=BnTrvMarb9
+Top=1017
+Left=397
+Level=0
+End With
+With SHAPE
+Id=23
+Name=BnTrvMarb8
+Top=714
+Left=29
+Level=1
+End With
+With SHAPE
+Id=24
+Name=BnTrvMarb7
+Top=642
+Left=226
+Level=2
+End With
+With SHAPE
+Id=25
+Name=BnTrvMarb6
+Top=642
+Left=164
+Level=3
+End With
+With SHAPE
+Id=26
+Name=BnTrvMarb5
+Top=642
+Left=94
+Level=4
+End With
+With SHAPE
+Id=27
+Name=BnTrvMrb4
+Top=642
+Left=29
+Level=5
+End With
+With SHAPE
+Id=28
+Name=BnTrvMarb3
+Top=464
+Left=29
+Level=6
+End With
+With SHAPE
+Id=29
+Name=BnTrvMarb2
+Top=260
+Left=30
+Level=7
+End With
+With SHAPE
+Id=30
+Name=BnTrvMarb0
+Top=14
+Left=269
+Level=8
+End With
+With SHAPE
+Id=31
+Name=BnTrvMarb1
+Top=76
+Left=30
+Level=9
+End With
+<\METASF>
+<METASF>
+Id=1
+Name=ESSAIS
+With TYPEDOC
+Id=0
+TypeDoc=Autres
+End With
+With SHAPE
+Id=20
+Name=ZoneText
+Top=1
+Left=1
+Level=0
+End With
+With SHAPE
+Id=21
+Name=ZoneImage
+Top=152
+Left=62
+Level=1
+End With
+<\METASF>
+<METASF>
+Id=2
+Name=AttestationDeCremation
+With TYPEDOC
+Id=0
+TypeDoc=Crema
+End With
+With SHAPE
+Id=32
+Name=LogoCrema
+Top=10
+Left=27
+Level=0
+End With
+With SHAPE
+Id=33
+Name=NoOrdre
+Top=176
+Left=83
+Level=1
+End With
+With SHAPE
+Id=34
+Name=AttstCremaTitre
+Top=244
+Left=238
+Level=2
+End With
+With SHAPE
+Id=37
+Name=AttestationCremationTexte
+Top=352
+Left=83
+Level=3
+End With
+With SHAPE
+Id=38
+Name=CertifExact
+Top=593
+Left=472
+Level=4
+End With
+With SHAPE
+Id=39
+Name=TamponCrema
+Top=685
+Left=474
+Level=5
+End With
+<\METASF>
+<METASF>
+Id=3
+Name=Valeurs
+With TYPEDOC
+Id=0
+TypeDoc=Pf
+End With
+With TYPEDOC
+Id=1
+TypeDoc=Autres
+End With
+With SHAPE
+Id=35
+Name=ValeursTitre
+Top=184
+Left=182
+Level=0
+End With
+With SHAPE
+Id=36
+Name=ValeursDefunt
+Top=263
+Left=49
+Level=1
+End With
+With SHAPE
+Id=32
+Name=LogoCrema
+Top=15
+Left=45
+Level=2
+End With
+With SHAPE
+Id=40
+Name=ValeursValeurs
+Top=379
+Left=50
+Level=3
+End With
+With SHAPE
+Id=41
+Name=ValeursSousSigné
+Top=762
+Left=49
+Level=4
+End With
+<\METASF>
+<METASF>
+Id=4
+Name=Attestation soins
+With TYPEDOC
+Id=0
+TypeDoc=Thanato
+End With
+With SHAPE
+Id=42
+Name=ThanatoEntete
+Top=42
+Left=83
+Level=0
+End With
+With SHAPE
+Id=43
+Name=AttestaionSoinsText
+Top=228
+Left=84
+Level=1
+End With
+With SHAPE
+Id=44
+Name=DefuntTitrePrenomNom
+Top=334
+Left=248
+Level=2
+End With
+With SHAPE
+Id=45
+Name=AtestationSoinsProduits
+Top=388
+Left=83
+Level=3
+End With
+With SHAPE
+Id=46
+Name=DefuntTitrePrenomNom2
+Top=501
+Left=246
+Level=4
+End With
+With SHAPE
+Id=47
+Name=AttestSoinsPorteurPille
+Top=560
+Left=84
+Level=5
+End With
+With SHAPE
+Id=48
+Name=FaitAChyLe
+Top=696
+Left=376
+Level=6
+End With
+With SHAPE
+Id=49
+Name=ThanatoTitreNomPrenom
+Top=765
+Left=376
+Level=7
+End With
+<\METASF>
+<METASF>
+Id=5
+Name=Attestation retrait pm
+With TYPEDOC
+Id=0
+TypeDoc=Thanato
+End With
+With SHAPE
+Id=42
+Name=ThanatoEntete
+Top=51
+Left=83
+Level=0
+End With
+With SHAPE
+Id=50
+Name=AttestaionRetraitText
+Top=256
+Left=82
+Level=1
+End With
+With SHAPE
+Id=44
+Name=DefuntTitrePrenomNom
+Top=352
+Left=248
+Level=2
+End With
+With SHAPE
+Id=48
+Name=FaitAChyLe
+Top=558
+Left=377
+Level=3
+End With
+With SHAPE
+Id=51
+Name=DefuntDecedeAge
+Top=421
+Left=83
+Level=4
+End With
+<\METASF>
+<METASF>
+Id=6
+Name=Attestation soins internationaux
+With TYPEDOC
+Id=0
+TypeDoc=Thanato
+End With
+With SHAPE
+Id=42
+Name=ThanatoEntete
+Top=42
+Left=83
+Level=0
+End With
+With SHAPE
+Id=52
+Name=AttestaionSoinsIntText
+Top=228
+Left=84
+Level=1
+End With
+With SHAPE
+Id=44
+Name=DefuntTitrePrenomNom
+Top=334
+Left=248
+Level=2
+End With
+With SHAPE
+Id=45
+Name=AtestationSoinsProduits
+Top=388
+Left=83
+Level=3
+End With
+With SHAPE
+Id=46
+Name=DefuntTitrePrenomNom2
+Top=501
+Left=246
+Level=4
+End With
+With SHAPE
+Id=47
+Name=AttestSoinsPorteurPille
+Top=560
+Left=84
+Level=5
+End With
+With SHAPE
+Id=48
+Name=FaitAChyLe
+Top=696
+Left=376
+Level=6
+End With
+With SHAPE
+Id=49
+Name=ThanatoTitreNomPrenom
+Top=765
+Left=376
+Level=7
+End With
+<\METASF>
+<METASF>
+Id=7
+Name=Confirmation Resa Créma
+With TYPEDOC
+Id=0
+TypeDoc=Crema
+End With
+With TYPEDOC
+Id=1
+TypeDoc=Autres
+End With
+With SHAPE
+Id=53
+Name=Titre CRC
+Top=198
+Left=146
+Level=0
+End With
+With SHAPE
+Id=54
+Name=Reserv
+Top=244
+Left=50
+Level=1
+End With
+With SHAPE
+Id=55
+Name=SignatureCachet
+Top=829
+Left=473
+Level=2
+End With
+With SHAPE
+Id=32
+Name=LogoCrema
+Top=1
+Left=1
+Level=3
+End With
+With SHAPE
+Id=60
+Name=Habilitation crema
+Top=1000
+Left=280
+Level=4
+End With
+With SHAPE
+Id=61
+Name=RetourFax
+Top=86
+Left=481
+Level=5
+End With
+With SHAPE
+Id=62
+Name=Rayer mentions inutiles
+Top=830
+Left=51
+Level=6
+End With
+<\METASF>
+<METASF>
+Id=8
+Name=Convocation police crématorium
+With TYPEDOC
+Id=0
+TypeDoc=Crema
+End With
+With SHAPE
+Id=57
+Name=TITRE CONVOC CREMA
+Top=20
+Left=329
+Level=0
+End With
+With SHAPE
+Id=58
+Name=ConvocCremaText
+Top=239
+Left=59
+Level=1
+End With
+With SHAPE
+Id=59
+Name=LogoPFM
+Top=14
+Left=18
+Level=2
+End With
+<\METASF>
+<METASF>
+Id=9
+Name=AttestationRemiseCendres
+With TYPEDOC
+Id=0
+TypeDoc=Crema
+End With
+With TYPEDOC
+Id=1
+TypeDoc=Autres
+End With
+With SHAPE
+Id=32
+Name=LogoCrema
+Top=3
+Left=4
+Level=0
+End With
+With SHAPE
+Id=63
+Name=title
+Top=58
+Left=261
+Level=1
+End With
+With SHAPE
+Id=64
+Name=nordre
+Top=88
+Left=336
+Level=2
+End With
+With SHAPE
+Id=65
+Name=Text
+Top=196
+Left=30
+Level=3
+End With
+With SHAPE
+Id=66
+Name=decl
+Top=422
+Left=31
+Level=4
+End With
+With SHAPE
+Id=67
+Name=rayer
+Top=422
+Left=417
+Level=5
+End With
+With SHAPE
+Id=69
+Name=decl2
+Top=473
+Left=31
+Level=6
+End With
+With SHAPE
+Id=70
+Name=Lu et Approuvé
+Top=599
+Left=31
+Level=7
+End With
+With SHAPE
+Id=71
+Name=loi
+Top=803
+Left=31
+Level=8
+End With
+With SHAPE
+Id=72
+Name=Tampon_signature_crema
+Top=597
+Left=474
+Level=9
+End With
+<\METASF>

@@ -1,0 +1,140 @@
+Id=7102016
+Jourdate=07/10/2016
+With ZONE
+Id=2
+EvenementCommentaire=ORDONNATEUR PFM
+SaisieOccupe=Libre
+CodeDft_ceremonie=9173
+Pf_ceremonie=PF TONIN COIFFET
+Nom_ceremonie=RYCKEBUSCH
+Prenom_ceremonie=PIERRE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CULOZ
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9173
+Pf_cremation=PF TONIN COIFFET
+Nom_cremation=RYCKEBUSCH
+Prenom_cremation=PIERRE
+EvenementArrivee_cremation=Arrivée de CULOZ
+FicheOccupe=Libre
+NoOrdre=1422
+Four=2
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=
+Pf_ceremonie=
+Nom_ceremonie=
+Prenom_ceremonie=
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=
+EvenementCeremonie=
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=
+Pf_cremation=
+Nom_cremation=
+Prenom_cremation=
+EvenementArrivee_cremation=
+HeuretArrivee_ceremonie=
+End With
+With ZONE
+Id=3
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=9181
+Pf_ceremonie=PFG BOURG ST MAURICE
+Nom_ceremonie=MIQUET
+Prenom_ceremonie=CHRISTINE
+HeureArrivee_ceremonie=
+EvenementArrivee_ceremonie=Arrivée de BOURG SAINT MAURICE
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=  FAMILLE RECUPERE
+CodeDft_cremation=9181
+Pf_cremation=PFG BOURG ST MAURICE
+Nom_cremation=MIQUET
+Prenom_cremation=CHRISTINE
+EvenementArrivee_cremation=Arrivée de BOURG SAINT MAURICE
+NoOrdre=1423
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=ORDO ¨PFM  ACCUEIL FAMILLE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9178
+Pf_ceremonie=PF MAURIENNAISES
+Nom_ceremonie=CHAMPLONG
+Prenom_ceremonie=MARCELLE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de ST JEAN DE MAURIENNE
+HeureArrivee_cremation=14:15
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9178
+Pf_cremation=PF MAURIENNAISES
+Nom_cremation=CHAMPLONG
+Prenom_cremation=MARCELLE
+EvenementArrivee_cremation=Arrivée de ST JEAN DE MAURIENNE
+FicheOccupe=Libre
+NoOrdre=1424
+Four=1
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9177
+Pf_ceremonie=PF PECH
+Nom_ceremonie=VIAND
+Prenom_ceremonie=SIMONE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9177
+Pf_cremation=PF PECH
+Nom_cremation=VIAND
+Prenom_cremation=SIMONE
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=1425
+Four=2
+End With

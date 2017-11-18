@@ -1,0 +1,22 @@
+Id=23072014
+JourDate=23/07/2014
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=1
+CodeDft=3541
+Pf=PFM
+Conseiller=
+DefuntNom=TRUC
+DefuntPrenom=VIOLETTE
+Heure_0=20:34
+Ev_0=TAMB depuis ARC EN CIEL vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=TREVARAIN Loïc
+Equipe_1=BOULET Jean-Louis
+End With

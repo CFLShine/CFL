@@ -1,0 +1,264 @@
+Version=1
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=00:00
+With LigneConges
+Id=0
+varPrisDu=26/02/13
+varPrisAu=28/02/13
+varAnnuel=20:00
+varRecup=
+varEpargne=
+varDemandeDate=26/02/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=01/03/13
+varPrisAu=07/03/13
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varDemandeDate=26/02/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=20/03/13
+varPrisAu=20/03/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varDemandeDate=25/03/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=16/04/13
+varPrisAu=16/04/13
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varDemandeDate=15/04/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=24/06/13
+varPrisAu=28/06/13
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varDemandeDate=17/06/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=15/07/13
+varPrisAu=31/07/13
+varAnnuel=92:00
+varRecup=
+varEpargne=
+varDemandeDate=17/06/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=01/08/13
+varPrisAu=02/08/13
+varAnnuel=0:00
+varRecup=
+varEpargne=
+varDemandeDate=17/06/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=16/08/13
+varPrisAu=16/08/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varDemandeDate=17/06/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=10/07/13
+varPrisAu=10/07/13
+varAnnuel=0:00
+varRecup=
+varEpargne=
+varDemandeDate=08/07/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=9
+varPrisDu=10/07/13
+varPrisAu=10/07/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varDemandeDate=08/07/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=10
+varPrisDu=25/09/13
+varPrisAu=25/09/13
+varAnnuel=1:00
+varRecup=7:00
+varEpargne=
+varDemandeDate=24/09/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=11
+varPrisDu=25/09/13
+varPrisAu=25/09/13
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=24/09/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=12
+varPrisDu=04/09/13
+varPrisAu=04/09/13
+varAnnuel=2:00
+varRecup=
+varEpargne=
+varDemandeDate=24/09/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=13
+varPrisDu=11/09/13
+varPrisAu=11/09/13
+varAnnuel=
+varRecup=8:00
+varEpargne=
+varDemandeDate=24/09/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=14
+varPrisDu=
+varPrisAu=
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=15
+varPrisDu=18/11/13
+varPrisAu=18/11/13
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varDemandeDate=18/11/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=16
+varPrisDu=
+varPrisAu=
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=17
+varPrisDu=16/10/13
+varPrisAu=16/10/13
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varDemandeDate=19/11/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=18
+varPrisDu=
+varPrisAu=
+varAnnuel=
+varRecup=
+varEpargne=
+varDemandeDate=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=19
+varPrisDu=06/11/13
+varPrisAu=06/11/13
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varDemandeDate=19/11/13
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneConges
+Id=20
+varPrisDu=04/12/13
+varPrisAu=04/12/13
+varDemandeDate=03/12/13
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=
+varNbHeuresSup=
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With

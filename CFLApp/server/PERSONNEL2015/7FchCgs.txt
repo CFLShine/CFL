@@ -1,0 +1,519 @@
+Id=7
+DroitCongesFC=243:00
+CongesRestantsFC=00:00
+EpargneFC=00:00
+CongesAnPrecFC=39:00
+EpargneesFC=00:00
+varHeuresSupAnDernier=5:32
+With LigneConges
+Id=0
+varPrisDu=09/01/15
+varPrisAu=16/01/15
+varDemandeDate=02/01/15
+varAnnuel=39:00
+varRecup=1:00
+varEpargne=
+varVisaChef=02/01/15
+varVisaDirecteur=02/01/15
+varRetourDate=
+End With
+With LigneConges
+Id=1
+varPrisDu=03/03/15
+varPrisAu=03/03/15
+varDemandeDate=03/03/15
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=03/03/15
+varVisaDirecteur=03/03/15
+varRetourDate=
+End With
+With LigneConges
+Id=2
+varPrisDu=13/03/15
+varPrisAu=20/03/15
+varDemandeDate=12/03/15
+varAnnuel=
+varRecup=40:00
+varEpargne=
+varVisaChef=12/03/15
+varVisaDirecteur=12/03/15
+varRetourDate=
+End With
+With LigneConges
+Id=3
+varPrisDu=24/03/15
+varPrisAu=24/03/15
+varDemandeDate=23/03/15
+varAnnuel=8:00
+varRecup=
+varEpargne=
+varVisaChef=23/03/15
+varVisaDirecteur=23/03/15
+varRetourDate=
+End With
+With LigneConges
+Id=4
+varPrisDu=30/03/15
+varPrisAu=30/03/15
+varDemandeDate=30/03/15
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=30/03/15
+varVisaDirecteur=30/03/15
+varRetourDate=
+End With
+With LigneConges
+Id=5
+varPrisDu=03/04/15
+varPrisAu=03/04/15
+varDemandeDate=21/04/15
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=21/04/15
+varRetourDate=
+End With
+With LigneConges
+Id=6
+varPrisDu=24/04/15
+varPrisAu=24/04/15
+varDemandeDate=23/04/15
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=23/04/15
+varVisaDirecteur=23/04/15
+varRetourDate=
+End With
+With LigneConges
+Id=7
+varPrisDu=05/05/15
+varPrisAu=05/05/15
+varDemandeDate=05/05/15
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=05/05/15
+varVisaDirecteur=05/05/15
+varRetourDate=
+End With
+With LigneConges
+Id=8
+varPrisDu=26/05/15
+varPrisAu=26/05/15
+varDemandeDate=26/05/15
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=26/05/15
+varRetourDate=
+End With
+With LigneConges
+Id=9
+varPrisDu=03/06/15
+varPrisAu=03/06/15
+varDemandeDate=02/06/15
+varAnnuel=
+varRecup=4:00
+varEpargne=
+varVisaChef=02/06/15
+varVisaDirecteur=02/06/15
+varRetourDate=
+End With
+With LigneConges
+Id=10
+varPrisDu=04/06/15
+varPrisAu=04/06/15
+varDemandeDate=04/06/15
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=04/06/15
+varVisaDirecteur=04/06/15
+varRetourDate=
+End With
+With LigneConges
+Id=11
+varPrisDu=16/06/15
+varPrisAu=16/06/15
+varDemandeDate=16/06/15
+varAnnuel=8:00
+varRecup=00:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=16/06/15
+varRetourDate=
+End With
+With LigneConges
+Id=12
+varPrisDu=30/06/15
+varPrisAu=30/06/15
+varDemandeDate=30/06/15
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=30/06/15
+varVisaDirecteur=30/06/15
+varRetourDate=
+End With
+With LigneConges
+Id=13
+varPrisDu=06/07/15
+varPrisAu=24/07/15
+varDemandeDate=03/07/15
+varAnnuel=100:00
+varRecup=00:00
+varEpargne=
+varVisaChef=
+varVisaDirecteur=30/06/15
+varRetourDate=
+End With
+With LigneConges
+Id=14
+varPrisDu=17/08/15
+varPrisAu=17/08/15
+varDemandeDate=17/08/15
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=17/08/15
+varVisaDirecteur=17/08/15
+varRetourDate=
+End With
+With LigneConges
+Id=15
+varPrisDu=26/08/15
+varPrisAu=26/08/15
+varDemandeDate=25/08/15
+varAnnuel=
+varRecup=0:00
+varEpargne=
+varVisaChef=27/08/15
+varVisaDirecteur=25/08/15
+varRetourDate=
+End With
+With LigneConges
+Id=16
+varPrisDu=07/09/15
+varPrisAu=07/09/15
+varDemandeDate=04/09/15
+varAnnuel=
+varRecup=8:00
+varEpargne=
+varVisaChef=04/09/15
+varVisaDirecteur=04/09/15
+varRetourDate=
+End With
+With LigneConges
+Id=17
+varPrisDu=16/09/15
+varPrisAu=16/09/15
+varDemandeDate=17/09/15
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=17/09/15
+varVisaDirecteur=17/09/15
+varRetourDate=
+End With
+With LigneConges
+Id=18
+varPrisDu=29/09/15
+varPrisAu=29/09/15
+varDemandeDate=29/09/15
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=29/09/15
+varVisaDirecteur=29/05/15
+varRetourDate=
+End With
+With LigneConges
+Id=19
+varPrisDu=05/10/15
+varPrisAu=09/10/15
+varDemandeDate=02/10/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=02/10/15
+varVisaDirecteur=02/10/15
+varRetourDate=
+End With
+With LigneConges
+Id=20
+varPrisDu=19/10/15
+varPrisAu=23/10/15
+varDemandeDate=26/10/15
+varAnnuel=36:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=26/10/15
+varRetourDate=
+End With
+With LigneConges
+Id=21
+varPrisDu=27/10/15
+varPrisAu=27/10/15
+varDemandeDate=27/10/15
+varAnnuel=
+varRecup=1:00
+varEpargne=
+varVisaChef=27/10/15
+varVisaDirecteur=27/10/15
+varRetourDate=
+End With
+With LigneConges
+Id=22
+varPrisDu=13/11/15
+varPrisAu=13/11/15
+varDemandeDate=12/11/15
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=12/11/15
+varVisaDirecteur=12/11/15
+varRetourDate=
+End With
+With LigneConges
+Id=23
+varPrisDu=02/12/15
+varPrisAu=02/12/15
+varDemandeDate=03/12/15
+varAnnuel=4:00
+varRecup=
+varEpargne=
+varVisaChef=
+varVisaDirecteur=02/12/15
+varRetourDate=
+End With
+With LigneHeuresSup
+Id=0
+varDateHeuresSup=29/01/15
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=1
+varDateHeuresSup=30/01/15
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=2
+varDateHeuresSup=21/01/15
+varNbHeuresSup=7:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=3
+varDateHeuresSup=05/02/15
+varNbHeuresSup=0:45
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=4
+varDateHeuresSup=06/02/15
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=5
+varDateHeuresSup=10/02/15
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=6
+varDateHeuresSup=14/02/15
+varNbHeuresSup=5:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=7
+varDateHeuresSup=16/02/15
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=8
+varDateHeuresSup=18/02/15
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=9
+varDateHeuresSup=20/02/15
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=10
+varDateHeuresSup=25/02/15
+varNbHeuresSup=6:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=11
+varDateHeuresSup=04/03/15
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=12
+varDateHeuresSup=07/03/15
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=13
+varDateHeuresSup=10/03/15
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=14
+varDateHeuresSup=15/04/15
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=15
+varDateHeuresSup=30/04/15
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=16
+varDateHeuresSup=02/05/15
+varNbHeuresSup=4:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=17
+varDateHeuresSup=04/05/15
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=18
+varDateHeuresSup=15/05/15
+varNbHeuresSup=1:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=19
+varDateHeuresSup=01/06/15
+varNbHeuresSup=0:45
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=20
+varDateHeuresSup=22/06/15
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=21
+varDateHeuresSup=05/08/15
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=22
+varDateHeuresSup=06/08/15
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=23
+varDateHeuresSup=19/08/15
+varNbHeuresSup=1:45
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=24
+varDateHeuresSup=25/08/15
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=25
+varDateHeuresSup=27/08/15
+varNbHeuresSup=0:30
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=26
+varDateHeuresSup=26/10/15
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=27
+varDateHeuresSup=27/10/15
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=28
+varDateHeuresSup=03/12/15
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=29
+varDateHeuresSup=09/12/15
+varNbHeuresSup=3:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=30
+varDateHeuresSup=22/12/15
+varNbHeuresSup=1:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With
+With LigneHeuresSup
+Id=31
+varDateHeuresSup=29/12/15
+varNbHeuresSup=2:00
+varMotifHeuresSup=
+varPayeesHeuresSup=
+End With

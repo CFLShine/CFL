@@ -1,0 +1,10 @@
+Id=3062015
+Jourdate=03/06/2015
+FactureZone_cremation2=True
+FactureZone_cremation6=True
+FactureZone_cremation4=True
+FactureZone_cremation5=True
+FactureZone_cremation7=True
+FactureZone_cremation1=True
+FactureZone_cremation0=True
+FactureZone8=False

@@ -1,0 +1,149 @@
+Id=14052013
+Version=NouveauFormat
+With ZONE
+Id=0
+NoZONE=0
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=1
+NoZONE=1
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\924.txt
+Pf=PF MOUCHE
+Conseiller=Marie-Pierre PINET
+Nom=BRUN
+Prenom=JACQUELINE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMOUX SUR GELON
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM POUR PF MOUCHE
+NoOrdre=604
+Four=1
+CodeDft=924
+End With
+With ZONE
+Id=2
+NoZONE=2
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\922.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=TISSOT
+Prenom=RENEE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+NoOrdre=605
+Four=2
+CodeDft=922
+End With
+With ZONE
+Id=3
+NoZONE=3
+SaisieOccupe=Libre
+FicheOccupe=Libre
+CodeDft=
+End With
+With ZONE
+Id=4
+NoZONE=4
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\931.txt
+Pf=PF PENA
+Conseiller=Loïc TREVARAIN
+Nom=EYMIN PETOT TOURTOLET
+Prenom=MARTINE
+HeureArrivee=
+EvenementArrivee=Arrivée de SAINT LAURENT DU PONT
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=PF RECUPERRE
+NoOrdre=606
+Four=1
+CodeDft=931
+End With
+With ZONE
+Id=5
+NoZONE=5
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\919.txt
+Pf=PFM
+Conseiller=Marion TREBOUTE
+Nom=MARZIN
+Prenom=MONIQUE
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+Police=True
+NoOrdre=607
+Four=2
+CodeDft=919
+End With
+With ZONE
+Id=6
+NoZONE=6
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\925.txt
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=DURANDAU
+Prenom=BERNARD
+HeureArrivee=
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie PROTESTANTE Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL CHENE  FACTURATION OK  LOIC
+NoOrdre=608
+Four=1
+CodeDft=925
+End With
+With ZONE
+Id=7
+NoZONE=7
+SaisieOccupe=Libre
+FicheOccupe=Libre
+AdresseFicheDefunt=\DONNEES\DONNEES2013\921.txt
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=ANTOINE
+Prenom=DENISE
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=609
+Four=2
+CodeDft=921
+End With

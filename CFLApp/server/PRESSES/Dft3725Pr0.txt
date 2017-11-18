@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=560
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 CHAMBERY\f1\par<Ret>\f0 Madame Yasmine KASMI sa compagne; Madame Marie-Louise  et Hubert FRANCOZ sa maman et son beau-p\'e8re; Eliane, Mimi, Pascale, Jean-Fran\'e7ois, Agn\'e8s ses fr\'e8res et soeurs, leurs conjoints; Madame Ivanka KASMI sa  belle-m\'e8re; Franco, Ali et Karim ses beaux-fr\'e8res; ses neveux et ni\'e8ces; Pascale et Babeth;\f1\par<Ret>\f0 Sa famille et ses proches,\f1\par<Ret>\pard\f0 Ont la douleur de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Christiane \f1\par<Ret>\f0 PUISSANT-PAGANON\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 66 ans.\f1\par<Ret>\f0 Le recueillement aura lieu mercredi 3 septembre 2014 \'e0 onze heures quinze au Centre Fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 La famille rappelle \'e0 votre m\'e9moire \f1\par<Ret>\pard\qc\b\f0 L\'e9on PUISSANT-PAGANON\f1\par<Ret>\pard\b0\f0 son p\'e8re.\par<Ret>}<Ret>
+CodeDft=3725
+Tarif=250
+NbLignes=26
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=3
+Date=30/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

@@ -1,0 +1,16 @@
+Id=7575
+DefuntNom=MERCIER
+DefuntPrenom=NOEL
+DefuntDecesDate=08/02/2016
+ArriveeCommune=ALBERVILLE
+ArriveeDate=
+ArriveeHeure=
+PfArrivee=PF FLORET
+PfCeremonie=PF FLORET
+CeremonieCrematoriumDate=
+CeremonieCrematoriumHeure=
+CeremonieCrematoriumLieu=
+CeremonieCrematoriumType=
+ReservCrema=Marie-Pierre PINET
+CodeDefunt=7575
+ArriveeLieu=

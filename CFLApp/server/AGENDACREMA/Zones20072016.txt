@@ -1,0 +1,213 @@
+Id=20072016
+Jourdate=20/07/2016
+With ZONE
+Id=5
+EvenementCommentaire=PAS DE CREMATION
+SaisieOccupe=Libre
+CodeDft_ceremonie=8670
+Pf_ceremonie=PFM
+Nom_ceremonie=AURENTY
+Prenom_ceremonie=ROSE-MARIE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=
+EvenementArrivee_crema=
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=
+Four=
+End With
+With ZONE
+Id=0
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 11H30
+SaisieOccupe=Libre
+CodeDft_ceremonie=8684
+Pf_ceremonie=PFG AIX LES BAINS
+Nom_ceremonie=AULESTIA
+Prenom_ceremonie=EDGARD
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8684
+Pf_cremation=PFG AIX LES BAINS
+Nom_cremation=AULESTIA
+Prenom_cremation=EDGARD
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+FicheOccupe=Libre
+NoOrdre=1070
+Four=1
+End With
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft_ceremonie=8681
+Pf_ceremonie=PF MOUCHE
+Nom_ceremonie=GIACONE
+Prenom_ceremonie=GERARD
+HeureArrivee_ceremonie=09:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY  HOPITAL
+HeureArrivee_cremation=09:15
+EvenementArrivee_crema=
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE   
+CodeDft_cremation=8681
+Pf_cremation=PF MOUCHE
+Nom_cremation=GIACONE
+Prenom_cremation=GERARD
+EvenementArrivee_cremation=Arrivée de CHAMBERY  HOPITAL
+FicheOccupe=Libre
+NoOrdre=1071
+Four=2
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8679
+Pf_ceremonie=PFM
+Nom_ceremonie=TRIBOULET
+Prenom_ceremonie=ELIANE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8679
+Pf_cremation=PFM
+Nom_cremation=TRIBOULET
+Prenom_cremation=ELIANE
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1072
+Four=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8674
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=TROCCAZ
+Prenom_ceremonie=NICOLLE
+CodeDft_cremation=8674
+Pf_cremation=PF  BALDINI
+Nom_cremation=TROCCAZ
+Prenom_cremation=NICOLLE
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=11:15
+EvenementArrivee_crema=
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=1073
+Four=1
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=8676
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=ABRY
+Prenom_ceremonie=RENE
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=8676
+Pf_cremation=PF SEDRAN
+Nom_cremation=ABRY
+Prenom_cremation=RENE
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+NoOrdre=1074
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8669
+Pf_ceremonie=PFM
+Nom_ceremonie=LE VESSIER
+Prenom_ceremonie=ANNICK
+HeureArrivee_ceremonie=16:00
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=16:00
+EvenementArrivee_crema=
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Civile Cf
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8669
+Pf_cremation=PFM
+Nom_cremation=LE VESSIER
+Prenom_cremation=ANNICK
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+FicheOccupe=Libre
+Police=True
+NoOrdre=1075
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=8683
+Pf_ceremonie=PFM
+Nom_ceremonie=GAGNOR
+Prenom_ceremonie=MARCEL
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY 
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=8683
+Pf_cremation=PFM
+Nom_cremation=GAGNOR
+Prenom_cremation=MARCEL
+EvenementArrivee_cremation=Arrivée de CHAMBERY 
+FicheOccupe=Libre
+Police=True
+NoOrdre=1076
+Four=2
+End With
+With ZONE
+Id=8
+End With
+With ZONE
+Id=9
+End With

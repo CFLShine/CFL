@@ -1,0 +1,141 @@
+Id=12062015
+Jourdate=12/06/2015
+With ZONE
+Id=2
+EvenementCommentaire=DISPERSION DES CENDRES PAR NOS SOINS A 14H SANS FAMILLE
+SaisieOccupe=Libre
+CodeDft_ceremonie=5749
+Pf_ceremonie=PF BOUDRIER
+Nom_ceremonie=ANTKOWIAK
+Prenom_ceremonie=STEPHANIE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de MORESTEL
+HeureArrivee_crema=10:15
+EvenementArrivee_crema=Arrivée de MORESTEL
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5749
+Pf_cremation=PF BOUDRIER
+Nom_crema=ANTKOWIAK
+Prenom_crema=STEPHANIE
+FicheOccupe=Libre
+NoOrdre=894
+Four=1
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=5756
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=CASSOU-COUET
+Prenom_ceremonie=EDMOND
+HeureArrivee_ceremonie=11:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_crema=11:15
+EvenementArrivee_crema=Arrivée de AIX LES BAINS
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5756
+Pf_cremation=PF SEDRAN
+Nom_crema=CASSOU-COUET
+Prenom_crema=EDMOND
+NoOrdre=895
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+SaisieOccupe=Libre
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_crema=14:15
+EvenementArrivee_crema=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=ORDONNATEUR PFM 
+CodeDft_ceremonie=5760
+Pf_ceremonie=PF PENA
+Nom_ceremonie=ROUSSEAU
+Prenom_ceremonie=DOMINIQUE
+CodeDft_cremation=5760
+Pf_cremation=PF PENA
+Nom_crema=ROUSSEAU
+Prenom_crema=DOMINIQUE
+FicheOccupe=Libre
+NoOrdre=896
+Four=2
+End With
+With ZONE
+Id=7
+SaisieOccupe=Libre
+CodeDft_ceremonie=5765
+Pf_ceremonie=PF POMMAT
+Nom_ceremonie=PEYLIN
+Prenom_ceremonie=EMILIE
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de ALBERTVILLE
+HeureArrivee_crema=16:15
+EvenementArrivee_crema=Arrivée de ALBERTVILLE
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN CHENE
+CodeDft_cremation=5765
+Pf_cremation=PF POMMAT
+Nom_crema=PEYLIN
+Prenom_crema=EMILIE
+NoOrdre=898
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=LA POLICE PASSERA SCELLE L'URNE LUNDI CAR  DEPART  ETRANGER
+SaisieOccupe=Libre
+CodeDft_ceremonie=5773
+Pf_ceremonie=PF BOUVIER
+Nom_ceremonie=REZNIKOV
+Prenom_ceremonie=IOURI
+HeureArrivee_ceremonie=15:15
+EvenementArrivee_ceremonie=Arrivée de AIX LES BAINS
+HeureArrivee_crema=
+EvenementArrivee_crema=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=5773
+Pf_cremation=PF BOUVIER
+Nom_crema=REZLIKOV
+Prenom_crema=IOURI
+NoOrdre=897
+Four=1
+FicheOccupe=Libre
+Nom_cremation=REZNIKOV
+Prenom_cremation=IOURI
+HeureArrivee_cremation=15:15
+EvenementArrivee_cremation=Arrivée de AIX LES BAINS
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+End With
+With ZONE
+Id=0
+End With
+With ZONE
+Id=1
+End With

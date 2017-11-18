@@ -1,0 +1,8 @@
+Id=1935
+With DEFUNT
+Id=4546
+Nom=PEROTTO
+Prenom=BAPTISTE
+DecesDate=01/01/1935
+CodeDft=4546
+End With

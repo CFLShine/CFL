@@ -1,0 +1,23 @@
+Id=-1
+Type=Avis
+Height=520
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\b\f0\fs24 St Martin de la Porte, Saint Michel de Maurienne, Aussois\f1\par<Ret>\b0\f0 Florent et Sophie ses enfants, Fanny et Gautier leurs conjoints; Fr\'e9d\'e9ric, Ana\'efs et No\'e9mie ses petits-enfants; les familles RATEL, BOUVIER et VIGNOUD;  ses proches,\f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de\f1\par<Ret>\pard\qc\b\f0 Monsieur Joseph RATEL\f1\par<Ret>\pard\b0\f0\'e0 l'\'e2ge de 62 ans.\f1\par<Ret>\f0 La c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e lundi 22 d\'e9cembre 2014 \'e0 onze heures quinze au centre fun\'e9raire de Chamb\'e9ry.\f1\par<Ret>\f0 Pas de plaques.\f1\par<Ret>\f0 La famille remercie toutes les personnes qui l'ont accompagn\'e9.\f1\par<Ret>\f0 Cet avis tient lieu de faire-part et de remerciements.\par<Ret>\pard\par<Ret>}<Ret>
+CodeDft=4370
+Tarif=250
+NbLignes=24
+Cadre=False
+Symbole=False
+Photo=False
+SiteSent=True
+SiteDate1=18/12/2014
+SiteDate2=22/12/2014
+SiteTitre=Joseph RATEL
+SiteClientMail=
+With PARUTION
+Id=3
+Date=19/12/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

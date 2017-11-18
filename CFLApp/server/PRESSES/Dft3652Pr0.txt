@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=480
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 La Motte Servolex,\f1\par<Ret>\par<Ret>\f0 Roland Girard-Reydet son \'e9poux,\f1\par<Ret>\f0 Alain et Michel ses enfants et leurs \'e9pouses, ses petites filles et leurs \'e9poux et arri\'e8res petits enfants,\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de :\f1\par<Ret>\pard\qc\f0 Madame Francia\f1\par<Ret>\f0  GIRARD-REYDET\f1\par<Ret>\pard\f0 La c\'e9r\'e9monie religieuse se d\'e9roulera au centre fun\'e9raire de Chamb\'e9ry le Mardi 19 Aout 2014 \'e0 10h15, condol\'e9ances sur registre, cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=3652
+Tarif=165
+NbLignes=17
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=0
+Date=18/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With

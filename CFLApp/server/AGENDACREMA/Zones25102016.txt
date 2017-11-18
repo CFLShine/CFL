@@ -1,0 +1,143 @@
+Id=25102016
+Jourdate=25/10/2016
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=3
+EvenementCommentaire=PAS DE CREMATION
+End With
+With ZONE
+Id=6
+EvenementCommentaire=PAS DE CREMATION - 
+End With
+With ZONE
+Id=0
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9290
+Pf_ceremonie=PFM
+Nom_ceremonie=PADRIN
+Prenom_ceremonie=HENRIETTE
+CodeDft_cremation=9290
+Pf_cremation=PFM
+Nom_cremation=PADRIN
+Prenom_cremation=HENRIETTE
+HeureArrivee_ceremonie=08:15
+EvenementArrivee_ceremonie=
+HeureArrivee_cremation=08:15
+EvenementArrivee_crema=
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=1499
+Four=2
+End With
+With ZONE
+Id=2
+SaisieOccupe=Libre
+CodeDft_ceremonie=9276
+Pf_ceremonie=PF SEDRAN
+Nom_ceremonie=FONTAINE
+Prenom_ceremonie=MAURICE
+HeureArrivee_ceremonie=10:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY  HOPITAL
+HeureArrivee_cremation=10:15
+EvenementArrivee_crema=
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+CodeDft_cremation=9276
+Pf_cremation=PF SEDRAN
+Nom_cremation=FONTAINE
+Prenom_cremation=MAURICE
+EvenementArrivee_cremation=Arrivée de CHAMBERY  HOPITAL
+FicheOccupe=Libre
+NoOrdre=1500
+Four=2
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft_ceremonie=9279
+Pf_ceremonie=PF BALDINI
+Nom_ceremonie=GINOT
+Prenom_ceremonie=ROGER
+HeureArrivee_ceremonie=12:15
+EvenementArrivee_ceremonie=Arrivée de PONT DE BEAUVOISIN
+HeureArrivee_cremation=12:15
+EvenementArrivee_crema=
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=LA FAMILLE RECUPERE L'URNE A 15H
+CodeDft_cremation=9279
+Pf_cremation=PF BALDINI
+Nom_cremation=GINOT
+Prenom_cremation=ROGER
+EvenementArrivee_cremation=Arrivée de PONT DE BEAUVOISIN
+FicheOccupe=Libre
+NoOrdre=1501
+Four=1
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft_ceremonie=9284
+Pf_ceremonie=PFM
+Nom_ceremonie=CASTELLI
+Prenom_ceremonie=JACQUELINE
+CodeDft_cremation=9284
+Pf_cremation=PFM
+Nom_cremation=CASTELLI
+Prenom_cremation=JACQUELINE
+HeureArrivee_ceremonie=14:15
+EvenementArrivee_ceremonie=Arrivée de CHAMBERY
+HeureArrivee_cremation=14:15
+EvenementArrivee_cremation=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=1502
+Four=1
+End With
+With ZONE
+Id=7
+EvenementCommentaire=LES PF RECUPERENT L'URNE
+SaisieOccupe=Libre
+CodeDft_ceremonie=9280
+Pf_ceremonie=PF PECH
+Nom_ceremonie=BONORA
+Prenom_ceremonie=RINO
+HeureArrivee_ceremonie=16:15
+EvenementArrivee_ceremonie=Arrivée de UGINE
+HeureArrivee_cremation=16:15
+EvenementArrivee_crema=
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+CodeDft_cremation=9280
+Pf_cremation=PF PECH
+Nom_cremation=BONORA
+Prenom_cremation=RINO
+EvenementArrivee_cremation=Arrivée de UGINE
+FicheOccupe=Libre
+NoOrdre=1503
+Four=1
+End With

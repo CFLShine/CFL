@@ -1,0 +1,22 @@
+Id=-1
+Type=Avis
+Height=580
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Cognin, Passy.\f1\par<Ret>\f0  Nicole et Jean Alessandria, Michel et Annie Merendet, Andr\'e9 et Jos\'e9e Merendet, Annie et Marc Chappelet, Denise et Guy Devouassoux, Fran\'e7oise Voisse, Odile et Eric Renson, Patrick et V\'e9ronique Merendet, Pascal et H\'e9l\'e8ne Merendet, Jean-Luc Merendet, Catherine et Guy Berthet,Ses enfants, ses petits-enfants et arri\'e8re petits-enfants; \f1\par<Ret>\f0 Parents et amis\f1\par<Ret>\f0 ont la douleur de vous faire part du d\'e9c\'e8s de \f1\par<Ret>\pard\qc\b\f0 Jos\'e9phine MERENDET\f1\par<Ret>\f0 n\'e9e ROISSARD\b0\f1\par<Ret>\pard\f0 survenu \'e0 l'\'e2ge de 89 ans\f1\par<Ret>\f0 la c\'e9r\'e9monie religieuse sera c\'e9l\'e9br\'e9e le jeudi 14 ao\'fbt 2014 \'e0 quinze heures en l'\'e9glise de Cognin, suivie de l'inhumation au cimeti\'e8re de Cognin.\f1\par<Ret>\f0 Condol\'e9ances sur registre.\f1\par<Ret>\f0 Cet avis tient lieur de faire-part et de remerciements.\f1\par<Ret>\f0\par<Ret>}<Ret>
+CodeDft=3638
+Tarif=430
+NbLignes=27
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=3
+Date=13/08/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
+With DEPARTEMENT
+Id=7
+Name=HAUTE SAVOIE
+End With

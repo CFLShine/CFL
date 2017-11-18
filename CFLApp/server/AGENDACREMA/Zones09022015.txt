@@ -1,0 +1,164 @@
+Id=9022015
+Jourdate=09/02/2015
+Version=NouveauFormat
+With ZONE
+Id=1
+SaisieOccupe=Libre
+CodeDft=4727
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=DELARCHE
+Prenom=KARINE
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Civile Cf salle omnicultes
+HeureCremation=10:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN PIN
+NoOrdre=226
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4728
+Pf=PF PECH
+Conseiller=Marie-Pierre PINET
+Nom=GUERASSIMOFF
+Prenom=ANDRE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de UGINE
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=230
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4739
+Pf=PFG MOUTIERS
+Conseiller=Marie-Pierre PINET
+Nom=TRUCHET
+Prenom=MARIE-ROSE
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de ALBERTVILLE
+HeureCeremonie=10:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=227
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+SaisieOccupe=Libre
+CodeDft=4732
+Pf=PFG CHAMBERY
+Conseiller=Marie-Pierre PINET
+Nom=COSSIO
+Prenom=BENITA
+HeureArrivee=15:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=CERCUEIL EN PIN
+NoOrdre=231
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4736
+Pf=PFG AIX LES BAINS
+Conseiller=Marie-Pierre PINET
+Nom=OLIVERIA DA COTA
+Prenom=ADAO CLEMENT
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=232
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+SaisieOccupe=Libre
+CodeDft=4737
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=THOMAS
+Prenom=MARCEL
+HeureArrivee=08:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=08:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=09:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=225
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+SaisieOccupe=Libre
+CodeDft=4738
+Pf=PF SEDRAN
+Conseiller=Pascal MARIE
+Nom=ROBIN
+Prenom=JACQUES
+HeureArrivee=12:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=12:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+EvenementCommentaire=
+NoOrdre=229
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=3
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4743
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=GUERINI
+Prenom=MARCELLE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Centre funéraire
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+FicheOccupe=Libre
+NoOrdre=228
+Four=2
+End With

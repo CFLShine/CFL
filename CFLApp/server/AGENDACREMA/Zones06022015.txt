@@ -1,0 +1,146 @@
+Id=6022015
+Jourdate=06/02/2015
+Version=NouveauFormat
+With ZONE
+Id=3
+SaisieOccupe=Libre
+EvenementCommentaire=
+CodeDft=4700
+Pf=PFM
+Conseiller=Pascal MARIE
+Nom=BAULT
+Prenom=PIERRE
+HeureArrivee=11:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=11:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=12:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=211
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=5
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4716
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=WUNDERLICH
+Prenom=HELENE
+HeureArrivee=14:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=14:15
+EvenementCeremonie=Cérémonie Religieuse Cf salle omnicultes
+HeureCremation=15:00
+EvenementCremation=Crémation
+HeureCommentaire=
+Police=True
+NoOrdre=213
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=6
+EvenementCommentaire=CERCUEIL CREMATION PF RECUPERENT
+SaisieOccupe=Libre
+CodeDft=4719
+Pf=SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=RUFIN
+Prenom=GEORGETTE
+HeureArrivee=
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=15:15
+EvenementCeremonie=Cérémonie Geste d'adieu 
+HeureCremation=16:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=214
+Four=2
+FicheOccupe=Libre
+End With
+With ZONE
+Id=4
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4714
+Pf=PFM
+Conseiller=Nicolas PACHOUD
+Nom=PETIT
+Prenom=EDMOND
+HeureArrivee=12:15
+EvenementArrivee=
+HeureCeremonie=10:30
+EvenementCeremonie=Cérémonie Civile LA COMPOTE EN BAUGES
+HeureCremation=13:00
+EvenementCremation=Crémation
+HeureCommentaire=
+FicheOccupe=Libre
+NoOrdre=212
+Four=1
+End With
+With ZONE
+Id=2
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4717
+Pf=PF SEDRAN
+Conseiller=Marie-Pierre PINET
+Nom=SERVAGEAN
+Prenom=ROGER
+HeureArrivee=10:15
+EvenementArrivee=Arrivée de AIX LES BAINS
+HeureCeremonie=
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=11:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=210
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=1
+EvenementCommentaire=PAS DE CREMATION  INHUMATION GRENOBLE
+SaisieOccupe=Libre
+CodeDft=4718
+Pf=PFM
+Conseiller=Jean-Luc PEYREDIEU
+Nom=BELLY
+Prenom=ROGER
+HeureArrivee=09:15
+EvenementArrivee=Arrivée de CHAMBERY
+HeureCeremonie=09:15
+EvenementCeremonie=Cérémonie Religieuse Cf
+HeureCremation=
+EvenementCremation=
+HeureCommentaire=
+Police=True
+End With
+With ZONE
+Id=7
+EvenementCommentaire=
+SaisieOccupe=Libre
+CodeDft=4721
+Pf=PF BAUDRION
+Conseiller=Marie-Pierre PINET
+Nom=GRILLET
+Prenom=JEAN-LOUIS
+HeureArrivee=16:15
+EvenementArrivee=Arrivée de PONTCHARRA
+HeureCeremonie=16:15
+EvenementCeremonie=Cérémonie Geste d'adieu Cf salle omnicultes
+HeureCremation=17:00
+EvenementCremation=Crémation
+HeureCommentaire=
+NoOrdre=215
+Four=1
+FicheOccupe=Libre
+End With
+With ZONE
+Id=0
+End With

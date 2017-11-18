@@ -1,0 +1,215 @@
+Id=3102015
+JourDate=03/10/2015
+With ZONE
+Id=0
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6539
+Comment_0=L URNE ARRIVE LE VENDREDI 02 OCTOBRE 2015
+Comment_1=
+HeureComment=  :
+OrdoId=18
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=E.SPRINGOLO Eric
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=1
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6572
+Comment_0=LA FAMILLE RECUPERE LES CENDRES 
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=9
+EquipeId_1=51
+EquipeId_2=17
+EquipeId_3=-1
+Ordo=FAVRIN Thierry
+Equipe_0=AVERONE David
+Equipe_1=POIRAUD Guy
+Equipe_2=MEGHEZZI Marc
+Equipe_3=
+End With
+With ZONE
+Id=2
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6573
+Comment_0=UN CHAUFFEUR PART SEUL POUR LE CIMETIERE RELAIS PF GONSALES
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=50
+EquipeId_1=8
+EquipeId_2=54
+EquipeId_3=58
+Ordo=WALLYN Benoît
+Equipe_0=MARIE Tristan
+Equipe_1=ESPINOZA François
+Equipe_2=BRUN Tony
+Equipe_3=MULDER Michaël
+End With
+With ZONE
+Id=3
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=White
+EquipeOk_1=White
+EquipeOk_2=White
+EquipeOk_3=White
+CodeDft=6573
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=26
+EquipeId_0=-1
+EquipeId_1=-1
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=WALLYN Benoît
+Equipe_0=
+Equipe_1=
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=4
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6581
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=11
+EquipeId_0=17
+EquipeId_1=50
+EquipeId_2=21
+EquipeId_3=51
+Ordo=FAVRIN Thierry
+Equipe_0=MEGHEZZI Marc
+Equipe_1=MARIE Tristan
+Equipe_2=VINCENT Judicael
+Equipe_3=POIRAUD Guy
+End With
+With ZONE
+Id=5
+UsedBy=Libre
+DemiJour=1
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6579
+Comment_0=DEPOT DU CERCUEIL EGLISE DE VIMINES A 13H45
+Comment_1=
+HeureComment=  :
+OrdoId=1
+EquipeId_0=52
+EquipeId_1=58
+EquipeId_2=54
+EquipeId_3=15
+Ordo=EHNY Maxime
+Equipe_0=SANCHEZ Dominique
+Equipe_1=MULDER Michaël
+Equipe_2=BRUN Tony
+Equipe_3=BORG Roger
+End With
+With ZONE
+Id=6
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=Red
+CodeDft=6586
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=0
+EquipeId_0=52
+EquipeId_1=15
+EquipeId_2=18
+EquipeId_3=29
+Ordo=MARIE Pascal
+Equipe_0=SANCHEZ Dominique
+Equipe_1=BORG Roger
+Equipe_2=E.SPRINGOLO Eric
+Equipe_3=P.SPRINGOLO Pascal
+End With
+With ZONE
+Id=7
+UsedBy=Libre
+DemiJour=0
+OrdoOk=Red
+EquipeOk_0=Red
+EquipeOk_1=Red
+EquipeOk_2=Red
+EquipeOk_3=White
+CodeDft=6579
+Comment_0=
+Comment_1=
+HeureComment=  :
+OrdoId=1
+EquipeId_0=51
+EquipeId_1=17
+EquipeId_2=-1
+EquipeId_3=-1
+Ordo=EHNY Maxime
+Equipe_0=POIRAUD Guy
+Equipe_1=MEGHEZZI Marc
+Equipe_2=
+Equipe_3=
+End With
+With ZONE
+Id=8
+CodeDft=6602
+DemiJour=0
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=9
+CodeDft=6598
+DemiJour=1
+Pos=1
+UsedBy=
+End With
+With ZONE
+Id=10
+CodeDft=6596
+DemiJour=1
+Pos=2
+UsedBy=
+End With

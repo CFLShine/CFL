@@ -1,0 +1,10 @@
+Id=31032014
+JourDate=31/03/2014
+With ZONE
+Id=4
+EtatCivilChecked=True
+End With
+With ZONE
+Id=2
+EtatCivilChecked=True
+End With

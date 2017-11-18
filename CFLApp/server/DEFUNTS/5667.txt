@@ -1,0 +1,10 @@
+Id=5667
+DefuntNom=BOIS
+DefuntPrenom=VICTOR HACHILLE
+DefuntDecesDate=29/05/2015
+CremationDate=02/06/2015
+CremationHeure=14:00
+CremationCommune=Chambéry
+PfCremation=PF MAURIENNAISES
+ReservCrema=Loïc TREVARAIN
+CodeDefunt=5667

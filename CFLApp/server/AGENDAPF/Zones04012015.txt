@@ -1,0 +1,22 @@
+Id=4012015
+JourDate=04/01/2015
+With ZONE
+Id=0
+Saisie=TAMB
+Pos=0
+DemiJour=1
+CodeDft=4482
+Pf=PFM
+Conseiller=
+DefuntNom=CHARRA
+DefuntPrenom=HUGUETTE
+Heure_0=19:03
+Ev_0=TAMB depuis TRESERVE vers Cf
+EquipeOk_0=white
+EquipeOk_1=white
+EquipeOk_2=white
+EquipeOk_3=white
+OrdoOk=white
+Equipe_0=PACHOUD
+Equipe_1=BRUUN
+End With

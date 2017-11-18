@@ -1,0 +1,18 @@
+Id=-1
+Type=Avis
+Height=680
+Text={\rtf1\ansi\ansicpg1252\deff0\deflang1036{\fonttbl{\f0\fnil\fcharset0 Microsoft Sans Serif;}{\f1\fnil Microsoft Sans Serif;}}<Ret>\viewkind4\uc1\pard\f0\fs24 Chamb\'e9ry.\f1\par<Ret>\f0 Madame Madeleine Farrugia, Madame Marie Janin, \f1\par<Ret>\f0 Monsieur Albert Perroux, \f1\par<Ret>\f0 Madame Genevi\'e8ve Laboret, Monsieur Michel Perroux, ses fr\'e8res et soeurs; ses beaux fr\'e8res et belles soeurs; ses neveux, ni\'e8ces et leurs familles; ses cousins et cousines, \f1\par<Ret>\f0 ont la tristesse de vous faire part du d\'e9c\'e8s de \b\f1\par<Ret>\pard\qc\f0 Jeanne PERROUX\b0\f1\par<Ret>\b\f0 survenu \'e0 l'\'e2ge de 85 ans\f1\par<Ret>\pard\b0\f0 Elle repose au Centre Fun\'e9raire de Chamb\'e9ry.\par<Ret>La c\'e9r\'e9monie religieuse aura lieu le samedi 4 Octobre 2014 \'e0 dix heure trente en l'\'e9glise Notre Dame de Chamb\'e9ry, suivie de l'inhumation au cimeti\'e8re de Charri\'e8re Neuve.\par<Ret>Sa famille adresse ses remerciements aux personnels soignants de l'Arc en Ciel \'e0 Tresserve et du service La Vanoise de l'H\'f4tel Dieu de Chamb\'e9ry.\f1\par<Ret>\f0 Cet avis tient lieu de faire part et de remerciements.\par<Ret>}<Ret>
+CodeDft=3926
+Tarif=290
+NbLignes=30
+Cadre=False
+Symbole=False
+Photo=False
+With PARUTION
+Id=5
+Date=03/10/2014
+End With
+With DEPARTEMENT
+Id=6
+Name=SAVOIE
+End With
