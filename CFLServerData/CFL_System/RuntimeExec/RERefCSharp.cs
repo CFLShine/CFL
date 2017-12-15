@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Reflection;
-using MSTD;
 
 namespace RuntimeExec
 {
@@ -47,7 +46,7 @@ namespace RuntimeExec
                     CValue = _expr.CValue;
                 else
                     if(value == null)
-                    throw new NullReferenceException("value");
+                        throw new NullReferenceException("value");
                 else
                     throw new Exception("Il n'est pas possible d'assigner un objet de type " + value.GetType().Name +
                                         " à un " + this.GetType().Name);

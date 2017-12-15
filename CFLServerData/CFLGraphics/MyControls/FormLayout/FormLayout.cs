@@ -1,7 +1,8 @@
-﻿using System.Windows;
+﻿using System.Collections.Generic;
+using System.Windows;
 using System.Windows.Controls;
 
-namespace CFL_1.CFLGraphics
+namespace ShLayouts
 {
     public class FormLayout : Grid
     {
@@ -18,10 +19,8 @@ namespace CFL_1.CFLGraphics
             init();
         }
 
-        public void Append(Label _label, FrameworkElement _element, int _height = 27)
+        public void Add(Label _label, FrameworkElement _element)
         {
-            _label.Height = _height;
-
             int _count = RowDefinitions.Count;
             RowDefinition _row = new RowDefinition();
             RowDefinitions.Add(_row);
@@ -31,18 +30,29 @@ namespace CFL_1.CFLGraphics
             SetRow(_element, _count); 
             SetColumn(_element, 1);
 
-            _row.Height = new GridLength(_height);
-            _label.Height = _height;
-            _element.Height = _height;
+            double _minHeight = MesureHelper.MinHeight(_label, _element);
+
+            if(!double.IsNaN(_minHeight))
+                MinHeight += _minHeight;
+            //double _maxHeight = MesureHelper.MaxHeightNotInfinity(_label, _element);
+            
+            //if(!double.IsNaN(_minHeight))
+            //    _row.MinHeight = _minHeight;
+
+            //if(!double.IsNaN(_maxHeight))
+            //    _row.MaxHeight = _maxHeight;
 
             Children.Add(_label);
             Children.Add(_element);
         }
 
-        public void Append(string _label, FrameworkElement _element, int _height = 27)
+        public void Add(string _label, FrameworkElement _element, double height = double.NaN)
         {
             Label _l = new Label() { Content = _label };
-            Append(_l, _element, _height);
+            if(!double.IsNaN(height))
+                _l.Height = height;
+
+            Add(_l, _element);
         }
 
         public int Count
@@ -53,17 +63,27 @@ namespace CFL_1.CFLGraphics
             }
         }
 
-        public void SetHeightToContent()
+        public IEnumerable<FrameworkElement> Elements()
+        {
+            foreach(UIElement _element in Children)
+            {
+                if(Grid.GetColumn(_element) == 1)
+                    yield return _element as FrameworkElement;
+            }
+
+        }
+
+        public void FitHeightToContent()
         {
             MaxHeight = MinHeight;
         }
-
-        //private:
 
         private void init()
         {
             ColumnDefinitions.Add(new ColumnDefinition());
             ColumnDefinitions.Add(new ColumnDefinition());
+            VerticalAlignment = VerticalAlignment.Top;
+            MinHeight = 0;
         }
     }
 }

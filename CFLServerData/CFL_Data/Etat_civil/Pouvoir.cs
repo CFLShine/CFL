@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using CFL_1.CFL_System;
+﻿
+using System.ComponentModel.DataAnnotations;
 
-namespace CFL_1.CFL_Data.Etat_civil
+namespace CFL_1.CFL_Data
 {
     public enum Qualite
     {
@@ -21,10 +17,21 @@ namespace CFL_1.CFL_Data.Etat_civil
 
     /// <summary>
     /// Hérite de <see cref="Personne"/>.
-    /// Contient <see cref="Qualite"/> qualite.
+    /// Contient <see cref="CFL_Data.Qualite"/> qualite.
     /// </summary>
     public class Pouvoir : Personne
     {
-        public Qualite qualite { get; set; }
+        public Qualite Qualite 
+        { 
+            get; 
+            set; 
+        }
+
+        [DisplayAttribute(Name = "Qualite autre")]
+        public string QualiteAutre
+        {
+            get;
+            set;
+        }
     }
 }

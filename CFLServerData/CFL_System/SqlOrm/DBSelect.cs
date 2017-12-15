@@ -1,102 +1,156 @@
 ﻿
+using System;
 using System.Collections.Generic;
+using System.Linq.Expressions;
 using System.Reflection;
 using MSTD;
 using MSTD.ShBase;
 
 namespace SqlOrm
 {
-    public class DBSelect<T> : Query where T : Base, new()
+    public class DBSelect : DBQueryable
     {
-        public DBSelect(ShContext _context, DBConnection connection)
-            : base(_context, connection)
-        {}
+        public DBSelect(){}
 
-        public DBSelect<T> Select(params string[] _members)
+        public DBSelect(params string[] members)
         {
-            if(_members != null)
+            Select(members);
+        }
+
+        public DBSelect(params MemberPath[] members)
+        {
+            Select(members);
+        }
+
+        public string TableName { get; private set; }
+
+        public DBSelect Select(params string[] members)
+        {
+            if(members != null && members.Length > 0)
             {
-                foreach(string _member in _members)
-                    SelectedMembers.Add(_member);
+                __selectedMembers.Clear();
+                if(members[0] == "*" || members[0] == "all" || members[0] == "ALL")
+                {
+                    __selectedMembers.Add("*");
+                }
+                else
+                {
+                    foreach(string _member in members)
+                        __selectedMembers.Add(_member);
+                }
             }
-
+            else
+                __selectedMembers.Clear();
             return this;
         }
 
-        public List<string> SelectedMembers
+        public DBSelect Select(params MemberPath[] members)
         {
-            get;
-            private set;
-        } = new List<string>();
-
-        public List<T> ToList() 
-        {
-            DBLoader<T> _loader = new DBLoader<T>(this);
-            return _loader.ToList();
-        }
-
-        public T First()
-        {
-            DBLoader<T> _loader = new DBLoader<T>(this);
-            T _class =  _loader.First();
-            return _class;
-        }
-
-        public DBSelect<T> Where(string _conditions)
-        {
-            WherePredicats = _conditions;
+            __selectedMembers.Clear();
+            foreach(MemberPath _path in members)
+            {
+                __selectedMembers.Add(_path.LastPropertyName.ToLower());
+            }
             return this;
-        }
-
-        public string WherePredicats
-        {
-            get;
-            private set;
-        } = "";
-
-        public X LoadMother<X> () where X : Base, new()
-        {
-            DBLoader<T> _loader = new DBLoader<T>(this);
-            return _loader.LoadMother<X>();
         }
 
         /// <summary>
-        /// Inclu un membre de type class ou list de class.
-        /// Pour inclure tous les membres de type class ou list de class,
-        /// passer "ALL" en argument.
-        /// Non sensible à la casse.
+        /// Ajoute des noms de membres à selectionner en vérifiant qu'ils ne le soient déja.
         /// </summary>
-        public DBSelect<T> Include(string _memberName)
+        public DBSelect AddSelect(params string[] members)
         {
-            if(_memberName.ToLower() == "all" || _memberName == "*")
-                IncludeAll(); // IncludeAll appèle Include(string _memberName)
-                              // sur chaque membre de type Base ou dérivé ou List<Base ou dérivé>
-            else
+            if(!__selectedMembers.Contains("*"))
             {
-                if(!Includeds.Contains(_memberName))
-                    Includeds.Add(_memberName);
-                if(!SelectedMembers.Contains(_memberName))
-                    SelectedMembers.Add(_memberName);
+                foreach(string _member in members)
+                {
+                    string _m = _member.ToLower();
+                    if(!__selectedMembers.Contains(_m))
+                        __selectedMembers.Add(_m);
+                }
             }
             return this;
         }
 
-        public List<string> Includeds
+        public DBSelect From(Type type)
         {
-            get;
-        } = new List<string>();
+            TableName = type.Name.ToLower();
+            return this;
+        }
 
-        private void IncludeAll()
+        public DBSelect From(string tableName)
         {
-            foreach(PropertyInfo _prInfo in typeof(T).GetProperties())
+            TableName = tableName.ToLower();
+            return this;
+        }
+
+        /// <summary>
+        /// elements : expression formée d'éléments acceptés par <see cref="DBExpression"/>
+        /// <see cref="DBExpression"/>.
+        /// </summary>
+        public DBSelect Where(params object[] elements)
+        {
+            if(__where == null)
+                __where = new DBExpression();
+            __where.Add(elements);
+            return this;
+        }
+
+        /// <summary>
+        /// Retourne l'expression WHERE de ce select, jamais null.
+        /// </summary>
+        public DBExpression GetWhere()
+        {
+            if(__where == null)
+                __where = new DBExpression();
+            return __where;
+        }
+
+        public override string Query()
+        {
+            string _members = __selectedMembers_listFormat();
+                
+            string _sqlSelect =  "SELECT " + _members +
+                       " FROM " + TableName + " ";
+            if(__where != null)
+                    _sqlSelect += " WHERE " + __where.Query();
+            
+            return _sqlSelect;
+        }
+
+        public List<string> SelectedMembers => __selectedMembers;
+
+        private string __selectedMembers_listFormat()
+        {
+            if(__selectedMembers.Count > 0 && __selectedMembers[0] == "all" || __selectedMembers[0] == "*")
+                    return "*";
+            string _members = "";
+            foreach(string _member in __selectedMembers)
             {
-                SqlType _sqlType = SqlCSharp.GetSqlType(_prInfo.PropertyType);
-                if(_sqlType == SqlType.CLASS
-                || (_sqlType == SqlType.LIST 
-                    && PropertyHelper.IsMappableProperty(_prInfo)
-                    && TypeHelper.IsListOf(_prInfo.PropertyType, typeof(Base))))
-                        Include(_prInfo.Name);
+                if(_members != "")
+                    _members += ",";
+                _members += _member;
             }
+            return _members;
+        }
+
+        protected List<string> __selectedMembers = new List<string>();
+
+        protected DBExpression __where = null;
+    }
+
+    public class DBSelect<T> :DBSelect where T: Base, new()
+    {
+        public DBSelect()
+            :base()
+        {
+            From(typeof(T));
+        }
+
+        public DBSelect(params string[] _members)
+        {
+            From(typeof(T));
+            Select(_members);
         }
     }
+
 }

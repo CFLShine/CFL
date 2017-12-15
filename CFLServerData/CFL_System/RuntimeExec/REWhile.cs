@@ -18,7 +18,16 @@ namespace RuntimeExec
             Statement = _statement;
         }
 
-        public REExpression Condition { get; set; }
+        public REExpression Condition
+        {
+            get => __condition;
+            set
+            {
+                __condition = value;
+                if(__condition != null)
+                    __condition.TreeAncestor = this;
+            }
+        }
 
         public REStatement Statement 
         { 
@@ -30,8 +39,6 @@ namespace RuntimeExec
                     __Statement.TreeAncestor = this;
             }
         }
-
-        private REStatement __Statement = null;
 
         public override REBase Copy()
         {
@@ -82,6 +89,9 @@ namespace RuntimeExec
         }
 
         public override REBase[] Children => new REBase[2]{ Condition, Statement };
+
+        private REExpression __condition = null;
+        private REStatement __Statement = null;
 
     }
 }

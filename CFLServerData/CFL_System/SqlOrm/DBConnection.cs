@@ -161,11 +161,12 @@ namespace SqlOrm
         /// </summary>
         public bool Notify(DBNotification _notification)
         {
-            if(_notification == null)
-                throw new ArgumentNullException("_notification");
-            _notification.TimeOfDispatch = DateTime.Now;
-            return ExecuteNonQuery(new NpgsqlCommand("NOTIFY applinotification,"  + 
-                                              "'" + _notification.Notification + "';"));
+            return true;
+            //if(_notification == null)
+            //    throw new ArgumentNullException("_notification");
+            //_notification.TimeOfDispatch = DateTime.Now;
+            //return ExecuteNonQuery(new NpgsqlCommand("NOTIFY applinotification,"  + 
+            //                                  "'" + _notification.Notification + "';"));
         }
 
         /// <summary>
@@ -225,7 +226,7 @@ namespace SqlOrm
             }
             catch (Exception ex)
             {
-                if(ShowMessages)
+                //if(ShowMessages)
                     MessageBox.Show(ex.StackTrace + Environment.NewLine + 
                                     "Error : " + Environment.NewLine + 
                                     ex.Message + Environment.NewLine + 
@@ -245,14 +246,14 @@ namespace SqlOrm
             }
             catch (Exception ex)
             {
-                if(ShowMessages)
-                {
+                //if(ShowMessages)
+                //{
                     MessageBox.Show(ex.StackTrace + Environment.NewLine + 
                                     "Error : " + Environment.NewLine + 
                                     ex.Message + Environment.NewLine + 
                                     "Query : " + Environment.NewLine +
                                     _command.CommandText);
-                }
+                //}
             }
                     return null;
         }
@@ -270,14 +271,14 @@ namespace SqlOrm
             }
             catch (Exception _ex)
             {
-                if(ShowMessages)
-                {
+                //if(ShowMessages)
+                //{
                     MessageBox.Show(_ex.StackTrace + Environment.NewLine + 
                                     "Error : " + Environment.NewLine + 
                                     _ex.Message + Environment.NewLine + 
                                     "Query : " + Environment.NewLine +
                                     _command.CommandText);
-                }
+                //}
             }
             return null;
         }

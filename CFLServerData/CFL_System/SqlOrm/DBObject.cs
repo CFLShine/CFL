@@ -3,6 +3,11 @@ using System.Runtime.Serialization;
 
 namespace CFL_1.CFL_System.SqlServerOrm
 {
+    /// <summary>
+    /// Encapsule la représentation d'un objet présent dans la DB.
+    /// <see cref="DBNotification"/>, par exemple, tient une liste de <see cref="DBObject"/>
+    /// correspondant au objets qui ont été insérés ou modifiés.
+    /// </summary>
     public class DBObject
     {
         public DBObject(){}

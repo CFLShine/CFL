@@ -1,9 +1,9 @@
 ﻿using System.Windows;
 using System.Windows.Input;
 using System.Windows.Media;
-using CFL_1.CFLGraphics.MyControls.FormLayout;
 using CFL_1.CFLGraphics.MyControls.GraphEditor;
 using MSTD.ShBase;
+using ObjectEdit;
 using Telerik.Windows.Controls;
 
 namespace CFL_1.CFLGraphics.GraphEditor
@@ -79,9 +79,8 @@ namespace CFL_1.CFLGraphics.GraphEditor
         {
             if(_component != null)
             {
-                __dataForms.Clear();
-                __dataForms.AddObject(_component);
-                __dataForms.Visibility = Visibility.Visible;
+                __objectEditControl.Object = _component;
+                __objectEditControl.Visibility = Visibility.Visible;
                 __layout.IsHitTestVisible = true;
             }
                 
@@ -90,8 +89,8 @@ namespace CFL_1.CFLGraphics.GraphEditor
 
         public void EndEditComponent()
         {
-            __dataForms.Clear();
-            __dataForms.Visibility = Visibility.Collapsed;
+            __objectEditControl.Clear();
+            __objectEditControl.Visibility = Visibility.Collapsed;
             __layout.IsHitTestVisible = false;
         }
 
@@ -101,8 +100,8 @@ namespace CFL_1.CFLGraphics.GraphEditor
             __layout.Orientation = System.Windows.Controls.Orientation.Horizontal;
             __layout.Items.Add(__label);
 
-            __dataForms = new DataForms();
-            __layout.Items.Add(__dataForms);
+            __objectEditControl = new ObjectEditControl();
+            __layout.Items.Add(__objectEditControl);
 
             __label.IsHitTestVisible = false;
             __layout.IsHitTestVisible = false;
@@ -111,7 +110,7 @@ namespace CFL_1.CFLGraphics.GraphEditor
         private RadLayoutControl __layout = new RadLayoutControl();
         
         private System.Windows.Controls.Label __label = new System.Windows.Controls.Label();
-        private DataForms __dataForms;
+        private ObjectEditControl __objectEditControl;
 
         #endregion Content
 

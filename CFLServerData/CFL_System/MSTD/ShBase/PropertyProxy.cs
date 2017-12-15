@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Reflection;
+using SqlOrm;
 
 namespace MSTD.ShBase
 {
@@ -19,6 +20,12 @@ namespace MSTD.ShBase
         }
 
         public ClassProxy Parent { get; set; }
+
+        public abstract bool IsPrimitive    { get; }
+        public abstract bool IsObject       { get; }
+        public abstract bool IsList         { get; }
+        public abstract bool IsDictionary   { get; }
+        public abstract bool IsEnum         { get; }
 
         /// <summary>
         /// Chaque classe fille surcharge PropertyInfo pour renseigner
@@ -89,7 +96,7 @@ namespace MSTD.ShBase
                 if(Parent is ClassProxy _parent 
                 && _parent.Entity != null)
                 {
-                    PropertyInfo _prInfo = PropertyHelper.Property(_parent.Entity.GetType(), value);
+                    PropertyInfo _prInfo = TypeHelper.Property(_parent.Entity.GetType(), value);
                     PropertyInfo = _prInfo??throw new Exception("La propriété " + value + " n'existe pas dans le type " + _parent.Entity.GetType().Name);
                 }
             }
@@ -150,6 +157,12 @@ namespace MSTD.ShBase
             :base(context, prInfo, parent)
         { }
 
+        public override bool IsPrimitive    => true;
+        public override bool IsObject       => false;
+        public override bool IsList         => false;
+        public override bool IsDictionary   => false;
+        public override bool IsEnum         => false;
+
         public override PropertyInfo PropertyInfo
         {
             get => __prInfo;
@@ -203,7 +216,11 @@ namespace MSTD.ShBase
                 throw new Exception("Parent.Entity ne peut pas être null");
             if(PropertyInfo == null)
                 throw new Exception("PropertyInfo ne peut pas être null.");
-            return Value == PropertyInfo.GetValue(Parent.Entity);
+            
+            object _entiyValue = PropertyInfo.GetValue(Parent.Entity);
+            if(Value == null)
+                return _entiyValue == null;
+            return Value.Equals(PropertyInfo.GetValue(Parent.Entity));
         }
     }
 
@@ -216,6 +233,12 @@ namespace MSTD.ShBase
         public PropertyObjectProxy(ShContext context, PropertyInfo prInfo, ClassProxy parent)
             :base(context, prInfo, parent)
         { }
+
+        public override bool IsPrimitive    => false;
+        public override bool IsObject       => true;
+        public override bool IsList         => false;
+        public override bool IsDictionary   => false;
+        public override bool IsEnum         => false;
 
         public override object Value 
         { 
@@ -272,8 +295,12 @@ namespace MSTD.ShBase
                     PropertyInfo.SetValue(Parent.Entity, null);
                 else
                 {
-                    ClassProxy _proxy = GetProxy(Context, (string)Value);
-                    PropertyInfo.SetValue(Parent.Entity, _proxy.Entity);
+                    string _objectrepresentation = (string)Value;
+                    ClassProxy _proxy = GetProxy(Context, _objectrepresentation);
+
+                    // _proxy peut être null si lors d'un load, cet objet n'a pas été réclamé.
+                    if(_proxy != null)
+                        PropertyInfo.SetValue(Parent.Entity, _proxy.Entity);
                 }
             }
         }
@@ -316,6 +343,12 @@ namespace MSTD.ShBase
         public PropertyListProxy(ShContext context, PropertyInfo prInfo, ClassProxy parent)
             :base(context, prInfo, parent)
         { }
+
+        public override bool IsPrimitive    => false;
+        public override bool IsObject       => false;
+        public override bool IsList         => true;
+        public override bool IsDictionary   => false;
+        public override bool IsEnum         => false;
 
         public Type ItemsType { get; private set; }
 
@@ -522,6 +555,12 @@ namespace MSTD.ShBase
             :base(context, prInfo, parent)
         { }
 
+        public override bool IsPrimitive    => false;
+        public override bool IsObject       => false;
+        public override bool IsList         => false;
+        public override bool IsDictionary   => true;
+        public override bool IsEnum         => false;
+
         public Type KeysType { get; private set; }
         public Type ValuesType { get; private set; }
 
@@ -652,6 +691,12 @@ namespace MSTD.ShBase
         public  PropertyEnumProxy(ShContext context, PropertyInfo prInfo, ClassProxy parent)
             :base(context, prInfo, parent)
         { }
+
+        public override bool IsPrimitive    => false;
+        public override bool IsObject       => false;
+        public override bool IsList         => false;
+        public override bool IsDictionary   => false;
+        public override bool IsEnum         => true;
 
         public override PropertyInfo PropertyInfo
         {

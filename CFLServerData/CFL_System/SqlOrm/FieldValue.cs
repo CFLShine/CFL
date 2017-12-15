@@ -3,8 +3,18 @@ using System.Reflection;
 
 namespace SqlOrm
 {
+    /// <summary>
+    /// <see cref="FieldValue"/> est utilisé par <see cref="DBSaveChanges"/> pour 
+    /// faciliter la représentation d'une propriété CSharp en champs d'une table et constituer une liste
+    /// des champs à update.
+    /// </summary>
     public class FieldValue
     {
+        /// <summary>
+        /// <see cref="FieldValue"/> est utilisé par <see cref="DBSaveChanges"/> pour 
+        /// faciliter la représentation d'une propriété CSharp en champs d'une table et constituer une liste
+        /// des champs à update.
+        /// </summary>
         public FieldValue(object _class, PropertyInfo _prInfo)
         {
             Class = _class;
@@ -42,14 +52,7 @@ namespace SqlOrm
                  return PrInfo.GetValue(Class);
             }
         } 
-
-        /// <summary>
-        /// Le get :
-        /// Utiliser lors
-        /// Le set :
-        /// utiliser lors d'un chargement depuis la db.
-        /// Remet à jour la valeur dans Class.
-        /// </summary>
+        
         public string SqlValue
         {
             get
@@ -58,11 +61,6 @@ namespace SqlOrm
                 if(string.IsNullOrWhiteSpace(_sqlValue))
                     throw new Exception("Aucune valeur Sql n'a été retournée.");
                 return _sqlValue;
-            }
-
-            set
-            {
-                PrInfo.SetValue(Class, SqlCSharp.ValueFromSql(value, SqlValueType));
             }
         }
 

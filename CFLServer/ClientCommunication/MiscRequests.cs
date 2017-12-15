@@ -26,7 +26,7 @@ namespace CFLServer.ClientCommunication
             if(_config != null && _config.IsComplete())
                 return true;
 
-            if(!Gate.load.config(ref _config))
+            if(!Gate.Load.config(ref _config))
                 return false;
             if(_config == null || (!_config.IsComplete()))
                 return false;

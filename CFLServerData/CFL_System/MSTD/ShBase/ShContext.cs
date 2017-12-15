@@ -17,8 +17,8 @@ namespace MSTD.ShBase
 
         /// <summary>
         /// Trouve et retourne le <see cref="ClassProxy"/> de entity s'il existe, ou le crée et l'attache, ainsi
-        /// que les <see cref="ClassProxy"/> de ces membres objets de<see cref="Base"/>,
-        ///  et le retourne.
+        /// que les <see cref="ClassProxy"/> de ces membres objets de<see cref="Base"/>, 
+        /// puis le retourne.
         /// Provoque une exception si entity est null ou non représenté
         /// par un <see cref="Set"/> dans ce <see cref="ShContext"/>.
         /// </summary>
@@ -204,7 +204,7 @@ namespace MSTD.ShBase
         /// Ajoute _guid.ToString() à la liste des objets pour lesquels une requète
         /// a été préparée ou envoyée à la DB,
         /// évitant de traiter plusieurs fois le même objet.
-        /// Lève une exeption si <see cref="StartProcess"/> n'a pas été invoqué.
+        /// Lève une exception si <see cref="StartProcess"/> n'a pas été invoqué.
         /// </summary>
         public void Process(ClassProxy _proxy)
         {

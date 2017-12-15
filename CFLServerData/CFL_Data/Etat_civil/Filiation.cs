@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using MSTD.ShBase;
 
-namespace CFL_1.CFL_Data.Etat_civil
+namespace CFL_1.CFL_Data
 {
     public class Filiation : Base
     {

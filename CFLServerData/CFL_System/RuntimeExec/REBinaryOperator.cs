@@ -28,9 +28,31 @@ namespace RuntimeExec
 
         public override REBase[] Children { get => new REBase[2]{ OperandLeft, OperandRight }; }
 
-        public REExpression OperandLeft { get; set; }
-        public REExpression OperandRight { get; set; }
+        public REExpression OperandLeft
+        {
+            get => __operandLeft;
+            set
+            {
+                __operandLeft = value;
+                if(__operandLeft != null)
+                    __operandLeft.TreeAncestor = this;
+            }
+        }
+
+        public REExpression OperandRight
+        {
+            get => __operandRight;
+            set
+            {
+                __operandRight = value;
+                if(__operandRight != null)
+                    __operandRight.TreeAncestor = this;
+            }
+        }
 
         protected abstract object Result(dynamic valLeft, dynamic valRight);
+
+        private REExpression __operandLeft = null;
+        private REExpression __operandRight = null;
     }
 }

@@ -1,6 +1,7 @@
 ﻿using System.Windows;
+using MSTD;
 
-namespace BoxLayouts
+namespace ShLayouts
 {
     public static class MesureHelper
     {
@@ -63,6 +64,83 @@ namespace BoxLayouts
                 return e.Width;
             return e.MaxWidth;
         }
+    
+        public static double MinHeight(params FrameworkElement[] elements)
+        {
+            double _minHeight = double.NaN;
+
+            foreach(FrameworkElement e in elements)
+            {
+                if(DoubleHelper.Bigger(e.MinHeight, _minHeight))
+                    _minHeight = e.MinHeight;
+            }
+            return _minHeight;
+        }
+
+        public static double MaxHeight(params FrameworkElement[] elements)
+        {
+            double _maxHeight = double.NaN;
+
+            foreach(FrameworkElement e in elements)
+            {
+                if(DoubleHelper.Bigger(e.MaxHeight, _maxHeight))
+                {
+                    _maxHeight = e.MaxHeight;
+                }
+            }
+            return _maxHeight;
+        }
+
+        public static double MaxHeightNotInfinity(params FrameworkElement[] elements)
+        {
+            double _maxHeight = double.NaN;
+
+            foreach(FrameworkElement e in elements)
+            {
+                if(!double.IsPositiveInfinity(e.MaxHeight) && DoubleHelper.Bigger(e.MaxHeight, _maxHeight))
+                {
+                    _maxHeight = e.MaxHeight;
+                }
+            }
+            return _maxHeight;
+        }
+
+        public static double MinWidth(params FrameworkElement[] elements)
+        {
+            double _minWidth = double.NaN;
+
+            foreach(FrameworkElement e in elements)
+            {
+                if(DoubleHelper.Bigger(e.MinWidth, _minWidth))
+                    _minWidth = e.MinWidth;
+            }
+            return _minWidth;
+        }
+
+        public static double MaxWidth(params FrameworkElement[] elements)
+        {
+            double _maxWidth = double.NaN;
+
+            foreach(FrameworkElement e in elements)
+            {
+                if(DoubleHelper.Bigger(e.MaxWidth, _maxWidth))
+                    _maxWidth = e.MaxWidth;
+            }
+            return _maxWidth;
+        }
+
+        public static double MaxWidthNotInfinity(params FrameworkElement[] elements)
+        {
+            double _maxWidth = double.NaN;
+
+            foreach(FrameworkElement e in elements)
+            {
+                if(!double.IsPositiveInfinity(e.MaxWidth) && DoubleHelper.Bigger(e.MaxWidth, _maxWidth))
+                    _maxWidth = e.MaxWidth;
+            }
+            return _maxWidth;
+        }
+
     }
     
 }

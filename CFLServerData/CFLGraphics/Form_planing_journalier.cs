@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Windows.Controls;
-using CFL_1.CFL_Data.Planings;
-using CFL_1.CFL_System.DB;
+using CFL_1.CFL_Data;
 using CFL_1.CFL_System.SqlServerOrm;
 using Telerik.Windows.Controls;
 
@@ -81,9 +80,9 @@ namespace CFL_1.CFLGraphics
             
         }
 
-#pragma warning disable CS0414 // Le champ 'Form_planing_journalier.__page' est assigné, mais sa valeur n'est jamais utilisée
+#pragma warning disable CS0414 // Le champ 'Form_planing_journalier.PageJour' est assigné, mais sa valeur n'est jamais utilisée
         private PageJour __page = null;
-#pragma warning restore CS0414 // Le champ 'Form_planing_journalier.__page' est assigné, mais sa valeur n'est jamais utilisée
+#pragma warning restore CS0414 // Le champ 'Form_planing_journalier.PageJour' est assigné, mais sa valeur n'est jamais utilisée
 
         private void init()
         {

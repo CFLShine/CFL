@@ -1,8 +1,7 @@
 ﻿
 using System;
-using CFL_1.CFL_Data.Communes;
 
-namespace CFL_1.CFL_Data.Defunts
+namespace CFL_1.CFL_Data
 {
     public enum DestinationCendres
     {

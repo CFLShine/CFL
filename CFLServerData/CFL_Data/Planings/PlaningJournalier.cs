@@ -1,6 +1,6 @@
 ﻿using MSTD.ShBase;
 
-namespace CFL_1.CFL_Data.Planings
+namespace CFL_1.CFL_Data
 {
     public class PlaningJournalier : Base
     {

@@ -3,8 +3,8 @@ using System.Windows.Controls;
 using CFL_1.CFL_Data;
 using System;
 using CFL_1.CFL_System.SqlServerOrm;
-using BoxLayouts;
 using CFL_1.CFL_System;
+using ShLayouts;
 
 namespace CFL_1.CFLGraphics
 {
@@ -30,7 +30,7 @@ namespace CFL_1.CFLGraphics
         {
             CFLConfig _config = new CFLConfig();
             
-            Gate.load.config(ref _config);
+            Gate.Load.config(ref _config);
             ip.Text = _config.Hostname;
             userName.Text = _config.Username;
             pass.Text = _config.Password;
@@ -67,10 +67,10 @@ namespace CFL_1.CFLGraphics
             groupBoxConfigDB.Content = _layoutFormConfigDB;
             _layoutTop.Add(groupBoxConfigDB);
 
-            _layoutFormConfigDB.Append("ip", ip, 25);
-            _layoutFormConfigDB.Append("Nom utilisateur", userName, 25);
-            _layoutFormConfigDB.Append("Mot de pass", pass, 25);
-            _layoutFormConfigDB.Append("Nom DB", dbName, 25);
+            _layoutFormConfigDB.Add("ip", ip, 25);
+            _layoutFormConfigDB.Add("Nom utilisateur", userName, 25);
+            _layoutFormConfigDB.Add("Mot de pass", pass, 25);
+            _layoutFormConfigDB.Add("Nom DB", dbName, 25);
 
             dbName.Text = "cfl";
 

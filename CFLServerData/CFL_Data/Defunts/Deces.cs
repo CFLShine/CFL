@@ -1,7 +1,7 @@
 ﻿using System;
 using MSTD.ShBase;
 
-namespace CFL_1.CFL_Data.Defunts
+namespace CFL_1.CFL_Data
 {
     /// <summary>
     /// date, heure, Lieu, medecin

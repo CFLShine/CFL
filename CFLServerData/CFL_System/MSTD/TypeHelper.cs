@@ -29,7 +29,7 @@ namespace MSTD
 
     public static class TypeHelper
     {
-        #region Instance
+        #region Factory
 
         public static object NewInstance(object o)
         {
@@ -46,6 +46,9 @@ namespace MSTD
             return (T) NewInstance(typeof(T));
         }
 
+        /// <summary>
+        /// Retourne une instance de T si T est non nullable, sinon null.
+        /// </summary>
         public static object GetDefaultValue(Type t)
         {
             if(t != null)
@@ -85,6 +88,16 @@ namespace MSTD
                 || type == typeof(DateTime?)
                 || type == typeof(TimeSpan?)
                 || type == typeof(Decimal);
+        }
+
+        public static bool IsNullable(Type type)
+        {
+            return Nullable.GetUnderlyingType(type) != null;
+        }
+
+        public static bool IsBaseOrSub(Type type)
+        {
+            return type == typeof(Base) || type.IsSubclassOf(typeof(Base));
         }
 
         public static bool IsGenericList(Type _type)
@@ -127,5 +140,38 @@ namespace MSTD
             return new Tuple<Type, Type>(type.GetGenericArguments()[0], type.GetGenericArguments()[1]);
         }
 
+        #region Get property
+
+        /// <summary>
+        /// Retourne la propriété publique membre de la classe de type _classType dont le nom est _propertyName,
+        /// ou null si non trouvé.
+        /// N'est pas sensible à la casse.
+        /// </summary>
+        public static PropertyInfo Property(Type _classType, string _propertyName)
+        {
+            string _name = _propertyName.ToLower();
+            foreach(PropertyInfo _prInfo in _classType.GetProperties())
+            {
+                if(_prInfo.PropertyType.IsPublic && _prInfo.Name.ToLower() == _name)
+                    return _prInfo;
+            }
+            return null;
+        }
+
+        /// <summary>
+        /// Retourne la première propriété publique de type propertyType trouvée dans la class de type classType,
+        /// ou null si non trouvée.
+        /// </summary>
+        public static PropertyInfo Property(Type classType, Type propertyType)
+        {
+            foreach(PropertyInfo _prInfo in classType.GetProperties())
+            {
+                if(_prInfo.PropertyType.IsPublic && _prInfo.PropertyType == propertyType)
+                    return _prInfo;
+            }
+            return null;
+        }
+
+        #endregion
     }
 }

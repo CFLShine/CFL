@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using MSTD.ShBase;
 
-namespace CFL_1.CFL_Data.Defunts
+namespace CFL_1.CFL_Data
 {
     /// <summary>
     /// Contient Defunt defunt, Date? date, TimeSpan? heure, <see cref="Lieu"/> lieu,

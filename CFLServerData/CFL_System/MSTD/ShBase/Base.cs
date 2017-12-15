@@ -1,7 +1,4 @@
 ﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using MongoDB.Bson.Serialization.Attributes;
 
 namespace MSTD.ShBase
 {
@@ -17,7 +14,7 @@ namespace MSTD.ShBase
         /// <summary>
         /// Retourne une string de ce qui doit être affiché lorsque cet object 
         /// est représenté.
-        /// Exemple : une classe Commune pourrait retourner Commune.Nom, "Paris".
+        /// Exemple : une classe Commune pourrait retourner Commune.Nom "Paris".
         /// </summary>
         public virtual string Display()
         {

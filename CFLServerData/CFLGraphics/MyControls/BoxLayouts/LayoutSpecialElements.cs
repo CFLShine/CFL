@@ -3,7 +3,7 @@ using System;
 using System.Windows;
 using System.Windows.Media;
 
-namespace BoxLayouts
+namespace ShLayouts
 {
     /// <summary>
     /// <see cref="Spacer"/> ajoute un espace

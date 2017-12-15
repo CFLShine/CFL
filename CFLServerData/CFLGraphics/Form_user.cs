@@ -2,13 +2,12 @@
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Media;
-using BoxLayouts;
 using CFL_1.CFL_Data;
 using CFL_1.CFL_Data.CFL_DataManaging;
 using CFL_1.CFL_System;
 using CFL_1.CFL_System.DB;
 using CFL_1.CFL_System.SqlServerOrm;
-
+using ShLayouts;
 
 namespace CFL_1.CFLGraphics
 {
@@ -175,18 +174,18 @@ namespace CFL_1.CFLGraphics
 
             FormLayout __formLayoutgridUser = new FormLayout();
 
-            __formLayoutgridUser.Append("nom", nom, 25);
-            __formLayoutgridUser.Append("prénom", prenom, 25);
-            __formLayoutgridUser.Append("adresse", adress1, 25);
-            __formLayoutgridUser.Append("", adress2, 25);
-            //__formLayoutgridUser.Append("commune", commune, 25);
-            __formLayoutgridUser.Append("tel fix perso", telFixPerso, 25);
-            __formLayoutgridUser.Append("tel portable perso", telPortPerso, 25);
-            __formLayoutgridUser.Append("tel fix proffessionnel", telFixPro, 25);
-            __formLayoutgridUser.Append("tel portable proffessionnel", telPortPro, 25);
-            __formLayoutgridUser.Append("fax", fax, 25);
-            __formLayoutgridUser.Append("mail", mail, 25);
-            __formLayoutgridUser.Append("pass", pass, 25);
+            __formLayoutgridUser.Add("nom", nom, 25);
+            __formLayoutgridUser.Add("prénom", prenom, 25);
+            __formLayoutgridUser.Add("adresse", adress1, 25);
+            __formLayoutgridUser.Add("", adress2, 25);
+            //__formLayoutgridUser.Add("commune", commune, 25);
+            __formLayoutgridUser.Add("tel fix perso", telFixPerso, 25);
+            __formLayoutgridUser.Add("tel portable perso", telPortPerso, 25);
+            __formLayoutgridUser.Add("tel fix proffessionnel", telFixPro, 25);
+            __formLayoutgridUser.Add("tel portable proffessionnel", telPortPro, 25);
+            __formLayoutgridUser.Add("fax", fax, 25);
+            __formLayoutgridUser.Add("mail", mail, 25);
+            __formLayoutgridUser.Add("pass", pass, 25);
 
             TextBox tb = new TextBox() ;
             

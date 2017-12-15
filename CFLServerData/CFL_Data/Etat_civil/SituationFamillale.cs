@@ -1,8 +1,7 @@
 ﻿using System;
-using CFL_1.CFL_Data.Communes;
 using MSTD.ShBase;
 
-namespace CFL_1.CFL_Data.Etat_civil
+namespace CFL_1.CFL_Data
 {
     public enum Situation
     {

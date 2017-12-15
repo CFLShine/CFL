@@ -22,7 +22,17 @@ namespace RuntimeExec
             return new REIfStatement(_condition, _thenStatement, _elseStatement);
         }
 
-        public REExpression Condition { get; set; }
+        public REExpression Condition
+        {
+            get => __condition;
+            set
+            {
+                __condition = value;
+                if(__condition != null)
+                    __condition.TreeAncestor = this;
+            }
+        }
+
         public REStatement ThenStatement 
         { 
             get => __thenStatement;
@@ -33,7 +43,6 @@ namespace RuntimeExec
                     __thenStatement.TreeAncestor = this;
             }
         }
-        private REStatement __thenStatement = null;
 
         public REStatement ElseStatement 
         { 
@@ -45,7 +54,6 @@ namespace RuntimeExec
                     __elseStatement.TreeAncestor = this;
             }
         }
-        private REStatement __elseStatement = null;
 
         public override REExpression Invoke()
         {
@@ -71,5 +79,9 @@ namespace RuntimeExec
         }
 
         public override REBase[] Children => new REBase[3]{ Condition, ThenStatement, ElseStatement };
+
+        private REExpression __condition = null;
+        private REStatement __thenStatement = null;
+        private REStatement __elseStatement = null;
     }
 }

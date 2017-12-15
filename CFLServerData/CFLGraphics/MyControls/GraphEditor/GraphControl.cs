@@ -5,10 +5,10 @@ using System;
 using System.Collections.Generic;
 using CFL_1.CFLGraphics.MyControls.GraphEditor;
 using Telerik.Windows.Controls.Diagrams.Extensions;
-using CFL_1.CFLGraphics.MyControls.FormLayout;
 using Telerik.Windows.Controls;
-using BoxLayouts;
 using MSTD.ShBase;
+using ObjectEdit;
+using ShLayouts;
 
 namespace CFL_1.CFLGraphics.GraphEditor
 {
@@ -198,8 +198,9 @@ namespace CFL_1.CFLGraphics.GraphEditor
                 // Editable components
                 foreach(Base _component in CurrentShape.TypeInfo.EditableComponents)
                 {
-                    DataForms _dataform = new DataForms();
-                    _dataform.AddObject(_component);
+                    ObjectEditControl _dataform = new ObjectEditControl();
+                    _dataform.Object = _component;
+                    _dataform.ShowHeader = true;
                     __layoutEdition.Items.Add(_dataform);
                 }
                 __layoutEdition.Visibility = Visibility.Visible;

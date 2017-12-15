@@ -1,7 +1,6 @@
 ﻿
-using CFL_1.CFL_Data.Etat_civil;
 
-namespace CFL_1.CFL_Data.Defunts
+namespace CFL_1.CFL_Data
 {
     /// <summary>
     /// Hérite de <see cref="OperationFune"/>.

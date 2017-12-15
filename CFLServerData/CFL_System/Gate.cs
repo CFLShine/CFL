@@ -38,7 +38,12 @@ namespace CFL_1.CFL_System
             return Path.Combine(localPath(), "Config.txt");
         }
 
-        public static class load
+        public static string CommunesPath()
+        {
+            return Path.Combine(localPath(), "Communes.txt");
+        }
+
+        public static class Load
         {
             public static bool config(ref CFLConfig _config)
             {
@@ -48,36 +53,38 @@ namespace CFL_1.CFL_System
                 return true;
             }
 
-            public static bool Communes(ref List<Tuple<string, string>> _list)
+            public static bool Communes(ref List<Commune> _communes)
             {
-                _list = new List<Tuple<string, string>>();
-                string _path = localPath();
-                string _path_noms = _path + @"\cfl_Communes";
-                string _path_cp = _path + @"\cfl_CodesPostaux";
-                if(!File.Exists(_path_noms) || !File.Exists(_path_cp))
+                _communes = new List<Commune>();
+                string _path = CommunesPath();
+                if(!File.Exists(_path))
                 {
                     MessageBox.Show(@"Fichier d'initialisation des communes manquants : " + Environment.NewLine +
-                                     _path_noms + Environment.NewLine + 
-                                     _path_cp );
+                                     _path );
                     return false;
                 }
 
-                string _nom = "";
-                string _cp = "";
+                string _line = "";
 
                 try
                 {
-                    StreamReader _sr_noms = new StreamReader(_path_noms);
-                    StreamReader _sr_cp = new StreamReader(_path_cp);
+                    StreamReader _sr = new StreamReader(_path);
 
-                     while((_nom = _sr_noms.ReadLine()) != null)
+                    while((_line = _sr.ReadLine()) != null)
                     {
-                        if((_cp = _sr_cp.ReadLine()) == null)
+                        string[] _elements = _line.Split(';');
+                        
+                        Guid _id = Guid.Empty;
+
+                        Guid.TryParse(_elements[0], out _id);
+
+                        Commune _commune = new Commune()
                         {
-                            MessageBox.Show("Fichier cfl_CodesPostaux corrompu.");
-                            return false;
-                        }
-                        _list.Add(new Tuple<string, string>(_nom, _cp));
+                            ID = _id,
+                            nom = _elements[1], 
+                            codePost = _elements[2]
+                        };
+                        _communes.Add(_commune);
                     }
 
                 }
@@ -90,7 +97,7 @@ namespace CFL_1.CFL_System
             }
         } 
 
-        public static class save
+        public static class Save
         {
             public static void config(CFLConfig _config)
             {

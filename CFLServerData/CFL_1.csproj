@@ -257,12 +257,6 @@
     <Reference Include="Microsoft.Win32.Primitives, Version=4.0.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.Win32.Primitives.4.3.0\lib\net46\Microsoft.Win32.Primitives.dll</HintPath>
     </Reference>
-    <Reference Include="MongoDB.Bson">
-      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MongoDB\CSharpDriver 1.7\MongoDB.Bson.dll</HintPath>
-    </Reference>
-    <Reference Include="MongoDB.Driver">
-      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\MongoDB\CSharpDriver 1.7\MongoDB.Driver.dll</HintPath>
-    </Reference>
     <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.10.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
     </Reference>
@@ -670,12 +664,32 @@
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="Xceed.Wpf.AvalonDock, Version=3.2.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.2.0\lib\net40\Xceed.Wpf.AvalonDock.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Aero, Version=3.2.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.2.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Aero.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.Metro, Version=3.2.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.2.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.Metro.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.AvalonDock.Themes.VS2010, Version=3.2.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.2.0\lib\net40\Xceed.Wpf.AvalonDock.Themes.VS2010.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.DataGrid, Version=3.2.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.2.0\lib\net40\Xceed.Wpf.DataGrid.dll</HintPath>
+    </Reference>
+    <Reference Include="Xceed.Wpf.Toolkit, Version=3.2.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Extended.Wpf.Toolkit.3.2.0\lib\net40\Xceed.Wpf.Toolkit.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="CFLGraphics\CFLControls\CTRL_FicheDefunt.cs" />
+    <Compile Include="CFLGraphics\CFLControls\CTRL_Sepulture.cs" />
     <Compile Include="CFLGraphics\Form_planing_journalier.cs" />
     <Compile Include="CFLGraphics\Form_config_entreprise.cs" />
     <Compile Include="CFLGraphics\MyControls\BoxLayouts\BoxLayout.cs" />
@@ -683,6 +697,7 @@
     <Compile Include="CFLGraphics\MyControls\BoxLayouts\BoxLayoutModel.cs" />
     <Compile Include="CFLGraphics\MyControls\BoxLayouts\LayoutSpecialElements.cs" />
     <Compile Include="CFLGraphics\MyControls\BoxLayouts\MesureHelper.cs" />
+    <Compile Include="CFLGraphics\MyControls\CustomControls\TextBoxDate.cs" />
     <Compile Include="CFLGraphics\MyControls\DailySchedule\ActionInfo.cs" />
     <Compile Include="CFLGraphics\MyControls\DailySchedule\DaylySchduleControl.cs" />
     <Compile Include="CFLGraphics\MyControls\DailySchedule\DaylyScheduleInfo.cs" />
@@ -691,7 +706,6 @@
     <Compile Include="CFLGraphics\MyControls\DailySchedule\ZoneControl.cs" />
     <Compile Include="CFLGraphics\MyControls\DailySchedule\ZoneInfo.cs" />
     <Compile Include="CFLGraphics\MyControls\DailySchedule\ZonePatern.cs" />
-    <Compile Include="CFLGraphics\MyControls\FormLayout\DataForms.cs" />
     <Compile Include="CFLGraphics\MyControls\GraphEditor\ClassClaimer.cs" />
     <Compile Include="CFLGraphics\MyControls\GraphEditor\GraphProject.cs" />
     <Compile Include="CFLGraphics\MyControls\GraphEditor\GraphRule.cs" />
@@ -700,10 +714,8 @@
     <Compile Include="CFLGraphics\MyControls\GraphEditor\GraphControl.cs" />
     <Compile Include="CFLGraphics\MyControls\GraphEditor\GraphTypesDescription.cs" />
     <Compile Include="CFLGraphics\MyControls\GraphEditor\GraphShape.cs" />
-    <Compile Include="CFLGraphics\ctrl_CFL_form_treeEditor.cs" />
     <Compile Include="CFLGraphics\MyControls\ObjectEdit\ObjectEditControl.cs" />
-    <Compile Include="CFLGraphics\MyControls\ObjectEdit\ObjectEditControlLayout.cs" />
-    <Compile Include="CFLGraphics\MyControls\ObjectEdit\ObjectEditTreeVisualiser.cs" />
+    <Compile Include="CFLGraphics\MyControls\ObjectEdit\PropertiesEditControl.cs" />
     <Compile Include="CFLGraphics\MyControls\ObjectEdit\PropertyEditControl.cs" />
     <Compile Include="CFLGraphics\MyControls\ObjectEdit\PropertyEditControlConfig.cs" />
     <Compile Include="CFLGraphics\MyControls\ObjectTreeEditor\ObjectTreeEditor.cs" />
@@ -716,13 +728,13 @@
     <Compile Include="CFLGraphics\MyControls\PM_grid\PM_GridModel.cs" />
     <Compile Include="CFL_Data\CFL_DataManaging\CFLGlobalData.cs" />
     <Compile Include="CFL_Data\Autorisation.cs" />
-    <Compile Include="CFL_Data\CaseRefrigeree.cs" />
-    <Compile Include="CFL_Data\ChambreFuneraire.cs" />
-    <Compile Include="CFL_Data\Cimetiere\Cimetiere.cs" />
-    <Compile Include="CFL_Data\Cimetiere\Sepulture.cs" />
-    <Compile Include="CFL_Data\Communes\Commune.cs" />
-    <Compile Include="CFL_Data\Contacts.cs" />
-    <Compile Include="CFL_Data\Crematorium.cs" />
+    <Compile Include="CFL_Data\Entreprise\ChambreFuneraire\CaseRefrigeree.cs" />
+    <Compile Include="CFL_Data\Entreprise\ChambreFuneraire\ChambreFuneraire.cs" />
+    <Compile Include="CFL_Data\Cimetieres\Cimetiere.cs" />
+    <Compile Include="CFL_Data\Cimetieres\Sepulture.cs" />
+    <Compile Include="CFL_Data\Coordonnees\Communes\Commune.cs" />
+    <Compile Include="CFL_Data\Coordonnees\Contacts.cs" />
+    <Compile Include="CFL_Data\Entreprise\Crematorium\Crematorium.cs" />
     <Compile Include="CFL_Data\Defunts\Ceremonie.cs" />
     <Compile Include="CFL_Data\Defunts\Cremation.cs" />
     <Compile Include="CFL_Data\Defunts\Deces.cs" />
@@ -735,38 +747,33 @@
     <Compile Include="CFL_Data\Defunts\RDV.cs" />
     <Compile Include="CFL_Data\Defunts\RemiseCendres.cs" />
     <Compile Include="CFL_Data\Defunts\Soin.cs" />
-    <Compile Include="CFL_Data\Defunts\TAMB.cs" />
     <Compile Include="CFL_Data\Defunts\Transport.cs" />
-    <Compile Include="CFL_Data\Entreprise.cs" />
+    <Compile Include="CFL_Data\Entreprise\Entreprise.cs" />
     <Compile Include="CFL_Data\Etat_civil\Filiation.cs" />
     <Compile Include="CFL_Data\Etat_civil\Naissance.cs" />
     <Compile Include="CFL_Data\Etat_civil\Parent.cs" />
     <Compile Include="CFL_Data\Etat_civil\Pouvoir.cs" />
     <Compile Include="CFL_Data\Etat_civil\SituationFamillale.cs" />
-    <Compile Include="CFL_Data\Four.cs" />
-    <Compile Include="CFL_Data\Lieu.cs" />
-    <Compile Include="CFL_Data\Login.cs" />
+    <Compile Include="CFL_Data\Entreprise\Crematorium\Four.cs" />
+    <Compile Include="CFL_Data\Coordonnees\Lieu.cs" />
+    <Compile Include="CFL_Data\Utilisateur\Login.cs" />
     <Compile Include="CFL_Data\Metier.cs" />
-    <Compile Include="CFL_Data\Pf.cs" />
+    <Compile Include="CFL_Data\Entreprise\PompeFunebre\PompeFunebre.cs" />
     <Compile Include="CFL_Data\Planings\PageJour.cs" />
     <Compile Include="CFL_Data\Planings\PlaningJournalier.cs" />
-    <Compile Include="CFL_Data\RaisonSociale.cs" />
-    <Compile Include="CFL_Data\Salon.cs" />
+    <Compile Include="CFL_Data\Entreprise\RaisonSociale.cs" />
+    <Compile Include="CFL_Data\Entreprise\ChambreFuneraire\Salon.cs" />
     <Compile Include="CFL_System\CFLConfig.cs" />
-    <Compile Include="CFL_Data\Coordonees.cs" />
+    <Compile Include="CFL_Data\Coordonnees\Coordonees.cs" />
     <Compile Include="CFL_Data\Etat_civil\Identite.cs" />
     <Compile Include="CFL_Data\Personne.cs" />
     <Compile Include="CFL_Data\Thanatopraxie\StagiaireThanato.cs" />
-    <Compile Include="CFL_Data\Utilisateur.cs" />
+    <Compile Include="CFL_Data\Utilisateur\Utilisateur.cs" />
     <Compile Include="CFL_Data\Planings\ZoneInfo.cs" />
     <Compile Include="CFL_Data\Planings\ZoneAction.cs" />
     <Compile Include="CFL_Data\Vehicule.cs" />
-    <Compile Include="CFL_System\DB\CFLDBConnection_mongo.cs" />
     <Compile Include="CFL_System\MSTD\AttributeSelected.cs" />
-    <Compile Include="CFL_System\MSTD\Mongo\DbInsert.cs" />
-    <Compile Include="CFL_System\MSTD\Mongo\DbUpdate.cs" />
-    <Compile Include="CFL_System\MSTD\Mongo\ShDbConnection.cs" />
-    <Compile Include="CFL_System\MSTD\Mongo\Serializer.cs" />
+    <Compile Include="CFL_System\MSTD\ObjectsBrowser.cs" />
     <Compile Include="CFL_System\MSTD\PropertyHelper.cs" />
     <Compile Include="CFL_System\MSTD\ShBase\BaseRelations.cs" />
     <Compile Include="CFL_System\MSTD\ShBase\ProxyFactory.cs" />
@@ -828,16 +835,20 @@
     <Compile Include="CFL_System\RuntimeExec\REWhile.cs" />
     <Compile Include="CFL_System\SolutionClasses.cs" />
     <Compile Include="CFL_System\SqlOrm\DBConnection.cs" />
+    <Compile Include="CFL_System\SqlOrm\DBOnList.cs" />
     <Compile Include="CFL_System\SqlOrm\DBCreation.cs" />
+    <Compile Include="CFL_System\SqlOrm\DBExpressionBuilder.cs" />
     <Compile Include="CFL_System\SqlOrm\DBLoader.cs" />
+    <Compile Include="CFL_System\SqlOrm\DBMemberExpressionComparison.cs" />
     <Compile Include="CFL_System\SqlOrm\DBNotification.cs" />
     <Compile Include="CFL_System\SqlOrm\DBObject.cs" />
+    <Compile Include="CFL_System\SqlOrm\DBExpression.cs" />
+    <Compile Include="CFL_System\SqlOrm\DBQueryable.cs" />
     <Compile Include="CFL_System\SqlOrm\DBReader.cs" />
     <Compile Include="CFL_System\SqlOrm\DBSaveChanges.cs" />
-    <Compile Include="CFL_System\SqlOrm\DBWhere.cs" />
+    <Compile Include="CFL_System\SqlOrm\DBValue.cs" />
     <Compile Include="CFL_System\SqlOrm\FieldValue.cs" />
     <Compile Include="CFL_System\SqlOrm\SqlCSharp.cs" />
-    <Compile Include="CFL_System\SqlOrm\Query.cs" />
     <Compile Include="CFL_System\SqlOrm\DBSelect.cs" />
     <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="Resource1.Designer.cs">

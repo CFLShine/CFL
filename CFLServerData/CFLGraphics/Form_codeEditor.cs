@@ -11,7 +11,7 @@ using CFL_1.CFL_Data;
 using CFL_1.CFL_System;
 using MyControls.Editor;
 using CFL_1.CFL_System.SqlServerOrm;
-using BoxLayouts;
+using ShLayouts;
 
 namespace CFL_1.CFLGraphics.Editor
 {
@@ -111,9 +111,9 @@ namespace CFL_1.CFLGraphics.Editor
 
             foreach(CFLForm _form in CFLForms.instance.forms)
             {
-                ctrl_CFL_form_treeEditor _tree = new ctrl_CFL_form_treeEditor(true, false);
-                _tree.edit(_form, _form.Name);
-                __layoutTreesObjectEditors.Add(_tree);
+                //ctrl_CFL_form_treeEditor _tree = new ctrl_CFL_form_treeEditor(true, false);
+                //_tree.edit(_form, _form.Name);
+                //__layoutTreesObjectEditors.Add(_tree);
             }
         }
 
@@ -123,7 +123,7 @@ namespace CFL_1.CFLGraphics.Editor
         private ctrl_userCommunication __ctrl_userCommunication;
         private SyntaxTreeVisualiser __syntaxTreeVisualizer = new SyntaxTreeVisualiser();
         
-        private HBoxLayout       __layoutTop  = new HBoxLayout() { Height = 27 };
+        private HBoxLayout __layoutTop  = new HBoxLayout() { Height = 27 };
         private VBoxLayout __layoutLeft = new VBoxLayout();
         private VBoxLayout __layoutCenter = new VBoxLayout();
         private VBoxLayout __layoutRight = new VBoxLayout();

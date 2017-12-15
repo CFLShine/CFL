@@ -1,13 +1,8 @@
 ﻿
 using CFL_1.CFL_Data;
-using CFL_1.CFL_Data.Cimetiere;
-using CFL_1.CFL_Data.Communes;
 using CFL_1.CFL_Data.Defunts;
-using CFL_1.CFL_Data.Etat_civil;
-using CFL_1.CFL_Data.Planings;
 using CFL_1.CFL_Data.Thanatopraxie;
 using CFL_1.CFLGraphics.MyControls.GraphEditor;
-using MSTD;
 using MSTD.ShBase;
 using SqlOrm;
 
@@ -37,16 +32,9 @@ namespace CFL_1.CFL_System.DB
             _creator.CreateOrCompleteDataBase();
         }
 
-        DBConnection Connection
+        public DBConnection Connection
         {
             get => CFLDBConnection.instance;
-        }
-
-        public DBSelect<T> Select<T> (params string[] fields) where T : Base, new()
-        {
-            DBSelect<T> _select = new DBSelect<T>(this, Connection);
-            _select.Select(fields);
-            return _select;
         }
 
         public bool SaveChanges()
@@ -95,7 +83,6 @@ namespace CFL_1.CFL_System.DB
         public Set<StagiaireThanato>    StagiaireThanato   { get; set; }
 
         public Set<OperationFune>       OperationFune      { get; set; }
-        public Set<TAMB>                TAMB               { get; set; }
         public Set<Soin>                Soin               { get; set; }
         public Set<MEB>                 MEB                { get; set; }
         public Set<Ceremonie>           Ceremonie          { get; set; }

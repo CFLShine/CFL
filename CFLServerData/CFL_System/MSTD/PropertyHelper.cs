@@ -43,37 +43,11 @@ namespace MSTD
                     _attribute.Name : _prInfo.Name;
         }
 
-        /// <summary>
-        /// Retourne la propriété membre de la classe de type _classType dont le nom est _propertyName.
-        /// N'est pas sensible à la casse.
-        /// </summary>
-        public static PropertyInfo Property(Type _classType, string _propertyName)
-        {
-            foreach(PropertyInfo _prInfo in _classType.GetProperties())
-            {
-                if(_prInfo.Name.ToLower() == _propertyName.ToLower())
-                    return _prInfo;
-            }
-            return null;
-        }
-
-        /// <summary>
-        /// Retourne la première propriété publique de type propertyType trouvée dans la class de type classType,
-        /// ou null si non trouvée.
-        /// </summary>
-        public static PropertyInfo Property(Type classType, Type propertyType)
-        {
-            foreach(PropertyInfo _prInfo in classType.GetProperties())
-            {
-                if(_prInfo.PropertyType.IsPublic && _prInfo.PropertyType == propertyType)
-                    return _prInfo;
-            }
-            return null;
-        }
-
         public static T GetAttribute<T>(PropertyInfo prInfo) where T : Attribute
         {
             return prInfo.GetCustomAttribute<T>();
         }
+
+
     }
 }

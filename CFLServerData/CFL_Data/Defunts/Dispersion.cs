@@ -1,6 +1,5 @@
-﻿using CFL_1.CFL_Data.Cimetiere;
-
-namespace CFL_1.CFL_Data.Defunts
+﻿
+namespace CFL_1.CFL_Data
 {
     public class Dispersion : OperationFune
     {

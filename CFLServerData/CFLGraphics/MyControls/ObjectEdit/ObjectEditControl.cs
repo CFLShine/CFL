@@ -4,100 +4,87 @@ using System.ComponentModel.DataAnnotations;
 using System.Reflection;
 using System.Windows.Controls;
 using System.Windows.Media;
-using BoxLayouts;
-using CFL_1.CFL_System.MSTD;
 using MSTD;
 using MSTD.ShBase;
 using RuntimeExec;
+using ShLayouts;
 
 namespace ObjectEdit
 {
     public class ObjectEditControl : VBoxLayout
     {
-        public ObjectEditControl(Base @object)
+        public ObjectEditControl(){ }
+
+        public ObjectEditControl(Base obj)
         {
-            Object = @object;
+            Object = obj;
         }
 
-        public BoxLayout LayoutLabels{ get => __layoutLabels; }
-        public BoxLayout LayoutControls{ get => __layoutControls; }
-
-        public ObjectEditControl(ObjectEditControlLayout parent)
+        public new void Clear()
         {
-            Init();
-            ConfigsForPropertyClassControls = parent.ConfigsForPropertyClassControls;
-            ControlsHeight = parent.ControlsHeight;
-            __excludeds = parent.Excludeds;
-            LabelsMinimumWidth = parent.LabelsMinimumWidth;
-            LabelsMaximumWidth = parent.LabelsMaximumWidth;
-            ControlsMinimumWidth = parent.ControlsMinimumWidth;
-            ControlsMaximumWidth = parent.ControlsMaximumWidth;
-
-            Object = parent.Object;
+            Object = null;
         }
 
-        /// <summary>
-        /// get : 
-        /// Retourne la valeur qui a été donnée par un set,
-        /// ou par défaut le nom du type de <see cref="Object"/>.
-        /// </summary>
-        public string Header
-        {
-            get =>(!string.IsNullOrWhiteSpace(__nameLabel))? __nameLabel : Object.GetType().Name;
+        #region include sub objects
 
-            private set => __nameLabel = value;
+        public bool IncludeSubObjects
+        {
+            get;
+            set;
         }
 
-        public bool ShowHeader
-        {
-            get => __showHeader;
-            set
-            {
-                __showHeader = value;
-                if(__showHeader)
-                    ShowHeaderIfNotDone();
-                else
-                    RemoveHeader();
-            }
-        }
+        #endregion include sub objects
 
         /// <summary>
         /// objet édité.
-        /// set : provoque une exception si la valeur est null.
+        /// set : appèle Build().
         /// </summary>
         public Base Object
         {
             get => __object;
             set
             {
-                __object = value??throw new ArgumentNullException("value");
+                __object = value;
+                Build();
             }
         }
+
+        public void AddPropertyConfig(PropertyConfig prConfig)
+        {
+            __properties_controls[prConfig.PropertyInfo] = prConfig;
+        }
+
+        public void AddPropertyConfig(PropertyInfo prInfo, PropertyEditControl prEditControl)
+        {
+            PropertyConfig prConfig = new PropertyConfig(prInfo);
+            prConfig.PropertyEditControl = prEditControl;
+            AddPropertyConfig(prConfig);
+        }
+
+        public void AddPropertyConfig(MemberPath path, PropertyEditControl prEditControl)
+        {
+            AddPropertyConfig(path.LastPropertyInfo, prEditControl);
+        }
+
+        #region Exclude
 
         public void Exclude(REMemberExpression _expr)
         {
             Exclude(_expr.LastMemberName());
         }
+        
         public void Exclude(string _propertyName)
         {
             __excludeds.Add(_propertyName);
         }
 
-        public void SetConfigFor(Type _propertyType, List<Base> _objectsToDisplay, DataDisplay _dataDisplay)
-        {
-            PropertyClassEditControlConfig _config = new PropertyClassEditControlConfig()
-                                                     { 
-                                                        DataDisplay = _dataDisplay,
-                                                        ObjectsToDisplay = _objectsToDisplay
-                                                     };
+        private List<string> __excludeds = new List<string>();
 
-            ConfigsForPropertyClassControls[_propertyType] = _config;
-        }
-        public void SetConfigFor(Type _propertyType, PropertyEditControlConfig _config)
-        {
-            ConfigsForPropertyClassControls[_propertyType] = _config;
-        }
+        #endregion Exclude
 
+        /// <summary>
+        /// Valeur par défaut : 27
+        /// </summary>
         public double ControlsHeight 
         { 
             get => __controlsHeight;
@@ -107,135 +94,104 @@ namespace ObjectEdit
             }
         }
 
-        public double LabelsMinimumWidth{ get; set; } = 0;
-        public double LabelsMaximumWidth{ get; set; } = 0;
-        public double ControlsMinimumWidth{ get; set; } = 0;
-        public double ControlsMaximumWidth{ get; set; } = 0;
+        public double LabelsMinimumWidth{ get; set; } = 150;
+        public double LabelsMaximumWidth{ get; set; } = double.PositiveInfinity;
+        public double ControlsMinimumWidth{ get; set; } = 150;
+        public double ControlsMaximumWidth{ get; set; } = double.PositiveInfinity;
 
-        /// <summary>
-        /// Retourne une énumération des <see cref="ObjectEditControl"/> généré pour
-        /// les propriété de type <see cref="Base"/> de <see cref="Object"/>.
-        /// Ces <see cref="ObjectEditControl"/> sont fournis sans que leur fonction <see cref="Build"/> 
-        /// n'est été appellée.
-        /// Provoque une exeption si Build n'a pas été appelé ou si Object est null.
-        /// </summary>
-        public IEnumerable<ObjectEditControl> InternalObjectEditControls()
-        {
-            if(__internalObjectEditControls == null)
-                throw new Exception(@"__internalObjectEditControls est null. 
-                                    Soit Build() n'a pas été appelé avant d'appeler cette fonction,
-                                    soit Object est null.");
 
-            foreach(ObjectEditControl _ctrl in __internalObjectEditControls)
-                yield return _ctrl;
-        }
-
-        public bool HasRows
-        {
-            get=> RowCount > 0;
-        }
-
-        public int RowCount
-        {
-            get => __layoutLabels.Count;
-        }
-
-        public bool IsBuilt { get; private set; }
-
+        #region Build
         /// <summary>
         /// Peuple le <see cref="EditControl"/>
         /// </summary>
         public void Build()
         {
-            if(Object == null)
-                throw new Exception("Object ne peut pas être null");
-
             Init();
 
-            __internalObjectEditControls = new List<ObjectEditControl>();
-
-            foreach(PropertyInfo _prInfo in Object.GetType().GetProperties())
+            if(Object != null)
             {
-                if(IsElligible(_prInfo))
+                foreach(PropertyInfo _prInfo in Object.GetType().GetProperties())
                 {
-                    PropertyEditControl _editControl = null;
-                    PropertyEditControlConfig _config = null;
-
-                    if(_prInfo.PropertyType.IsSubclassOf(typeof(Base)))
+                    if(IsElligible(_prInfo))
                     {
-                        if(ConfigsForPropertyClassControls != null 
-                        && ConfigsForPropertyClassControls.TryGetValue(_prInfo.PropertyType, out _config))
-                        {
-                            _editControl = new PropertyClassControl();
-                        }
+                        if(__properties_controls.ContainsKey(_prInfo))
+                            AddToCurrentPropertiesEditControl(__properties_controls[_prInfo]);
                         else
                         {
-                            Base _object = (Base)_prInfo.GetValue(Object);
-                            if(_object != null)
+                            Type _t = _prInfo.PropertyType;
+                            if(_t == typeof(Base) || _t.IsSubclassOf(typeof(Base)) && IncludeSubObjects)
                             {
-                                ObjectEditControl _objectEditControl = new ObjectEditControl(_object)
-                                { 
-                                     ConfigsForPropertyClassControls = ConfigsForPropertyClassControls,
-                                     ControlsHeight = ControlsHeight,
-                                     LabelsMinimumWidth = LabelsMinimumWidth,
-                                     LabelsMaximumWidth = LabelsMaximumWidth,
-                                     ControlsMinimumWidth = ControlsMinimumWidth,
-                                     ControlsMaximumWidth = ControlsMaximumWidth,
-                                     ShowHeader = ShowHeader
-                                };
-                                DisplayAttribute _att = _prInfo.GetCustomAttribute<DisplayAttribute>();
+                                FinalyseCurrentPropertiesEditControl();
                                 
-                                if(_att != null && !string.IsNullOrWhiteSpace(_att.GetName()))
-                                    _objectEditControl.Header = _att.GetName();
+                                Base _obj = _prInfo.GetValue(Object) as Base;
 
-                                __internalObjectEditControls.Add(_objectEditControl);
+                                if(_obj != null)
+                                {
+                                    ObjectEditControl _objEditControl = new ObjectEditControl();
+                                    _objEditControl.ShowHeader = true;
+                                    // todo header background
+                                    _objEditControl.Object = _obj;
+                                    Add(_objEditControl);
+                                }
+                            }
+                            else
+                            {
+                                PropertyConfig _prConfig = new PropertyConfig(_prInfo);
+                                AddToCurrentPropertiesEditControl(_prConfig);
                             }
                         }
                     }
-                    else
-                    {
-                        _editControl = PropertyEditControl.Factory(_prInfo);
-                        _config = new PropertyEditControlConfig();
-                    }
-
-                    if(_editControl != null)
-                    {
-                        _config.Object = Object;
-                        _config.PropertyInfo = _prInfo;
-                        _editControl.Config = _config;
-                        AddControl(_editControl);
-                    }
                 }
+                FinalyseCurrentPropertiesEditControl();
             }
-            IsBuilt = true;
         }
 
-        /// <summary>
-        /// Provoque une exception si _editControl.Config == null, ou _editControl.Config.PropertyInfo == null
-        /// </summary>
-        public void AddControl(PropertyEditControl _editControl)
+        private void AddToCurrentPropertiesEditControl(PropertyConfig prConfig)
         {
-            PropertyInfo _prInfo = _editControl.Config.PropertyInfo;
+            if(prConfig.PropertyEditControl != null) // sinon, prConfig crée avec un type de propriété non supporté.
+            {
+                if(__currentPropertiesEditControl == null)
+                {
+                    __currentPropertiesEditControl = new PropertiesEditControl();
+                    __currentPropertiesEditControl.Object = Object;
+                    Add(__currentPropertiesEditControl);
+                }
+                __currentPropertiesEditControl.Add(prConfig);
+            }
+        }
 
-            if(_prInfo == null)
-                throw new NullReferenceException("_prInfo");
+        private void FinalyseCurrentPropertiesEditControl()
+        {
+            if(__currentPropertiesEditControl != null)
+            {
+                __currentPropertiesEditControl.Build();
+                __currentPropertiesEditControl = null;
+            }
+        }
 
-            Label _label = new Label()
-            { 
-                Content = GetLabel(_prInfo),
-                Height = ControlsHeight,
-                MinWidth = LabelsMinimumWidth,
-                MaxWidth = LabelsMaximumWidth,
-                Background = Brushes.White,
-                BorderThickness = new System.Windows.Thickness(1)
-            };
+        private PropertiesEditControl __currentPropertiesEditControl = null;
 
-            _editControl.Height = ControlsHeight;
-            _editControl.MinWidth = ControlsMinimumWidth;
-            _editControl.MaxWidth = ControlsMaximumWidth;
+        private Dictionary<PropertyInfo, PropertyConfig> __properties_controls = new Dictionary<PropertyInfo, PropertyConfig>();
 
-            __layoutLabels.Add(_label);
-            __layoutControls.Add(_editControl);
+        #endregion Build
+
+        public delegate void ValueChanged(PropertyEditControl control);
+        public ValueChanged ValueChangedEvent;
+
+        /// <summary>
+        /// Retourne le <see cref="PropertyConfig"/> qui expose la propriété prInfo,
+        /// ou null si non trouvé.
+        /// </summary>
+        public PropertyConfig GetPropertyEditControl(PropertyInfo prInfo)
+        {
+            PropertyConfig _ctrl = null;
+            __properties_controls.TryGetValue(prInfo, out _ctrl);
+            return _ctrl;
+        }
+
+        protected void OnValueChanged(PropertyEditControl control)
+        {
+            ValueChangedEvent?.Invoke(control);
         }
 
         private string GetLabel(PropertyInfo prInfo)
@@ -269,42 +225,58 @@ namespace ObjectEdit
 
         private void Init()
         {
-            Clear();
-            
+            base.Clear();
             __labelHeader = null;
             if(ShowHeader)
-                ShowHeaderIfNotDone();
-
-            Background = Brushes.IndianRed;
-            HBoxLayout _hLayout = new HBoxLayout(){ IsPerpendicularMinimized = true, Background = Brushes.Green };
-
-            __layoutLabels = new VBoxLayout(){ IsPerpendicularMinimized = true, Background = Brushes.Chartreuse };
-            __layoutControls = new VBoxLayout(){ IsPerpendicularMinimized = true, Background = Brushes.Chartreuse };
-
-            _hLayout.Add(__layoutLabels);
-            _hLayout.Add(__layoutControls);
-
-            Add(_hLayout);
+                showHeader();
+            else RemoveHeader();
         }
 
-        private void ShowHeaderIfNotDone()
+        #region show header
+
+        /// <summary>
+        /// get : 
+        /// Retourne la valeur qui a été donnée par un set,
+        /// ou par défaut le nom du type de <see cref="Object"/>.
+        /// </summary>
+        public string Header
+        {
+            get
+            {
+                if(!string.IsNullOrWhiteSpace(__nameLabel))
+                    return __nameLabel;
+                if(Object != null)
+                    return Object.GetType().Name;
+                return "";
+            }
+            private set => __nameLabel = value;
+        }
+
+        public bool ShowHeader
+        {
+            get => __showHeader;
+            set
+            {
+                __showHeader = value;
+                if(__showHeader)
+                    showHeader();
+                else
+                    RemoveHeader();
+            }
+        }
+
+        private void showHeader()
         {
             if(__labelHeader == null)// sinon, déja ajouté
             {
                 __labelHeader = new Label()
                 { 
-                    Content = Header, 
                     Height = 27,// ControlsHeight, 
-                    Background = Brushes.Salmon 
+                    Background = Brushes.Gray 
                 };
-
                 Insert(0, __labelHeader);
             }
-            if(__internalObjectEditControls != null)
-            {
-                foreach(ObjectEditControl _objectEditCtrl in InternalObjectEditControls())
-                    _objectEditCtrl.ShowHeader = true;
-            }
+            __labelHeader.Content = Header;
         }
 
         private void RemoveHeader()
@@ -312,28 +284,22 @@ namespace ObjectEdit
             //Remove(null) est permis
             Remove(__labelHeader);
             __labelHeader = null;
-
-            if(__internalObjectEditControls != null)
-            {
-                foreach(ObjectEditControl _objectEditCtrl in InternalObjectEditControls())
-                    _objectEditCtrl.ShowHeader = false;
-            }
         }
 
-        private VBoxLayout __layoutLabels = null;
-        private VBoxLayout __layoutControls = null;
         private Label __labelHeader = null;
+
+        private bool __showHeader = true;
+
+        #endregion show header
 
         private Base __object = null;
 
-        private List<string> __excludeds = new List<string>();
-
         private double __controlsHeight = 27;
-        private Dictionary<Type, PropertyEditControlConfig> ConfigsForPropertyClassControls{ get; set; } 
-            = new Dictionary<Type, PropertyEditControlConfig>();
-        private List<ObjectEditControl> __internalObjectEditControls { get; set; }
 
         private string __nameLabel = "";
-        private bool __showHeader = false;
+        
+
+        
+
     }
 }

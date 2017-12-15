@@ -89,7 +89,7 @@ namespace SqlOrm
 
             if(!string.IsNullOrWhiteSpace(_columnNames_types))
                 _columnNames_types = "," + _columnNames_types;
-            _columnNames_types = "tablename TEXT, id UUID PRIMARY KEY" + _columnNames_types;
+            _columnNames_types = "objectrepresentation TEXT, id UUID PRIMARY KEY" + _columnNames_types;
 
             string _query = "CREATE TABLE IF NOT EXISTS " + _tableName + " " +
                               "(" + _columnNames_types + ");";
@@ -128,7 +128,7 @@ namespace SqlOrm
                 SqlType _sqlType = SqlCSharp.GetSqlType(_prInfo.PropertyType);
 
                 if(_sqlType == SqlType.CLASS)
-                    _typestr = SqlCSharp.GetSqlTypeStr(SqlCSharp.GetSqlType(typeof(Guid)));
+                    _typestr = SqlCSharp.GetSqlTypeStr(SqlCSharp.GetSqlType(typeof(string)));
                 else
                 if(_sqlType == SqlType.ENUM)
                     _typestr = SqlCSharp.GetSqlTypeStr(SqlCSharp.GetSqlType(typeof(int)));
@@ -139,7 +139,9 @@ namespace SqlOrm
                     _typestr = SqlCSharp.GetSqlTypeStr(_sqlType);
 
                 if(_typestr == "")
-                    throw new Exception("Un type de propriété n'a pas sa correspondance sql.");
+                    throw new Exception("Un type de propriété n'a pas sa correspondance sql. \n" +
+                                        "propriété " + _prInfo.Name + " de type " + _prInfo.PropertyType.Name + "\n" +
+                                        "dans l'objet de type " + _type.Name);
 
                 if(_columns != "")
                     _columns += ",";
@@ -151,6 +153,7 @@ namespace SqlOrm
         }
 
         #endregion Create tables
+       
         /// <summary>
         /// Connecte __connection à la db nouvellement crée ou existante.
         /// </summary>

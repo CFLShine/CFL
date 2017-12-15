@@ -251,11 +251,11 @@ namespace MSTD.ShBase
         }
 
         /// <summary>
-        /// Retourne la <see cref="PropertyProxy"/> du membre memberName,
+        /// Retourne la <see cref="PropertyProxy"/> du membre propertyName,
         /// ou null si non trouvé.
         /// Non sensible à la casse.
         /// </summary>
-        public PropertyProxy Property(string propertyName)
+        public PropertyProxy GetPropertyProxy(string propertyName)
         {
             propertyName = propertyName.ToLower();
             foreach(PropertyProxy prProxy in __properties.Values)

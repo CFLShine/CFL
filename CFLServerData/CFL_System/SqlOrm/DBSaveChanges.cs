@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Reflection;
 using CFL_1.CFL_System.SqlServerOrm;
 using MSTD;
 using MSTD.ShBase;
@@ -80,8 +79,8 @@ namespace SqlOrm
         {
             List<FieldValue> _fieldsValues = FieldsValues(_proxy.Properties(), _proxy);
             string _query = "INSERT INTO " + _proxy.TypeName.ToLower() +
-                              "(tablename," + Fields(_fieldsValues) + ") " + 
-                              "VALUES (" + "'" + _proxy.TypeName.ToLower() + "'" + "," + Values(_fieldsValues) + ");";
+                              "(objectrepresentation," + Fields(_fieldsValues) + ") " + 
+                              "VALUES (" + "'" + SqlCSharp.ObjectRepresentaition(_proxy.Entity) + "'" + "," + Values(_fieldsValues) + ");";
             return _query;
         }
 
@@ -91,7 +90,7 @@ namespace SqlOrm
             return "UPDATE " + _classAndProxy.TypeName.ToLower() + 
                             " SET " + FieldsEqualValues(_fieldsValues, _classAndProxy) +
                              " WHERE " + _classAndProxy.TypeName.ToLower() + ".id = " + 
-                             SqlCSharp.SqlValue(_classAndProxy.Entity, PropertyHelper.Property(_classAndProxy.Entity.GetType(), "ID")) +
+                             SqlCSharp.SqlValue(_classAndProxy.Entity, TypeHelper.Property(_classAndProxy.Entity.GetType(), "ID")) +
                              ";";
         }
 

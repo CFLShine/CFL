@@ -24,6 +24,17 @@ namespace RuntimeExec
 
         protected abstract object Result(dynamic val);
 
-        public REExpression Operand { get; set; } = null;
+        public REExpression Operand
+        {
+            get => __operand;
+            set
+            {
+                __operand = value;
+                if(__operand != null)
+                    __operand.TreeAncestor = this;
+            }
+        }
+
+        private REExpression __operand = null;
     }
 }

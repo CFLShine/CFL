@@ -2,7 +2,6 @@
 using System.Collections;
 using System.Globalization;
 using System.Reflection;
-using CFL_1.CFL_System.MSTD;
 using MSTD;
 using MSTD.ShBase;
 
@@ -117,7 +116,7 @@ namespace SqlOrm
                 return SqlType.ENUM;
             if(TypeHelper.IsGenericList(_t))
                 return SqlType.LIST;
-            if(_t.IsSubclassOf(typeof(Base)))
+            if(TypeHelper.IsBaseOrSub(_t))
                 return SqlType.CLASS;
 
             return SqlType.NOTMAPPED;
@@ -166,88 +165,34 @@ namespace SqlOrm
         /// <summary>
         /// Retourne un nom de colone pour cette propriété si cette propriété peut être mappée
         /// dans la db, sinon retourne une chaine vide.
-        /// Pour une classe : class_typename_membername
-        /// Pour une List{T} : list_itemstype_membername
-        /// Pour une Enum : enum_enumtype_membername
-        /// Provoque une exception si membreName null ou vide.
+        /// Le nom de colone est le nom de la propriété en lowercase.
         /// </summary>
         public static string ColumnName(PropertyInfo _prInfo)
         {
             if(!PropertyHelper.IsMappableProperty(_prInfo))
                 return "";
-
-            return ColumnName(_prInfo.PropertyType, _prInfo.Name);
+            return _prInfo.Name.ToLower();
         }
 
         /// <summary>
-        /// Retourne un nom de colone pour un membre de type type et nomé memberName.
-        /// Pour une classe : class_typename_membername
-        /// Pour une List{T} : list_itemstype_membername
-        /// Pour une Enum : enum_enumtype_membername
+        /// Retourne un nom de colone pour un membre de type type et nommé memberName.
         /// Provoque une exception si membreName null ou vide.
         /// </summary>
-        public static string ColumnName(Type type, string memberName)
+        public static string ColumnName(string memberName)
         {
-            switch (GetSqlType(type))
-            {
-                case SqlType.NOTMAPPED:
-                    return "";
-
-                case SqlType.CLASS:
-                    return ClassObjectMemberColumnName(type, memberName);
-                    
-                case SqlType.ENUM:
-                    return EnumMemberColumnName(type, memberName);
-                
-                case SqlType.LIST:
-                    return ListMemberColumnName(type, memberName);
-                    
-                default:
-                    if(string.IsNullOrWhiteSpace(memberName))
+            if(string.IsNullOrWhiteSpace(memberName))
                         throw new Exception("memberName non valide");
-                    return memberName.ToLower();
-            }
-        }
-
-        /// <summary>
-        /// Retourne un nom de colone pour un membre objet de classe et nomé memberName,
-        /// sous la forme class_typename_membername.
-        /// Provoque une exception si membreName null ou vide.
-        /// </summary>
-        public static string ClassObjectMemberColumnName(Type type, string memberName)
-        {
-            if(string.IsNullOrWhiteSpace(memberName))
-                throw new Exception("memberName non valide");
-            return ("class_"+ type.Name + "_" + memberName).ToLower();
-        }
-
-        /// <summary>
-        /// Retourne un nom de colone pour un membre list et nomé memberName,
-        /// sous la forme list_itemstype_membername.
-        /// Provoque une exception si membreName null ou vide. 
-        /// </summary>
-        public static string ListMemberColumnName(Type type, string memberName)
-        {
-            if(string.IsNullOrWhiteSpace(memberName))
-                throw new Exception("memberName non valide");
-            return ("list_" + TypeHelper.ListItemsType(type).Name + "_" + memberName).ToLower();
-        }
-
-        /// <summary>
-        /// Retourne un nom de colone pour un membre Enum et nomé memberName,
-        /// sous la forme enum_enumtype_membername.
-        /// Provoque une exception si membreName null ou vide. 
-        /// </summary>
-        public static string EnumMemberColumnName(Type type, string memberName)
-        {
-            if(string.IsNullOrWhiteSpace(memberName))
-                throw new Exception("memberName non valide");
-            return ("enum_" + type.Name + "_" + memberName).ToLower();
+            return memberName.ToLower();
         }
 
         #endregion Column name
 
         #region Sql values
+        
+        public static string SqlValue(object obj, bool inList = false)
+        {
+            return SqlValue(obj, GetSqlType(obj.GetType()), inList);
+        }
 
         /// <summary>
         /// Retourne une chaine qui représentera la valeur de la propriété dans la db.
@@ -263,11 +208,11 @@ namespace SqlOrm
 
         /// <summary>
         /// Retourne une chaine qui représentera la valeur de la propriété dans la db.
-        /// Si la propriété est un objet de classe, la valeur est l'id.
+        /// Si la propriété est un objet de classe, la valeur est typename_id.
         /// </summary>
-        public static string SqlValue(object _value, SqlType _sqlType, bool _inList)
+        public static string SqlValue(object value, SqlType _sqlType, bool _inList)
         {
-            if(_value == null)
+            if(value == null)
                 return "NULL";
             
             string _format = (_inList) ? "" : "'";
@@ -275,62 +220,68 @@ namespace SqlOrm
             switch (_sqlType)
             {
                 case SqlType.LIST:
-                    return ListValueStr(_value);
+                    return ListValueStr(value);
 
                 case SqlType.BOOL:
-                    if((bool)_value == true)
+                    if((bool)value == true)
                         return _format + "TRUE" + _format;
                     else
                         return _format + "FALSE" + _format;
 
                 case SqlType.INTEGER:
-                    return ((int)_value).ToString();
+                    return ((int)value).ToString();
 
                 case SqlType.BIGINT:
-                    return ((long)_value).ToString();
+                    return ((long)value).ToString();
 
                 case SqlType.NUMERIC:
                 {
                     NumberFormatInfo _nf = new NumberFormatInfo(){ NumberDecimalSeparator = "."};
-                    if(_value is decimal)
-                        return ((decimal)_value).ToString(_nf);
+                    if(value is decimal)
+                        return ((decimal)value).ToString(_nf);
                     else
-                        return ((double)_value).ToString(_nf);
+                        return ((double)value).ToString(_nf);
                 }
 
                 case SqlType.TEXT:
-                    return _format + _value.ToString().Replace("'", "''") + _format;
+                    return _format + value.ToString().Replace("'", "''") + _format;
 
                 case SqlType.UUID:
-                    return _format + ((Guid)_value).ToString() + _format;
+                    return _format + ((Guid)value).ToString() + _format;
 
                 case SqlType.DATE:
-                    return _format + ((DateTime)_value).ToString("yyyy-MM-dd") +  _format;
+                    return _format + ((DateTime)value).ToString("yyyy-MM-dd") +  _format;
 
                 case SqlType.TIME:
-                    return _format + ((TimeSpan)_value).ToString(@"hh\:mm") + _format;
+                    return _format + ((TimeSpan)value).ToString(@"hh\:mm") + _format;
 
                 case SqlType.CLASS:
                 {
-                    if(_inList)
-                    {
-                        Type _valueType = _value.GetType();
-                        return _format + _valueType.Name.ToLower() + "_" + ((Base)_value).ID.ToString() + _format;
-                    }
-                    else
-                    {
-                        return ((Base)_value).ID.ToString();
-                    }
+                    Type _valueType = value.GetType();
+                    return _format + ObjectRepresentaition((Base)value) + _format;
                 }
 
                 case SqlType.ENUM:
-                    return ((int)(_value)).ToString();
+                    return ((int)(value)).ToString();
 
                 default:
                     return "";
             }
         }
 
+        /// <summary>
+        /// Retourne une chaine représentant l'objet sous la forme typename_id.
+        /// Provoque une exception si obj est null.
+        /// </summary>
+        public static string ObjectRepresentaition(Base obj)
+        {
+            return obj.GetType().Name.ToLower() + "_" + obj.ID.ToString();
+        }
+
+        public static string ObjectTypeNameFromObjectRepresentation(string objectrepresentation)
+        {
+            return objectrepresentation.Split('_')[0];
+        }
         /// <summary>
         /// Retourne une chaine qui représentera les valeurs de la propriété List dans la db,
         /// sous la forme val1,val2,...
@@ -355,26 +306,5 @@ namespace SqlOrm
         }
 
         #endregion Sql values
-
-        #region value from sql
-
-        public static void UpdateClassProxyMembers(ClassProxy proxy, DBRow row)
-        {
-            foreach(DBField _field in row)
-            {
-                PropertyProxy _prProxy = proxy.Property(_field.Name);
-                if(_prProxy != null)// des colones dans la tables servent
-                                    // au fonctionnement de l'orm et correspondent
-                                    // pas à des propriétés d'une entité.
-                    _prProxy.Value = _field.Value;
-            }
-        }
-
-        public static object ValueFromSql(string _sqlValue, SqlType _sqlType)
-        {
-            throw new NotImplementedException();
-        }
-
-        #endregion value from sql
     }
 }

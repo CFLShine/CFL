@@ -30,7 +30,7 @@ namespace RuntimeExec
 
         /// <summary>
         /// Pour une expression A.b.c, passer en argument la <see cref="REClassObject"/> du type A,
-        /// et ((A)null).b.c
+        /// et ()=>((A)null).b.c
         /// </summary>
         public REMemberExpression(REClassObject parent, Expression<Func<object>> _expression)
         {

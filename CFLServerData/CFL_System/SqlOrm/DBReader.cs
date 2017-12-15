@@ -12,12 +12,24 @@ namespace SqlOrm
             set;
         } = "";
 
+        /// <summary>
+        /// La valeur retournée par la DB, récupérée dans le NpgsqlDataReader.
+        /// </summary>
         public object Value
         {
             get;
             set;
         } = null;
 
+        /// <summary>
+        /// Retourne le nom de la propriété CSharp (en lowercase) représentée 
+        /// par ce DBField.
+        /// Si la propriété est un objet ou une list,
+        /// retourne le dernier élément de class_typename_membername, ou de list_typename_membername,
+        /// sinon, Name lui-même.
+        /// Il n'est pas garanti que cette propriété existe dans l'objet csharp, car ce champ
+        /// peut être un champ ajouté pour le fonctionnement de l'orm.
+        /// </summary>
         public string PropertyName
         {
             get
@@ -64,9 +76,10 @@ namespace SqlOrm
             return (Guid)GetField("id").Value;
         }
 
-        public string GetTableName()
+        public string GetObjectType()
         {
-            return (string)GetField("tablename").Value;
+            string _objectrepresentation = (string)GetField("objectrepresentation").Value;
+            return _objectrepresentation.Split('_')[0];
         }
     }
 
@@ -84,29 +97,33 @@ namespace SqlOrm
                 return;
 
             __rows = new List<DBRow>();
+            
+            DBRow _row = null;
 
             using(_reader)
             {
-                while (_reader.Read())
+                while(_reader.HasRows)
                 {
-                    DBRow _row = null;
-
-                    for (int _i = 0; _i < _reader.FieldCount; _i++)
+                    while (_reader.Read())
                     {
-                        DBField _field = new DBField();
-                        _field.Name = _reader.GetName(_i);
-                        _field.Value = _reader.GetValue(_i);
-
-                        if (_field.Name == "tablename")
+                        if(_reader.FieldCount > 0)
                         {
-                            _row = new DBRow();
-                            __rows.Add(_row);
-                        }
+                            string _firstColumn = _reader.GetName(0);
 
-                        if (_row != null)
-                            _row.Add(_field);
-                        else
-                            throw new Exception("_row == null. Le champs 'tablename' n'aurait-il pas été trouvé en première position ?");
+                            for (int _i = 0; _i < _reader.FieldCount; _i++)
+                            {
+                                DBField _field = new DBField();
+                                _field.Name = _reader.GetName(_i);
+                                _field.Value = _reader.GetValue(_i);
+
+                                if (_field.Name == _firstColumn)
+                                {
+                                    _row = new DBRow();
+                                    __rows.Add(_row);
+                                }
+                                _row.Add(_field);
+                            }
+                        }
                     }
                     _reader.NextResult();
                 }

@@ -4,13 +4,8 @@ using CFL_1.CFL_System.DB;
 using CFL_1.CFLGraphics.GraphEditor;
 using CFL_1.CFLGraphics.MyControls.GraphEditor;
 using CFL_1.CFL_Data;
-using CFL_1.CFL_System;
-using System.Linq.Expressions;
-using System.Data.Entity;
-using System.Linq;
-using System.Threading.Tasks;
-using CFL_1.CFL_Data.Planings;
 using CFL_1.CFL_System.SqlServerOrm;
+using SqlOrm;
 
 namespace CFL_1.CFLGraphics
 {
@@ -70,7 +65,9 @@ namespace CFL_1.CFLGraphics
 
             DBContext_CFL dbContext = DBContext_CFL.instance;
             
-            _project = dbContext.Select<GraphProject>("*").Where("ProjectName = 'Configuration entreprise'").Include("ALL").First();
+            _project = new DBLoader<GraphProject>
+                (dbContext.Connection, dbContext).First
+                (new DBSelect<GraphProject>("*").Where("ProjectName = 'Configuration entreprise'"));
 
             if(_project != null)
             {

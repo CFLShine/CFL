@@ -2,7 +2,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace CFL_1.CFL_Data.Etat_civil
+namespace CFL_1.CFL_Data
 {
     public class Parent : Personne
     {

@@ -1,9 +1,8 @@
 ﻿
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using CFL_1.CFL_Data.Etat_civil;
 
-namespace CFL_1.CFL_Data.Defunts
+namespace CFL_1.CFL_Data
 {
     public class Defunt : Personne
     {

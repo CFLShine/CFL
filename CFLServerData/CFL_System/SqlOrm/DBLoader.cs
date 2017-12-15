@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Reflection;
 using MSTD;
 using MSTD.ShBase;
 
@@ -7,28 +8,33 @@ namespace SqlOrm
 {
     public class DBLoader<T> where T : Base, new()
     {
-        public DBLoader(DBSelect<T> _select)
+        public DBLoader(DBConnection connection, ShContext context)
         {
-            __select = _select;
+            Connection = connection;
+            Context = context;
         }
 
-        public DBConnection Connection
-        {
-            get => __select.Connection;
-        }
+        public DBConnection Connection { get; private set; }
+
+        public ShContext Context { get; private set; }
 
         #region Load
 
-        public List<T> ToList() 
+        public List<T> ToList(DBSelect select) 
         {
+            __select = select;
+
             Context.StartProcess();
+
             List<T> _list = new List<T>();
             string _initialQuery = InitialQuery();
+
             List<ClassProxy> _initials = Load(_initialQuery);
 
             foreach(ClassProxy _proxy in _initials)
                 _list.Add((T)_proxy.Entity);
             
+            // procède au chargement des membres objets ou listes d'objets.
             Include(_initials);
 
             Context.UpdateEntitiesValues();
@@ -37,22 +43,12 @@ namespace SqlOrm
             return _list;
         }
 
-        public T First() 
+        public T First(DBSelect select) 
         {
-            List<T> _list = ToList();
+            List<T> _list = ToList(select);
             if(_list.Count > 0)
                 return _list[0];
             return null;
-        }
-
-        public X LoadMother<X>() where X : Base, new()
-        {
-            T _child = First();
-            string _memberName = PropertyHelper.Property(typeof(T), typeof(X)).Name.ToLower();
-            string _columnName = SqlCSharp.ClassObjectMemberColumnName(typeof(T), _memberName);
-            DBSelect<X> _select = new DBSelect<X>(Context, Connection);
-            X _first = _select.Where(_columnName + " = '" + _child.ID.ToString() + "'").First();
-            return _first;
         }
 
         private List<ClassProxy> Load(string _query)
@@ -62,7 +58,7 @@ namespace SqlOrm
             DBReader _reader = new DBReader(Connection, _query);
             while(_reader.Read())
             {
-                ClassProxy _classProxy = Context.GetOrAttach(_reader.CurrentRow.GetTableName(), _reader.CurrentRow.GetId());
+                ClassProxy _classProxy = Context.GetOrAttach(_reader.CurrentRow.GetObjectType(), _reader.CurrentRow.GetId());
 
                 if(_classProxy.Entity == null)
                     _classProxy.CreateNewEntity();
@@ -81,59 +77,49 @@ namespace SqlOrm
 
         private string InitialQuery()
         {
-            string _members = SelectedMembers();
-            string _tableName = typeof(T).Name.ToLower();
-            
-            string _sqlSelect =  "SELECT " + _members +
-                       " FROM " + _tableName + " ";
-            if(!string.IsNullOrWhiteSpace(__select.WherePredicats))
-                    _sqlSelect += " WHERE " + __select.WherePredicats;
-            
-            return _sqlSelect + ";";
-        }
+            __select.AddSelect("id", "objectrepresentation");
 
-        private string SelectedMembers()
-        {
-            string _members = "id";
-            foreach(string _member in __select.SelectedMembers)
-            {
-                if(_member.ToLower() == "all" || _member == "*")
-                    return "*";
-                if(_member != "id")
-                {
-                    _members += ",";
-                    _members += _member;
-                }
-            }
-            return _members;
+            return __select.Query() + ";";
         }
 
         #endregion initial query
 
         #region Include
 
+        public DBLoader<T> IncludeCascade()
+        {
+            __includeCascade = true;
+            return this;
+        }
+        private bool __includeCascade = false;
+
         private void Include(List<ClassProxy> _initials)
         {
+            if(__select.SelectedMembers.Contains("*"))
+            {
+                IncludeCascade(_initials);
+                return;
+            }
+
             string _includeQuery = "";
 
+            PropertyProxy _prProxy = null;
             foreach(ClassProxy _initial in _initials)
             {
-                foreach(string _include in __select.Includeds)
+                foreach(string _s in __select.SelectedMembers)
                 {
-                    if(_include.ToLower() == "all")
-                    {
-                        _includeQuery = IncludeAllQuery(_initial);
-                        break;
-                    }
-                    else
-                        _includeQuery += IncludeQuery(_initial, _include);
+                    _prProxy = _initial.GetPropertyProxy(_s);
+                    if(_prProxy != null && _prProxy.IsObject)
+                        _includeQuery += IncludeQuery(_initial, _s);
                 }
             }
-            
+
             if(_includeQuery == "")
                 return;
             List<ClassProxy> _includeds = Load(_includeQuery);
-            IncludeCascade(_includeds);
+
+            if(__includeCascade)
+                IncludeCascade(_includeds);
         }
 
         private void IncludeCascade(List<ClassProxy> _proxies)
@@ -153,7 +139,7 @@ namespace SqlOrm
 
         private string IncludeQuery(ClassProxy _classProxy, string _memberName)
         {
-            PropertyProxy _prProxy = _classProxy.Property(_memberName);
+            PropertyProxy _prProxy = _classProxy.GetPropertyProxy(_memberName);
             if(_prProxy is PropertyObjectProxy _prObjectProxy)
                 return IncludeClassQuery(_prObjectProxy);
             else
@@ -168,11 +154,15 @@ namespace SqlOrm
             string _query = "";
             foreach(PropertyProxy _memberProxy in _classProxy.Properties())
             {
-                if(_memberProxy is PropertyObjectProxy _prObjectProxy)
-                    _query += IncludeClassQuery(_prObjectProxy);
+                if(_memberProxy.IsObject)
+                    _query += IncludeClassQuery((PropertyObjectProxy)_memberProxy);
                 else
-                if(_memberProxy is PropertyListProxy _prListProxy)
-                    _query += IncludeListQuery(_prListProxy);
+                if(_memberProxy.IsList)
+                {
+                    Type _itemsType = ((PropertyListProxy)_memberProxy).ItemsType;
+                    if(_itemsType == typeof(Base) || _itemsType.IsSubclassOf(typeof(Base)))
+                        _query += IncludeListQuery((PropertyListProxy)_memberProxy);
+                }
             }
             return _query;
         }
@@ -226,7 +216,7 @@ namespace SqlOrm
                 DBField _field = _row.GetField(_i);
                 string _propertyName = _field.PropertyName;
 
-                PropertyProxy _prProxy = _proxy.Property(_propertyName);
+                PropertyProxy _prProxy = _proxy.GetPropertyProxy(_propertyName);
 
                 if(_prProxy != null)
                 {
@@ -242,7 +232,7 @@ namespace SqlOrm
 
             if(_value is DBNull)
             {
-                if (Nullable.GetUnderlyingType(_prType) != null)
+                if (TypeHelper.IsNullable(_prType))
                     _prProxy.Value = null;
                 
                 else 
@@ -277,6 +267,10 @@ namespace SqlOrm
             if(_prProxy is PropertyListProxy _prListProxy)
                 _prListProxy.Parse((string)_value);
 
+            else 
+            if(_prProxy is PropertyEnumProxy _enumProxy)
+                _enumProxy.Value = _value;
+
             else
             if(_valueType != _prType)
             {
@@ -284,7 +278,7 @@ namespace SqlOrm
                     _prProxy.Value = Convert.ToDouble(_value);
                 else 
 
-                if (Nullable.GetUnderlyingType(_prType) != null)
+                if (TypeHelper.IsNullable(_prType))
                 {
                     if(_prType == typeof(bool?))
                         _prProxy.Value =  (bool?)_value;
@@ -301,7 +295,7 @@ namespace SqlOrm
                         if(_prType == typeof(decimal?))
                         _prProxy.Value = (decimal?)_value;
                     else
-                        if(_valueType == typeof(DateTime?))
+                        if(_prType == typeof(DateTime?))
                         _prProxy.Value = (DateTime?)_value;
                     else
                     if(_prType == typeof(TimeSpan?))
@@ -317,15 +311,7 @@ namespace SqlOrm
         }
 
         #endregion
-        
-        ShContext Context
-        {
-            get
-            {
-                return __select.Context;
-            }
-        }
 
-        private DBSelect<T> __select = null;
+        private DBSelect __select = null;
     }
 }

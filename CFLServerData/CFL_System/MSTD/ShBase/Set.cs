@@ -56,7 +56,7 @@ namespace MSTD.ShBase
         /// </summary>
         public void AddProxy(ClassProxy proxy)
         {
-            __proxies.Add(proxy);
+            __proxies[proxy.ID] = proxy;
         }
 
         public bool IsAttached(Base entity)
@@ -77,17 +77,14 @@ namespace MSTD.ShBase
 
         public ClassProxy GetProxy(Guid id)
         {
-            foreach( ClassProxy _proxy in __proxies)
-            {
-                if(_proxy != null && _proxy.ID == id)
-                    return _proxy;
-            }
-            return null;
+            ClassProxy _classProxy = null;
+            __proxies.TryGetValue(id, out _classProxy);
+            return _classProxy;
         }
 
         public IEnumerable<ClassProxy> GetProxies()
         {
-            foreach(ClassProxy _proxy in __proxies)
+            foreach(ClassProxy _proxy in __proxies.Values)
             {
                 yield return _proxy;
             }
@@ -95,14 +92,14 @@ namespace MSTD.ShBase
 
         public void UpdateEntities()
         {
-            foreach(ClassProxy _proxy in __proxies)
+            foreach(ClassProxy _proxy in __proxies.Values)
             {
                 if(_proxy != null)
                     _proxy.UpdateEntityValues();
             }
         }
 
-        private List<ClassProxy> __proxies = new List<ClassProxy>();
+        private Dictionary<Guid, ClassProxy> __proxies = new Dictionary<Guid, ClassProxy>();
     }
 
     public class Set<T> : Set where T : class
